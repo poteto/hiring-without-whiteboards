@@ -19,6 +19,7 @@ Please open a PR to be added.
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
+- [Alluvium](https://alluvium.io) | Brooklyn, NY | Take-home assignment, on-site review dovetailing into collaborative project planning for extension.
 - [Applied](https://www.beapplied.com) | London | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
 - [Agoda](https://careersatagoda.com/departments/technology/) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
 - [Apollo Agriculture](https://apolloagriculture.com/) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
