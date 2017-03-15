@@ -63,6 +63,7 @@ Please open a PR to be added.
 ## D - F
 - [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
 - [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK & Remote | Pair programming with team, project to work on at home
+- [Def Method](https://www.defmethod.com/) | NYC, NY | Take home test, pair programming with dev on test and client work, receive offer same day as pairing interview
 - [Deliveroo](https://deliveroo.co.uk/careers) | London, UK & Remote | Short take-home project and pair programming
 - [DG-i](https://www.dg-i.net/) | Cologne, Germany | Take-home project and/or discussion on-site about past experiences
 - [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
