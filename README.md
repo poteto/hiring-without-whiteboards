@@ -45,6 +45,7 @@ Please open a PR to be added.
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Elements Interactive](https://www.elements.nl/careers/) | Almere, The Netherlands & Barcelona, Spain | Take-home project & discussion via Skype or on-site
+- [Ellucian](https://www.ellucian.com/aboutus/careers/) | Reston, VA, USA | Discussion of real world problems (from resume, if possible)
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
