@@ -95,6 +95,7 @@ Please open a PR to be added.
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
+- [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote/) | Graz, Austria | Take-Home project, discussion on-site
 
 ## M - O
 - [MakeTime](https://maketime.workable.com/) | Lexington, KY | Practical exercise and/or a pairing session on site
