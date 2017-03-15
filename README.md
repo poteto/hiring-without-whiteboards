@@ -19,6 +19,7 @@ Please open a PR to be added.
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
+- [Bouvet](http://www.bouvet.no/) | Bergen, Norway | Pair programming with senior engineers
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 
