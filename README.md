@@ -47,6 +47,7 @@ Please open a PR to be added.
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
+- [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 
 ## V - X
 - replace me
