@@ -31,7 +31,7 @@ Please open a PR to be added.
 - [Badoo](https://team.badoo.com/jobs/) | London, UK | Take-home project, then a discussion onsite round.
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [BAE Systems Applied Intellignce](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
-- [BioConnect](https://www.bioconnect.com/company/careers/) | Toronto, Canada | Take-home assignment & discussion 
+- [BioConnect](https://www.bioconnect.com/company/careers/) | Toronto, Canada | Take-home assignment & discussion
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [blogfoster](https://github.com/blogfoster/join-the-engineering-team) | Berlin, Germany | Take-home project, discussion on-site
 - [Bluesoft](http://www.bluesoft.com.br/) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
@@ -72,7 +72,7 @@ Please open a PR to be added.
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [grandcentrix](https://www.grandcentrix.net/jobs/) | Cologne, Germany | Take-home project, discussion on-site
 - [Gusto](https://gusto.com/about/careers) | CA, CO
-- [Happy Team](https://happyteam.io/) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation 
+- [Happy Team](https://happyteam.io/) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation
 - [Hashrocket](https://hashrocket.com/) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
 - [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
 - [HelloFresh](https://www.hellofresh.com/jobs/) | Berlin, Germany | Take-home project, discussion via Skype or on-site
@@ -119,6 +119,7 @@ Please open a PR to be added.
 - [Quiet Light Communications](https://quietlightcom.com/positions-web.php) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
 - [Rapyuta Robotics](http://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
 - [Rakuten](https://jobs.rakuten.careers/careersection/rakuten_ext_cs/jobdetail.ftl?job=00000751&tz=GMT%2B09%3A00) | Tokyo, Japan | Discuss about relevant experience
+- [Reaktor](https://reaktor.com/careers) | New York, Amsterdam, Helsinki, Tokyo | Discussion, work samples from previous projects (work or hobby), take-home exercise if needed for further info
 
 ## S - U
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
