@@ -144,6 +144,7 @@ Please open a PR to be added.
 
 ## V - X
 - [Valuemotive](https://valuemotive.com/en/career/) | Helsinki, Finland | Code examples from previous projects (work or hobby)  or take-home exercise
+- [Varsity Tutors](https://www.varsitytutors.com/) | United States / Online / Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
 - [Visma e-conomic](https://www.e-conomic.dk/om/job) | Copenhagen, Denmark | Take home assignment, assignment presentation and discussion
 
 ## Y - \#
