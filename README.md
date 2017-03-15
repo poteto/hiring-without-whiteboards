@@ -101,6 +101,7 @@ Please open a PR to be added.
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
 ## J - L
+- [Jamasoftware](http://www.jamasoftware.com) | Portland, OR | Initial phone screen with hiring manager. In person pairing on project similar to day-to-day work with a separate cultural interview
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Koddi Inc.](http://www.koddi.com/open-positions/) | Fort Worth, TX | Phone Interview(s), take-home project, on-site interview
