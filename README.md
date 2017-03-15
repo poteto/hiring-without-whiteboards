@@ -146,6 +146,7 @@ Please open a PR to be added.
 - [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
 
 ## P - R
+- [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
 - [Pivotal Labs](https://pivotal.io/careers/engineering) | HQ: San Francisco, International | Remote Pairing, and full day on-site pairing
 - [Pluralsight](https://www.pluralsight.com/careers) | UT, CA, MA, FL | Takehome exercise & pair programming session
