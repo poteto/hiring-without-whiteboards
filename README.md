@@ -162,6 +162,7 @@ Please open a PR to be added.
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
+- [Toucan Toco](http://toucantoco.com/fr/team#jobs) | Paris, France | Pair-programming and TDD
 - [Trustpilot](https://jobs.trustpilot.com/) | Copenhagen, Denmark | Take-home project, code review and discussion on-site
 - [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome
 - [Untappd](https://www.untappd.com) | Wilmington, NC, NYC, LA | Review portfolio - What projects have you worked on? + personality assessment, + interview
