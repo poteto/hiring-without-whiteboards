@@ -96,6 +96,7 @@ Please open a PR to be added.
 - [HoxHunt](https://jobs.hoxhunt.com/) | Helsinki, Finland | Take-home project, pair programming on-site
 - [ImmobilienScout24](https://boards.greenhouse.io/scout24) | Berlin, Germany | Take-home project, discussion on-site
 - [Impraise](http://jobs.impraise.com) | Amsterdam, The Netherlands | Take home test, real world pair programming
+- [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
