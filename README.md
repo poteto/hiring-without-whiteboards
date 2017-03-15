@@ -1,5 +1,7 @@
 # Hiring without whiteboards
-A listing of companies (or teams within companies) that don't do typical, CS based whiteboard interviews. Open a PR to be added.
+A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" (physical or otherwise) interviews. Sites like [HackerRank](https://www.hackerrank.com/) _probably_ fall into that category (and won't be accepted). The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid takehome exercise.
+
+Please open a PR to be added.
 
 ### Format
 
@@ -15,7 +17,6 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## D - F
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
-- [drchrono](https://www.drchrono.com/careers/) | Mountain View, CA | Hackerrank test & on-site project
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
