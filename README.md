@@ -21,13 +21,20 @@ Please open a PR to be added.
 - [Agoda](https://careersatagoda.com/departments/technology/) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
 - [Apollo Agriculture](https://apolloagriculture.com/) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
+- [Adthena](http://adthena.com) | London, UK | Takehome  project and discussion on-site
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
+- [Articulate](https://articulate.com/company/careers) | 100% remote | Take-home project & pair program on a problem similar to daily work
+- [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers/) | Bellevue, WA / Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
+- [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | NYC | Take-home exercises and pair-programming with the team.
 - [Backbase](http://careers.backbase.com/) | Amsterdam, Cardiff, London, Atlanta | Takehome project, interviews
 - [Badoo](https://team.badoo.com/jobs/) | London, UK | Take-home project, then a discussion onsite round.
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
+- [BAE Systems Applied Intellignce](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
+- [BioConnect](https://www.bioconnect.com/company/careers/) | Toronto, Canada | Take-home assignment & discussion 
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [Bluesoft](http://www.bluesoft.com.br/) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
+- [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
 - [Bouvet](http://www.bouvet.no/) | Bergen, Norway | Pair programming with senior engineers
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 - [CASHLINK](https://cashlink.de) | Frankfurt, Germany | Skype/phone interview, take-home project
@@ -40,7 +47,9 @@ Please open a PR to be added.
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
 
 ## D - F
+- [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
 - [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK & Remote | Pair programming with team, project to work on at home
+- [Deliveroo](https://deliveroo.co.uk/careers) | London, UK & Remote | Short take-home project and pair programming
 - [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
 - [Draft Fantasy](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) | Tel Aviv, Israel | Talk about past experience and what the developer has actually built as well as pair programming or a programming exercise.
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
@@ -60,6 +69,7 @@ Please open a PR to be added.
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [grandcentrix](https://www.grandcentrix.net/jobs/) | Cologne, Germany | Take-home project, discussion on-site
 - [Gusto](https://gusto.com/about/careers) | CA, CO
+- [Happy Team](https://happyteam.io/) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation 
 - [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
 - [HelloFresh](https://www.hellofresh.com/jobs/) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
@@ -74,7 +84,10 @@ Please open a PR to be added.
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
 
 ## M - O
+- [MakeTime](https://maketime.workable.com/) | Lexington, KY | Practical exercise and/or a pairing session on site
 - [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
+- [Mercatus](https://www.mercatus.com/company/careers/) | Toronto, Canada | Practical on-site project similar to daily work
+- [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Nedap](http://lifeatnedap.com/vacatures/) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
@@ -86,6 +99,7 @@ Please open a PR to be added.
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
+- [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
 - [the Outline](https://boards.greenhouse.io/theoutline) | NYC | Take-home excercise
 
 ## P - R
@@ -96,6 +110,7 @@ Please open a PR to be added.
 - [Pragma Team](https://pragma.team/talent) | Sydney AU | Engineering Consultancy And Delivery - Takehome exercise & discussion 
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 - [Pusher](https://pusher.com/jobs) | London, UK | Solve a real-world problem through a design session with our engineers
+- [Quiet Light Communications](https://quietlightcom.com/positions-web.php) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
 
 ## S - U
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
@@ -103,16 +118,23 @@ Please open a PR to be added.
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
 - [Simpli.fi](https://www.simpli.fi/about-us/careers/) | Fort Worth, TX, USA | Takehome code challenge and review
+- [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project related to business
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
+- [StreetTeam](https://getstreetteam.com/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
 - [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome
+- [Untappd](https://www.untappd.com) | Wilmington, NC, NYC, LA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [uSwitch](https://www.uswitch.com/vacancies/) | London, UK | Take-home project related to our business area, followed by pairing with developers to extend it
 
 ## V - X
+- [Valuemotive](https://valuemotive.com/en/career/) | Helsinki, Finland | Code examples from previous projects (work or hobby)  or take-home exercise
 - [Visma e-conomic](https://www.e-conomic.dk/om/job) | Copenhagen, Denmark | Take home assignment, assignment presentation and discussion
 
 ## Y - \#
 - [8th Light](https://8thlight.com/) | Chicago, London, Los Angeles, New York | Take home code challenge, discussion, pair programming session
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
+
+## Also see:
+- [They Whiteboarded Me!](http://they.whiteboarded.me/)
