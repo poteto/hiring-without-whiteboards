@@ -31,7 +31,7 @@ Please open a PR to be added.
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
-- [Formidable Labs](https://www.fogcreek.com/careers) | Seattle, London, Remote | Take-home project, remote pair programming, discussion on-site or remote
+- [Formidable Labs](https://www.formidable.com/careers) | Seattle, London, Remote | Take-home project, remote pair programming, discussion on-site or remote
 ## G - I
 - [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
