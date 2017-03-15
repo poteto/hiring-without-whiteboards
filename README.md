@@ -40,8 +40,9 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 
 ## S - U
-- [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
+- [Slack](https://slack.com/jobs) | San Francisco, CA
+- [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 
 ## V - X
 - replace me
