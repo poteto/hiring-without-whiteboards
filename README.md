@@ -15,6 +15,7 @@ Please open a PR to be added.
 
 ## A - C
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
+- [Applied](https://www.beapplied.com) | London | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
 - [Apollo Agriculture](https://apolloagriculture.com/) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
