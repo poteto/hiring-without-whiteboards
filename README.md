@@ -22,6 +22,7 @@ Please open a PR to be added.
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 
 ## D - F
+- [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
