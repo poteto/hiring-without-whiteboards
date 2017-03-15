@@ -14,6 +14,7 @@ Please open a PR to be added.
 ```
 
 ## A - C
+- [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
 - [Applied](https://www.beapplied.com) | London | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
