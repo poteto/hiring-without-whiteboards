@@ -66,6 +66,7 @@ Please open a PR to be added.
 ## P - R
 - [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
+- [Pragma Team](https://pragma.team/talent) | Sydney AU | Engineering Consultancy And Delivery - Takehome exercise & discussion 
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 
 ## S - U
