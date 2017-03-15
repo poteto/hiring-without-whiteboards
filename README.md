@@ -131,6 +131,7 @@ Please open a PR to be added.
 - [ReSpark](https://www.respark.co.uk) | London, UK | Phone conversation followed by on-site interview w/ task relevant to daily role.
 
 ## S - U
+- [Sahaj Software Solutions](https://www.sahajsoft.com/) | Bangalore & Chennai (India), San Jose (USA) | Take home code + Pairing + Discussion
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
 - [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
 - [Slack](https://slack.com/jobs) | San Francisco, CA
