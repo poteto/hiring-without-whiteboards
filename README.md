@@ -79,7 +79,6 @@ Please open a PR to be added.
 
 ## M - O
 - [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
-- [Mercatus](https://www.mercatus.com/company/careers/) | Toronto, Canada | Practical on-site project similar to daily work
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Nedap](http://lifeatnedap.com/vacatures/) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
@@ -91,7 +90,7 @@ Please open a PR to be added.
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
-- [the Outline](https://boards.greenhouse.io/theoutline) | NYC | Take-home excercise
+- [The Outline](https://boards.greenhouse.io/theoutline) | NYC | Take-home excercise
 
 ## P - R
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
