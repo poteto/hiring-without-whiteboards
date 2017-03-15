@@ -53,6 +53,7 @@ Please open a PR to be added.
 - [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
 - [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK & Remote | Pair programming with team, project to work on at home
 - [Deliveroo](https://deliveroo.co.uk/careers) | London, UK & Remote | Short take-home project and pair programming
+- [devartis](http://www.devartis.com) | Buenos Aires, Argentina | On-site programming exercises (algorithm and OOP) follow by review/discussion. Candidates chooses programming language and tools to work with.
 - [DG-i](https://www.dg-i.net/) | Cologne, Germany | Take-home project and/or discussion on-site about past experiences
 - [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
 - [Draft Fantasy](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) | Tel Aviv, Israel | Talk about past experience and what the developer has actually built as well as pair programming or a programming exercise.
