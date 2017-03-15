@@ -14,6 +14,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## D - F
 - [drchrono](https://www.drchrono.com/careers/) | Mountain View, CA | Hackerrank test & on-site project
+- [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 
