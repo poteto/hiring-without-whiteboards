@@ -17,6 +17,7 @@ Please open a PR to be added.
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
 - [Apollo Agriculture](https://apolloagriculture.com/) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
+- [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
