@@ -123,6 +123,7 @@ Please open a PR to be added.
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
 - [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome
+- [Untappd](https://www.untappd.com) | Wilmington, NC, NYC, LA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [uSwitch](https://www.uswitch.com/vacancies/) | London, UK | Take-home project related to our business area, followed by pairing with developers to extend it
 
 ## V - X
