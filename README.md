@@ -27,6 +27,7 @@ Please open a PR to be added.
 - [Badoo](https://team.badoo.com/jobs/) | London, UK | Take-home project, then a discussion onsite round.
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
+- [blogfoster](https://github.com/blogfoster/join-the-engineering-team) | Berlin, Germany | Take-home project, discussion on-site
 - [Bluesoft](http://www.bluesoft.com.br/) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
 - [Bouvet](http://www.bouvet.no/) | Bergen, Norway | Pair programming with senior engineers
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
@@ -80,7 +81,7 @@ Please open a PR to be added.
 - [Nedap](http://lifeatnedap.com/vacatures/) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
-- [Nimbl3](https://www.workhiro.com/companies/nimbl3) | Bangkok/On-site | Takehome exercise and specific role discussion 
+- [Nimbl3](https://www.workhiro.com/companies/nimbl3) | Bangkok/On-site | Takehome exercise and specific role discussion
 - [Niteoweb](http://www.niteoweb.com/careers) | Ljubljana, Slovenia | Join us for a week to see if we fit
 - [Nomoko,camera](https://www.nomoko.world/jobs) | Zurich, Switzerland | Three interrogations
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
@@ -93,7 +94,7 @@ Please open a PR to be added.
 - [Pluralsight](https://www.pluralsight.com/careers) | UT, CA, MA, FL | Takehome exercise & pair programming session
 - [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
-- [Pragma Team](https://pragma.team/talent) | Sydney AU | Engineering Consultancy And Delivery - Takehome exercise & discussion 
+- [Pragma Team](https://pragma.team/talent) | Sydney AU | Engineering Consultancy And Delivery - Takehome exercise & discussion
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 - [Pusher](https://pusher.com/jobs) | London, UK | Solve a real-world problem through a design session with our engineers
 
