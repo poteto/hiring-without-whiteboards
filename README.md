@@ -43,6 +43,7 @@ Please open a PR to be added.
 ## S - U
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
+- [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 
 ## V - X
 - replace me
