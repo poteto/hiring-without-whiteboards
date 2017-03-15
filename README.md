@@ -45,6 +45,7 @@ Please open a PR to be added.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
 - [City of Philadelphia's Office of Open Data & Digital Transformation](https://beta.phila.gov/departments/office-of-open-data-and-digital-transformation/jobs/) | Philadelphia, PA | Take-home project
+- [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences. 
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
@@ -53,7 +54,6 @@ Please open a PR to be added.
 - [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
 - [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK & Remote | Pair programming with team, project to work on at home
 - [Deliveroo](https://deliveroo.co.uk/careers) | London, UK & Remote | Short take-home project and pair programming
-- [devartis](http://www.devartis.com) | Buenos Aires, Argentina | On-site programming exercises (algorithm and OOP) follow by review/discussion. Candidates chooses programming language and tools to work with.
 - [DG-i](https://www.dg-i.net/) | Cologne, Germany | Take-home project and/or discussion on-site about past experiences
 - [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
 - [Draft Fantasy](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) | Tel Aviv, Israel | Talk about past experience and what the developer has actually built as well as pair programming or a programming exercise.
@@ -90,7 +90,6 @@ Please open a PR to be added.
 ## J - L
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
-- [Kabisa](https://www.kabisa.nl/werken-bij/) | Amsterdam/Weert, The Netherlands | Take-home mini-project, pair program additional features
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
@@ -99,7 +98,6 @@ Please open a PR to be added.
 - [MakeTime](https://maketime.workable.com/) | Lexington, KY | Practical exercise and/or a pairing session on site
 - [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
 - [Mercatus](https://www.mercatus.com/company/careers/) | Toronto, Canada | Practical on-site project similar to daily work
-- [Mesosphere](https://mesosphere.com/careers/) | San Francisco, Hamburg, remote | Take-home coding exercise, practical design questions and pair programming on real systems problems on-site
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
 - [Mutually Human Software](https://www.mutuallyhuman.com) | MI, OH, WA | Collaborative problem analysis and design exercise, pairing exercise
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
