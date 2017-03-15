@@ -1,5 +1,7 @@
 # Hiring without whiteboards
-A listing of companies (or teams within companies) that don't do typical, CS based whiteboard interviews. Open a PR to be added.
+A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" (physical or otherwise) interviews. Sites like [HackerRank](https://www.hackerrank.com/) _probably_ fall into that category (and won't be accepted). The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid takehome exercise.
+
+Please open a PR to be added.
 
 ### Format
 
@@ -15,7 +17,6 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## D - F
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
-- [drchrono](https://www.drchrono.com/careers/) | Mountain View, CA | Hackerrank test & on-site project
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
@@ -25,6 +26,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [Gusto](https://gusto.com/about/careers) | CA, CO
 - [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
+- [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
 
 ## J - L
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
@@ -33,6 +35,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
+- [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
 
 ## P - R
@@ -40,6 +43,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 
 ## S - U
+- [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
 - [Shopify](https://www.shopify.com/careers) | Canada
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
