@@ -46,6 +46,7 @@ Please open a PR to be added.
 - [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
+- [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 
 ## V - X
 - replace me
