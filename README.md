@@ -11,7 +11,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [Abstract](https://angel.co/abstract/jobs)
 
 ## D - F
-- replace me
+- [Fitbot](https://thefitbot.com/careers.html) | Pairing & writing code with the founders for a few hours
 
 ## G - I
 - [Gusto](https://gusto.com/about/careers)
