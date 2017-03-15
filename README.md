@@ -42,7 +42,7 @@ Please open a PR to be added.
 - [Bluesoft](http://www.bluesoft.com.br/) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
 - [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
 - [Bouvet](http://www.bouvet.no/) | Bergen, Norway | Pair programming with senior engineers
-- [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
+- [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA | Take home exercise, and systems design.
 - [CASHLINK](https://cashlink.de) | Frankfurt, Germany | Skype/phone interview, take-home project
 - [Canva](https://about.canva.com/careers/) | Sydney, Australia | Takehome project, then a pair-programming onsite (or Skype) round.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
