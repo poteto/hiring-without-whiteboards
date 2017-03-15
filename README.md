@@ -44,6 +44,7 @@ Please open a PR to be added.
 - [Canva](https://about.canva.com/careers/) | Sydney, Australia | Takehome project, then a pair-programming onsite (or Skype) round.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
+- [Checkout 51](https://checkout51.com.com/jobs) | Toronto, Canada | Phone conversation [15-20 minutes] followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
 - [City of Philadelphia's Office of Open Data & Digital Transformation](https://beta.phila.gov/departments/office-of-open-data-and-digital-transformation/jobs/) | Philadelphia, PA | Take-home project
 - [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences. 
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
