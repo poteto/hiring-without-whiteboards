@@ -1,5 +1,9 @@
 # Hiring without whiteboards
-A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" (physical or otherwise) interviews. Sites like [HackerRank](https://www.hackerrank.com/) _probably_ fall into that category (and won't be accepted). The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid takehome exercise.
+A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" interviews. Using sites like [HackerRank](https://www.hackerrank.com/) _probably_ fall into that category and won't be accepted. The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid takehome exercise. 
+
+### tl;dr
+- Discussing a real world problem with the help of a whiteboard is 👍
+- Solving basic CS questions, technical puzzles, brainteasers (with or without whiteboard) is 👎
 
 Please open a PR to be added.
 
