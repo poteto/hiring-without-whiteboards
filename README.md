@@ -9,6 +9,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## A - C
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
+- [Apollo Agriculture](https://apolloagriculture.com/) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 
