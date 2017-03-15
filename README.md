@@ -18,7 +18,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [Gusto](https://gusto.com/about/careers)
 
 ## J - L
-- [Listium](https://listium/jobs) | Design and code proof of concept features with the team
+- [Listium](https://listium.com/jobs) | Design and code proof of concept features with the team
 
 ## M - O
 - [numer.ai](https://angel.co/numerai/jobs)
