@@ -65,6 +65,7 @@ Please open a PR to be added.
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
 
 ## M - O
+- [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Nedap](http://lifeatnedap.com/vacatures/) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
