@@ -31,6 +31,7 @@ Please open a PR to be added.
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
+- [Founders](https://founders.as/joinus) | Copenhagen, Denmark | Take Home project + Interviews
 
 ## G - I
 - [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
