@@ -5,6 +5,8 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - Discussing a real world problem with the help of a whiteboard is 👍
 - Solving basic CS questions, technical puzzles, brainteasers (with or without whiteboard) is 👎
 
+[![](https://i.imgur.com/xJV6cF4.png)](https://twitter.com/dhh/status/834146806594433025?lang=en)
+
 Please open a PR to be added.
 
 ### Format
