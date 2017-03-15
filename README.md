@@ -97,6 +97,7 @@ Please open a PR to be added.
 - [MakeTime](https://maketime.workable.com/) | Lexington, KY | Practical exercise and/or a pairing session on site
 - [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
 - [Mercatus](https://www.mercatus.com/company/careers/) | Toronto, Canada | Practical on-site project similar to daily work
+- [Mesosphere](https://mesosphere.com/careers/) | San Francisco, Hamburg, remote | Take-home coding exercise, practical design questions and pair programming on real systems problems on-site
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
 – [Mutually Human Software](https://www.mutuallyhuman.com) | MI, OH, WA | Collaborative problem analysis and design exercise, Pairing exercise
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
