@@ -27,6 +27,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [Opendoor](https://www.opendoor.com/jobs) | Pairing & systems design
 
 ## P - R
+- [Popstand](http://www.popstand.com) | Build MVPs for startups
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Pairing with different engineers on a real problem
 
 ## S - U
