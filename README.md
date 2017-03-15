@@ -178,6 +178,7 @@ Please open a PR to be added.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers/) | Fort Worth, TX, USA | Takehome code challenge and review
 - [Sixt4.io](http://sixt4.io/jobs/) | Toronto, On, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Social Tables](http://www.socialtables.com) | Washington D.C. | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
+- [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project [related to business](https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html)
 - [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
