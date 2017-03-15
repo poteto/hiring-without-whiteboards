@@ -96,6 +96,7 @@ Please open a PR to be added.
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
+- [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
 - [the Outline](https://boards.greenhouse.io/theoutline) | NYC | Take-home excercise
 
 ## P - R
