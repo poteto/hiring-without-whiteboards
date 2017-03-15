@@ -48,6 +48,7 @@ Please open a PR to be added.
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 
 ## M - O
+- [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
