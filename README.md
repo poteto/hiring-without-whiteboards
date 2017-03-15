@@ -39,6 +39,7 @@ Please open a PR to be added.
 ## P - R
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
+- [Readify](https://join.readify.net/?source=StaffReferral&campaign=geoffrey.huntley) | Sydney/Brisbane/Melbourne/Perth, Australia | Apply to by solving our REST API puzzle at your own leisure, passing this tells us that you can solve a difficult technical problem. Pass this and one of our consultants will automatically reach out to setup an interview. Readify's roles, skills, expectations, behaviours and promotion guidelines are documented in a [public GitHub repository](https://github.com/Readify/madskillz). _Pro-tip: read the pull-requests!_
 
 ## S - U
 - [Slack](https://slack.com/jobs) | San Francisco, CA
