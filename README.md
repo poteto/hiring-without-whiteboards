@@ -16,6 +16,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 ## G - I
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [Gusto](https://gusto.com/about/careers) | CA, CO
+- [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
 
 ## J - L
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
