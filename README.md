@@ -13,6 +13,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 
 ## D - F
+- [drchrono](https://www.drchrono.com/careers/) | Mountain View, CA | Hackerrank test & on-site project
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 
