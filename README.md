@@ -1,5 +1,5 @@
 # Hiring without whiteboards
-A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" interviews. Using sites like [HackerRank](https://www.hackerrank.com/) _probably_ fall into that category and won't be accepted. The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid takehome exercise. 
+A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" interviews. Using sites like [HackerRank](https://www.hackerrank.com/) _probably_ fall into that category and won't be accepted. The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid takehome exercise.
 
 ### tl;dr
 - Discussing a real world problem with the help of a whiteboard is 👍
@@ -24,6 +24,7 @@ Please open a PR to be added.
 
 ## D - F
 - [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK & Remote | Pair programming with team, project to work on at home
+- [DG-i](https://www.dg-i.net/) | Cologne, Germany | Take-home project and/or discussion on-site about past experiences
 - [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
@@ -69,7 +70,7 @@ Please open a PR to be added.
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
-- [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome 
+- [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome
 - [uSwitch](https://www.uswitch.com/vacancies/) | London, UK | Take-home project related to our business area, followed by pairing with developers to extend it
 
 ## V - X
