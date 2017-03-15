@@ -52,6 +52,7 @@ Please open a PR to be added.
 - [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences.
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
+- [Couchsurfing](https://www.couchsurfing.com/) | San Francisco, CA | International travel and hospitality network
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
 
