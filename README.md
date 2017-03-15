@@ -197,7 +197,7 @@ Please open a PR to be added.
 - [Unbounce](https://unbounce.com) | Vancouver, BC | Phone screen, take-home project, project discussion, technical interview
 - [Untappd](https://www.untappd.com) | Wilmington, NC, NYC, LA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [Unearth](http://www.unearthlabs.com/careers/) | Seattle, WA | Take home project, team-fit interviews, technical discussion
-- [UserTesting](https://www.usertesting.com/about-us/jobs) | San Francisco/Mountain View, CA | Initial interview, pair programming, and offer
+- [UserTesting](https://www.usertesting.com/about-us/jobs) | Atlanta, GA; San Francisco/Mountain View, CA | Initial interview, pair programming, and offer
 - [uSwitch](https://www.uswitch.com/vacancies/) | London, UK | Take-home project related to our business area, followed by pairing with developers to extend it
 
 ## V - X
