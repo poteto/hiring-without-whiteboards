@@ -37,6 +37,7 @@ Please open a PR to be added.
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
 - [HoxHunt](https://jobs.hoxhunt.com/) | Helsinki, Finland | Take-home project, pair programming on-site
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
+- [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
 ## J - L
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
