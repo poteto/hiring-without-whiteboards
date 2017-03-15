@@ -55,6 +55,7 @@ Please open a PR to be added.
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
+- [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
 
 ## P - R
 - [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
