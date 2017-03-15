@@ -48,6 +48,7 @@ Please open a PR to be added.
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 
 ## M - O
+- [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
