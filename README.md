@@ -31,6 +31,7 @@ Please open a PR to be added.
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | NYC | Take-home exercises and pair-programming with the team.
 - [Backbase](http://careers.backbase.com/) | Amsterdam, Cardiff, London, Atlanta | Takehome project, interviews
 - [Badoo](https://team.badoo.com/jobs/) | London, UK | Take-home project, then a discussion onsite round.
+- [Balabit](https://career.balabit.com/) | Budapest, Hungary | Take-home project (medium size, with restrictions, e.g. only stdlib may be used), then discussion on-site
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
 - [BioConnect](https://www.bioconnect.com/company/careers/) | Toronto, Canada | Take-home assignment & discussion 
@@ -64,6 +65,7 @@ Please open a PR to be added.
 - [Eidu](http://eidu.com/) | Berlin, Germany | Take-home project, discussion of results with team, and test days with pair programming
 - [Elements Interactive](https://www.elements.nl/careers/) | Almere, The Netherlands & Barcelona, Spain | Take-home project & discussion via Skype or on-site
 - [Ellucian](https://www.ellucian.com/aboutus/careers/) | Reston, VA, USA | Discussion of real world problems (from resume, if possible)
+- [Emarsys](https://www.emarsys.com/) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
