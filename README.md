@@ -9,6 +9,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## A - C
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
+- [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 
 ## D - F
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
