@@ -136,6 +136,7 @@ Please open a PR to be added.
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
 - [Netlify](https://www.netlify.com/careers/) | San Francisco, CA | Paid takehome project and online/onsite discussion
+- [New Relic](https://newrelic.com/about/careers) | San Francisco, CA | Takehome exercise &/ or pair programming session depending on the team
 - [Nimbl3](https://www.workhiro.com/companies/nimbl3) | Bangkok/On-site | Takehome exercise and specific role discussion
 - [Niteoweb](http://www.niteoweb.com/careers) | Ljubljana, Slovenia | Join us for a week to see if we fit
 - [Nomoko,camera](https://www.nomoko.world/jobs) | Zurich, Switzerland | Three interrogations
@@ -177,8 +178,8 @@ Please open a PR to be added.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers/) | Fort Worth, TX, USA | Takehome code challenge and review
 - [Sixt4.io](http://sixt4.io/jobs/) | Toronto, On, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Social Tables](http://www.socialtables.com) | Washington D.C. | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
-- [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project related to business
 - [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
+- [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project [related to business](https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html)
 - [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [StreetTeam](https://getstreetteam.com/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
