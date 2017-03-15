@@ -105,7 +105,6 @@ Please open a PR to be added.
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
-- [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote/) | Graz, Austria | Take-Home project, discussion on-site
 
 ## M - O
 - [MakeTime](https://maketime.workable.com/) | Lexington, KY | Practical exercise and/or a pairing session on site
@@ -116,7 +115,6 @@ Please open a PR to be added.
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
 - [Mutually Human Software](https://www.mutuallyhuman.com) | MI, OH, WA | Collaborative problem analysis and design exercise, pairing exercise
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
-- [NodeSource](http://nodesource.com/careers) | _Remote First_ | A person-to–person walk through of a past project of yours
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Nedap](http://lifeatnedap.com/vacatures/) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
