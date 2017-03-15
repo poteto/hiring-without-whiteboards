@@ -133,6 +133,7 @@ Please open a PR to be added.
 - [Shopify](https://www.shopify.com/careers) | Canada
 - [Simpli.fi](https://www.simpli.fi/about-us/careers/) | Fort Worth, TX, USA | Takehome code challenge and review
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project related to business
+- [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [StreetTeam](https://getstreetteam.com/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
 - [SweetIQ](https://sweetiq.com/about/careers/) | Montreal, Canada | Discussion and general, high level questions
