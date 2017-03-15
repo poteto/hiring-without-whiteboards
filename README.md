@@ -104,6 +104,7 @@ Please open a PR to be added.
 - [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
+- [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project related to business
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
