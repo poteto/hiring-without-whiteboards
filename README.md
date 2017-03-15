@@ -24,7 +24,6 @@ Please open a PR to be added.
 
 ## D - F
 - [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK & Remote | Pair programming with team, project to work on at home
-- [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Elements Interactive](https://www.elements.nl/careers/) | Almere, The Netherlands & Barcelona, Spain | Take-home project & discussion via Skype or on-site
@@ -33,7 +32,6 @@ Please open a PR to be added.
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
 
 ## G - I
-- [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [Gusto](https://gusto.com/about/careers) | CA, CO
 - [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
@@ -41,10 +39,8 @@ Please open a PR to be added.
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
 - [HoxHunt](https://jobs.hoxhunt.com/) | Helsinki, Finland | Take-home project, pair programming on-site
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
-- [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
 ## J - L
-- [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 
 ## M - O
