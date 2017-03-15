@@ -44,6 +44,7 @@ Please open a PR to be added.
 - [HelloFresh](https://www.hellofresh.com/jobs/) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
 - [HoxHunt](https://jobs.hoxhunt.com/) | Helsinki, Finland | Take-home project, pair programming on-site
+- [ImmobilienScout24](https://boards.greenhouse.io/scout24) | Berlin, Germany | Take-home project, discussion on-site
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
