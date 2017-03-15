@@ -21,9 +21,9 @@ Please open a PR to be added.
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
+- [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
 
 ## D - F
-- [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
 - [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK & Remote | Pair programming with team, project to work on at home
 - [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
