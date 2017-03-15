@@ -61,6 +61,7 @@ Please open a PR to be added.
 ## J - L
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
+- [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
 
 ## M - O
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
