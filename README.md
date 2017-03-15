@@ -41,6 +41,7 @@ Please open a PR to be added.
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 
 ## S - U
+- [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
 
