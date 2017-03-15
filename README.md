@@ -85,6 +85,7 @@ Please open a PR to be added.
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
 
 ## P - R
+- [Pluralsight](https://www.pluralsight.com/careers) | UT, CA, MA, FL | Takehome exercise & pair programming session
 - [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
 - [Pragma Team](https://pragma.team/talent) | Sydney AU | Engineering Consultancy And Delivery - Takehome exercise & discussion 
