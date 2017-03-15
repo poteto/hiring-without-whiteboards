@@ -8,6 +8,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 ```
 
 ## A - C
+- [AgileMD](https://angel.co/agilemd/jobs) | Takehome project
 - [Abstract](https://angel.co/abstract/jobs)
 
 ## D - F
