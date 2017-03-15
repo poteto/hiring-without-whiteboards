@@ -26,6 +26,7 @@ Please open a PR to be added.
 - [Gusto](https://gusto.com/about/careers) | CA, CO
 - [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
+- [HoxHunt](https://jobs.hoxhunt.com/) | Helsinki, Finland | Take-home project, pair programming on-site
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
 
 ## J - L
@@ -46,8 +47,6 @@ Please open a PR to be added.
 - [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
-- [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
-- [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 
 ## V - X
 - replace me
