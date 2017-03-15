@@ -78,6 +78,7 @@ Please open a PR to be added.
 - [Nedap](http://lifeatnedap.com/vacatures/) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
+- [Nimbl3](https://www.workhiro.com/companies/nimbl3) | Bangkok/On-site | Takehome exercise and specific role discussion 
 - [Niteoweb](http://www.niteoweb.com/careers) | Ljubljana, Slovenia | Join us for a week to see if we fit
 - [Nomoko,camera] (https://www.nomoko.world/jobs) | Zurich, Switzerland | Three interrogations
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
