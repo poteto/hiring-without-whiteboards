@@ -35,6 +35,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## S - U
 - [Slack](https://slack.com/jobs) | San Francisco, CA
+- [Shopify](https://www.shopify.com/careers) | Canada
 
 ## V - X
 - replace me
