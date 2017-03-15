@@ -8,7 +8,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 ```
 
 ## A - C
-- replace me
+- [Abstract](https://angel.co/abstract/jobs)
 
 ## D - F
 - replace me
