@@ -76,6 +76,7 @@ Please open a PR to be added.
 - [Formidable Labs](https://www.formidable.com/careers) | Seattle, London, Remote | Take-home project, remote pair programming, discussion on-site or remote
 - [Fooji](https://fooji.com) | Lexington, KY, remote | Take-home project
 - [Founders](https://founders.as/joinus) | Copenhagen, Denmark | Take Home project + Interviews
+- [fournova](https://www.fournova.com/jobs) | Remote | Take-home project, discussion via video call
 - [FreeAgent](https://www.freeagent.com/company/careers/) | Edinburgh, UK | Take-home project, pair programming, discussion and interviews
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
 
