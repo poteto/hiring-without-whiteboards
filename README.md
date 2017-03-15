@@ -14,6 +14,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 - [Fitbot](https://thefitbot.com/careers.html) | Pairing & writing code with the founders for a few hours
 
 ## G - I
+- [GoDaddy](https://www.godaddy.com/careers/overview) | Pair programming with senior engineers
 - [Gusto](https://gusto.com/about/careers)
 
 ## J - L
