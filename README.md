@@ -29,6 +29,7 @@ Please open a PR to be added.
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
 - [Articulate](https://articulate.com/company/careers) | 100% remote | Take-home project & pair program on a problem similar to daily work
 - [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
+- [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers/) | Bellevue, WA / Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | NYC | Take-home exercises and pair-programming with the team.
 - [Backbase](http://careers.backbase.com/) | Amsterdam, Cardiff, London, Atlanta | Takehome project, interviews
