@@ -189,6 +189,7 @@ Please open a PR to be added.
 - [SysGarage](http://sysgarage.com/) | Buenos Aires, Argentina | Take-home project and real world pair programming
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
+- [Telus Digital](https://labs.telus.com) | Toronto, Canada | Discuss knowledge and interest, explore previous work, pair with developers when possible, alternatively take home project.
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
 - [Toucan Toco](http://toucantoco.com/fr/team#jobs) | Paris, France | Pair-programming and TDD
