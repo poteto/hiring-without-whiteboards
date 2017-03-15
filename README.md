@@ -1,2 +1,30 @@
-# hiring-without-whiteboards
-A listing of companies that don't do typical CS based whiteboard interviews
+# Hiring without whiteboards
+A listing of companies (or teams within companies) that don't do typical, CS based whiteboard interviews. Open a PR to be added.
+
+## A - C
+- replace me
+
+## D - F
+- replace me
+
+## G - I
+- [Gusto](https://gusto.com/about/careers)
+
+## J - L
+- replace me
+
+## M - O
+- [numer.ai](https://angel.co/numerai/jobs)
+- [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237)
+
+## P - R
+- replace me
+
+## S - U
+- [Slack](https://slack.com/jobs)
+
+## V - X
+- replace me
+
+## Y - \#
+- replace me
