@@ -22,7 +22,7 @@ Please open a PR to be added.
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 
 ## D - F
-- [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK & Remote | Pair programming with team, project to work on at home
+- [DataCentred](http://www.datacentred.co.uk/careers/) | Manchester, UK
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
@@ -45,9 +45,9 @@ Please open a PR to be added.
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
-- [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
+- [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together. 
 
 ## P - R
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
