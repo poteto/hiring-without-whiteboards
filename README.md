@@ -34,7 +34,7 @@ Please open a PR to be added.
 - [Balabit](https://career.balabit.com/) | Budapest, Hungary | Take-home project (medium size, with restrictions, e.g. only stdlib may be used), then discussion on-site
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
-- [BioConnect](https://www.bioconnect.com/company/careers/) | Toronto, Canada | Take-home assignment & discussion 
+- [BioConnect](https://www.bioconnect.com/company/careers/) | Toronto, Canada | Take-home assignment & discussion
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [blogfoster](https://github.com/blogfoster/join-the-engineering-team) | Berlin, Germany | Take-home project, discussion on-site
 - [Bluesoft](http://www.bluesoft.com.br/) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
@@ -47,7 +47,7 @@ Please open a PR to be added.
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
 - [Checkout 51](https://checkout51.com.com/jobs) | Toronto, Canada | Phone conversation [15-20 minutes] followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
 - [City of Philadelphia's Office of Open Data & Digital Transformation](https://beta.phila.gov/departments/office-of-open-data-and-digital-transformation/jobs/) | Philadelphia, PA | Take-home project
-- [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences. 
+- [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences.
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
@@ -82,7 +82,7 @@ Please open a PR to be added.
 - [Gramercy Tech](http://www.gramercytech.com/) | New York, NY | Pair programming & discussion on-site
 - [grandcentrix](https://www.grandcentrix.net/jobs/) | Cologne, Germany | Take-home project, discussion on-site
 - [Gusto](https://gusto.com/about/careers) | CA, CO
-- [Happy Team](https://happyteam.io/) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation 
+- [Happy Team](https://happyteam.io/) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation
 - [Hashrocket](https://hashrocket.com/) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
 - [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
 - [HelloFresh](https://www.hellofresh.com/jobs/) | Berlin, Germany | Take-home project, discussion via Skype or on-site
@@ -97,6 +97,7 @@ Please open a PR to be added.
 ## J - L
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
+- [Koddi Inc.](http://www.koddi.com/open-positions/) | Fort Worth, TX | Phone Interview(s), take-home project, on-site interview
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
