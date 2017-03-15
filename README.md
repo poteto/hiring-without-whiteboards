@@ -54,6 +54,7 @@ Please open a PR to be added.
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
 
 ## P - R
+- [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 
