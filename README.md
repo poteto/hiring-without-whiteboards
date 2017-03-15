@@ -48,6 +48,7 @@ Please open a PR to be added.
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
+- [Fooji](https://fooji.com) | Lexington, KY, remote | Take-home project
 - [Founders](https://founders.as/joinus) | Copenhagen, Denmark | Take Home project + Interviews
 
 ## G - I
