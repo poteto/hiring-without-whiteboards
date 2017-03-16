@@ -238,6 +238,7 @@ Please open a PR to be added.
 - [Venminder, Inc.](https://www.venminder.com) | Elizabethtown/Louisville, KY, USA | Initial phone screen to explain position. If candidate interested they get a take home assignment followed by a non-scripted in-person interview with team members to judge personality fit.
 - [Visma e-conomic](https://www.e-conomic.dk/om/job) | Copenhagen, Denmark | Take home assignment, assignment presentation and discussion
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
+- [Webantic](webantic.co.uk/careers) | Manchester, UK | Basic TNA self-assessment and real-world problem-solving
 - [Webflow](https://webflow.com) | San Francisco & Remote | Short take-home challenge, followed by a paid 3-5 day freelance contract project
 - [Wildbit](https://wildbit.com) | Philadelphia & Remote | Take-home project followed by interviews.
 - [Wimdu](http://wimdujobs.com/) | Berlin, Germany | Take-home project, then a pair-programming and discussion onsite/remote.
