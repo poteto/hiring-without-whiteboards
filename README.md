@@ -274,6 +274,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [1000mercis group](http://www.1000mercis.com/#!/careers/?lang=en) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
 - [8th Light](https://8thlight.com/) | Chicago, London, Los Angeles, New York | Take home code challenge, discussion, pair programming session
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
+- [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
 
 ## Also see:
 - [They Whiteboarded Me!](http://they.whiteboarded.me/)
