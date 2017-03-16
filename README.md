@@ -59,6 +59,7 @@ Please open a PR to be added.
 - [Causeway](http://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work,  then face to face round to write small solutions to common problems in related field.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
+- [Chatgrape Web Frontend Team](https://chatgrape.com/de/jobs/javascript-developer/) | Vienna, Austria or Remote | Github or code samples -> Pair programming -> Skype/phone interview
 - [Checkout 51](https://checkout51.com.com/jobs) | Toronto, Canada | Phone conversation [15-20 minutes] followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
 - [CircleCI](https://circleci.com) | San Francisco, CA / Remote | Take-home project and discussion, followed by on-site interview that includes pair programming on actual CircleCI bugs/feature requests.
 - [City of Philadelphia's Office of Open Data & Digital Transformation](https://beta.phila.gov/departments/office-of-open-data-and-digital-transformation/jobs/) | Philadelphia, PA | Take-home project
@@ -89,6 +90,7 @@ Please open a PR to be added.
 - [Ellucian](https://www.ellucian.com/aboutus/careers/) | Reston, VA, USA | Discussion of real world problems (from resume, if possible)
 - [Emarsys](https://www.emarsys.com/) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
+- [FATMAP](https://www.fatmap.com) | London, Berlin, Vilnius | Skype discussion, Take-home project, Face to face
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
 - [Formidable Labs](https://www.formidable.com/careers) | Seattle, London, Remote | Take-home project, remote pair programming, discussion on-site or remote
@@ -156,7 +158,7 @@ Please open a PR to be added.
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [npm, Inc](https://npmjs.com/jobs) | Oakland, CA/remote | No technical challenges. Just interview conversations.
 - [Omada Health](https://www.omadahealth.com/jobs) | San Francisco, CA | Take home exercise and/or pair programming session.
-- [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on real-world problem
+- [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
 - [The Outline](https://boards.greenhouse.io/theoutline) | NYC | Take-home exercise
@@ -227,6 +229,7 @@ Please open a PR to be added.
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
 - [Webflow](https://webflow.com) | San Francisco & Remote | Short take-home challenge, followed by a paid 3-5 day freelance contract project
 - [Wildbit](https://wildbit.com) | Philadelphia & Remote | Take-home project followed by interviews.
+- [Wimdu](http://wimdujobs.com/) | Berlin, Germany | Take-home project, then a pair-programming and discussion onsite/remote.
 - [X-Team](http://x-team.com) | 100% Remote | A short, fun Node.js challenge, followed by a series of culture-based interview questions, followed by a creative mock project with tons of freedom on how to approach, and follow-up questions about the approach they chose to discuss the tradeoffs. Usually a 10-30 day paid training is rewarded to top candidates to prep them for remote communication skills needed to join a team.
 
 ## Y - \#
