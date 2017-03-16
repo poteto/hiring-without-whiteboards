@@ -124,6 +124,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 
 ## G - I
 - [GitLab](https://about.gitlab.com/jobs/) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
+- [GitPrime](https://www.gitprime.com/) | Colorado, Remote-First | small short term real-world project, paid project on production code
 - [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [Graphcool](https://www.graph.cool) | Berlin, Germany | On-site pair programming of a small, isolated real world task
