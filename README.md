@@ -3,7 +3,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ### tl;dr
 - Discussing a real world problem with the help of a whiteboard is 👍
-- Solving basic CS questions, technical puzzles, brainteasers (with or without whiteboard) is 👎
+- Solving basic CS questions, technical puzzles, riddles, brainteasers (with or without whiteboard) is 👎
 
 <a href="https://twitter.com/dhh/status/834146806594433025?lang=en"><img src="https://i.imgur.com/xJV6cF4.png" width=500 /></a>
 
@@ -14,6 +14,12 @@ Please open a PR to be added.
 ```
 - [Company or team name within company](https://jobspage) | location | what you do instead
 ```
+
+### Duds
+
+If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a PR to remove them from this list. 
+
+---
 
 ## A - C
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
