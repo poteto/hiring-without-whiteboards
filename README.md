@@ -17,6 +17,7 @@ Please open a PR to be added.
 
 ## A - C
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
+- [Accredible](https://www.accredible.com/careers/) | Cambridge, UK / San Francisco, CA / Remote | Take home project, then a pair-programming and discussion onsite / Skype round.
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
 - [Alluvium](https://alluvium.io) | Brooklyn, NY | Take-home assignment, on-site review dovetailing into collaborative project planning for extension.
