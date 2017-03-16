@@ -68,6 +68,7 @@ Please open a PR to be added.
 - [Clubhouse](https://www.clubhouse.io/hiring) | New York, NY & Remote | Phone interview, followed by onsite discussions and pair programming
 - [Cognitect, Inc.](https://www.cognitect.com/jobs) | Distributed! | Phone interview followed by pair programming.
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
+- [Contactlab](http://contactlab.com/en/careers/) | Milan, Italy | Recruiter interview, tech interview (technical background and experiences), both on-site.
 - [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [Coorp Academy](https://www.coorpacademy.com/) | Paris, France | Technical interview as an open discussion
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
