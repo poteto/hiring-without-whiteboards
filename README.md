@@ -151,6 +151,7 @@ Please open a PR to be added.
 - [NodeSource](http://nodesource.com/careers) | _Remote First_ | A person-to–person walk through of a past project of yours
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Nedap](http://lifeatnedap.com/vacatures/) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
+- [The Nerdery](https://www.nerdery.com/careers) | Minneapolis MN, Chicago IL, Phoenix AZ, Kansas City KS | Take-home exercise
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
 - [Netlify](https://www.netlify.com/careers/) | San Francisco, CA | Paid takehome project and online/onsite discussion
