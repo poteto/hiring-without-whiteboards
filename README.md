@@ -17,7 +17,7 @@ Please open a PR to be added.
 
 ### Duds
 
-If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a PR to remove them from this list. 
+If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a PR to remove them from this list.
 
 ### I want to sort by X!
 
@@ -145,6 +145,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
+- [Intercom](https://www.intercom.com/careers) | San Francisco, Chicago, Dublin | Real-world technical design and problem discussion, pair programming on-site
 - [Interset](https://interset.com/careers/) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers  
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
