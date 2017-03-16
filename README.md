@@ -185,6 +185,7 @@ Please open a PR to be added.
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
 - [Reaktor](https://reaktor.com/careers) | New York, Amsterdam, Helsinki, Tokyo | Discussion, work samples from previous projects (work or hobby), take-home exercise if needed for further info
 - [ReSpark](https://www.respark.co.uk) | London, UK | Phone conversation followed by on-site interview w/ task relevant to daily role.
+- [Rizk.com](https://rizk.com) | Ta' Xbiex, Malta | Take-home assignment, discussion w/ developers
 
 ## S - U
 - [Sahaj Software Solutions](https://www.sahajsoft.com/) | Bangalore & Chennai (India), San Jose (USA) | Take home code + Pairing + Discussion
