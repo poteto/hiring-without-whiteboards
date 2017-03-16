@@ -123,6 +123,7 @@ Please open a PR to be added.
 - [Jamasoftware](http://www.jamasoftware.com) | Portland, OR | Initial phone screen with hiring manager. In person pairing on project similar to day-to-day work with a separate cultural interview
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
+- [Journalism++](http://www.jplusplus.org/) | Berlin, Germany | Apply through [online riddles](http://internship.jplusplus.org/) to show your technical skills and your capacity to investigate
 - [Koddi Inc.](http://www.koddi.com/open-positions/) | Fort Worth, TX | Phone Interview(s), take-home project, on-site interview
 - [Lanetix](http://engineering.lanetix.com) | San Francisco, CA | [Our Hiring Process](https://engineering.lanetix.com/2015-10-20/hiring-process/)
 - [Librato](https://www.librato.com/jobs) | SF, Boston, Austin, Vancouver CA, Krakow PL | Take home coding project, conversational technical interviews on-site
