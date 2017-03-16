@@ -135,6 +135,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
+- [Interset](https://interset.com/careers/) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers  
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
 ## J - L
