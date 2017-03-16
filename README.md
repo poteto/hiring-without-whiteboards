@@ -158,6 +158,7 @@ Please open a PR to be added.
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [npm, Inc](https://npmjs.com/jobs) | Oakland, CA/remote | No technical challenges. Just interview conversations.
+- [numberly](https://www.numberly.com) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
 - [Omada Health](https://www.omadahealth.com/jobs) | San Francisco, CA | Take home exercise and/or pair programming session.
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
@@ -238,6 +239,7 @@ Please open a PR to be added.
 
 ## Y - \#
 - [Yoyo Wallet](http://yoyowallet.com/) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
+- [1000mercis group](http://www.1000mercis.com/#!/careers/?lang=en) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
 - [8th Light](https://8thlight.com/) | Chicago, London, Los Angeles, New York | Take home code challenge, discussion, pair programming session
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
 
