@@ -101,6 +101,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Eidu](http://eidu.com/) | Berlin, Germany | Take-home project, discussion of results with team, and test days with pair programming
 - [Elements Interactive](https://www.elements.nl/careers/) | Almere, The Netherlands & Barcelona, Spain | Take-home project & discussion via Skype or on-site
 - [Ellucian](https://www.ellucian.com/aboutus/careers/) | Reston, VA, USA | Discussion of real world problems (from resume, if possible)
+- [Enki](https://enki.com) | London, UK | Skype/phone interview followed by takehome project
 - [Emarsys](https://www.emarsys.com/) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [FATMAP](https://www.fatmap.com) | London, Berlin, Vilnius | Skype discussion, Take-home project, Face to face
