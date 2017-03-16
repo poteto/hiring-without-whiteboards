@@ -157,6 +157,7 @@ Please open a PR to be added.
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
 - [The Outline](https://boards.greenhouse.io/theoutline) | NYC | Take-home exercise
 - [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
+- [Outlook iOS & Android](https://github.com/outlook/jobs) | San Francisco / New York | Take-home project & online / onsite discussion
 
 ## P - R
 - [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
