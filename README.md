@@ -28,6 +28,7 @@ Please open a PR to be added.
 - [Adthena](http://adthena.com) | London, UK | Takehome  project and discussion on-site
 - [Affinity](https://affinity.recruiterbox.com/#content) | San Francisco, CA | Implementation of a children's game, then take-home project OR real-world design questions
 - [Algolia](https://www.algolia.com/careers) | Paris, France / San Francisco, CA | Takehome project & Onsite discussions and presentation
+- [AlphaSights](https://engineering.alphasights.com/) | London / New York / Remote | Initial interview, pair programming then final round with general technical questions
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
 - [Articulate](https://articulate.com/company/careers) | 100% remote | Take-home project & pair program on a problem similar to daily work
 - [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
