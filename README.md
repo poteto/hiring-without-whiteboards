@@ -215,6 +215,7 @@ Please open a PR to be added.
 ## V - X
 - [Valuemotive](https://valuemotive.com/en/career/) | Helsinki, Finland | Code examples from previous projects (work or hobby)  or take-home exercise
 - [Varsity Tutors](https://www.varsitytutors.com/) | United States / Online / Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
+- [Vayu Technology](http://vayu.com.au) | Sydney & Kathmandu | Short interview, general programming questions and short take home challenge.
 - [Venminder, Inc.](https://www.venminder.com) | Elizabethtown/Louisville, KY, USA | Initial phone screen to explain position. If candidate interested they get a take home assignment followed by a non-scripted in-person interview with team members to judge personality fit.
 - [Visma e-conomic](https://www.e-conomic.dk/om/job) | Copenhagen, Denmark | Take home assignment, assignment presentation and discussion
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
