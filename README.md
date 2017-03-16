@@ -144,6 +144,7 @@ Please open a PR to be added.
 
 ## M - O
 - [MakeTime](https://maketime.workable.com/) | Lexington, KY | Practical exercise and/or a pairing session on site
+- [Mango Solutions](http://www.mango-solutions.com/wp/about-mango/team/) | London (UK), Chippenham (UK) | Initial phone interview, followed by on-site interview with take-home assignment
 - [Mapbox](https://www.mapbox.com/jobs/) | SF, DC, Ayacucho, Bangalore, Berlin, Remote | Conversational interviews, paid onsite project with team.
 - [Maxwell Health](https://www.maxwellhealth.com/careers) | Boston, MA | Take-home exercise or pairing session with team. Then conversational meetings with members of the team.
 - [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
