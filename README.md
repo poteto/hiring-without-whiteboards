@@ -55,7 +55,6 @@ Please open a PR to be added.
 - [Bustle](https://www.bustle.com/labs) | New York City, Ny / Remote | Half day pair programming on a task for production or one of our Open Source projects. We'll also buy you lunch with the team.
 - [Casetext](https://casetext.com/jobs) | San Francisco, CA | Submit code sample for review/discussion, contract for one full day (paid)
 - [CASHLINK](https://cashlink.de) | Frankfurt, Germany | Skype/phone interview, take-home project
-- [Canva](https://about.canva.com/careers/) | Sydney, Australia | Takehome project, then a pair-programming onsite (or Skype) round.
 - [Causeway](http://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work,  then face to face round to write small solutions to common problems in related field.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
