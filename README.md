@@ -167,6 +167,7 @@ Please open a PR to be added.
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
+- [Outlandish](https://outlandish.com) | London, UK | Take-home exercise, real-world pair programming session, friendly chat with team
 - [The Outline](https://boards.greenhouse.io/theoutline) | NYC | Take-home exercise
 - [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
 - [Outlook iOS & Android](https://github.com/outlook/jobs) | San Francisco / New York | Take-home project & online / onsite discussion
