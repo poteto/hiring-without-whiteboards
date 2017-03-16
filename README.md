@@ -19,6 +19,10 @@ Please open a PR to be added.
 
 If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a PR to remove them from this list. 
 
+### I want to sort by X!
+
+I'm in the process of extracting everything into an Airtable sheet. You can view it read-only for now here - https://airtable.com/shrA3j2eYrVWMBR0N
+
 ---
 
 ## A - C
