@@ -95,6 +95,7 @@ Please open a PR to be added.
 - [FATMAP](https://www.fatmap.com) | London, Berlin, Vilnius | Skype discussion, Take-home project, Face to face
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
+- [Food52](https://food52.com/jobs) | NYC, remote | Take-home project, discussion on-site or remote, interviews with both technical and non-technical staff
 - [Formidable Labs](https://www.formidable.com/careers) | Seattle, London, Remote | Take-home project, remote pair programming, discussion on-site or remote
 - [Fooji](https://fooji.com) | Lexington, KY, remote | Take-home project
 - [Founders](https://founders.as/joinus) | Copenhagen, Denmark | Take Home project + Interviews
