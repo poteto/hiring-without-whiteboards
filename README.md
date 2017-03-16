@@ -59,7 +59,7 @@ Please open a PR to be added.
 - [Causeway](http://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work,  then face to face round to write small solutions to common problems in related field.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
-- [Checkout 51](https://checkout51.com.com/jobs) | Toronto, Canada | Phone conversation [15-20 minutes] followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
+- [Checkout 51](https://checkout51.com/jobs) | Toronto, Canada | Phone conversation [15-20 minutes] followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
 - [CircleCI](https://circleci.com) | San Francisco, CA / Remote | Take-home project and discussion, followed by on-site interview that includes pair programming on actual CircleCI bugs/feature requests.
 - [City of Philadelphia's Office of Open Data & Digital Transformation](https://beta.phila.gov/departments/office-of-open-data-and-digital-transformation/jobs/) | Philadelphia, PA | Take-home project
 - [Civis Analytics](https://www.civisanalytics.com/careers/) | Chicago, IL | Take-home project and discussion via Skype, followed by pair programming exercise
