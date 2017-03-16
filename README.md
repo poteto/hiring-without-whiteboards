@@ -31,6 +31,7 @@ Please open a PR to be added.
 - [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers/) | Bellevue, WA / Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
+- [Automattic](https://automattic.com/work-with-us/) | anywhere in the world | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
 - [Avocarrot](https://www.avocarrot.com/company/) | Athens, Greece | on-site real world problem discussion and pair programming
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | NYC | Take-home exercises and pair-programming with the team.
 - [Backbase](http://careers.backbase.com/) | Amsterdam, Cardiff, London, Atlanta | Takehome project, interviews
