@@ -260,6 +260,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Untappd](https://www.untappd.com) | Wilmington, NC, NYC, LA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [Unearth](http://www.unearthlabs.com/careers/) | Seattle, WA | Take home project, team-fit interviews, technical discussion
 - [Updater](http://www.updater.com/jobs/openings) | New York, NY | Begin-at-home assignment highly relevant to role, presented and discussed during on-site.
+- [Uprise](http://uprise.se) | Uppsala, Sweden | Take-home assignment, code review and discussion on-site
 - [UserTesting](https://www.usertesting.com/about-us/jobs) | Atlanta, GA; San Francisco/Mountain View, CA | Initial interview, pair programming, and offer
 - [uSwitch](https://www.uswitch.com/vacancies/) | London, UK | Take-home project related to our business area, followed by pairing with developers to extend it
 
