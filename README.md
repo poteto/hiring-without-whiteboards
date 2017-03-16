@@ -52,7 +52,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Balabit](https://career.balabit.com/) | Budapest, Hungary | Take-home project (medium size, with restrictions, e.g. only stdlib may be used), then discussion on-site
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
-- [Bemind Interactive](https://bemind.recruitee.com) | Biella / Latina / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
+- [Bemind Interactive](https://bemind.recruitee.com) | Biella / Latina / Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
 - [Betterment](https://www.betterment.com/careers/) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
 - [Big Nerd Ranch](https://www.bignerdranch.com/about/careers/) | Atlanta, GA & Remote | Interviews and pair programming on an internal project or problem.
