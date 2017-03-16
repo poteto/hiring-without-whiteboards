@@ -213,6 +213,7 @@ Please open a PR to be added.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers/) | Fort Worth, TX, USA | Takehome code challenge and review
 - [Sixt4.io](http://sixt4.io/jobs/) | Toronto, On, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Social Tables](http://www.socialtables.com) | Washington D.C. | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
+- [Sogilis](http://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
 - [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project [related to business](https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html)
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
