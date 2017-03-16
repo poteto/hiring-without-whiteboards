@@ -52,7 +52,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Balabit](https://career.balabit.com/) | Budapest, Hungary | Take-home project (medium size, with restrictions, e.g. only stdlib may be used), then discussion on-site
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
-- [Bemind Interactive](https://bemind.recruitee.com) | Biella / Latina / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
+- [Bemind Interactive](https://bemind.recruitee.com) | Biella / Latina / Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
 - [Betterment](https://www.betterment.com/careers/) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
 - [Big Nerd Ranch](https://www.bignerdranch.com/about/careers/) | Atlanta, GA & Remote | Interviews and pair programming on an internal project or problem.
@@ -65,6 +65,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA | Take home exercise, and systems design.
 - [Bustle](https://www.bustle.com/labs) | New York City, Ny / Remote | Half day pair programming on a task for production or one of our Open Source projects. We'll also buy you lunch with the team.
 - [ByBox](https://www.bybox.com/company/careers/software-developer/) | UK Remote | Phone interview followed by interview with devs (ideally in person but sometimes Skype) covering technical experience and coding exercise with real code.
+- [Canon Innovation Lab](https://canonlabs.io/#/) | Waterloo, ON, Canada | Series of interviews, go over technical background and past experiences, take-home project
 - [Casetext](https://casetext.com/jobs) | San Francisco, CA | Submit code sample for review/discussion, contract for one full day (paid)
 - [CASHLINK](https://cashlink.de) | Frankfurt, Germany | Skype/phone interview, take-home project
 - [Causeway](http://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work,  then face to face round to write small solutions to common problems in related field.
@@ -108,8 +109,10 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Ellucian](https://www.ellucian.com/aboutus/careers/) | Reston, VA, USA | Discussion of real world problems (from resume, if possible)
 - [Enki](https://enki.com) | London, UK | Skype/phone interview followed by takehome project
 - [Emarsys](https://www.emarsys.com/) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
+- [Endava](http://www.endava.com/en/Careers) | Multiple locations | On-site discussion about previous experience and technical questions about the target technologies.
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [FATMAP](https://www.fatmap.com) | London, Berlin, Vilnius | Skype discussion, Take-home project, Face to face
+- [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
 - [Food52](https://food52.com/jobs) | NYC, remote | Take-home project, discussion on-site or remote, interviews with both technical and non-technical staff
@@ -122,6 +125,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 
 ## G - I
 - [GitLab](https://about.gitlab.com/jobs/) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
+- [GitPrime](https://www.gitprime.com/) | Colorado, Remote-First | small short term real-world project, paid project on production code
 - [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [Graphcool](https://www.graph.cool) | Berlin, Germany | On-site pair programming of a small, isolated real world task
@@ -140,6 +144,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
+- [Interset](https://interset.com/careers/) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers  
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
 ## J - L
@@ -151,6 +156,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Landing.jobs](https://landing.jobs/at/landing-jobs) | Lisbon, Portugal | Interviews (in-person or remote), Take home coding project
 - [Lanetix](http://engineering.lanetix.com) | San Francisco, CA | [Our Hiring Process](https://engineering.lanetix.com/2015-10-20/hiring-process/)
 - [Librato](https://www.librato.com/jobs) | SF, Boston, Austin, Vancouver CA, Krakow PL | Take home coding project, conversational technical interviews on-site
+- [Lydia](https://lydia-app.com/en/company/jobs) | Paris, FR | Mini take-home project, phone interview, discussion on-site
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
 - [Locaweb](https://www.locaweb.com.br/carreira/) | São Paulo, Brazil | Skype interview, take-home project and discussion on-site
@@ -215,6 +221,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Rakuten](https://jobs.rakuten.careers/careersection/rakuten_ext_cs/jobdetail.ftl?job=00000751&tz=GMT%2B09%3A00) | Tokyo, Japan | Discuss about relevant experience
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
 - [Reaktor](https://reaktor.com/careers) | New York, Amsterdam, Helsinki, Tokyo | Discussion, work samples from previous projects (work or hobby), take-home exercise if needed for further info
+- [Revlv](https://revlv.net) | Manila, Philippines | Discussion about developer skills, previous projects and experiences.
 - [ReSpark](https://www.respark.co.uk) | London, UK | Phone conversation followed by on-site interview w/ task relevant to daily role.
 - [Rizk.com](https://rizk.com) | Ta' Xbiex, Malta | Take-home assignment, discussion w/ developers
 - [RubyGarage](https://rubygarage.org) | Dnipro, UA | Take-home project, code review and discussion on-site
@@ -242,6 +249,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [Telus Digital](https://labs.telus.com) | Toronto, Canada | Discuss knowledge and interest, explore previous work, pair with developers when possible, alternatively take home project.
+- [Ten Thousand Coffees](https://tenthousandcoffees.com) | Toronto, Canada | Take home project, then explain how you solved the project
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
 - [ThoughtWorks](https://www.thoughtworks.com/careers) | Multiple locations in every continent | Interviews with ThoughtWorkers of diverse backgrounds and roles; take home assignment followed by in person pairing session.
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
@@ -254,6 +262,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Untappd](https://www.untappd.com) | Wilmington, NC, NYC, LA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [Unearth](http://www.unearthlabs.com/careers/) | Seattle, WA | Take home project, team-fit interviews, technical discussion
 - [Updater](http://www.updater.com/jobs/openings) | New York, NY | Begin-at-home assignment highly relevant to role, presented and discussed during on-site.
+- [Uprise](http://uprise.se) | Uppsala, Sweden | Take-home assignment, code review and discussion on-site
 - [UserTesting](https://www.usertesting.com/about-us/jobs) | Atlanta, GA; San Francisco/Mountain View, CA | Initial interview, pair programming, and offer
 - [uSwitch](https://www.uswitch.com/vacancies/) | London, UK | Take-home project related to our business area, followed by pairing with developers to extend it
 
