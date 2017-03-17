@@ -122,6 +122,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Emarsys](https://www.emarsys.com/) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
 - [Endava](http://www.endava.com/en/Careers) | Multiple locations | On-site discussion about previous experience and technical questions about the target technologies.
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
+- [Exoscale](https://exoscale.ch) | Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [FATMAP](https://www.fatmap.com) | London, Berlin, Vilnius | Skype discussion, Take-home project, Face to face
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
