@@ -338,6 +338,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Wimdu](http://wimdujobs.com/) | Berlin, Germany | Take-home project, then a pair-programming and discussion onsite/remote.
 - [WyeWorks](https://wyeworks.com) | Montevideo, Uruguay | Take-home project and discussion on-site
 - [X-Team](http://x-team.com) | 100% Remote | A short, fun Node.js challenge, followed by a series of culture-based interview questions, followed by a creative mock project with tons of freedom on how to approach, and follow-up questions about the approach they chose to discuss the tradeoffs. Usually a 10-30 day paid training is rewarded to top candidates to prep them for remote communication skills needed to join a team.
+- [XING](https://www.xing.com) | Hamburg, Germany | Take-home coding challenge, on-site review and short interviews with future team.
 
 ## Y - \#
 - [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
