@@ -122,6 +122,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [E-accent](https://www.e-accent.com/) | Hilversum, The Netherlands | Skype conversation, take-home assignment
 - [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil | Take-home project, interview to evaluate the candidate's previous experience.
 - [Echobind](https://echobind.com/careers/) | USA, remote | Meet the entire team, share examples of previous work and pair with one team member
+- [Edenspiekermann](https://jobs.edenspiekermann.com/) | Amsterdam / Berlin / Los Angeles / San Fancisco / Singapore | On-site chat about skills and past experiences, review some code samples or a take-home assignment
 - [Eidu](http://eidu.com/) | Berlin, Germany | Take-home project, discussion of results with team, and test days with pair programming
 - [Elements Interactive](https://www.elements.nl/careers/) | Almere, The Netherlands & Barcelona, Spain | Take-home project & discussion via Skype or on-site
 - [Ellucian](https://www.ellucian.com/aboutus/careers/) | Reston, VA, USA | Discussion of real world problems (from resume, if possible)
