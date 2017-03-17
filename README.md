@@ -43,6 +43,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Adthena](http://adthena.com) | London, UK | Takehome  project and discussion on-site
 - [Affinity](https://affinity.recruiterbox.com/#content) | San Francisco, CA | Implementation of a children's game, then take-home project OR real-world design questions
 - [Algolia](https://www.algolia.com/careers) | Paris, France / San Francisco, CA | Takehome project & Onsite discussions and presentation
+- [Allegro](https://allegro.pl/praca) | Warsaw, Poznan, Torun, Wroclaw, Krakow - Poland | Take home, simple project. Series of 2 technical interviews (how to build things, how to solve specific, real world problem) and meeting with a team leader.
 - [AlphaSights](https://engineering.alphasights.com/) | London / New York / Remote | Initial interview, pair programming then final round with general technical questions
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
 - [AirBnB](https://airbnb.com/careers) | San Francisco, CA | Short phone interview followed by pair programming Skype interview on a problem similar to daily work
