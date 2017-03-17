@@ -318,6 +318,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Webflow](https://webflow.com) | San Francisco & Remote | Short take-home challenge, followed by a paid 3-5 day freelance contract project
 - [Wildbit](https://wildbit.com) | Philadelphia & Remote | Take-home project followed by interviews.
 - [Wimdu](http://wimdujobs.com/) | Berlin, Germany | Take-home project, then a pair-programming and discussion onsite/remote.
+- [WyeWorks](https://wyeworks.com) | Montevideo, Uruguay | Take-home project and discussion on-site
 - [X-Team](http://x-team.com) | 100% Remote | A short, fun Node.js challenge, followed by a series of culture-based interview questions, followed by a creative mock project with tons of freedom on how to approach, and follow-up questions about the approach they chose to discuss the tradeoffs. Usually a 10-30 day paid training is rewarded to top candidates to prep them for remote communication skills needed to join a team.
 
 ## Y - \#
