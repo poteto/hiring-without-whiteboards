@@ -21,7 +21,7 @@ If you've been through an interview with one of these companies recently, and yo
 
 ### I want to sort by X!
 
-See https://airtable.com/shrA3j2eYrVWMBR0N
+See https://airtable.com/shrA3j2eYrVWMBR0N. Additions to this document that are properly formatted will automatically be pushed to the airtable.
 
 ### Discussion
 
