@@ -290,7 +290,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [VTEX](http://lab.vtex.com/careers/) | Rio de Janeiro, Brazil |  Take-home project, Skype interview and than in-person talk.
 - [WorldGaming](https://worldgaming.com/) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
-- [Webantic](webantic.co.uk/careers) | Manchester, UK | Basic TNA self-assessment and real-world problem-solving
+- [Webantic](https://webantic.co.uk/careers) | Manchester, UK | Basic TNA self-assessment and real-world problem-solving
 - [Webflow](https://webflow.com) | San Francisco & Remote | Short take-home challenge, followed by a paid 3-5 day freelance contract project
 - [Wildbit](https://wildbit.com) | Philadelphia & Remote | Take-home project followed by interviews.
 - [Wimdu](http://wimdujobs.com/) | Berlin, Germany | Take-home project, then a pair-programming and discussion onsite/remote.
