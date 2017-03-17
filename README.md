@@ -255,6 +255,7 @@ See https://news.ycombinator.com/item?id=13874026
 
 ## P - R
 - [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
+- [Pager](https://pager.com) | NYC, Remote | Short phone interview, conversational interviews, take-home exercise & discussion 
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, BC, CA | Remote programming interview, on-site "meet the team"
 - [PeerStreet](https://info.peerstreet.com/careers/) | Los Angeles, CA | Phone, take home project & on-site to meet the team
