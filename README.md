@@ -76,6 +76,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [BrightBytes](http://www.brightbytes.net/careers/) | San Francisco, CA | Time-boxed coding exercise at home and on-site pair programming with engineers
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA | Take home exercise, and systems design.
 - [Bustle](https://www.bustle.com/labs) | New York City, Ny / Remote | Half day pair programming on a task for production or one of our Open Source projects. We'll also buy you lunch with the team.
+- [Bubblin Superbooks](https://www.bubbl.in/about) | US Remote | View code, projects, libraries or any other open source story that you have been a part of, a small take-home project with real code occasionally.
 - [ByBox](https://www.bybox.com/company/careers/software-developer/) | UK Remote | Phone interview followed by interview with devs (ideally in person but sometimes Skype) covering technical experience and coding exercise with real code.
 - [Canon Innovation Lab](https://canonlabs.io/#/) | Waterloo, ON, Canada | Series of interviews, go over technical background and past experiences, take-home project
 - [Casetext](https://casetext.com/jobs) | San Francisco, CA | Submit code sample for review/discussion, contract for one full day (paid)
@@ -178,7 +179,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [Intercom](https://www.intercom.com/careers) | San Francisco, Chicago, Dublin | Real-world technical design and problem discussion, pair programming on-site
-- [Interset](https://interset.com/careers/) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers  
+- [Interset](https://interset.com/careers/) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
 ## J - L
