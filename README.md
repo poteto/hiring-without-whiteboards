@@ -121,6 +121,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Enki](https://enki.com) | London, UK | Skype/phone interview followed by takehome project
 - [Emarsys](https://www.emarsys.com/) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
 - [Endava](http://www.endava.com/en/Careers) | Multiple locations | On-site discussion about previous experience and technical questions about the target technologies.
+- [Euro Payment Group](http://www.europaymentgroup.com/) | Frankfurt, Germany | Take-home project followed by face to face interview
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [FATMAP](https://www.fatmap.com) | London, Berlin, Vilnius | Skype discussion, Take-home project, Face to face
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
