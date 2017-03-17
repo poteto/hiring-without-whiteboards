@@ -191,6 +191,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [MixMax](https://mixmax.com/careers/) | San Francisco, CA | Takehome assignment purely based on their platform, followed by phone interview
 - [MokaHR](http://mokahr.com) | Beijing, China | Take home project/challenge, then on-site programming session taken from problems we encounter at work
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
+- [Monzo](https://monzo.com/careers/) | London, UK | Take-home exercise
 - [Mutually Human Software](https://www.mutuallyhuman.com) | MI, OH, WA | Collaborative problem analysis and design exercise, pairing exercise
 - [Mutual of Omaha](http://www.mutualofomaha.com/careers/) | Omaha, NE, USA | Panel Style Interviews analyzing problem solving, ability to adapt well to change, and interpersonal communication skills.
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
