@@ -30,35 +30,36 @@ See https://news.ycombinator.com/item?id=13874026
 ---
 
 ## A - C
-- [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
+- [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
 - [Accredible](https://www.accredible.com/careers/) | Cambridge, UK / San Francisco, CA / Remote | Take home project, then a pair-programming and discussion onsite / Skype round.
+- [Adthena](http://adthena.com) | London, UK | Takehome  project and discussion on-site
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
 - [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA | Short takehome project + phone interview
-- [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
-- [Alluvium](https://alluvium.io) | Brooklyn, NY | Take-home assignment, on-site review dovetailing into collaborative project planning for extension.
-- [Agoda](https://careersatagoda.com/departments/technology/) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
-- [Applied](https://www.beapplied.com) | London | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
-- [Apollo Agriculture](https://apolloagriculture.com/) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
-- [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
-- [Adthena](http://adthena.com) | London, UK | Takehome  project and discussion on-site
 - [Affinity](https://affinity.recruiterbox.com/#content) | San Francisco, CA | Implementation of a children's game, then take-home project OR real-world design questions
-- [Algolia](https://www.algolia.com/careers) | Paris, France / San Francisco, CA | Takehome project & Onsite discussions and presentation
-- [AlphaSights](https://engineering.alphasights.com/) | London / New York / Remote | Initial interview, pair programming then final round with general technical questions
-- [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
+- [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
+- [Agoda](https://careersatagoda.com/departments/technology/) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
 - [AirBnB](https://airbnb.com/careers) | San Francisco, CA | Short phone interview followed by pair programming Skype interview on a problem similar to daily work
+- [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
+- [Algolia](https://www.algolia.com/careers) | Paris, France / San Francisco, CA | Takehome project & Onsite discussions and presentation
+- [Alluvium](https://alluvium.io) | Brooklyn, NY | Take-home assignment, on-site review dovetailing into collaborative project planning for extension.
+- [AlphaSights](https://engineering.alphasights.com/) | London / New York / Remote | Initial interview, pair programming then final round with general technical questions
+- [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
+- [Apollo Agriculture](https://apolloagriculture.com/) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
+- [Applied](https://www.beapplied.com) | London | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
+- [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
 - [Articulate](https://articulate.com/company/careers) | 100% remote | Take-home project & pair program on a problem similar to daily work
 - [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
-- [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers/) | Bellevue, WA / Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
 - [Automattic](https://automattic.com/work-with-us/) | anywhere in the world | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
+- [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Avocarrot](https://www.avocarrot.com/company/) | Athens, Greece | on-site real world problem discussion and pair programming
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | NYC | Take-home exercises and pair-programming with the team.
 - [Backbase](http://careers.backbase.com/) | Amsterdam, Cardiff, London, Atlanta | Takehome project, interviews
 - [Badoo](https://team.badoo.com/jobs/) | London, UK | Take-home project, then a discussion onsite round.
+- [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
+- [Bakken & Bæck](https://bakkenbaeck.com/jobs) | Oslo, Amsterdam, Bonn | Skype interview followed by take-home assignment and a visit to one of our offices
 - [Balabit](https://career.balabit.com/) | Budapest, Hungary | Take-home project (medium size, with restrictions, e.g. only stdlib may be used), then discussion on-site
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
-- [Bakken & Bæck](https://bakkenbaeck.com/jobs) | Oslo, Amsterdam, Bonn | Skype interview followed by take-home assignment and a visit to one of our offices
-- [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
 - [Bemind Interactive](https://bemind.recruitee.com) | Biella / Latina / Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
 - [Betterment](https://www.betterment.com/careers/) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
@@ -69,7 +70,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Bluesoft](http://www.bluesoft.com.br/) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
 - [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
 - [Bouvet](http://www.bouvet.no/) | Bergen, Norway | Pair programming with senior engineers
-- [Breather](https://breather.com/jobs) | Montreal, Canada | Series of interviews including a conversation about the candidate’s experience and a technical discussion involving real world problems
+- [Breather](https://breather.com/jobs) | Montreal, Canada | Series of interviews including a conversation about the candidate's experience and a technical discussion involving real world problems
 - [BrightBytes](http://www.brightbytes.net/careers/) | San Francisco, CA | Time-boxed coding exercise at home and on-site pair programming with engineers
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA | Take home exercise, and systems design.
 - [Bustle](https://www.bustle.com/labs) | New York City, Ny / Remote | Half day pair programming on a task for production or one of our Open Source projects. We'll also buy you lunch with the team.
@@ -90,9 +91,9 @@ See https://news.ycombinator.com/item?id=13874026
 - [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences.
 - [Clubhouse](https://www.clubhouse.io/hiring) | New York, NY & Remote | Phone interview, followed by onsite discussions and pair programming
 - [Cognitect, Inc.](https://www.cognitect.com/jobs) | Distributed! | Phone interview followed by pair programming.
+- [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Contactlab](http://contactlab.com/en/careers/) | Milan, Italy | Recruiter interview, tech interview (technical background and experiences), both on-site.
-- [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [Coorp Academy](https://www.coorpacademy.com/) | Paris, France | Technical interview as an open discussion
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
 - [Crowdstrike](https://jobs.jobvite.com/careers/crowdstrike/jobs) | US (Multiple), UK (London), Remote | [UI Team] Multiple interviews onsite or remote as appropriate followed by small take-home project.
