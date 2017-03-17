@@ -352,7 +352,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Vayu Technology](http://vayu.com.au) | Sydney & Kathmandu | Short interview, general programming questions and short take home challenge.
 - [Venminder, Inc.](https://www.venminder.com) | Elizabethtown/Louisville, KY, USA | Initial phone screen to explain position. If candidate interested they get a take home assignment followed by a non-scripted in-person interview with team members to judge personality fit.
 - [Visma e-conomic](https://www.e-conomic.dk/om/job) | Copenhagen, Denmark | Take home assignment, assignment presentation and discussion
-- [VTEX](http://lab.vtex.com/careers/) | Rio de Janeiro, Brazil |  Take-home project, Skype interview and than in-person talk.
+- [VTEX](http://lab.vtex.com/careers/) | Rio de Janeiro, Brazil |  Take-home project, Skype interview and then in-person talk.
 - [VTS](https://boards.greenhouse.io/vts) | New York City, New York | Technical Phone Screen, Pair programming on-site & in-person talks with multiple engineers
 - [WorldGaming](https://worldgaming.com/) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
