@@ -323,6 +323,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [store2be](https://www.store2be.com/de/jobs/tech) | Berlin, Germany | Skype/on-site interview, take-home project
 - [SweetIQ](https://sweetiq.com/about/careers/) | Montreal, Canada | Discussion and general, high level questions
 - [SysGarage](http://sysgarage.com/) | Buenos Aires, Argentina | Take-home project and real world pair programming
+- [Superplayer](https://superplayer.fm/) | Porto Alegre, Brazil | Skype/On-site interview, take-home project and interview with CTO and CEO
 - [tails.com](https://tails.com/careers/) | Richmond (London), UK | Live pair programming or take home project with review
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
