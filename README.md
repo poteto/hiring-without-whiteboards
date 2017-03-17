@@ -32,6 +32,7 @@ See https://news.ycombinator.com/item?id=13874026
 ## A - C
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
 - [Accredible](https://www.accredible.com/careers/) | Cambridge, UK / San Francisco, CA / Remote | Take home project, then a pair-programming and discussion onsite / Skype round.
+- [Acumen](http://www.acumenci.com/joinourteam/) | London, UK | Small take home test, and sit in on some sprint rituals on-site
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
 - [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA | Short takehome project + phone interview
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
@@ -265,7 +266,7 @@ See https://news.ycombinator.com/item?id=13874026
 
 ## P - R
 - [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
-- [Pager](https://pager.com) | New York, Remote | Short phone interview, conversational interviews, take-home exercise & discussion 
+- [Pager](https://pager.com) | New York, Remote | Short phone interview, conversational interviews, take-home exercise & discussion
 - [PagerDuty](https://pagerduty.com/careers) | San Francisco, CA / Toronto, ON, CA | Google Hangout / on-site pair-programming sessions
 - [Palatinate Tech](https://tech.palatinategroup.com/) | London, UK | Hangout/Skype/phone followed by (normally) on-site pairing task
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
