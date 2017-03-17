@@ -292,6 +292,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
 - [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
+- [Stardog Union](http://stardog.com/) | Washington DC (Remote) | Technical discussion and general interest conversations
 - [StreetTeam](https://getstreetteam.com/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
 - [store2be](https://www.store2be.com/de/jobs/tech) | Berlin, Germany | Skype/on-site interview, take-home project
 - [SweetIQ](https://sweetiq.com/about/careers/) | Montreal, Canada | Discussion and general, high level questions
