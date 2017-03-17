@@ -147,6 +147,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Formidable Labs](https://www.formidable.com/careers) | Seattle, London, Remote | Take-home project, remote pair programming, discussion on-site or remote
 - [Fooji](https://fooji.com) | Lexington, KY, remote | Take-home project
 - [Founders](https://founders.as/joinus) | Copenhagen, Denmark | Take Home project + Interviews
+- [Foundry Interactive](http://www.foundryinteractive.com/contact/) | Seattle, WA | On-site or remote discussion, paid trial project with pairing and code reviews
 - [fournova](https://www.fournova.com/jobs) | Remote | Take-home project, discussion via video call
 - [FreeAgent](https://www.freeagent.com/company/careers/) | Edinburgh, UK | Take-home project, pair programming, discussion and interviews
 - [Freeletics](https://www.freeletics.com/en/corporate/jobs) | Munich, Germany | Small real-world challenge, multiple interviews on-site/remote and social gathering with team.
