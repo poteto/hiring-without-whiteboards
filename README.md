@@ -129,6 +129,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [fournova](https://www.fournova.com/jobs) | Remote | Take-home project, discussion via video call
 - [FreeAgent](https://www.freeagent.com/company/careers/) | Edinburgh, UK | Take-home project, pair programming, discussion and interviews
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
+- [F(x)](https://fdex.com.br) São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
 
 ## G - I
 - [GitLab](https://about.gitlab.com/jobs/) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
@@ -239,7 +240,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 
 ## S - U
 - [Sahaj Software Solutions](https://www.sahajsoft.com/) | Bangalore & Chennai (India), San Jose (USA) | Take home code + Pairing + Discussion
-- [Salesforce.org Tech & Products](http://www.salesforce.org) | North America (Remote) | Phone screen, hands-on programming test solving real-world problems, Google Hangouts video sessions with engineers 
+- [Salesforce.org Tech & Products](http://www.salesforce.org) | North America (Remote) | Phone screen, hands-on programming test solving real-world problems, Google Hangouts video sessions with engineers
 - [Setapp Sp. z o.o.](https://setapp.pl/career) | Poznan, Poland | Online/face-to-face discussion with developers about everyday programming dilemmas & reviewing your own code
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
 - [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
