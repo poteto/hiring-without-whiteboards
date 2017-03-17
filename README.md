@@ -349,6 +349,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [XING](https://www.xing.com) | Hamburg, Germany | Take-home coding challenge, on-site review and short interviews with future team.
 
 ## Y - \#
+- [YLD](https://yld.breezy.hr) | London, UK | Take home-code challenge, pair-programming session and discussion about past experience
 - [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
 - [Yoyo Wallet](http://yoyowallet.com/) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
 - [YunoJuno](http://www.yunojuno.com/) | London, UK | Code challenge based on a realistic feature request on a real open-source package created and used at YunoJuno; phone/video interview with members of the Product team to explore technical background, experiences, interests, cultural fit; on-site interview, usually with Product Manager and CTO
