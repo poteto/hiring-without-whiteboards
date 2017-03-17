@@ -267,6 +267,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Pento](https://angel.co/pento/jobs) | Europe/Remote | Quick personal interview, take home project
 - [Phoodster](https://www.phoodster.com/) | Stockholm, Sweden | Take-home exercise + on-site discussion
 - [Pivotal Labs](https://pivotal.io/careers/engineering) | HQ: San Francisco, International | Remote Pairing, and full day on-site pairing
+- [Platform.sh](https://platform.sh) | Paris, International | Remote Interview, Wide-Ranging discussions on many diverse subjects. Remote interviews with team members.
 - [Pluralsight](https://www.pluralsight.com/careers) | UT, CA, MA, FL | Takehome exercise & pair programming session
 - [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Polar](http://polar.me/company/careers/) | Toronto, Canada | Phone interview, followed by 1-2 onsite pair-programming interviews based on their platform
