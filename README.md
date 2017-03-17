@@ -36,8 +36,8 @@ See https://news.ycombinator.com/item?id=13874026
 - [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA | Short takehome project + phone interview
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
 - [Alluvium](https://alluvium.io) | Brooklyn, NY | Take-home assignment, on-site review dovetailing into collaborative project planning for extension.
-- [Applied](https://www.beapplied.com) | London | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
 - [Agoda](https://careersatagoda.com/departments/technology/) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
+- [Applied](https://www.beapplied.com) | London | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
 - [Apollo Agriculture](https://apolloagriculture.com/) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
 - [Adthena](http://adthena.com) | London, UK | Takehome  project and discussion on-site
