@@ -99,6 +99,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Cognitect, Inc.](https://www.cognitect.com/jobs) | Distributed! | Phone interview followed by pair programming.
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [COMPEON](https://www.compeon.de/karriere/) | Duesseldorf, Germany | Phone interview, followed by onsite discussions and pair programming with our developers
+- [Concordia Publishing House](http://about.cph.org/careers.html) | St Louis, MO | Take-home project followed by discussion of it on-site with future teammates.
 - [Contactlab](http://contactlab.com/en/careers/) | Milan, Italy | Recruiter interview, tech interview (technical background and experiences), both on-site.
 - [ContentSquare](https://www.contentsquare.com/careers/) | Paris, France | Real-world challenges with open discussions.
 - [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
