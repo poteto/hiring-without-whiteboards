@@ -216,6 +216,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote/) | Graz, Austria | Take-Home project, discussion on-site
 
 ## M - O
+- [Made Tech](https://www.madetech.com/careers) | London, UK | [Our hiring process](https://github.com/madetech/handbook/tree/master/guides/hiring#20-minute-phone-conversation)
 - [Magnetis](https://magnetis.workable.com/) | São Paulo, Brazil & Remote | Phone interview + take home assignment, followed by pair programming and informal meeting with the team.
 - [Major League Soccer](https://careers-mlssoccer.icims.com/jobs/search?ss=1&searchCategory=20285) | New York, NY | Phone interview + short take home project, which is daily work focused. In person interview could involve discussing past projects or pair programming.
 - [MakeTime](https://maketime.workable.com/) | Lexington, KY | Practical exercise and/or a pairing session on site
