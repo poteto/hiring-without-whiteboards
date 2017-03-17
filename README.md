@@ -304,6 +304,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [VTEX](http://lab.vtex.com/careers/) | Rio de Janeiro, Brazil |  Take-home project, Skype interview and than in-person talk.
 - [WorldGaming](https://worldgaming.com/) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
+- [WeAreHive](http://www.wearehive.co.uk) | London | Just walk us through your best code or we give you a small real-world exercise to do at home.
 - [Webantic](https://webantic.co.uk/careers) | Manchester, UK | Basic TNA self-assessment and real-world problem-solving
 - [Webflow](https://webflow.com) | San Francisco & Remote | Short take-home challenge, followed by a paid 3-5 day freelance contract project
 - [Wildbit](https://wildbit.com) | Philadelphia & Remote | Take-home project followed by interviews.
