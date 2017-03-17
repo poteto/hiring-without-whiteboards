@@ -223,6 +223,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Nimbl3](https://www.workhiro.com/companies/nimbl3) | Bangkok/On-site | Takehome exercise and specific role discussion
 - [Niteoweb](http://www.niteoweb.com/careers) | Ljubljana, Slovenia | Join us for a week to see if we fit
 - [Nomoko,camera](https://www.nomoko.world/jobs) | Zurich, Switzerland | Three interrogations
+- [Nord Software](https://www.nordsoftware.com/en/jobs/) | Helsinki, Tampere, Stockholm | Take-home exercise & interview with CEO and senior developer
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Nozbe](https://nozbe.com/jobs/) | Everywhere (Remote) | Take-home exercise & interview with the team
