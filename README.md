@@ -149,6 +149,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [F(x)](https://fdex.com.br) São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
 
 ## G - I
+- [GatherContent](https://gathercontent.com/careers/designer) | Remote (UK) | Culture-first interviews, pair programming and remote, informal technical discussions
 - [GitLab](https://about.gitlab.com/jobs/) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
 - [GitPrime](https://www.gitprime.com/) | Colorado, Remote-First | small short term real-world project, paid project on production code
 - [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
