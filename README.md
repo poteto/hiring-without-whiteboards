@@ -145,6 +145,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [GitPrime](https://www.gitprime.com/) | Colorado, Remote-First | small short term real-world project, paid project on production code
 - [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
+- [Graffino](https://www.graffino.com) | Sibiu, Romania | Take-home project, discussion on-site
 - [Graphcool](https://www.graph.cool) | Berlin, Germany | On-site pair programming of a small, isolated real world task
 - [Graphistry](https://www.graphistry.com/careers) | Oakland/SF, Remote | Engineering, culture, and product discussions, and for junior developers, choice of take home or code review.
 - [Gramercy Tech](http://www.gramercytech.com/) | New York, NY | Pair programming & discussion on-site
