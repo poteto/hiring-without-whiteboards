@@ -145,7 +145,6 @@ See https://news.ycombinator.com/item?id=13874026
 - [Findy](https://blog.findy.us/findy-saiyo/) | Tokyo, Japan | Tech interview + On-site discussion
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
-- [Fog Creek](https://www.fogcreek.com/careers) | NYC, remote
 - [Food52](https://food52.com/jobs) | NYC, remote | Take-home project, discussion on-site or remote, interviews with both technical and non-technical staff
 - [Formidable Labs](https://www.formidable.com/careers) | Seattle, London, Remote | Take-home project, remote pair programming, discussion on-site or remote
 - [Fooji](https://fooji.com) | Lexington, KY, remote | Take-home project
