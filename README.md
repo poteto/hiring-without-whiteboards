@@ -245,6 +245,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Shopify](https://www.shopify.com/careers) | Canada
+- [ShuttleCloud](https://shuttlecloud.com/jobs) | Chicago, IL / Madrid, Spain | Take-home project, then on-site code walk through and a real world problem discussion.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers/) | Fort Worth, TX, USA | Takehome code challenge and review
 - [Sixt4.io](http://sixt4.io/jobs/) | Toronto, On, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Social Tables](http://www.socialtables.com) | Washington D.C. | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
