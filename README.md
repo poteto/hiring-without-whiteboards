@@ -47,6 +47,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [AlphaSights](https://engineering.alphasights.com/) | London / New York / Remote | Initial interview, pair programming then final round with general technical questions
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
 - [AirBnB](https://airbnb.com/careers) | San Francisco, CA | Short phone interview followed by pair programming Skype interview on a problem similar to daily work
+- [Airbrake](https://airbrake.io) | San Francisco, CA / Remote | Take-home project & pair on a problem similar to daily work
 - [Articulate](https://articulate.com/company/careers) | 100% remote | Take-home project & pair program on a problem similar to daily work
 - [aTech Media](https://atech.media) | UK | Face to face interview, review of existing open source contributions or, if none are available, asked to write a library for something that interests them
 - [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
