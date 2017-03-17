@@ -118,6 +118,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [dubizzle](http://blog.dubizzle.com/uae/job-vacancies/) | Dubai, UAE | Take home assignment, general technical questions, pair programming with engineers or tech leads
+- [E-accent](https://www.e-accent.com/) | Hilversum, The Netherlands | Skype conversation, take-home assignment
 - [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil | Take-home project, interview to evaluate the candidate's previous experience.
 - [Echobind](https://echobind.com/careers/) | USA, remote | Meet the entire team, share examples of previous work and pair with one team member
 - [Eidu](http://eidu.com/) | Berlin, Germany | Take-home project, discussion of results with team, and test days with pair programming
