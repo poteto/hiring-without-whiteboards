@@ -170,6 +170,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
 - [HelloFresh](https://www.hellofresh.com/jobs/) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
+- [Hireology](http://www.hireology.com/careers) | Chicago/Remote | Walk through personal/work projects and discuss experience
 - [Hill Holliday](http://www.hhcc.com/careers/) | Boston, MA | Take-home project on GitHub, in-person interview / culture fit interview
 - [HolidayPirates](https://holidaypirates.group/en/jobs) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [HoxHunt](https://jobs.hoxhunt.com/) | Helsinki, Finland | Take-home project, pair programming on-site
