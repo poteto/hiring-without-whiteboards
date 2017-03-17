@@ -335,6 +335,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [thoughtbot](https://thoughtbot.com/jobs) | Multiple locations in US and UK | [Our interview process](https://thoughtbot.com/playbook/our-company/hiring#interviewing)
 - [ThoughtWorks](https://www.thoughtworks.com/careers) | Multiple locations in every continent | Interviews with ThoughtWorkers of diverse backgrounds and roles; take home assignment followed by in person pairing session.
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
+- [ThreatSpike Labs](https://www.threatspike.com) | London, UK | Take home computing and security related challenges to be completed over a week.
 - [Timbuktu](https://www.timbuktutravel.com) | Cape Town, South Africa | On site interview and pair programming exercise
 - [Tilde](http://www.tilde.io) | Portland, OR | Pair programming sessions with each member of the team, working on problems similar to daily work.
 - [Toucan Toco](http://toucantoco.com/fr/team#jobs) | Paris, France | Pair-programming and TDD
