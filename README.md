@@ -61,6 +61,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago / Remote
 - [Bakken & Bæck](https://bakkenbaeck.com/jobs) | Oslo, Amsterdam, Bonn | Skype interview followed by take-home assignment and a visit to one of our offices
 - [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
+- [Bauer Xcel Media](http://www.bauer-media.com.au/advertising/digital-advertising/) | Sydney, Australia | "Full Stack Node.js / React.js developer job" - HR phone interview, unpaid GitHub code test (i.e. example solution to [Robot app code test in Node.js](https://github.com/ltfschoen/robot-test2) for full-stack React.js/Node.js role), on-site face-to-face technical interview where asked to use whiteboard to explain steps you would take to build a tic-tac-toe game (useful preparation [here](https://facebook.github.io/react/tutorial/tutorial.html))
 - [Bemind Interactive](https://bemind.recruitee.com) | Biella / Latina / Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
 - [Betterment](https://www.betterment.com/careers/) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
@@ -77,6 +78,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Bustle](https://www.bustle.com/labs) | New York City, Ny / Remote | Half day pair programming on a task for production or one of our Open Source projects. We'll also buy you lunch with the team.
 - [ByBox](https://www.bybox.com/company/careers/software-developer/) | UK Remote | Phone interview followed by interview with devs (ideally in person but sometimes Skype) covering technical experience and coding exercise with real code.
 - [Canon Innovation Lab](https://canonlabs.io/#/) | Waterloo, ON, Canada | Series of interviews, go over technical background and past experiences, take-home project
+- [Canva](https://about.canva.com/careers/sydney/) | Sydney, Australia | "Front-end JavaScript developer" - HR face-to-face interview, unpaid code test unsuccessful example (i.e. [Mosaic of tiles composed from an uploaded image](https://github.com/ltfschoen/mosaic/blob/master/client_spec.md)), detailed code test feedback provided but no further correpondance
 - [Casetext](https://casetext.com/jobs) | San Francisco, CA | Submit code sample for review/discussion, contract for one full day (paid)
 - [CASHLINK](https://cashlink.de) | Frankfurt, Germany | Skype/phone interview, take-home project
 - [Causeway](http://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work,  then face to face round to write small solutions to common problems in related field.
@@ -147,6 +149,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [F(x)](https://fdex.com.br) São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
 
 ## G - I
+- [Genbook](https://www.genbook.com/) | Sydney, Australia | "JavaScript Developer job" - HR phone interview, unpaid code test (i.e. example solution that Genbook liked using Angular 2 for front-end Angular 1 opportunity of creating responsive site based on given design and spec [Angular.js 2 Search](https://github.com/ltfschoen/angularjs2_search)), on-site face-to-face verbal tests covering basic vanilla JS questions such as 'explain what JavaScript Hoisting mean?'
 - [GitLab](https://about.gitlab.com/jobs/) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
 - [GitPrime](https://www.gitprime.com/) | Colorado, Remote-First | small short term real-world project, paid project on production code
 - [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
@@ -245,6 +248,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Pento](https://angel.co/pento/jobs) | Europe/Remote | Quick personal interview, take home project
 - [Phoodster](https://www.phoodster.com/) | Stockholm, Sweden | Take-home exercise + on-site discussion
 - [Pivotal Labs](https://pivotal.io/careers/engineering) | HQ: San Francisco, International | Remote Pairing, and full day on-site pairing
+- [Pivotal Labs](https://pivotal.io/locations/sydney) | Sydney | "Software engineer job" - On-site pair-programming of generic unit tests using separate screens
 - [Pluralsight](https://www.pluralsight.com/careers) | UT, CA, MA, FL | Takehome exercise & pair programming session
 - [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Polar](http://polar.me/company/careers/) | Toronto, Canada | Phone interview, followed by 1-2 onsite pair-programming interviews based on their platform
@@ -268,6 +272,7 @@ See https://news.ycombinator.com/item?id=13874026
 ## S - U
 - [Sahaj Software Solutions](https://www.sahajsoft.com/) | Bangalore & Chennai (India), San Jose (USA) | Take home code + Pairing + Discussion
 - [Salesforce.org Tech & Products](http://www.salesforce.org) | North America (Remote) | Phone screen, hands-on programming test solving real-world problems, Google Hangouts video sessions with engineers
+- [Sentia](http://www.sentia.com.au/jobs) | Sydney, Australia | "Any Rails job" - Email jobs@sentia.com.au, unpaid code test (i.e. example solution that Sentia liked is [Rails CSV file uploader that persists to database with ability to filter data in front-end](https://github.com/ltfschoen/rails_csv_app)) on-site face-to-face interview with Lead Developer and/or Product Manager, reference checks and salary negotiation with CEO
 - [Setapp Sp. z o.o.](https://setapp.pl/career) | Poznan, Poland | Online/face-to-face discussion with developers about everyday programming dilemmas & reviewing your own code
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
 - [Small Improvements](https://www.small-improvements.com/careers/) | Berlin, Germany
@@ -297,6 +302,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [ThoughtWorks](https://www.thoughtworks.com/careers) | Multiple locations in every continent | Interviews with ThoughtWorkers of diverse backgrounds and roles; take home assignment followed by in person pairing session.
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
 - [Timbuktu](https://www.timbuktutravel.com) | Cape Town, South Africa | On site interview and pair programming exercise
+- [Tigerspike](https://tigerspike.com/join-us/) | Sydney, Australia | "iOS Developer job" - unpaid code test for iOS Developer opportunity (i.e. example unsuccessful solution [FlickrSearchImageGallery](https://github.com/ltfschoen/FlickrSearchImageGallery), no code test feedback provided
 - [Tilde](http://www.tilde.io) | Portland, OR | Pair programming sessions with each member of the team, working on problems similar to daily work.
 - [Toucan Toco](http://toucantoco.com/fr/team#jobs) | Paris, France | Pair-programming and TDD
 - [Trōv](https://boards.greenhouse.io/trov) | 100% Remote for Engineers | Take-home project with followup interview from actual prospective teammates
@@ -307,6 +313,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Untappd](https://www.untappd.com) | Wilmington, NC, NYC, LA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [Unearth](http://www.unearthlabs.com/careers/) | Seattle, WA | Take home project, team-fit interviews, technical discussion
 - [Updater](http://www.updater.com/jobs/openings) | New York, NY | Begin-at-home assignment highly relevant to role, presented and discussed during on-site.
+- [Upgrowth](https://www.upgrowth.com.au/) | Sydney, Australia | "Front-end React.js job" - Via recruiter, unpaid code test (i.e. example unsuccessful solution [spec was to write Flick API app in React.js that allows user to search for a tag with JSON request to https://www.flickr.com/services/feeds/docs/photos_public/ and shows matching photos](http://codepen.io/ltfschoen/pen/XMWqmx), feedback was that it didn't work even though it actually does work
 - [Uprise](http://uprise.se) | Uppsala, Sweden | Take-home assignment, code review and discussion on-site
 - [Urban Massage](https://www.urbanmassage.com/jobs) | London, UK | Project done at home, in-person walk through. Meeting the team is an integral part.
 - [UserTesting](https://www.usertesting.com/about-us/jobs) | Atlanta, GA; San Francisco/Mountain View, CA | Initial interview, pair programming, and offer
