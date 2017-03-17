@@ -118,7 +118,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [DICE](http://www.dice.se/) | Stockholm, Sweden | Take-home project and code review at the on-site
 - [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
 - [door2door](http://door2door.io) | Berlin, Germany | Take home challenge + on-site interview + trial day
-- [DoorDash :runner::dash:](https://doordash.com/careers/) | San Francisco | Take home project + an on-site interview building off the project!
+- [DoorDash :runner::dash:](https://doordash.com/careers/) | San Francisco, CA | Take home project + an on-site interview building off the project!
 - [Draft Fantasy](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) | Tel Aviv, Israel | Talk about past experience and what the developer has actually built as well as pair programming or a programming exercise.
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [Drivy](https://www.drivy.com/) | Paris, France | Skype interview followed by a take-home project, then interview to discuss code written on previous projects
