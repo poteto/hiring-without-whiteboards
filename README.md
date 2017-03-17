@@ -308,6 +308,7 @@ See https://news.ycombinator.com/item?id=13874026
 ## Y - \#
 - [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
 - [Yoyo Wallet](http://yoyowallet.com/) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
+- [YunoJuno](http://www.yunojuno.com/) | London, UK | Code challenge based on a realistic feature request on a real open-source package created and used at YunoJuno; phone/video interview with members of the Product team to explore technical background, experiences, interests, cultural fit; on-site interview, usually with Product Manager and CTO
 - [1000mercis group](http://www.1000mercis.com/#!/careers/?lang=en) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
 - [8th Light](https://8thlight.com/) | Chicago, London, Los Angeles, New York | Take home code challenge, discussion, pair programming session
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
