@@ -21,7 +21,11 @@ If you've been through an interview with one of these companies recently, and yo
 
 ### I want to sort by X!
 
-I'm in the process of extracting everything into an Airtable sheet. You can view it read-only for now here - https://airtable.com/shrA3j2eYrVWMBR0N
+See https://airtable.com/shrA3j2eYrVWMBR0N
+
+### Discussion
+
+See https://news.ycombinator.com/item?id=13874026
 
 ---
 
