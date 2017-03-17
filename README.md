@@ -240,6 +240,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Nozbe](https://nozbe.com/jobs/) | Everywhere (Remote) | Take-home exercise & interview with the team
 - [npm, Inc](https://npmjs.com/jobs) | Oakland, CA/remote | No technical challenges. Just interview conversations.
 - [numberly](https://www.numberly.com) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
+- [Nutshell](https://www.nutshell.com/jobs/) | Ann Arbor, MI, US | Email screen / take-home programming excercise ([public repo](https://github.com/nutshellcrm/join-the-team))
 - [Omada Health](https://www.omadahealth.com/jobs) | San Francisco, CA | Take home exercise and/or pair programming session.
 - [Ontame.io](https://ontame.io) | Copenhagen, Denmark | Take home exercise and specific role discussion
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
