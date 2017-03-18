@@ -295,6 +295,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Rakuten](https://jobs.rakuten.careers/careersection/rakuten_ext_cs/jobdetail.ftl?job=00000751&tz=GMT%2B09%3A00) | Tokyo, Japan | Discuss about relevant experience
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
 - [Reaktor](https://reaktor.com/careers) | New York, Amsterdam, Helsinki, Tokyo | Discussion, work samples from previous projects (work or hobby), take-home exercise if needed for further info
+- [RedCarpet](https://www.redcarpetup.com/jobs/) | New Delhi, India | Interview, work sample/take-home project and discussion/code reviews
 - [Rentify](https://www.rentify.com/jobs) | London, UK | Phone call, take home real-world project, on-site pair programming, product discussion
 - [RentoMojo](https://www.rentomojo.com/about/careers) | Bangalore, India | Short takehome project + phone interview
 - [Revlv](https://revlv.net) | Manila, Philippines | Discussion about developer skills, previous projects and experiences.
