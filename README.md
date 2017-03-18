@@ -182,6 +182,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Graphistry](https://www.graphistry.com/careers) | Oakland/SF, Remote | Engineering, culture, and product discussions, and for junior developers, choice of take home or code review.
 - [Gramercy Tech](http://www.gramercytech.com/) | New York, NY | Pair programming & discussion on-site
 - [grandcentrix](https://www.grandcentrix.net/jobs/) | Cologne, Germany | Take-home project, discussion on-site
+- [GTM Sportswear](https://gtmsportswear.com/careers) | Manhattan, KS / Remote | Remote pairing session, then a take-home test.
 - [Gusto](https://gusto.com/about/careers) | CA, CO
 - [Happy Team](https://happyteam.io/) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation
 - [Hashrocket](https://hashrocket.com/) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
