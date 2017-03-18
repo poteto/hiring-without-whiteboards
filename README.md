@@ -68,6 +68,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers/) | Bellevue, WA / Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
 - [Automattic](https://automattic.com/work-with-us/) | anywhere in the world | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
+- [AutoScout24](https://github.com/AutoScout24/hiring) | Munich, Germany | Skype interview followed by home assignment from our day-to-day business and then on-site interview including lunch with a team
 - [Avocarrot](https://www.avocarrot.com/company/) | Athens, Greece | on-site real world problem discussion and pair programming
 - [Axiacore](https://axiacore.com/) | Bogota, Colombia | We talk about on how is your process when solving problems.
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | NYC | Take-home exercises and pair-programming with the team.
