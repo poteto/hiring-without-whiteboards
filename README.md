@@ -12,7 +12,19 @@ Please open a PR to be added.
 ### Format
 
 ```
-- [Company or team name within company](https://jobspage) | location | what you do instead
+- [Company or team name within company](https://jobspage) | locations | what you do instead
+```
+
+Locations should be separated by a `/`, `;` or `&`. Locations should be formatted like so:
+
+```
+San Francisco, CA; Tokyo, Japan; Moscow, Russia
+```
+
+Good example:
+
+```
+-[MyCompany](https://example.com/jobs) | San Francisco, CA; Tokyo, Japan; Moscow, Russia | Take home project that resembles a problem MyCompany solves for, then discussion about the code in-person
 ```
 
 ### Duds
