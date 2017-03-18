@@ -371,6 +371,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [uSwitch](https://www.uswitch.com/vacancies/) | London, UK | Take-home project related to our business area, followed by pairing with developers to extend it
 
 ## V - X
+- [Valassis Digital](http://www.valassis.com/digital-advertising/) | Seattle, San Francisco, Michigan, Hamburg | Phone screen, on-site interview with group, paired whiteboard problem solving and discussion, take-home project and follow-up review
 - [Valuemotive](https://valuemotive.com/en/career/) | Helsinki, Finland | Code examples from previous projects (work or hobby)  or take-home exercise
 - [Varsity Tutors](https://www.varsitytutors.com/) | United States / Online / Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
 - [Vayu Technology](http://vayu.com.au) | Sydney & Kathmandu | Short interview, general programming questions and short take home challenge.
