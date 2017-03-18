@@ -370,6 +370,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [WeAreHive](http://www.wearehive.co.uk) | London | Just walk us through your best code or we give you a small real-world exercise to do at home.
 - [Webantic](https://webantic.co.uk/careers) | Manchester, UK | Basic TNA self-assessment and real-world problem-solving
 - [Webflow](https://webflow.com) | San Francisco & Remote | Short take-home challenge, followed by a paid 3-5 day freelance contract project
+- [Weedmaps](https://weedmaps.com/careers) | Irvine/Denver/Tucson/Spain & Remote | Phone screen, Group interview, and possible code review
 - [Wildbit](https://wildbit.com) | Philadelphia & Remote | Take-home project followed by interviews.
 - [Wimdu](http://wimdujobs.com/) | Berlin, Germany | Take-home project, then a pair-programming and discussion onsite/remote.
 - [WyeWorks](https://wyeworks.com) | Montevideo, Uruguay | Take-home project and discussion on-site
