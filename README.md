@@ -83,6 +83,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Bubblin Superbooks](https://www.bubbl.in/about) | US Remote | View code, projects, libraries or any other open source story that you have been a part of, a small take-home project with real code occasionally.
 - [ByBox](https://www.bybox.com/company/careers/software-developer/) | UK Remote | Phone interview followed by interview with devs (ideally in person but sometimes Skype) covering technical experience and coding exercise with real code.
 - [Canon Innovation Lab](https://canonlabs.io/#/) | Waterloo, ON, Canada | Series of interviews, go over technical background and past experiences, take-home project
+- [Capgemini UK Java Team](https://www.uk.capgemini.com/) | UK-wide | Technical telephone interview (30 minutes), take-home non-CompSci coding exercise (3-4 hours), face-to-face role-played consulting scenario involving a solution architecture and a delivery plan (two hours) 
 - [Casetext](https://casetext.com/jobs) | San Francisco, CA | Submit code sample for review/discussion, contract for one full day (paid)
 - [CASHLINK](https://cashlink.de) | Frankfurt, Germany | Skype/phone interview, take-home project
 - [Causeway](http://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work,  then face to face round to write small solutions to common problems in related field.
