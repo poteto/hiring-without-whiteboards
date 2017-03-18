@@ -227,7 +227,6 @@ See https://news.ycombinator.com/item?id=13874026
 - [Mavenlink](https://www.mavenlink.com/careers) | San Francisco, Irvine, Salt Lake City | On-site pairing with multiple engineers. Pairing excercises and pairing on company code.
 - [Maxwell Health](https://www.maxwellhealth.com/careers) | Boston, MA | Take-home exercise or pairing session with team. Then conversational meetings with members of the team.
 - [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
-- [Menlo Innovations](http://menloinnovations.com/) | Ann Arbor, MI | "Extreme Interviewing": multiple simultaneous applicants cooperate on exercises that show "kindergarten skills" and making your partner look awesome.
 - [Mention](https://mention.workable.com/) | Paris, FR | Take-home small exercise followed up by on site meetings with your future coworkers
 - [Mercatus](https://www.mercatus.com/company/careers/) | Toronto, Canada | Practical on-site project similar to daily work
 - [MixMax](https://mixmax.com/careers/) | San Francisco, CA | Takehome assignment purely based on their platform, followed by phone interview
