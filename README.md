@@ -208,6 +208,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [Intercom](https://www.intercom.com/careers) | San Francisco, Chicago, Dublin | Real-world technical design and problem discussion, pair programming on-site
 - [Interset](https://interset.com/careers/) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers
+- [iTrellis](http://itrellis.com/) | Seattle, WA | Phone screen, then a take-home project, then pairing (remote or on-site) with 3 developers on the take-home project.
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 
 ## J - L
