@@ -213,6 +213,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Litmus](https://litmus.com/careers#openings) | Remote | General technical questions, take-home code challenge, discussion, on-site programming session, meet & greet with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
 - [LoanZen](https://loanzen.in/team.html#Career) | Bengaluru, India | Initial phone interview about experience, a solve-at-home project based on the kind of work we do at our company, on-site interview discussing the submitted solution and a general discussion with the whole team
+- [Locastic](https://www.locastic.com/posao/) | Split, Croatia | Take-home code challenge, tehnical discussion & on-site programming session, meet & greet with the team
 - [Locaweb](https://www.locaweb.com.br/carreira/) | São Paulo, Brazil | Skype interview, take-home project and discussion on-site
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
 - [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote/) | Graz, Austria | Take-Home project, discussion on-site
