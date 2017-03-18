@@ -285,6 +285,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Pager](https://pager.com) | New York, Remote | Short phone interview, conversational interviews, take-home exercise & discussion
 - [PagerDuty](https://pagerduty.com/careers) | San Francisco, CA / Toronto, ON, CA | Google Hangout / on-site pair-programming sessions
 - [Palatinate Tech](https://tech.palatinategroup.com/) | London, UK | Hangout/Skype/phone followed by (normally) on-site pairing task
+- [Parabol](http://parabol.co) | New York; Los Angeles; Remote | Culture check followed by compensated, [open-source contribution](https://github.com/ParabolInc/action/projects) skills evaluation
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, BC, CA | Remote programming interview, on-site "meet the team"
 - [PeerStreet](https://info.peerstreet.com/careers/) | Los Angeles, CA | Phone, take home project & on-site to meet the team
