@@ -15,7 +15,7 @@ Please open a PR to be added.
 - [Company or team name within company](https://jobspage) | locations | what you do instead
 ```
 
-Locations should be separated by a `/`, `;` or `&`. Locations should be formatted like so:
+Locations **must** be city names that are separated by a `/`, `;` or `&`. Locations should be formatted like so:
 
 ```
 San Francisco, CA; Tokyo, Japan; Moscow, Russia
