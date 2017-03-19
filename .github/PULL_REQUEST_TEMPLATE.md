@@ -9,7 +9,8 @@ you complete the following checkboxes.
 
 - [ ] Follow the [format](https://github.com/poteto/hiring-without-whiteboards#format) prescribed in the readme
 - [ ] Add one company at a time
-- [ ] Do not attempt to sort other listings
+- [ ] Insert in alphabetical order
+- [ ] Do not sort other listings
 - [ ] (OPTIONAL) In your pull request message, add additional context on the interview process if necessary
 
 <!--
