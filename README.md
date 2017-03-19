@@ -84,6 +84,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Betterment](https://www.betterment.com/careers/) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
 - [Big Nerd Ranch](https://www.bignerdranch.com/about/careers/) | Atlanta, GA & Remote | Interviews and pair programming on an internal project or problem.
 - [BioConnect](https://www.bioconnect.com/company/careers/) | Toronto, Canada | Take-home assignment & discussion
+- [bitExpert AG](https://www.bitexpert.de/karriere/) | Mannheim, Germany | Interview with experience based technical questions
 - [Bleacher Report](http://bleacherreport.com) | San Francisco, CA, USA | Take-home project; on-site discussion about the project and meeting with different teams
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [blogfoster](https://github.com/blogfoster/join-the-engineering-team) | Berlin, Germany | Take-home project, discussion on-site
