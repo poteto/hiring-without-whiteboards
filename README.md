@@ -237,6 +237,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [LoanZen](https://loanzen.in/team.html#Career) | Bengaluru, India | Initial phone interview about experience, a solve-at-home project based on the kind of work we do at our company, on-site interview discussing the submitted solution and a general discussion with the whole team
 - [Locastic](https://www.locastic.com/posao) | Split, Croatia | Take-home code challenge, tehnical discussion & on-site programming session, meet & greet with the team
 - [Locaweb](https://www.locaweb.com.br/carreira) | São Paulo, Brazil | Skype interview, take-home project and discussion on-site
+- [LookBookHQ](http://www.lookbookhq.com/about/careers) | Toronto, Canada | On-site discussion, pair programming exercise
 - [Lydia](https://lydia-app.com/en/company/jobs) | Paris, FR | Mini take-home project, phone interview, discussion on-site
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
 - [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote) | Graz, Austria | Take-Home project, discussion on-site
