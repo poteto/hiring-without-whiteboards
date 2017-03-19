@@ -13,9 +13,9 @@ Please also:
 
 ## Add/Update/Remove <CompanyName>
 
-- [ ] I have read the [contribution guidelines](../CONTRIBUTING.md)
+- [ ] I have read the [contributing guidelines](../CONTRIBUTING.md)
 - [ ] I agree to the [Code of Conduct](../CODE_OF_CONDUCT.md)
-- [ ] I have followed the [format](https://github.com/poteto/hiring-without-whiteboards#format) prescribed in the readme
+- [ ] I have followed the [format](../CONTRIBUTING.md#format) prescribed in the contributing guidelines
 - [ ] (OPTIONAL) In your pull request message, add additional context on the interview process if necessary
 
 <!--
