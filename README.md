@@ -144,6 +144,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Emarsys](https://www.emarsys.com) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
 - [Endava](http://www.endava.com/en/Careers) | Multiple locations | On-site discussion about previous experience and technical questions about the target technologies.
 - [Enki](https://enki.com) | London, UK | Skype/phone interview followed by takehome project
+- [Ento.com](https://ento.com/blog/ento-interview-process-101/) | Melbourne, Australia | On-site interview to talk about your experiences and what you're looking for in your next role, followed by a take-home practical test relavent to the work you'll be undertaking at Ento.
 - [Ericsson](https://www.ericsson.com) | Dublin, Ireland | Skype/phone interview followed by Face 2 Face interview, discussions and architecture questions followed by final small project on a problem similar to daily work.
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers) | Luxembourg
 - [Euro Payment Group](http://www.europaymentgroup.com) | Frankfurt, Germany | Take-home project followed by face to face interview
