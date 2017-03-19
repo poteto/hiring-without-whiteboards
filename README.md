@@ -121,6 +121,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Contactlab](http://contactlab.com/en/careers/) | Milan, Italy | Recruiter interview, tech interview (technical background and experiences), both on-site.
 - [Contentful](https://www.contentful.com/careers/) | Berlin, Germany & SF, USA | Multiple interviews, discussion of technical background & live coding challenge (you can use the internet).
 - [ContentSquare](https://www.contentsquare.com/careers/) | Paris, France | Real-world challenges with open discussions.
+- [Cookpad](https://cookpad.com/us) | Tokyo; Bristol | Interviews, discussion of technical background and experiences, remotely pair with devs.
 - [Coorp Academy](https://www.coorpacademy.com/) | Paris, France | Technical interview as an open discussion
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
 - [Crowdstrike](https://jobs.jobvite.com/careers/crowdstrike/jobs) | US (Multiple), UK (London), Remote | Multiple interviews onsite or remote as appropriate followed by small take-home project.
