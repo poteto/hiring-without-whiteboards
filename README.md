@@ -206,6 +206,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Impraise](http://jobs.impraise.com) | Amsterdam, The Netherlands | Take home test, real world pair programming
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
+- [Inmar](https://www.inmar.com/careers/) | Winston-Salem, NC; Austin, TX & Remote | Take-home project and conversation-style interviews
 - [InQuicker](https://inquicker.com/) | Remote | Multiple chats with dev and product team members, code walkthrough with senior developers
 - [Instacart](https://careers.instacart.com/) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [Intercom](https://www.intercom.com/careers) | San Francisco, Chicago, Dublin | Real-world technical design and problem discussion, pair programming on-site
