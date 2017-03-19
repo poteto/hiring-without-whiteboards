@@ -1,8 +1,26 @@
 # Contributing Guidelines
 
-Thanks for contributing! Please adhere to the [Contributor Code of Conduct](/CODE_OF_CONDUCT.md).
+Thanks for contributing! Please adhere to the [Contributor Code of Conduct](/CODE_OF_CONDUCT.md). Please send a pull request if you have any [additions, updates](#additions-or-updates) or [removals](#removals).
 
-Please send a pull request if you have any [additions, updates](#additions-or-updates) or [removals](#removals). Pull requests will be accepted if:
+## Format
+
+```
+- [Company or team name within company](https://jobspage) | locations | what you do instead
+```
+
+Locations **must** be city names that are separated by a `/`, `;` or `&`. Locations should be formatted like so:
+
+```
+San Francisco, CA; Tokyo, Japan; Moscow, Russia
+```
+
+Good example:
+
+```
+- [MyCompany](https://example.com/jobs) | San Francisco, CA; Tokyo, Japan; Moscow, Russia | Take home project that resembles a problem MyCompany solves for, then discussion about the code in-person
+```
+
+Pull requests will be accepted if they follow the [format](#format) and:
 
 ## Additions or updates
 1. The pull request adheres to the repository's

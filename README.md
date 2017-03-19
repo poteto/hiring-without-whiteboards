@@ -1,4 +1,4 @@
-# Hiring without whiteboards
+# Hiring Without Whiteboards
 A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" interviews. Using sites like [HackerRank](https://www.hackerrank.com) _probably_ fall into that category and won't be accepted. The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid take home exercise.
 
 ### tl;dr
@@ -9,31 +9,17 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 Please open a PR to be added.
 
-### Format
-
-```
-- [Company or team name within company](https://jobspage) | locations | what you do instead
-```
-
-Locations **must** be city names that are separated by a `/`, `;` or `&`. Locations should be formatted like so:
-
-```
-San Francisco, CA; Tokyo, Japan; Moscow, Russia
-```
-
-Good example:
-
-```
-- [MyCompany](https://example.com/jobs) | San Francisco, CA; Tokyo, Japan; Moscow, Russia | Take home project that resembles a problem MyCompany solves for, then discussion about the code in-person
-```
-
 ### Duds
 
 If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a PR to remove them from this list.
 
-### I want to sort by X!
+### I want to sort/filter/group by X!
 
-See the [Airtable](https://airtable.com/shrA3j2eYrVWMBR0N). Additions to this document that are properly formatted will automatically be pushed to a [raw table](https://airtable.com/shrfA5Gs2TQZWGklr). After it is validated (currently manual), it is added to the Airtable. You can see the API [here](https://github.com/poteto/hww-api) (and contribute!)
+- [Alphabetical](https://airtable.com/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh)
+- [Geographical](https://airtable.com/shr31pj5a2GaRf6WY/tbluCbToxQ2knSLhh)
+- [Remote only](https://airtable.com/shr3nTO1nkraVRYY4/tbluCbToxQ2knSLhh)
+
+Additions to this document that are properly formatted will automatically be pushed to a [raw table](https://airtable.com/shrfA5Gs2TQZWGklr). After it is validated (currently manual), it is added to the Airtable. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
 
 ### Discussion
 
