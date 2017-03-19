@@ -113,6 +113,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Clockwork Consulting](https://www.cwconsult.dk/) | Copenhagen, Denmark | Interviews, discussion of technical background and experiences.
 - [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences.
 - [Contentful](https://www.contentful.com/careers/) | Berlin, Germany & SF, USA | Multiple interviews, discussion of technical background & live coding challenge (you can use the internet).
+- [Cookpad](https://cookpad.com/us) | Tokyo, Bristol | Interviews, discussion of technical background and experiences, remotely pair with devs.
 - [Clubhouse](https://www.clubhouse.io/hiring) | New York, NY & Remote | Phone interview, followed by onsite discussions and pair programming
 - [Cognitect, Inc.](https://www.cognitect.com/jobs) | Distributed! | Phone interview followed by pair programming.
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
