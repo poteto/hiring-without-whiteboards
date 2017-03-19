@@ -19,7 +19,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Geographical](https://airtable.com/shr31pj5a2GaRf6WY/tbluCbToxQ2knSLhh)
 - [Remote only](https://airtable.com/shr3nTO1nkraVRYY4/tbluCbToxQ2knSLhh)
 
-Additions to this document that are properly formatted will automatically be pushed to a [raw table](https://airtable.com/shrfA5Gs2TQZWGklr). After it is validated (currently manual), it is added to the Airtable. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
+Additions to this document that are properly formatted will automatically be pushed and added to the Airtable. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
 
 ### Discussion
 
