@@ -360,6 +360,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [StreetTeam](https://getstreetteam.com/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
 - [Subvertical (VerticalChange)](https://verticalchange.com/job_posts) | Anywhere, Remote | Phone screening, live pair programming & personal project code review
 - [Superplayer](https://superplayer.fm/) | Porto Alegre, Brazil | Skype/On-site interview, take-home project and interview with CTO and CEO
+- [SVTi (Sveriges Television)](http://svti.svt.se/) | Stockholm, Sweden | On-site interview, take-home project, follow up interview where you walk through how you chose to solve the task.
 - [SweetIQ](https://sweetiq.com/about/careers/) | Montreal, Canada | Discussion and general, high level questions
 - [SysGarage](http://sysgarage.com/) | Buenos Aires, Argentina | Take-home project and real world pair programming
 - [tails.com](https://tails.com/careers/) | Richmond (London), UK | Live pair programming or take home project with review
