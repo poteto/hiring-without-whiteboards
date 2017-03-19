@@ -1,0 +1,38 @@
+{
+  "name": "hiring-without-whiteboards",
+  "version": "0.1.0",
+  "description": "Companies that don't have a broken hiring process",
+  "main": "index.js",
+  "engines": {
+    "node": "7.x"
+  },
+  "scripts": {
+    "test": "node_modules/remark-cli/cli.js . -f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poteto/hiring-without-whiteboards.git"
+  },
+  "keywords": [
+    "hiring"
+  ],
+  "author": "Lauren Tan <arr@sugarpirate.com> (http://www.sugarpirate.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/poteto/hiring-without-whiteboards#readme",
+  "dependencies": {
+    "remark-cli": "^3.0.0",
+    "remark-lint": "^6.0.0",
+    "remark-lint-alphabetize-lists": "^2.0.0",
+    "remark-preset-lint-recommended": "^2.0.0"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended",
+      "lint-alphabetize-lists",
+      [
+        "remark-lint-list-item-indent",
+        false
+      ]
+    ]
+  }
+}
