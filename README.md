@@ -7,7 +7,7 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 <a href="https://twitter.com/dhh/status/834146806594433025?lang=en"><img src="https://i.imgur.com/xJV6cF4.png" width=500 /></a>
 
-Please open a PR to be added.
+Please open a PR to be added!
 
 ### Format
 
