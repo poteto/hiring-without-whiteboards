@@ -323,7 +323,6 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [RedCarpet](https://www.redcarpetup.com/jobs/) | New Delhi, India | Interview, work sample/take-home project and discussion/code reviews
 - [Rentify](https://www.rentify.com/jobs) | London, UK | Phone call, take home real-world project, on-site pair programming, product discussion
 - [RentoMojo](https://www.rentomojo.com/about/careers) | Bangalore, India | Short takehome project + phone interview
-- [Revlv](https://revlv.net) | Manila, Philippines | Discussion about developer skills, previous projects and experiences.
 - [ReSpark](https://www.respark.co.uk) | London, UK | Phone conversation followed by on-site interview w/ task relevant to daily role.
 - [RestaurantOps](https://www.restaurantops.co) | Scottsdale, AZ | Take Home Project & pair programming session
 - [Revlv](https://revlv.net) | Manila, Philippines | Discussion about developer skills, previous projects and experiences.
