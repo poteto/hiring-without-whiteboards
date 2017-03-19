@@ -33,11 +33,11 @@ If you've been through an interview with one of these companies recently, and yo
 
 ### I want to sort by X!
 
-See https://airtable.com/shrA3j2eYrVWMBR0N. Additions to this document that are properly formatted will automatically be pushed to a [raw table](https://airtable.com/shrfA5Gs2TQZWGklr). After it is validated (currently manual), it is added to the Airtable. You can see the API [here](https://github.com/poteto/hww-api) (and contribute!)
+See the [Airtable](https://airtable.com/shrA3j2eYrVWMBR0N). Additions to this document that are properly formatted will automatically be pushed to a [raw table](https://airtable.com/shrfA5Gs2TQZWGklr). After it is validated (currently manual), it is added to the Airtable. You can see the API [here](https://github.com/poteto/hww-api) (and contribute!)
 
 ### Discussion
 
-See https://news.ycombinator.com/item?id=13874026
+See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 
 ---
 
@@ -105,7 +105,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
 - [Chatgrape Web Frontend Team](https://chatgrape.com/de/jobs/javascript-developer/) | Vienna, Austria or Remote | Github or code samples -> Pair programming -> Skype/phone interview
-- [Checkout 51](https://checkout51.com/jobs) | Toronto, Canada | Phone conversation [15-20 minutes] followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
+- [Checkout 51](https://checkout51.com/jobs) | Toronto, Canada | Phone conversation (15-20 minutes) followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
 - [CircleCI](https://circleci.com) | San Francisco, CA / Remote | Take-home project and discussion, followed by on-site interview that includes pair programming on actual CircleCI bugs/feature requests.
 - [City of Boston's Analytics Team](https://boston.gov/analytics) | Boston, MA | Take-home project and in-person or phone/Skype interviews
 - [City of Philadelphia's Office of Open Data & Digital Transformation](https://beta.phila.gov/departments/office-of-open-data-and-digital-transformation/jobs/) | Philadelphia, PA | Take-home project
@@ -123,7 +123,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [Coorp Academy](https://www.coorpacademy.com/) | Paris, France | Technical interview as an open discussion
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
-- [Crowdstrike](https://jobs.jobvite.com/careers/crowdstrike/jobs) | US (Multiple), UK (London), Remote | [UI Team] Multiple interviews onsite or remote as appropriate followed by small take-home project.
+- [Crowdstrike](https://jobs.jobvite.com/careers/crowdstrike/jobs) | US (Multiple), UK (London), Remote | Multiple interviews onsite or remote as appropriate followed by small take-home project.
 - [Culture Foundry](https://www.culturefoundry.com) | US | Paid take-home project
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
 
@@ -417,3 +417,5 @@ See https://news.ycombinator.com/item?id=13874026
 
 ## Also see:
 - [They Whiteboarded Me!](http://they.whiteboarded.me/)
+
+[![Build Status](https://travis-ci.org/poteto/hiring-without-whiteboards.svg?branch=master)](https://travis-ci.org/poteto/hiring-without-whiteboards)
