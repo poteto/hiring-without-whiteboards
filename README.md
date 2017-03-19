@@ -24,7 +24,7 @@ San Francisco, CA; Tokyo, Japan; Moscow, Russia
 Good example:
 
 ```
--[MyCompany](https://example.com/jobs) | San Francisco, CA; Tokyo, Japan; Moscow, Russia | Take home project that resembles a problem MyCompany solves for, then discussion about the code in-person
+- [MyCompany](https://example.com/jobs) | San Francisco, CA; Tokyo, Japan; Moscow, Russia | Take home project that resembles a problem MyCompany solves for, then discussion about the code in-person
 ```
 
 ### Duds
