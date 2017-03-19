@@ -113,6 +113,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Civis Analytics](https://www.civisanalytics.com/careers/) | Chicago, IL | Take-home project and discussion via Skype, followed by pair programming exercise
 - [Clockwork Consulting](https://www.cwconsult.dk/) | Copenhagen, Denmark | Interviews, discussion of technical background and experiences.
 - [Cloudistics](https://www.cloudistics.com/careers/) | Reston, VA | Multiple interviews, discussion of technical background and experiences.
+- [Cookpad](https://cookpad.com/us) | Tokyo; Bristol | Interviews, discussion of technical background and experiences, remotely pair with devs.
 - [Clubhouse](https://www.clubhouse.io/hiring) | New York, NY & Remote | Phone interview, followed by onsite discussions and pair programming
 - [Cognitect, Inc.](https://www.cognitect.com/jobs) | Distributed! | Phone interview followed by pair programming.
 - [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
