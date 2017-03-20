@@ -266,6 +266,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Nord Software](https://www.nordsoftware.com/en/jobs) | Helsinki, Tampere, Stockholm | Take-home exercise & interview with CEO and senior developer
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
+- [Novoda](https://novoda.com/hiring) | London, Liverpool, Berlin, Barcelona & Remote | 2 x Pairing sessions & conversational interviews [(public repo)](https://github.com/novoda/dojos)
 - [Novus Partners](https://www.novus.com/jobs) | New York, NY | Take-home exercise & on-site exercises (choice of laptop or whiteboard)
 - [Nozbe](https://nozbe.com/jobs) | Everywhere (Remote) | Take-home exercise & interview with the team
 - [npm, Inc](https://npmjs.com/jobs) | Oakland, CA/remote | No technical challenges. Just interview conversations.
