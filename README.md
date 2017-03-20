@@ -124,6 +124,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 ## D - F
 - [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
 - [DataCentred](http://www.datacentred.co.uk/careers) | Manchester, UK & Remote | Pair programming with team, project to work on at home
+- [Datascope](https://datascope.co/careers) | Chicago, IL | Take home exploratory data project with public data, discussion about the project via video chat, and in-person office visit.
 - [Datlinq](http://www.datlinq.com/en/vacancies) | Rotterdam, Netherlands | Take-home project based on actual work on data done by the team and in-person or Skype interviews
 - [Def Method](https://www.defmethod.com) | NYC, NY | Take home test, pair programming with dev on test and client work, receive offer same day as pairing interview
 - [Deliveroo](https://deliveroo.co.uk/careers) | London, UK & Remote | Short take-home project and pair programming
