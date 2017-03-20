@@ -335,8 +335,8 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Showmax](https://blog.showmax.com/engineering-careers) | Beroun & Prague, Czech Republic / Remote | Take home project, then a pair-programming and discussion onsite / Hangouts round.
 - [ShuttleCloud](https://shuttlecloud.com/jobs) | Chicago, IL / Madrid, Spain | Take-home project, then on-site code walk through and a real world problem discussion.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers) | Fort Worth, TX, USA | Takehome code challenge and review
-- [Sixt4.io](http://sixt4.io/jobs) | Toronto, On, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Simply Business](https://www.simplybusiness.co.uk/about-us/careers/tech/) | London, UK / Remote | Three stage, one day interview with quick feedback. One of the stages is 1.5h pair-programming session, where interviewee is assigned a task and interviewing developer plays role of Product Owner.
+- [Sixt4.io](http://sixt4.io/jobs) | Toronto, On, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Small Improvements](https://www.small-improvements.com/careers) | Berlin, Germany
 - [Social Tables](http://www.socialtables.com) | Washington D.C. | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
