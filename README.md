@@ -207,6 +207,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 
 ## J - L
 - [Jamasoftware](http://www.jamasoftware.com) | Portland, OR | Initial phone screen with hiring manager. In person pairing on project similar to day-to-day work with a separate cultural interview
+- [Jamit Labs](https://jamitlabs.com/jobs) | Karlsruhe, Germany | Phone interview or on-site interview & take-home code challenge or on-site programming session
 - [Jitbit](https://www.jitbit.com) | Remote & London (UK) & Tel-Aviv (Israel) | Take-home real-world task
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
