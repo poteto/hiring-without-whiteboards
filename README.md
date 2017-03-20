@@ -335,6 +335,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Showmax](https://blog.showmax.com/engineering-careers) | Beroun & Prague, Czech Republic / Remote | Take home project, then a pair-programming and discussion onsite / Hangouts round.
 - [ShuttleCloud](https://shuttlecloud.com/jobs) | Chicago, IL / Madrid, Spain | Take-home project, then on-site code walk through and a real world problem discussion.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers) | Fort Worth, TX, USA | Takehome code challenge and review
+- [SimpliField](http://www.welcometothejungle.co/companies/simplifield/jobs) | Lille, France | Interview with the CTO and the developer team
 - [Sixt4.io](http://sixt4.io/jobs) | Toronto, On, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Small Improvements](https://www.small-improvements.com/careers) | Berlin, Germany
