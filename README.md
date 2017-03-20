@@ -52,6 +52,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
 - [Articulate](https://articulate.com/company/careers) | 100% remote | Take-home project & pair program on a problem similar to daily work
 - [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
+- [ASOS](https://jobs.asos.com/epostings/index.cfm?fuseaction=app.jobsearch&company_id=30071&version=1&byBusinessUnit=5) | London, UK | Take home or in-person code refactoring exercise, in-person walk-though of solution including software crafstmanship principles and design decisions, in-person freestyle architecture walk-through
 - [aTech Media](https://atech.media) | UK | Face to face interview, review of existing open source contributions or, if none are available, asked to write a library for something that interests them
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers) | Bellevue, WA / Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
 - [Automattic](https://automattic.com/work-with-us) | anywhere in the world | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
