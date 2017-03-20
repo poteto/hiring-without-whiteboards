@@ -424,6 +424,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [1000mercis group](http://www.1000mercis.com/#!/careers/?lang=en) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
 - [3D Hubs](https://3dhubs.com/jobs) | Amsterdam, The Netherlands | Take-home code challenge from our product's domain followed by discussion remote/on-site, sometimes do an additional on-site pair programming session.
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
+- [500friends](http://500friends.com/who-we-are/careers) | San Francisco, CA; Remote | Take home challenge followed by onsite expansion of the submission and high level discussions (design exercise or overview of past projects)
 - [8th Light](https://8thlight.com) | Chicago, London, Los Angeles, New York | Take home code challenge, discussion, pair programming session
 - [Yhat](https://www.yhat.com/company) | Brooklyn, NY | Demo something cool you built and walk us thru the code + design decisions
 - [YLD](https://yld.breezy.hr) | London, UK | Take home-code challenge, pair-programming session and discussion about past experience
