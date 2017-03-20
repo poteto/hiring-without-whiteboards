@@ -193,6 +193,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Hill Holliday](http://www.hhcc.com/careers) | Boston, MA | Take-home project on GitHub, in-person interview / culture fit interview
 - [Hireology](http://www.hireology.com/careers) | Chicago/Remote | Walk through personal/work projects and discuss experience
 - [HolidayPirates](https://holidaypirates.group/en/jobs) | Berlin, Germany | Take-home project, discussion via Skype or on-site
+- [Home Chef](https://www.homechef.com/careers) | Chicago/Remote | Get-to-know-you meeting with the team, followed by a half-day collaborative coding session
 - [HoxHunt](https://jobs.hoxhunt.com) | Helsinki, Finland | Take-home project, pair programming on-site
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 - [Icalia Labs](http://icalialabs.com) | Monterrey, Mexico | Pair programming, cultural fit session
