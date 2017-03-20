@@ -187,7 +187,6 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Graphistry](https://www.graphistry.com/careers) | Oakland/SF, Remote | Engineering, culture, and product discussions, and for junior developers, choice of take home or code review.
 - [Gruntwork](http://www.gruntwork.io) | Remote | Paid, take-home project with pair coding
 - [GTM Sportswear](https://gtmsportswear.com/careers) | Manhattan, KS / Remote | Remote pairing session, then a take-home test.
-- [Gusto](https://gusto.com/about/careers) | CA, CO
 - [Happy Team](https://happyteam.io) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation
 - [Happypie](http://www.happypie.com) | Uppsala, Sweden | Takehome excercise with code review after, in-person interview
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
