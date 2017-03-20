@@ -375,7 +375,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Telus Digital](https://labs.telus.com) | Toronto & Vancouver, Canada | Discuss knowledge and interest, explore previous work, pair with developers when possible, alternatively take home project.
 - [Ten Thousand Coffees](https://tenthousandcoffees.com) | Toronto, Canada | Take home project, then explain how you solved the project
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
-- [theScore](http://mobile.thescore.com/careers) | Toronto, Canada; Remote | Coding challenge & systems design challenge
+- [theScore](http://mobile.thescore.com/careers) | Toronto, Canada | Coding challenge & systems design challenge
 - [Thinslices](http://www.thinslices.com) | Iasi, Romania | Takehome exercise & in person pair programming on a simple Kata.
 - [thoughtbot](https://thoughtbot.com/jobs) | Multiple locations in US and UK | [Our interview process](https://thoughtbot.com/playbook/our-company/hiring#interviewing)
 - [ThoughtWorks](https://www.thoughtworks.com/careers) | Multiple locations in every continent | Interviews with ThoughtWorkers of diverse backgrounds and roles; take home assignment followed by in person pairing session.
