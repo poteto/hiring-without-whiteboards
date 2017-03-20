@@ -292,6 +292,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [The Outline](https://boards.greenhouse.io/theoutline) | NYC | Take-home exercise
 
 ## P - R
+- [PACE Telematics](https://www.pace.car/jobs) | Karlsruhe, Germany | Culture and mindset check, on-site meet and great, small code challenge to see development style and strategy
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 - [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
 - [Pager](https://pager.com) | New York, Remote | Short phone interview, conversational interviews, take-home exercise & discussion
