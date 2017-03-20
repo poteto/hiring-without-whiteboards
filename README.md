@@ -188,7 +188,6 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Graphistry](https://www.graphistry.com/careers) | Oakland/SF, Remote | Engineering, culture, and product discussions, and for junior developers, choice of take home or code review.
 - [Gruntwork](http://www.gruntwork.io) | Remote | Paid, take-home project with pair coding
 - [GTM Sportswear](https://gtmsportswear.com/careers) | Manhattan, KS / Remote | Remote pairing session, then a take-home test.
-- [Gusto](https://gusto.com/about/careers) | CA, CO
 - [Happy Team](https://happyteam.io) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation
 - [Happypie](http://www.happypie.com) | Uppsala, Sweden | Takehome excercise with code review after, in-person interview
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
@@ -264,6 +263,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX | Hyderabad, India
 - [Mutual of Omaha](http://www.mutualofomaha.com/careers) | Omaha, NE, USA | Panel Style Interviews analyzing problem solving, ability to adapt well to change, and interpersonal communication skills.
 - [Mutually Human Software](https://www.mutuallyhuman.com) | MI, OH, WA | Collaborative problem analysis and design exercise, pairing exercise
+- [Nanobox](https://nanobox.io) | Lehi, UT; Remote | A phone/video/person-to–person interview with a look at past projects (github, bitbucket, source code, etc.)
 - [Nedap](http://lifeatnedap.com/vacatures) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise, series of real-world interviews with engineers, HR, engineering managers and our director.
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
@@ -326,6 +326,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Rakuten](https://jobs.rakuten.careers/careersection/rakuten_ext_cs/jobdetail.ftl?job=00000751&tz=GMT%2B09%3A00) | Tokyo, Japan | Discuss about relevant experience
 - [Rapyuta Robotics](http://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
+- [Razorpay](https://razorpay.com/jobs) | Bangalore, India | Phone screen, On-site pair programming, and ocassionally a take home project.
 - [Reaktor](https://reaktor.com/careers) | New York, Amsterdam, Helsinki, Tokyo | Discussion, work samples from previous projects (work or hobby), take-home exercise if needed for further info
 - [RedCarpet](https://www.redcarpetup.com/jobs) | New Delhi, India | Interview, work sample/take-home project and discussion/code reviews
 - [Rentify](https://www.rentify.com/jobs) | London, UK | Phone call, take home real-world project, on-site pair programming, product discussion
