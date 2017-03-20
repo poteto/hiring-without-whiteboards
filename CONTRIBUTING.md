@@ -5,7 +5,7 @@ Thanks for contributing! Please adhere to the [Contributor Code of Conduct](/COD
 ## Format
 
 ```
-- [Company or team name within company](https://jobspage) | locations | what you do instead
+- [Company or team name within company](https://jobspage) | locations | description of interview process
 ```
 
 Locations **must** be city names that are separated by a `/`, `;` or `&`. Locations should be formatted like so:
