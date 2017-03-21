@@ -225,6 +225,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [Kayako](https://www.kayako.com) | London, UK / Gurgaon, India | Take-home assignment, series of experience based interviews, cultural fit assessment
+- [Keymetrics](https://keymetrics.io) | Paris, France | Phone Interview, Take-home project based on our [API](https://github.com/keymetrics/keymetrics-api), IRL meeting with the whole team
 - [Kindred Group, Native Apps Team](https://careers.kindredplc.com) | Stockholm SE, London UK | On-site/Skype programming task, Interview
 - [Kiwi.com](https://code.kiwi.com) | Brno, Czech Republic | Phone Interview, Take-home projects, On-site code review & interview
 - [Koddi Inc.](http://www.koddi.com/open-positions) | Fort Worth, TX | Phone Interview(s), take-home project, on-site interview
