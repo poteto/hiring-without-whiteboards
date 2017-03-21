@@ -175,6 +175,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [FreeAgent](https://www.freeagent.com/company/careers) | Edinburgh, UK | Take-home project, pair programming, discussion and interviews
 - [Freeletics](https://www.freeletics.com/en/corporate/jobs) | Munich, Germany | Small real-world challenge, multiple interviews on-site/remote and social gathering with team.
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
+- [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
 
 ## G - I
 - [GatherContent](https://gathercontent.com/careers/designer) | Remote (UK) | Culture-first interviews, pair programming and remote, informal technical discussions
@@ -225,6 +226,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Kiwi.com](https://code.kiwi.com) | Brno, Czech Republic | Phone Interview, Take-home projects, On-site code review & interview
 - [Koddi Inc.](http://www.koddi.com/open-positions) | Fort Worth, TX | Phone Interview(s), take-home project, on-site interview
 - [Kongregate](http://www.kongregate.com/jobs) | Portland, OR | Phone screening. Take home project. On-site pairing and conversational technical interviews.
+- [Korbit](https://www.korbit.co.kr/about/jobs) | Seoul, South Korea | Take home assignment followed by on-site code review and interview
 - [Landing.jobs](https://landing.jobs/at/landing-jobs) | Lisbon, Portugal | Interviews (in-person or remote), Take home coding project
 - [Lanetix](http://engineering.lanetix.com) | San Francisco, CA | [Our Hiring Process](https://engineering.lanetix.com/2015-10-20/hiring-process)
 - [Launch Academy](https://launchacademy.com/careers) | Boston, Philadelphia | Nontechnical phone screen, pair programming with team member, and potentially a "guest lecture" for our students
