@@ -175,6 +175,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [FreeAgent](https://www.freeagent.com/company/careers) | Edinburgh, UK | Take-home project, pair programming, discussion and interviews
 - [Freeletics](https://www.freeletics.com/en/corporate/jobs) | Munich, Germany | Small real-world challenge, multiple interviews on-site/remote and social gathering with team.
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
+- [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
 
 ## G - I
 - [GatherContent](https://gathercontent.com/careers/designer) | Remote (UK) | Culture-first interviews, pair programming and remote, informal technical discussions
