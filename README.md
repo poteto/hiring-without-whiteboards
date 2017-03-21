@@ -167,6 +167,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Exoscale](https://exoscale.ch) | Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [F(x)](https://fdex.com.br) São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
 - [FATMAP](https://www.fatmap.com) | London, Berlin, Vilnius | Skype discussion, Take-home project, Face to face
+- [Fauna](https://fauna.com) | San Francisco, CA / Remote | Take home project, then follow up with interviews on-site or remote. Interviews are both technical and non-technical. Technical interviews comprehend the scope of the home project.
 - [Feather](https://feather-cfm.com) | Remote | Take-home challenge, portfolio discussion & team meeting
 - [Findy](https://blog.findy.us/findy-saiyo) | Tokyo, Japan | Tech interview + On-site discussion
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
