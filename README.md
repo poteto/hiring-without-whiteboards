@@ -355,6 +355,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Sahaj Software Solutions](https://www.sahajsoft.com) | Bangalore & Chennai (India), San Jose (USA) | Take home code + Pairing + Discussion
 - [Salesforce.org Tech & Products](http://www.salesforce.org) | North America (Remote) | Phone screen, hands-on programming test solving real-world problems, Google Hangouts video sessions with engineers
 - [SC5 Online](https://sc5.io/careers) | Helsinki & Jyväskylä, Finland | Take-home assignment (intentionally short, takes at most an hour to complete), discussion and review assignments
+- [Sensor Tower](https://sensortower.com/jobs) | San Francisco, CA | Phone call, on-site interview including discussion about projects/skills and a short real-world programming challenge
 - [Setapp Sp. z o.o.](https://setapp.pl/career) | Poznan, Poland | Online/face-to-face discussion with developers about everyday programming dilemmas & reviewing your own code
 - [Shopify](https://www.shopify.com/careers) | Canada
 - [Showmax](https://blog.showmax.com/engineering-careers) | Beroun & Prague, Czech Republic / Remote | Take home project, then a pair-programming and discussion onsite / Hangouts round.
