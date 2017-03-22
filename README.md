@@ -1,17 +1,20 @@
 # Hiring Without Whiteboards
-A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" interviews. Using sites like [HackerRank](https://www.hackerrank.com) _probably_ fall into that category and won't be accepted. The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid take home exercise.
+
+A listing of companies (or teams) that don't do "whiteboard" interviews. "Whiteboards" is used as a metaphor, and is a _symbol_ for the kinds of CS trivia questions that are associated with bad interview practices. Whiteboards are not bad – CS trivia questions are. Using sites like HackerRank/LeetCode _probably_ fall into a similar category.
+
+The companies and teams listed here use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid take home exercise. Read (and contribute to) [our recommendations](RECOMMENDATIONS.md) for ways to conduct better interviews.
 
 ### tl;dr
-- Discussing a real world problem with the help of a whiteboard is 👍
-- Solving basic CS questions, technical puzzles, riddles, brainteasers (with or without whiteboard) is 👎
+- Discussing a real world problem (with or without whiteboard) is 👍
+- Solving CS trivia, technical puzzles, riddles, brainteasers (with or without whiteboard) is 👎
 
-<a href="https://twitter.com/dhh/status/834146806594433025?lang=en"><img src="https://i.imgur.com/xJV6cF4.png" width=500 /></a>
+<a href="https://twitter.com/dhh/status/834146806594433025?lang=en"><img src="https://i.imgur.com/xJV6cF4.png" width="500" /></a>
 
-Please open a PR to be added.
+Please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to be added.
 
 ### Duds
 
-If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a PR to remove them from this list.
+If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to remove them from this list.
 
 ### I want to sort/filter/group by X!
 
