@@ -386,6 +386,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [Telus Digital](https://labs.telus.com) | Toronto & Vancouver, Canada | Discuss knowledge and interest, explore previous work, pair with developers when possible, alternatively take home project.
 - [Ten Thousand Coffees](https://tenthousandcoffees.com) | Toronto, Canada | Take home project, then explain how you solved the project
+- [Tesco PLC](https://www.tesco.com) | London, United Kingdom | Pair programming and casual hypothetical system design discussion
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
 - [theScore](http://mobile.thescore.com/careers) | Toronto, Canada | Coding challenge & systems design challenge
 - [Thinslices](http://www.thinslices.com) | Iasi, Romania | Takehome exercise & in person pair programming on a simple Kata.
