@@ -202,6 +202,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [grandcentrix](https://www.grandcentrix.net/jobs) | Cologne, Germany | Take-home project, discussion on-site
 - [Graphcool](https://www.graph.cool) | Berlin, Germany | On-site pair programming of a small, isolated real world task
 - [Graphistry](https://www.graphistry.com/careers) | Oakland/SF, Remote | Engineering, culture, and product discussions, and for junior developers, choice of take home or code review.
+- [Grok Interactive](https://www.grok-interactive.com) | San Antonio, TX | Take-home project with code review and a follow-up in-person interview.
 - [Gruntwork](http://www.gruntwork.io) | Remote | Paid, take-home project with pair coding
 - [GTM Sportswear](https://gtmsportswear.com/careers) | Manhattan, KS / Remote | Remote pairing session, then a take-home test.
 - [Happy Team](https://happyteam.io) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation
