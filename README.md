@@ -164,7 +164,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [elmah.io](https://elmah.io) | Aarhus, Denmark / Remote | Discussion about code and looking at hobby projects (if any)
 - [eMarketer](https://goo.gl/N7SMKl) | New York, NY | Short phone interview, then come in and meet the team, check out our space, and have a discussion with team members about real-world problems
 - [Emarsys](https://www.emarsys.com) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
-- [Endava](http://www.endava.com/en/Careers) | Multiple locations | On-site discussion about previous experience and technical questions about the target technologies.
+- [Endava](http://www.endava.com/en/Careers) | Belgrade, Serbia; Bucharest, Romania; Chisinau, Moldova; Cluj-Napoca, Romania; Iasi, Romania; Pitesti, Romania; Skopje, Macedonia; Sofia, Bulgaria; Frankfurt, Germany; Glasgow, Scotland; Hilversum, Netherlands; London, UK; Oxford, UK; Bogota, Colombia; Atlanta, GA; New Jersey, NJ; New York, NY | On-site discussion about previous experience and technical questions about the target technologies.
 - [Enki](https://enki.com) | London, UK | Skype/phone interview followed by takehome project
 - [Ento.com](https://ento.com/blog/ento-interview-process-101) | Melbourne, Australia | On-site interview to talk about your experiences and what you're looking for in your next role, followed by a take-home practical test relevant to the work you'll be undertaking at Ento.
 - [Ericsson](https://www.ericsson.com) | Dublin, Ireland | Skype/phone interview followed by Face 2 Face interview, discussions and architecture questions followed by final small project on a problem similar to daily work.
