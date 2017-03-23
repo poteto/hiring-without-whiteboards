@@ -237,6 +237,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
+- [Kahoot!](https://www.getkahoot.com/jobs) | London, UK / Oslo, Norway | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Kayako](https://www.kayako.com) | London, UK / Gurgaon, India | Take-home assignment, series of experience based interviews, cultural fit assessment
 - [Keymetrics](https://keymetrics.io) | Paris, France | Phone Interview, Take-home project based on our [API](https://github.com/keymetrics/keymetrics-api), IRL meeting with the whole team
 - [Kindred Group, Native Apps Team](https://careers.kindredplc.com) | Stockholm SE, London UK | On-site/Skype programming task, Interview
@@ -287,6 +288,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Mutual of Omaha](http://www.mutualofomaha.com/careers) | Omaha, NE, USA | Panel Style Interviews analyzing problem solving, ability to adapt well to change, and interpersonal communication skills.
 - [Mutually Human Software](https://www.mutuallyhuman.com) | MI, OH, WA | Collaborative problem analysis and design exercise, pairing exercise
 - [Nanobox](https://nanobox.io) | Lehi, UT; Remote | A phone/video/person-to–person interview with a look at past projects (github, bitbucket, source code, etc.)
+- [Native Instruments](https://www.native-instruments.com) | Berlin, Germany | Takehome programming assignment and personal interviews with part of the hiring team.
 - [Nedap](http://lifeatnedap.com/vacatures) | Groenlo, the Netherlands/remote | A simple conversation, human to human and a small on-site project
 - [Netflix Enterprise Platforms](https://jobs.netflix.com/jobs/861237) | Los Gatos, CA | Takehome exercise, series of real-world interviews with engineers, HR, engineering managers and our director.
 - [Netguru](https://www.netguru.co/career) | Poland/Remote | Takehome exercise & pair programming session
@@ -312,6 +314,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [O'Reilly Media](https://oreilly.com/jobs) | Sebastopol, CA; Boston, MA / remote | Phone conversation, take-home exercise or pair programming session, team interview, all via Google Hangout
 - [Objective, Inc.](https://www.objectiveinc.com/careers) | Salt Lake City, UT | Take-home programming exercise, then onsite friendly chat with team
 - [Omada Health](https://www.omadahealth.com/jobs) | San Francisco, CA | Take home exercise and/or pair programming session.
+- [Onfido](https://onfido.com/jobs) | London, UK; Lisbon, Portugal | Take-home exercise and on-site interview/discussion with potential team
 - [Ontame.io](https://ontame.io) | Copenhagen, Denmark | Take home exercise and specific role discussion
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
@@ -330,6 +333,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [PagerDuty](https://pagerduty.com/careers) | San Francisco, CA / Toronto, ON, CA | Google Hangout / on-site pair-programming sessions
 - [Palatinate Tech](https://tech.palatinategroup.com) | London, UK | Hangout/Skype/phone followed by (normally) on-site pairing task
 - [Parabol](http://parabol.co) | New York; Los Angeles; Remote | Culture check followed by compensated, [open-source contribution](https://github.com/ParabolInc/action/projects) skills evaluation
+- [Pariveda Solutions](http://parivedasolutions.com) | Dallas, TX / Houston, TX / Atlana, GA / Washington D.C / New York, NY / Chicago, IL / San Francisco, CA / Seattle, WA / Los Angeles, CA | Personality assessment (Predictive Index) and case study. Programming aptitude test (language independent) for college hires.
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, BC, CA | Remote programming interview, on-site "meet the team"
 - [PeerStreet](https://info.peerstreet.com/careers) | Los Angeles, CA | Phone, take home project & on-site to meet the team
@@ -466,6 +470,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
 - [Yoyo Wallet](http://yoyowallet.com) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
 - [YunoJuno](http://www.yunojuno.com) | London, UK | Code challenge based on a realistic feature request on a real open-source package created and used at YunoJuno; phone/video interview with members of the Product team to explore technical background, experiences, interests, cultural fit; on-site interview, usually with Product Manager and CTO
+- [Zenefits (UI Team)](https://www.zenefits.com/careers) | San Francisco, CA | One technical phone screen focused on JS fundamentals and/or one timeboxed take-home challenge. The onsite is a series of interviews designed to test your understanding of JS, HTML/CSS, design, etc.
 
 ## Also see:
 - [They Whiteboarded Me!](http://they.whiteboarded.me)
