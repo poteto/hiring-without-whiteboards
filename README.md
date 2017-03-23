@@ -152,6 +152,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [DoorDash :runner::dash:](https://doordash.com/careers) | San Francisco, CA | Take home project + an on-site interview building off the project!
 - [Draft Fantasy](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) | Tel Aviv, Israel | Talk about past experience and what the developer has actually built as well as pair programming or a programming exercise.
 - [Drawbotics](https://www.drawbotics.com/en/join-us) | Brussels, Belgium | Take-home project, bootcamp on-site
+- [drchrono](https://www.drchrono.com/careers) | Mountain View, CA | Hackerrank test (but not CS trivia, it's real product problems) & on-site/take-home project w/ presentation
 - [Drivy](https://www.drivy.com) | Paris, France | Skype interview followed by a take-home project, then interview to discuss code written on previous projects
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [dubizzle](http://blog.dubizzle.com/uae/job-vacancies) | Dubai, UAE | Take home assignment, general technical questions, pair programming with engineers or tech leads
@@ -308,6 +309,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
 - [Nutshell](https://www.nutshell.com/jobs) | Ann Arbor, MI, US | Email screen / take-home programming excercise ([public repo](https://github.com/nutshellcrm/join-the-team))
 - [O'Reilly Media](https://oreilly.com/jobs) | Sebastopol, CA; Boston, MA / remote | Phone conversation, take-home exercise or pair programming session, team interview, all via Google Hangout
+- [Objective, Inc.](https://www.objectiveinc.com/careers) | Salt Lake City, UT | Take-home programming exercise, then onsite friendly chat with team
 - [Omada Health](https://www.omadahealth.com/jobs) | San Francisco, CA | Take home exercise and/or pair programming session.
 - [Ontame.io](https://ontame.io) | Copenhagen, Denmark | Take home exercise and specific role discussion
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
