@@ -161,6 +161,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [dubizzle](http://blog.dubizzle.com/uae/job-vacancies) | Dubai, UAE | Take home assignment, general technical questions, pair programming with engineers or tech leads
 - [E-accent](https://www.e-accent.com) | Hilversum, The Netherlands | Skype conversation, take-home assignment
 - [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil | Take-home project, interview to evaluate the candidate's previous experience.
+- [Eaze](https://eaze.com/careers) | San Francisco, CA | Take home project, on-site interview building off of the project
 - [Echobind](https://echobind.com/careers) | Boston, MA; Remote | Meet the entire team, share examples of previous work and pair with one team member
 - [Edenspiekermann](https://jobs.edenspiekermann.com) | Amsterdam, Netherlands / Berlin, Germany / Los Angeles, CA / San Francisco, CA / Singapore, Singapore | On-site chat about skills and past experiences, review some code samples or a take-home assignment
 - [Eidu](http://eidu.com) | Berlin, Germany | Take-home project, discussion of results with team, and test days with pair programming
