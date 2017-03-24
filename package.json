@@ -23,6 +23,7 @@
     "remark-cli": "^3.0.0",
     "remark-lint": "^6.0.0",
     "remark-lint-alphabetize-lists": "^2.0.0",
+    "remark-lint-hiring-without-whiteboards-links": "^0.3.2",
     "remark-lint-no-tabs": "^1.0.0",
     "remark-lint-no-url-trailing-slash": "^3.0.0",
     "remark-lint-unordered-list-marker-style": "^1.0.0",
@@ -35,6 +36,7 @@
       "remark-lint-no-tabs",
       "remark-lint-unordered-list-marker-style",
       "remark-lint-no-url-trailing-slash",
+      "remark-lint-hiring-without-whiteboards-links",
       "lint-alphabetize-lists",
       [
         "remark-lint-list-item-indent",
