@@ -277,6 +277,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Meltwater](http://underthehood.meltwater.com/jobs) | Manchester, NH | Small take home exercise that will be presented to the team during a QA style interview
 - [Mention](https://mention.workable.com) | Paris, FR | Take-home small exercise followed up by on site meetings with your future coworkers
 - [Mercatus](https://www.mercatus.com/company/careers) | Toronto, Canada | Practical on-site project similar to daily work
+- [miDrive](https://midrive.com/careers) | London, UK | Phone screen, Take-home project / technical test, Onsite interview with senior and peer.
 - [milch & zucker](https://www.milchundzucker.de) | Bad Nauheim, Germany | Interview with direct feedback, applicants providing working sample, code review (product code or personal code of applications)
 - [Mirumee](https://mirumee.com/jobs) | Wroclaw, Poland; Remote | Pair programming and code review using one of the issues (or Pull Requests) in our open-source Saleor project, general discussion about programming, technology and candidate's experience
 - [MixMax](https://mixmax.com/careers) | San Francisco, CA | Takehome assignment purely based on their platform, followed by phone interview
