@@ -67,6 +67,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Avocarrot](https://www.avocarrot.com/company) | Athens, Greece | on-site real world problem discussion and pair programming
 - [Axiacore](https://axiacore.com) | Bogota, Colombia | We talk about on how is your process when solving problems.
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | NYC | Take-home exercises and pair-programming with the team.
+- [B2W Digital](http://somos.b2wdigital.com/bit/) | Rio de Janeiro and São Paulo, Brazil | Time-boxed coding exercise at home, on-site pair programming with engineers and live software architecture challenges based on real situations.
 - [Babylon Health iOS Team](https://github.com/Babylonpartners/iOS-Interview-Demo) | London, UK | Take-home project, on-site presentation and discussion, design and product interview.
 - [Backbase](http://careers.backbase.com) | Amsterdam, Cardiff, London, Atlanta | Takehome project, interviews
 - [Badoo](https://team.badoo.com/jobs) | London, UK | Take-home project, then a discussion onsite round.
