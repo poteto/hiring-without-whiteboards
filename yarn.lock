@@ -275,6 +275,10 @@ dashdash@^1.12.0:
   dependencies:
     assert-plus "^1.0.0"
 
+datasets-us-states-abbr@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/datasets-us-states-abbr/-/datasets-us-states-abbr-1.0.0.tgz#db4520c4734b30a6b9e8882a3cd81829ccd4681b"
+
 debug@2.2.0, debug@^2.2.0, debug@~2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.2.0.tgz#f87057e995b1a1f6ae6a4960664137bc56f039da"
@@ -1138,6 +1142,16 @@ remark-lint-hard-break-spaces@^1.0.0:
     unist-util-generated "^1.1.0"
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.1"
+
+remark-lint-hiring-without-whiteboards-links@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-hiring-without-whiteboards-links/-/remark-lint-hiring-without-whiteboards-links-0.3.2.tgz#31978166384b3e40a1dc537f917887ff9502283f"
+  dependencies:
+    datasets-us-states-abbr "^1.0.0"
+    mdast-util-to-string "^1.0.2"
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-visit "^1.0.0"
 
 remark-lint-list-item-bullet-indent@^1.0.0:
   version "1.0.0"
