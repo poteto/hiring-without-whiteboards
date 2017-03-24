@@ -76,6 +76,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Bakken & Bæck](https://bakkenbaeck.com/jobs) | Oslo, Norway; Amsterdam, Netherlands; Bonn, Germany | Skype interview followed by take-home assignment and a visit to one of our offices
 - [Balabit](https://career.balabit.com) | Budapest, Hungary | Take-home project (medium size, with restrictions, e.g. only stdlib may be used), then discussion on-site
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago, IL / Remote
+- [Belka](http://belka.us/lavora-con-no) | Trento, Italy; Munich, Germany | We give you a small task that you can do alone and then we evaluate your work with you
 - [Bemind Interactive](https://bemind.recruitee.com) | Biella, Italy / Latina, Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
 - [Betterment](https://www.betterment.com/careers) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
