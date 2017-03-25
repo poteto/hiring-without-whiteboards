@@ -393,6 +393,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Sixt4.io](http://sixt4.io/jobs) | Toronto, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Small Improvements](https://www.small-improvements.com/careers) | Berlin, Germany
+- [SocialCops](http://www.socialcops.com) | New Delhi, India | A mini project (to be done within 8 days), followed by a discussion with the team you're applying to. Then as the final step, a call with one of the founders.
 - [Social Tables](http://www.socialtables.com) | Washington, DC | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Sogilis](http://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
