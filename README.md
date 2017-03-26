@@ -394,6 +394,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Slack](https://slack.com/jobs) | San Francisco, CA
 - [Small Improvements](https://www.small-improvements.com/careers) | Berlin, Germany
 - [Social Tables](http://www.socialtables.com) | Washington, DC | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
+- [SocialCops](http://www.socialcops.com) | New Delhi, India | A mini project (to be done within 8 days), followed by a discussion with the team you're applying to. Then as the final step, a call with one of the founders.
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Sogilis](http://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project [related to business](https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html)
