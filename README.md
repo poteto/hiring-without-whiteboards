@@ -356,7 +356,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Polar](http://polar.me/company/careers) | Toronto, Canada | Phone interview, followed by 1-2 onsite pair-programming interviews based on their platform
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
 - [Popular Pays](http://www.popularpays.com) | Chicago, IL | Phone chat/coffee to determine what will be worked on during a day of pair-programming on a real problem that the candidate thinks best demonstrates their skills.
-- [Pragma Team](https://pragma.team/talent) | Sydney, Australia | Engineering Consultancy And Delivery - Takehome exercise & discussion
+- [Pragmateam](https://pragma.team/talent) | Sydney, Australia | Engineering Consultancy And Delivery - Takehome exercise & discussion
 - [PremiumBeat](https://www.premiumbeat.com/careers) | Montreal, Canada | Discussion and general, high level questions
 - [PromptWorks](https://www.promptworks.com/jobs) | Philadelphia, PA | Take-home project, pair programming, discussion on-site
 - [Pusher](https://pusher.com/jobs) | London, UK | Solve a real-world problem through a design session with our engineers
