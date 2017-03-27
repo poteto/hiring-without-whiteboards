@@ -199,6 +199,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
 
 ## G - I
+- [Gamevy](https://www.gamevycareers.com) | London, UK; Bilbao, ES; Remote | Informal culture discussions, pair programming with our engineers
 - [GatherContent](https://gathercontent.com/careers/designer) | Remote | Culture-first interviews, pair programming and remote, informal technical discussions
 - [GitLab](https://about.gitlab.com/jobs) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
 - [GitPrime](https://www.gitprime.com) | Denver, CO; Remote | small short term real-world project, paid project on production code
