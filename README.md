@@ -293,6 +293,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Minute Media](http://www.minutemedia.com/careers/) | Tel-Aviv, Israel | Phone screening with engineer. On-site real-world challenge questions with two engineers. Sometimes a take-home assignment or existing code sample submission.
 - [Mirumee](https://mirumee.com/jobs) | Wroclaw, Poland; Remote | Pair programming and code review using one of the issues (or Pull Requests) in our open-source Saleor project, general discussion about programming, technology and candidate's experience
 - [Mixmax](https://mixmax.com/careers) | San Francisco, CA | Takehome assignment purely based on their platform, followed by phone interview
+- [MobileCashout](https://www.mobilecashout.com) | Barcelona, Spain; Valencia, Spain | Quick introduction video call with a tech (less than 10-15 minutes). On-site open source contribution to a project of candidates choosing, paired with a tech from the team. Interview and a short questionaire about software design and relevant technologies. Interview and presentation of the company with a HR rep.
 - [Mode](https://about.modeanalytics.com/careers) | San Francisco, CA | Phone interview followed by onsite pair-architecting and discussion
 - [MokaHR](http://mokahr.com) | Beijing, China | Take home project/challenge, then on-site programming session taken from problems we encounter at work
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
