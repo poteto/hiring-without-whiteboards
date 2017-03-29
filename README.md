@@ -92,6 +92,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Bluesoft](http://www.bluesoft.com.br) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
 - [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
 - [Bolste](http://careers.bolste.com) | Phoenix, AZ | Conversational in-person interviews with team members and pair programming through real world problems
+- [BookingSync](https://www.bookingsync.com/en/jobs) | Remote | Small takehome project, interviews over skype with team members.
 - [BoomTown](http://boomtownroi.com) | Charleston, SC / Atlanta, GA / Remote | Conversational in-person interviews with potential team members and managers that revolve around past experience and how that could be applied to future work
 - [Bouvet](http://www.bouvet.no) | Bergen, Norway | Pair programming with senior engineers
 - [BrainStation-23](http://brainstation-23.com) | Dhaka, BD | A practical project followed by series of in-person interview sessions
