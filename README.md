@@ -289,6 +289,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Meltwater](http://underthehood.meltwater.com/jobs) | Manchester, NH | Small take home exercise that will be presented to the team during a QA style interview
 - [Mention](https://mention.workable.com) | Paris, FR | Take-home small exercise followed up by on site meetings with your future coworkers
 - [Mercatus](https://www.mercatus.com/company/careers) | Toronto, Canada | Practical on-site project similar to daily work
+- [mfind](https://www.mfind.pl/dolacz-do-nas/) | Warsaw, PL | Phone call about technical experience, Take-home project or technical test(depends on experience), Onsite interview with technical lead.
 - [miDrive](https://midrive.com/careers) | London, UK | Phone screen, Take-home project / technical test, Onsite interview with senior and peer.
 - [milch & zucker](https://www.milchundzucker.de) | Bad Nauheim, Germany | Interview with direct feedback, applicants providing working sample, code review (product code or personal code of applications)
 - [Minute Media](http://www.minutemedia.com/careers/) | Tel-Aviv, Israel | Phone screening with engineer. On-site real-world challenge questions with two engineers. Sometimes a take-home assignment or existing code sample submission.
