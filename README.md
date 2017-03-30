@@ -162,7 +162,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Drivy](https://www.drivy.com) | Paris, France | Skype interview followed by a take-home project, then interview to discuss code written on previous projects
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [dubizzle](http://blog.dubizzle.com/uae/job-vacancies) | Dubai, UAE | Take home assignment, general technical questions, pair programming with engineers or tech leads
-- [E-accent](https://www.e-accent.com) | Hilversum, The Netherlands | Skype conversation, take-home assignment
+- [E-accent](https://www.e-accent.com) | Hilversum, Netherlands; Remote | Skype conversation, take-home assignment
 - [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil | Take-home project, interview to evaluate the candidate's previous experience.
 - [Eaze](https://eaze.com/careers) | San Francisco, CA | Take home project, on-site interview building off of the project
 - [Echobind](https://echobind.com/careers) | Boston, MA; Remote | Meet the entire team, share examples of previous work and pair with one team member
