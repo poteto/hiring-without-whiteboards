@@ -25,9 +25,10 @@ If you've been through an interview with one of these companies recently, and yo
 
 Additions to this document that are properly formatted will automatically be pushed and added to the Airtable. Keywords from the description will also be extracted. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
 
-### Discussion
+### Discussion and other reads
 
-See [HackerNews](https://news.ycombinator.com/item?id=13874026).
+- Discussion: See [HackerNews](https://news.ycombinator.com/item?id=13874026)
+- [Finding a better alternative to the whiteboard interview](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
 
 ---
 
