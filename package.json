@@ -20,6 +20,8 @@
   "license": "MIT",
   "homepage": "https://github.com/poteto/hiring-without-whiteboards#readme",
   "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^0.22.0",
     "remark-cli": "^3.0.0",
     "remark-lint": "^6.0.0",
     "remark-lint-alphabetize-lists": "^2.0.0",
