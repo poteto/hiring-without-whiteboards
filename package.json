@@ -29,7 +29,8 @@
     "remark-lint-no-tabs": "^1.0.0",
     "remark-lint-no-url-trailing-slash": "^3.0.0",
     "remark-lint-unordered-list-marker-style": "^1.0.0",
-    "remark-preset-lint-recommended": "^2.0.0"
+    "remark-preset-lint-recommended": "^2.0.0",
+    "request": "^2.81.0"
   },
   "remarkConfig": {
     "plugins": [
