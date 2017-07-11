@@ -25,9 +25,10 @@ If you've been through an interview with one of these companies recently, and yo
 
 Additions to this document that are properly formatted will automatically be pushed and added to the Airtable. Keywords from the description will also be extracted. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
 
-### Discussion
+### Discussion and other reads
 
-See [HackerNews](https://news.ycombinator.com/item?id=13874026).
+- Discussion: See [HackerNews](https://news.ycombinator.com/item?id=13874026)
+- [Finding a better alternative to the whiteboard interview](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
 
 ---
 
@@ -110,10 +111,12 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Canon Innovation Lab](https://canonlabs.io/#) | Waterloo, Canada | Series of interviews, go over technical background and past experiences, take-home project
 - [Capgemini UK Java Team](https://www.uk.capgemini.com) | London, UK; Woking, UK; Bristol, UK; Cardiff, Wales; Birmingham, UK; Manchester, UK; Leeds, UK; Rotherham, UK; Liverpool, UK; Newcastle, UK; Edinburgh, Scotland; Glasgow, Scotland | Technical telephone interview (30 minutes), take-home non-CompSci coding exercise (3-4 hours), face-to-face role-played consulting scenario involving a solution architecture and a delivery plan (two hours)
 - [Caravelo](http://www.caravelo.com/softdev) | Barcelona, Spain | Take home project, then technical discussion about the code in-person or Skype and hang out with the team.
+- [Cartegraph](http://www.cartegraph.com/company/careers/) | Dubuque, IA / Remote | Phone screen, hiring manager interview, small take-home coding project, and team code review/interview
 - [Casetext](https://casetext.com/jobs) | San Francisco, CA | Submit code sample for review/discussion, contract for one full day (paid)
 - [CASHLINK](https://cashlink.de) | Frankfurt, Germany | Skype/phone interview, take-home project
 - [Causeway](http://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work,  then face to face round to write small solutions to common problems in related field.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
+- [Chain.Reaction](https://chainreaction.io) | Budapest, Hungary | Partnership-fit discussion, code-review and trial days.
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
 - [Chatgrape Web Frontend Team](https://chatgrape.com/de/jobs/javascript-developer) | Vienna, Austria / Remote | Github or code samples -> Pair programming -> Skype/phone interview
 - [Checkout 51](https://checkout51.com/jobs) | Toronto, Canada | Phone conversation (15-20 minutes) followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
@@ -265,6 +268,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Koddi Inc.](http://www.koddi.com/open-positions) | Fort Worth, TX | Phone Interview(s), take-home project, on-site interview
 - [Kongregate](http://www.kongregate.com/jobs) | Portland, OR | Phone screening. Take home project. On-site pairing and conversational technical interviews.
 - [Korbit](https://www.korbit.co.kr/about/jobs) | Seoul, South Korea | Take home assignment followed by on-site code review and interview
+- [Lab.Coop](https://lab.coop) | Budapest, Hungary | Partnership-fit discussion, code-review and trial days.
 - [Landing.jobs](https://landing.jobs/at/landing-jobs) | Lisbon, Portugal | Interviews (in-person or remote), Take home coding project
 - [Lanetix](http://engineering.lanetix.com) | San Francisco, CA | [Our Hiring Process](https://engineering.lanetix.com/2015-10-20/hiring-process)
 - [LateRooms](http://careers.laterooms.com) | Manchester, UK | Telephone interview followed by coding problem at home. Suitable submissions proceed to an onsite interview.
@@ -401,6 +405,7 @@ See [HackerNews](https://news.ycombinator.com/item?id=13874026).
 - [Rizk.com](https://rizk.com) | Ta' Xbiex, Malta | Take-home assignment, discussion w/ developers
 - [Rockode](http://www.rockode.com) | Bangalore, India | Real world assignment, group hack session, discussions
 - [RubyGarage](https://rubygarage.org) | Dnipro, UA | Take-home project, code review and discussion on-site
+- [Runtastic](https://www.runtastic.com) | Linz, Austria; Vienna, Austria | Video call with recruiting staff, take home project, video call for code review, discussion, questions
 
 ## S - U
 - [Sahaj Software Solutions](https://www.sahajsoft.com) | Bangalore, India; Chennai, India; San Jose, CA | Take home code + Pairing + Discussion
