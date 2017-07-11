@@ -292,6 +292,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Locaweb](https://www.locaweb.com.br/carreira) | São Paulo, Brazil | Skype interview, take-home project and discussion on-site
 - [Logic Soft](https://logicsoft.co.in) | Chennai, India | Phone discussion, F2F pair programming exercise + discussion
 - [LookBookHQ](http://www.lookbookhq.com/about/careers) | Toronto, Canada | On-site discussion, pair programming exercise
+- [Loom](https://www.useloom.com/careers) | San Francisco, CA | Google Hangouts resume dive on past experience, take-home project OR architectural phone screen, on-site interviews (2 technical architecture related to work, 1 or 2 non-technical)
 - [Lydia](https://lydia-app.com/en/company/jobs) | Paris, FR | Mini take-home project, phone interview, discussion on-site
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
 - [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote) | Graz, Austria | Take-Home project, discussion on-site
@@ -505,6 +506,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [WeAreHive](http://www.wearehive.co.uk) | London, UK | Just walk us through your best code or we give you a small real-world exercise to do at home.
 - [Webantic](https://webantic.co.uk/careers) | Manchester, UK | Basic TNA self-assessment and real-world problem-solving
 - [Webflow](https://webflow.com) | San Francisco, CA & Remote | Short take-home challenge, followed by a paid 3-5 day freelance contract project
+- [Weebly](http://careers.weebly.com) | San Francisco, CA; Scottsdale, AZ; New York, NY | Phone screens (30 min to 1 hour) by a recruiter, an engineering manager (focused on your past experiences), an engineer (focused on system / db / api design). Followed by a paid 3 day onsite where you work on a project and then present it to a team of engineers.
 - [Weedmaps](https://weedmaps.com/careers) | Irvine, CA; Denver, CO; Tucson, AZ; Madrid, Spain; Remote | Phone screen, Group interview, and possible code review
 - [Wheely](https://wheely.com/en/careers) | Moscow, Russia | Get to know each other in under 30 minutes on-site or via Skype, take-home challenge, on-site review and interview with the team.
 - [Wildbit](https://wildbit.com) | Philadelphia, PA & Remote | Take-home project followed by interviews.
