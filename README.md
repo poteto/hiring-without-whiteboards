@@ -343,8 +343,8 @@ Additions to this document that are properly formatted will automatically be pus
 - [Noa](https://www.noa.one) | Berlin, Germany; San Francisco, CA | 1 technical chat, 2-3 cultural chats with colleagues from different departments in the team, if these work a pair programming exercise
 - [NodeSource](http://nodesource.com/careers) | Remote | A person-to–person walk through of a past project of yours
 - [Nomoko,camera](https://www.nomoko.world/jobs) | Zurich, Switzerland | Three interrogations
-- [Nourish Care](http://nourishcare.co.uk) | Bournemouth, UK | Spend a day in the office, going through real tasks and engaging with team
 - [Nord Software](https://www.nordsoftware.com/en/jobs) | Helsinki, Finland; Tampere, Finland; Stockholm, Sweden | Take-home exercise & interview with CEO and senior developer
+- [Nourish Care](http://nourishcare.co.uk) | Bournemouth, UK | Spend a day in the office, going through real tasks and engaging with team
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Novoda](https://novoda.com/hiring) | London, UK; Liverpool, UK; Berlin, Germany; Barcelona, Spain; Remote | 2 x Pairing sessions & conversational interviews [(public repo)](https://github.com/novoda/dojos)
