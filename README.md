@@ -338,6 +338,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Netlify](https://www.netlify.com/careers) | San Francisco, CA | Paid takehome project and online/onsite discussion
 - [New Relic](https://newrelic.com/about/careers) | San Francisco, CA | Takehome exercise &/ or pair programming session depending on the team
 - [NewVoiceMedia](https://www.newvoicemedia.com/about-newvoicemedia/careers) | Basingstoke, England; Wroclaw, Poland | Telephone interview, takeaway coding exercise, on-site pair programming, code review & technical discussion (1/2 day)
+- [Nexcess.net](https://nexcess.net) | Southfield, MI | We mostly chat to get a feel on both ends if there's a good cultural fit. We ask questions to see what experience you have and how you think as a programmer. At some point we look at some of your code or have you work on some of ours (1 hour).
 - [Nimbl3](https://www.workhiro.com/companies/nimbl3) | Bangkok, Thailand | Takehome exercise and specific role discussion
 - [Niteoweb](http://www.niteoweb.com/careers) | Ljubljana, Slovenia | Join us for a week to see if we fit
 - [Noa](https://www.noa.one) | Berlin, Germany; San Francisco, CA | 1 technical chat, 2-3 cultural chats with colleagues from different departments in the team, if these work a pair programming exercise
