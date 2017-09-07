@@ -485,6 +485,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Trōv](https://boards.greenhouse.io/trov) | Remote | Take-home project with followup interview from actual prospective teammates
 - [Trustpilot](https://jobs.trustpilot.com) | Copenhagen, Denmark | Take-home project, code review and discussion on-site
 - [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome
+- [uberall](https://uberall.com/en/careers) | Berlin, Germany | 30-min coding on-site, then a trial day 
 - [uBiome](https://ubiome.com/careers) | San Francisco, CA / Santiago, Chile | High level screening over the phone or on-site, take home project, code review and discussion
 - [Ubots](http://ubots.com.br) | Porto Alegre, Brazil | Skype/On-site interview, take-home project, technical interview
 - [Unbounce](https://unbounce.com) | Vancouver, BC | Phone screen, take-home project, project discussion, technical interview
