@@ -103,6 +103,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA | Take home exercise, and systems design.
 - [Bubblin Superbooks](https://www.bubbl.in/about) | Remote | View code, projects, libraries or any other open source story that you have been a part of, a small take-home project with real code occasionally.
 - [Buffer](https://buffer.com/journey) | Remote | Interviews over video call, code walkthrough of real code focussing on decisions and reasoning, then a 45 day full time, fully paid contract project working on production code.
+- [Buhler Group](http://www.buhlergroup.com) | Prague, CZ | Interview with a couple of technical questions. No task needed. Depending on the team there is another round with the guys in the HQ via skype.
 - [Bustle](https://www.bustle.com/labs) | New York City, Ny / Remote | Half day pair programming on a task for production or one of our Open Source projects. We'll also buy you lunch with the team.
 - [busuu](https://www.busuu.com/jobs) | London, UK | Video call to show real code as first stage. In office pair programming, white board real world problem that we've encountered before, and history/experience discussion.
 - [ButterCMS](https://buttercms.com) | Chicago, IL; Remote | Take home exercise and half-day of pair programming
