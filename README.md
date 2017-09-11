@@ -256,6 +256,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Inmar](https://www.inmar.com/careers) | Winston-Salem, NC; Austin, TX & Remote | Take-home project and conversation-style interviews
 - [InQuicker](https://inquicker.com) | Remote | Multiple chats with dev and product team members, code walkthrough with senior developers
 - [Instacart](https://careers.instacart.com) | San Francisco, CA | Take-home real world project, pair programming on-site
+- [Intelipost](https://www.intelipost.com.br) | São Paulo, BR | Take-home project, on-site code review and presentation (skype available if needed), discussion involving real world problems and interviews with different teams
 - [Intercom](https://www.intercom.com/careers) | San Francisco, CA; Chicago, IL; Dublin, Ireland | Real-world technical design and problem discussion, pair programming on-site
 - [Interset](https://interset.com/careers) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers
 - [Ithaka](https://www.ithaka.travel) | Mumbai, India | Phone interview followed by a small development task. Finally a phone interview with CEO.
