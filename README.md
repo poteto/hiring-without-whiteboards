@@ -165,6 +165,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [DevMynd](https://www.devmynd.com) | Chicago, IL; San Francisco, CA | Take-home project, take-home project phone review, a few hour-long pairing sessions on real projects.
 - [DG-i](https://www.dg-i.net) | Cologne, Germany | Take-home project and/or discussion on-site about past experiences
 - [DICE](http://www.dice.se) | Stockholm, Sweden | Take-home project and code review at the on-site
+- [Digital Attitude](https://www.digitalattitude.tech/) | Milan, Italy | Two days workshop solving an actual business problem
 - [Digitally Imported](http://www.di.fm/jobs) | Denver, Colorado & Remote | Video meetings on past experience and high level tech questions, take-home project
 - [DigitalOcean](https://digitalocean.com) | New York, NY; Cambridge, MA; Remote | Google Hangout interviews, take home project, on-site interview discussing the take home project and high-level architectural questions
 - [Dollar Shave Club](https://www.dollarshaveclub.com) | Venice, California | Phone interview, take-home projects, on-site interview
