@@ -553,5 +553,6 @@ Additions to this document that are properly formatted will automatically be pus
 
 ## Also see:
 - [They Whiteboarded Me!](http://they.whiteboarded.me)
+- [The Different Types of Technical Interview Methods Explained](https://www.recruityourninja.com/different-technical-interview-methods-explained)
 
 [![Build Status](https://travis-ci.org/poteto/hiring-without-whiteboards.svg?branch=master)](https://travis-ci.org/poteto/hiring-without-whiteboards)
