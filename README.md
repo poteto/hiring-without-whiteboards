@@ -287,7 +287,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Landing.jobs](https://landing.jobs/at/landing-jobs) | Lisbon, Portugal | Interviews (in-person or remote), Take home coding project
 - [Lanetix](http://engineering.lanetix.com) | San Francisco, CA | [Our Hiring Process](https://engineering.lanetix.com/2015-10-20/hiring-process)
 - [LateRooms](http://careers.laterooms.com) | Manchester, UK | Telephone interview followed by coding problem at home. Suitable submissions proceed to an onsite interview.
-- [Leverton](http://leverton-jobs.personio.de) | Berlin, Germany; London, UK; New York, USA | Initial chat with the HR then 1-2 rounds chat with the team; then a technical test and finally a chat with the CTO/MD
+- [Leverton](https://www.leverton.ai/) | Berlin, Germany; London, UK; New York, USA | Initial chat with the HR then 1-2 rounds chat with the team; then a technical test and finally a chat with the CTO/MD. [Jobs page](http://leverton-jobs.personio.de/)
 - [Launch Academy](https://launchacademy.com/careers) | Boston, Philadelphia | Nontechnical phone screen, pair programming with team member, and potentially a "guest lecture" for our students
 - [Legalstart.fr](https://www.legalstart.fr) | Paris, France | Telephone interview followed by take-home challenges. Suitable applicants are asked to do further on-pair interviews on site.
 - [Liberty Mutual](https://www.libertymutualgroup.com/careers) | Seattle, WA; Boston, MA; Indianapolis, IN | Initial interview, discussion on-site, interview with peers
