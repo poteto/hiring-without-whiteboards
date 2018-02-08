@@ -495,6 +495,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Timbuktu](https://www.timbuktutravel.com) | Cape Town, South Africa | On site interview and pair programming exercise
 - [Torii](https://jobs.jointorii.co) | Raanana, Israel | Take-home fun full-stack-app exercise followed by an on-site review
 - [Toucan Toco](http://toucantoco.com/fr/team#jobs) | Paris, France | Pair-programming and TDD
+- [Touché](https://gotouche.com) | Singapore, Singapore; Barcelona, Spain | Skype / Phone / on-site interview, take-home project, technical interview to discuss the project, team interview.
 - [TrademarkVision](https://trademark.vision) | Brisbane, Australia | On site interview and quick take-home excercise
 - [Trivago](https://www.trivago.com) | Düsseldorf, Germany | Case Study, Skype Interview, On site Interview with some code review excercises
 - [Trōv](https://boards.greenhouse.io/trov) | Remote | Take-home project with followup interview from actual prospective teammates
