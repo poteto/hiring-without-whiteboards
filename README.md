@@ -257,6 +257,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Inmar](https://www.inmar.com/careers) | Winston-Salem, NC; Austin, TX & Remote | Take-home project and conversation-style interviews
+- [Innoplexus](https://www.innoplexus.com/careers/) | Pune, India; Frankfurt, Germany | Take-home projects and On-site pair programming assignment.
 - [InQuicker](https://inquicker.com) | Remote | Multiple chats with dev and product team members, code walkthrough with senior developers
 - [Instacart](https://careers.instacart.com) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [Intelipost](https://www.intelipost.com.br) | São Paulo, BR | Take-home project, on-site code review and presentation (skype available if needed), discussion involving real world problems and interviews with different teams
@@ -444,6 +445,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Sensor Tower](https://sensortower.com/jobs) | San Francisco, CA | Phone call, on-site interview including discussion about projects/skills and a short real-world programming challenge
 - [Séntisis](http://sentisis.com/trabaja-con-nosotros) | Madrid, Spain; Mexico City, Mexico; Bogotá, Colombia; Santiago de Chile, Chile; Remote | Phone call, on-site/remote interview including discussion about projects/skills and a short real-world pair-programming exercise
 - [Setapp Sp. z o.o.](https://setapp.pl/career) | Poznan, Poland | Online/face-to-face discussion with developers about everyday programming dilemmas & reviewing your own code
+- [Sharoo](https://www.sharoo.com/jobs/) | Zurich, Switzerland; Remote | Soft skills interview, take home project, technical interview based on take home project.
 - [Showmax](https://blog.showmax.com/engineering-careers) | Beroun, Czechia; Prague, Czechia; Remote | Take home project, then a pair-programming and discussion onsite / Hangouts round.
 - [ShuttleCloud](https://shuttlecloud.com/jobs) | Chicago, IL / Madrid, Spain | Take-home project, then on-site code walk through and a real world problem discussion.
 - [Simple](https://www.simple.com) | Portland, OR | Discussion about software development and architecture skills and experience.
@@ -522,6 +524,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [VSX](https://https://vsx.net/jobs) | Dresden, Germany | On-site interview, home coding challenge, presentation/discussion of proposed solutions
 - [VTEX](http://lab.vtex.com/careers) | Rio de Janeiro, Brazil |  Take-home project, Skype interview and then in-person talk.
 - [VTS](https://boards.greenhouse.io/vts) | New York City, New York | Technical Phone Screen, Pair programming on-site & in-person talks with multiple engineers
+- [Waymark](https://waymark.com/jobs) | Detroit, MI | Technical phone screen, take-home project, going over the project in person, follow up day in the office
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
 - [WeAreHive](http://www.wearehive.co.uk) | London, UK | Just walk us through your best code or we give you a small real-world exercise to do at home.
 - [Webantic](https://webantic.co.uk/careers) | Manchester, UK | Basic TNA self-assessment and real-world problem-solving
@@ -529,6 +532,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Weebly](http://careers.weebly.com) | San Francisco, CA; Scottsdale, AZ; New York, NY | Phone screens (30 min to 1 hour) by a recruiter, an engineering manager (focused on your past experiences), an engineer (focused on system / db / api design). Followed by a paid 3 day onsite where you work on a project and then present it to a team of engineers.
 - [Weedmaps](https://weedmaps.com/careers) | Irvine, CA; Denver, CO; Tucson, AZ; Madrid, Spain; Remote | Phone screen, Group interview, and possible code review
 - [wemake.services](https://wemake.services) | Remote | Short unpaid take-home challenge, code review, portfolio discussion
+- [Weploy](https://www.weployapp.com/join-our-team/) | Melbourne, Australia; Sydney, Australia | Phase 1: Face to face interview to get to know the candidate. Phase 2: Problem solving session that involves designing a solution to a real-world problem followed by 1/2 day of pairing with a senior dev on implementing the proposed solution.
 - [Wheely](https://wheely.com/en/careers) | Moscow, Russia | Get to know each other in under 30 minutes on-site or via Skype, take-home challenge, on-site review and interview with the team.
 - [Wildbit](https://wildbit.com) | Philadelphia, PA & Remote | Take-home project followed by interviews.
 - [Wimdu](http://wimdujobs.com) | Berlin, Germany | Take-home project, then a pair-programming and discussion onsite/remote.
