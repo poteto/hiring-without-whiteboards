@@ -134,6 +134,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Clockwork Consulting](https://www.cwconsult.dk) | Copenhagen, Denmark | Interviews, discussion of technical background and experiences.
 - [Cloudistics](https://www.cloudistics.com/careers) | Reston, VA | Multiple interviews, discussion of technical background and experiences.
 - [Clubhouse](https://www.clubhouse.io/hiring) | New York, NY & Remote | Phone interview, followed by onsite discussions and pair programming
+- [Cogent Labs](https://www.cogent.co.jp) | Tokyo, Japan | On-site or video call conversation around technical background and experience, followed by take-home project that resembles a problem Cogent Labs solves for. This project will serve as the base of discussion with the developers for the second interview.
 - [Cognitect, Inc.](https://www.cognitect.com/jobs) | Remote | Phone interview followed by pair programming.
 - [Cognitive Logic](https://www.cognitivelogic.com) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [Cognitran](http://www.cognitran.com/employment-opportunities) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
@@ -217,6 +218,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [fournova](https://www.fournova.com/jobs) | Remote | Take-home project, discussion via video call
 - [FreeAgent](https://www.freeagent.com/company/careers) | Edinburgh, UK | Take-home project, pair programming, discussion and interviews
 - [Freeletics](https://www.freeletics.com/en/corporate/jobs) | Munich, Germany | Small real-world challenge, multiple interviews on-site/remote and social gathering with team.
+- [FRIDAY](https://friday-jobs.personio.de) | Berlin, Germany | Take-home real-world challenge, interview on-site or remote
 - [Frontside](https://frontside.io/careers) | Austin, Texas | Phone interview with remote pairing session. Followed by in person pairing (paid for the day) and lunch with the team.
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
 - [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
@@ -261,6 +263,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Innoplexus](https://www.innoplexus.com/careers/) | Pune, India; Frankfurt, Germany | Take-home projects and On-site pair programming assignment.
 - [InQuicker](https://inquicker.com) | Remote | Multiple chats with dev and product team members, code walkthrough with senior developers
 - [Instacart](https://careers.instacart.com) | San Francisco, CA | Take-home real world project, pair programming on-site
+- [Integral.](https://www.integral.io) | Detroit, MI | Initial remote technical screen featuring test-driven development & pair programming, then on-site full day interview that involves pair programming on production code using test-driven development.
 - [Intelipost](https://www.intelipost.com.br) | São Paulo, BR | Take-home project, on-site code review and presentation (skype available if needed), discussion involving real world problems and interviews with different teams
 - [Intercom](https://www.intercom.com/careers) | San Francisco, CA; Chicago, IL; Dublin, Ireland | Real-world technical design and problem discussion, pair programming on-site
 - [Interset](https://interset.com/careers) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers
@@ -429,6 +432,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Realync](https://realync.com/careers) | Chicago, IL / Carmel, IN / Remote | Quick phone interview, then a take home project and finally in person interview (open discussions instead of quizzes - anything technical are real-world problems).
 - [Red Badger](https://red-badger.com/about-us/join-us) | London, UK | Phone & Skype interview, take home exercise, On-site interview
 - [RedCarpet](https://www.redcarpetup.com/jobs) | New Delhi, India | Interview, work sample/take-home project and discussion/code reviews
+- [Reflektive](https://www.reflektive.com/careers/) | San Francisco, CA; Bengaluru, India | A short take home project/assignment, followed by a couple of technical and non-technical discussions online and offline.
 - [Rentify](https://www.rentify.com/jobs) | London, UK | Phone call, take home real-world project, on-site pair programming, product discussion
 - [RentoMojo](https://www.rentomojo.com/about/careers) | Bangalore, India | Short takehome project + phone interview
 - [ReSpark](https://www.respark.co.uk) | London, UK | Phone conversation followed by on-site interview w/ task relevant to daily role.
