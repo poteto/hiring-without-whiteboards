@@ -465,12 +465,14 @@ Additions to this document that are properly formatted will automatically be pus
 - [SocialCops](http://www.socialcops.com) | New Delhi, India | A mini project (to be done within 8 days), followed by a discussion with the team you're applying to. Then as the final step, a call with one of the founders.
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Sogilis](http://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
+- [Sourcegraph](https://about.sourcegraph.com/jobs) | San Francisco, CA & Remote | Tailored to the candidate, often consists of take-home work, discussion of real-world eng challenges, and product familiarity.
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project [related to business](https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html)
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
 - [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
 - [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
-- [Stardog Union](http://stardog.com) | Washington, DC; Remote | Technical discussion and general interest conversations
+- [Stardog Union](http://stardog.com) | Washington, DC; 
+| Technical discussion and general interest conversations
 - [Statflo](http://statflo.com) | Toronto, Canada | Phone screening, take home project, on-site interview discussing the take home project, high-level architectural brainstorm, and questions about carrer and team work.
 - [store2be](https://www.store2be.com/de/jobs/tech) | Berlin, Germany | Skype/on-site interview, take-home project
 - [StreetTeam](https://getstreetteam.com/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
