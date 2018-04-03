@@ -474,7 +474,6 @@ Additions to this document that are properly formatted will automatically be pus
 - [Stardog Union](http://stardog.com) | Washington, DC; Remote | Technical discussion and general interest conversations
 - [Statflo](http://statflo.com) | Toronto, Canada | Phone screening, take home project, on-site interview discussing the take home project, high-level architectural brainstorm, and questions about carrer and team work.
 - [store2be](https://www.store2be.com/de/jobs/tech) | Berlin, Germany | Skype/on-site interview, take-home project
-- [StreetTeam](https://getstreetteam.com/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
 - [STYLABS](http://www.stylabs.in) | Mumbai, India | Phone Screen, Take-home project and discussion on-site
 - [Subvertical (VerticalChange)](https://verticalchange.com/job_posts) | Remote | Phone screening, live pair programming & personal project code review
 - [Superplayer](https://superplayer.fm) | Porto Alegre, Brazil | Skype/On-site interview, take-home project and interview with CTO and CEO
@@ -525,6 +524,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Varsity Tutors](https://www.varsitytutors.com) | Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
 - [Vayu Technology](http://vayu.com.au) | Sydney, Australia; Kathmandu, Nepal | Short interview, general programming questions and short take home challenge.
 - [Venminder, Inc.](https://www.venminder.com) | Elizabethtown, KY; Louisville, KY | Initial phone screen to explain position. If candidate interested they get a take home assignment followed by a non-scripted in-person interview with team members to judge personality fit.
+- [Verve](https://verve.co/careers/) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
 - [Vingle](https://careers.vingle.net) | Seoul, Korea | Written interview, takehome project, in-person, conversational code review and interviews with engineers and engineering managers
 - [Visma e-conomic](https://www.e-conomic.dk/om/job) | Copenhagen, Denmark | Take home assignment, assignment presentation and discussion
 - [VivaReal](https://jobs.lever.co/vivareal/) | São Paulo, Brazil | Takehome exercise, series of real-world interviews with engineers, HR, engineering managers and product managers on site.
