@@ -465,6 +465,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [SocialCops](http://www.socialcops.com) | New Delhi, India | A mini project (to be done within 8 days), followed by a discussion with the team you're applying to. Then as the final step, a call with one of the founders.
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Sogilis](http://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
+- [Sourcegraph](https://about.sourcegraph.com/jobs) | San Francisco, CA & Remote | Tailored to the candidate, often consists of take-home work, discussion of real-world eng challenges, and product familiarity.
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project [related to business](https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html)
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
 - [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
