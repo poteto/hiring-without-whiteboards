@@ -151,6 +151,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
 - [CoverHound, Inc.](https://www.coverhound.com) | San Francisco, CA | Open technical discussion, short on-site coding challenge.
 - [Credit Kudos](https://creditkudos.com/jobs) | London, UK | Take-home project and pair programming via Skype or on-site.
+- [CrossBrowserTesting](https://crossbrowsertesting.com) | Memphis, TN | Take home project that resembles a problem support engineers deal with on a daily basis. On-Site interviews in a comfortable environement with a focus on hiring talented people vs exact skill-sets. 
 - [Crowdstrike](https://jobs.jobvite.com/careers/crowdstrike/jobs) | Remote | Multiple interviews onsite or remote as appropriate followed by small take-home project.
 - [Crownstone](https://crownstone.rocks/jobs) | Rotterdam, Netherlands | Technical interaction using previously created Github projects, followed by in-person interview with a focus on someone's professional ambition in the short and long term.
 - [Culture Foundry](https://www.culturefoundry.com) | Austin, TX | Paid take-home project
