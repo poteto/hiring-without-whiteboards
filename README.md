@@ -16,14 +16,11 @@ Please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new
 
 If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to remove them from this list.
 
-### I want to sort/filter/group by X!
+### I want to search/sort/filter/group by X!
 
-- [Alphabetical](https://airtable.com/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh)
-- [Geographical](https://airtable.com/shr31pj5a2GaRf6WY/tbluCbToxQ2knSLhh)
-- [Keywords](https://airtable.com/shrvxZqlk4uiUrb0T/tblryDh6LOSbQJ5dH)
-- [Remote only](https://airtable.com/shr3nTO1nkraVRYY4/tbluCbToxQ2knSLhh)
+Check out our [Airtable](https://airtable.com/shr3eGPDm3wGjT2gA)!
 
-Additions to this document that are properly formatted will automatically be pushed and added to the Airtable. Keywords from the description will also be extracted. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
+Additions to this document that are properly formatted will automatically be pushed and added to Airtable. Keywords from the description will also be extracted. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
 
 ### Discussion and other reads
 
