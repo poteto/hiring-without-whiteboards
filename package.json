@@ -34,13 +34,14 @@
   "remarkConfig": {
     "plugins": [
       "lint",
-      "remark-preset-lint-recommended",
-      "remark-lint-no-tabs",
-      "remark-lint-no-dead-urls",
-      "remark-lint-unordered-list-marker-style",
-      "remark-lint-no-url-trailing-slash",
-      "remark-lint-hiring-without-whiteboards-links",
       "lint-alphabetize-lists",
+      "remark-lint-hiring-without-whiteboards-links",
+      "remark-lint-no-dead-urls",
+      "remark-lint-no-tabs",
+      "remark-lint-no-trailing-spaces",
+      "remark-lint-no-url-trailing-slash",
+      "remark-lint-unordered-list-marker-style",
+      "remark-preset-lint-recommended",
       [
         "remark-lint-list-item-indent",
         false
