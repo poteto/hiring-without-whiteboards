@@ -432,6 +432,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Pygmalios](http://pygmalios.com/en) | Bratislava, Slovakia | Take-home project related to business and discussion with our engineers.
 - [Quiet Light Communications](https://quietlightcom.com/positions-web.php) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
 - [Quintype](http://www.workatquintype.com) | Bengaluru, India / San Mateo, USA | Take home project, pair programming, discussion on-site
+- [Quizizz](https://quizizz.com) | Bengaluru, India | Phone chat, real world assignment, discussion w/ developers, pair programming, discussion on-site
 - [Ragnarson](https://ragnarson.com) | Lodz, Poland; Remote | Take-home exercise & pair programming session
 - [Raising IT](https://www.raisingit.com) | London, UK | Coffee with a team member, on-site pair programming and discussion
 - [Rakuten](https://jobs.rakuten.careers/careersection/rakuten_ext_cs/jobdetail.ftl?job=00000751&tz=GMT%2B09%3A00) | Tokyo, Japan | Discuss about relevant experience
