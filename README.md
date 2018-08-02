@@ -578,6 +578,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Yoyo Wallet](http://yoyowallet.com) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
 - [YunoJuno](http://www.yunojuno.com) | London, UK | Code challenge based on a realistic feature request on a real open-source package created and used at YunoJuno; phone/video interview with members of the Product team to explore technical background, experiences, interests, cultural fit; on-site interview, usually with Product Manager and CTO
 - [Zenefits (UI Team)](https://www.zenefits.com/careers) | San Francisco, CA | One technical phone screen focused on JS fundamentals and/or one timeboxed take-home challenge. The onsite is a series of interviews designed to test your understanding of JS, HTML/CSS, design, etc.
+- [Zerodha](https://zerodha.com/careers) | Bengaluru, India | Technical call at the beginning and one take home programming task.
 
 ## Also see:
 - [They Whiteboarded Me!](http://they.whiteboarded.me)
