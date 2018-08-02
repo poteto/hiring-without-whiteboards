@@ -234,7 +234,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [GatherContent](https://gathercontent.com/careers/designer) | Remote | Culture-first interviews, pair programming and remote, informal technical discussions
 - [Ginetta](http://jobs.ginetta.net) | Zurich, Switzerland; Braga, Portugal | Culture-first interviews, take home assignment that resembles a real-world problem we often solve, then discussion about the assignment in-person with pair-programming improvement sessions with our developers.
 - [GitLab](https://about.gitlab.com/jobs) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
-- [GitPrime](https://www.gitprime.com) | Denver, CO; Remote | small short term real-world project, paid project on production code
+- [GitPrime](https://www.gitprime.com) | Remote-first ; Denver, Boulder, Durango CO | Paid real-world contract project on production code.
 - [GoCardless](https://gocardless.com/about/jobs) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [Graffino](https://www.graffino.com) | Sibiu, Romania | Take-home project, discussion on-site
