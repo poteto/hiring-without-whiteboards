@@ -16,14 +16,11 @@ Please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new
 
 If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to remove them from this list.
 
-### I want to sort/filter/group by X!
+### I want to search/sort/filter/group by X!
 
-- [Alphabetical](https://airtable.com/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh)
-- [Geographical](https://airtable.com/shr31pj5a2GaRf6WY/tbluCbToxQ2knSLhh)
-- [Keywords](https://airtable.com/shrvxZqlk4uiUrb0T/tblryDh6LOSbQJ5dH)
-- [Remote only](https://airtable.com/shr3nTO1nkraVRYY4/tbluCbToxQ2knSLhh)
+Check out our [Airtable](https://airtable.com/shr3eGPDm3wGjT2gA)!
 
-Additions to this document that are properly formatted will automatically be pushed and added to the Airtable. Keywords from the description will also be extracted. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
+Additions to this document that are properly formatted will automatically be pushed and added to Airtable. Keywords from the description will also be extracted. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
 
 ### Discussion and other reads
 
@@ -217,6 +214,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Findy](https://blog.findy.us/findy-saiyo) | Tokyo, Japan | Tech interview + On-site discussion
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
+- [Fluidly](https://fluidly.com) | London, UK | Casual 30min phone call. ~1hr take home tech exercise (not pass or fail). 1 stage onsite interview - discussion about experience, 1 hour pair programming on the real code base, then your turn to interview us!
 - [Food52](https://food52.com/jobs) | New York, NY; Remote | Take-home project, discussion on-site or remote, interviews with both technical and non-technical staff
 - [Fooji](https://fooji.com) | Lexington, KY; Remote | Take-home project
 - [Formidable Labs](https://www.formidable.com/careers) | Seattle, WA; London, UK; Remote | Take-home project, remote pair programming, discussion on-site or remote
@@ -238,6 +236,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [GitPrime](https://www.gitprime.com) | Denver, CO; Remote | small short term real-world project, paid project on production code
 - [GoCardless](https://gocardless.com/about/jobs) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
+- [Gower Street Analytics](http://gower.st) | Remote; London, UK | Initial telephone chat, then either a) work with us, fully paid, for a day on real code with the team; or b) pair-programming on a code kata with the team members for four pomodoros. Your choice.
 - [Graffino](https://www.graffino.com) | Sibiu, Romania | Take-home project, discussion on-site
 - [Gramercy Tech](http://www.gramercytech.com) | New York, NY | Pair programming & discussion on-site
 - [grandcentrix](https://www.grandcentrix.net/jobs) | Cologne, Germany | Take-home project, discussion on-site
@@ -251,6 +250,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Happypie](http://www.happypie.com) | Uppsala, Sweden | Takehome excercise with code review after, in-person interview
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
 - [Healthify](https://healthify.us) | Remote & New York City, NY | Take-home project, discussion via Zoom, pair programming with us on our app for a day.
+- [Heetch](https://www.heetch.com) | Paris, France | Values-fit interview (via zoom.us), Take-home project with review, Team Discussions (via zoom.us), on-site day
 - [HE:labs](https://helabs.com) | Rio de Janeiro, Brazil & Remote | Take-home project and discussion via Skype.
 - [HelloFresh](https://www.hellofresh.com/jobs) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [Heptio](https://www.heptio.com/jobs) | Seattle, WA; Remote | Take-home project, discussion on-site
@@ -339,7 +339,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Mercatus](https://www.mercatus.com/company/careers) | Toronto, Canada | Practical on-site project similar to daily work
 - [mfind](https://www.mfind.pl/dolacz-do-nas/) | Warsaw, PL | Phone call about technical experience, Take-home project or technical test(depends on experience), Onsite interview with technical lead.
 - [miDrive](https://midrive.com/careers) | London, UK | Phone screen, Take-home project / technical test, Onsite interview with senior and peer.
-- [milch & zucker](https://www.milchundzucker.de) | Bad Nauheim, Germany | Interview with direct feedback, applicants providing working sample, code review (product code or personal code of applications)
+- [milch & zucker](https://www.milchundzucker.de) | Gießen, Germany | Interview with direct feedback, applicants providing working sample, code review (product code or personal code of applications)
 - [Mimir](https://mimirhq.com/jobs/) | Indianapolis, Indiana | Take home interview, phone screen, in person interview where you decide how you want to be interviewed (questions, pair programming, etc.)
 - [Minute Media](http://www.minutemedia.com/careers/) | Tel-Aviv, Israel | Phone screening with engineer. On-site real-world challenge questions with two engineers. Sometimes a take-home assignment or existing code sample submission.
 - [Mirumee](https://mirumee.com/jobs) | Wroclaw, Poland; Remote | Pair programming and code review using one of the issues (or Pull Requests) in our open-source Saleor project, general discussion about programming, technology and candidate's experience
@@ -432,6 +432,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Pygmalios](http://pygmalios.com/en) | Bratislava, Slovakia | Take-home project related to business and discussion with our engineers.
 - [Quiet Light Communications](https://quietlightcom.com/positions-web.php) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
 - [Quintype](http://www.workatquintype.com) | Bengaluru, India / San Mateo, USA | Take home project, pair programming, discussion on-site
+- [Quizizz](https://quizizz.com) | Bengaluru, India | Phone chat, real world assignment, discussion w/ developers, pair programming, discussion on-site
 - [Ragnarson](https://ragnarson.com) | Lodz, Poland; Remote | Take-home exercise & pair programming session
 - [Raising IT](https://www.raisingit.com) | London, UK | Coffee with a team member, on-site pair programming and discussion
 - [Rakuten](https://jobs.rakuten.careers/careersection/rakuten_ext_cs/jobdetail.ftl?job=00000751&tz=GMT%2B09%3A00) | Tokyo, Japan | Discuss about relevant experience
@@ -548,7 +549,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Voltra Co.](https://voltra.co) | Amsterdam, Netherlands / New York, NY / Remote | Show us your github account, tell us what you know. Let's pair on an OSS PR!
 - [VSX](https://https://vsx.net/jobs) | Dresden, Germany | On-site interview, home coding challenge, presentation/discussion of proposed solutions
 - [VTEX](http://lab.vtex.com/careers) | Rio de Janeiro, Brazil |  Take-home project, Skype interview and then in-person talk.
-- [VTS](https://boards.greenhouse.io/vts) | New York City, New York | Technical Phone Screen, Pair programming on-site & in-person talks with multiple engineers
+- [VTS](https://buildingvts.com) | New York City, New York | Technical Phone Screen, Pair programming on-site & in-person talks with multiple engineers
 - [Waymark](https://waymark.com/jobs) | Detroit, MI | Technical phone screen, take-home project, going over the project in person, follow up day in the office
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
 - [WeAreHive](http://www.wearehive.co.uk) | London, UK | Just walk us through your best code or we give you a small real-world exercise to do at home.
