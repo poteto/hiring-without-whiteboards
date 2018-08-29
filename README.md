@@ -247,7 +247,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Grok Interactive](https://www.grok-interactive.com) | San Antonio, TX | Take-home project with code review and a follow-up in-person interview.
 - [Gruntwork](http://www.gruntwork.io) | Remote | Paid, take-home project with pair coding
 - [GTM Sportswear](https://gtmsportswear.com/careers) | Manhattan, KS / Remote | Remote pairing session, then a take-home test.
-- [Hackerrank](https://www.hackerrank.com/careers) | Palo Alto and Bangalore | Pair coding, take home question using Role Based Assessments (Microservices for Backend, Android App etc.) that can be pushed and tested on Hackerrank platform via Git, F2F interview with project walk-through, design round, value fit etc.
+- [Hackerrank](https://www.hackerrank.com/careers) | Palo Alto, CA / Bangalore, India | Pair coding, take home question using Role Based Assessments (Microservices for Backend, Android App etc.) that can be pushed and tested on Hackerrank platform via Git, F2F interview with project walk-through, design round, value fit etc.
 - [Happy Team](https://happyteam.io) | Warsaw, Poland; Remote | General technical questions, takehome paid exercise with feedback/discussion during implementation
 - [Happypie](http://www.happypie.com) | Uppsala, Sweden | Takehome excercise with code review after, in-person interview
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
