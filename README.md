@@ -164,6 +164,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [DealTap](https://dealtap.ca) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team, and optional pair programming.
 - [Def Method](https://www.defmethod.com) | NYC, NY | Take home test, pair programming with dev on test and client work, receive offer same day as pairing interview
 - [Deliveroo](https://deliveroo.co.uk/careers) | London, UK & Remote | Short take-home project and pair programming
+- [Dentolo](https://angel.co/dentolo) | Berlin, Germany | Phone interview with the HR department, take-home project and technical interview to discuss your skill set + general questions
 - [Deskbookers](https://www.deskbookers.com/en-gb/jobs) | Amsterdam, Netherlands | Phone screen, take-home project, on-site interview
 - [DeSmart](https://www.desmart.com) | Gdynia, Poland | Technical interview, take-home project and talk about your experience
 - [Detroit Labs](https://www.detroitlabs.com/careers) | Detroit, MI | Our technical interview starts with a take-home assignment that we will look at during the interview. You'll walk us though your thought process, add functionality if applicable to the interview, and talk about your experience. We believe that showing us your work in a practical setting is more telling of your abilities and what you will bring to the table, than writing code on a whiteboard.
