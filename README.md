@@ -67,6 +67,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [AutoScout24](https://github.com/AutoScout24/hiring) | Munich, Germany | Skype interview followed by home assignment from our day-to-day business and then on-site interview including lunch with a team
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Avarteq GmbH](https://www.avarteq.com/career) | Berlin, Germany / Saarbrücken, Germany | Technical interview with our developers on-site or remote followed by a work sample in a pair programming session or a previous take-home project with a follow-up discussion and detailed feedback.
+- [Avenue Code](https://www.avenuecode.com/careers) | San Francisco, US / Montreal, CA / Belo Horizonte, Brazil / São Paulo, Brazil | Initial phone interview with someone from the HR team (with a spoken english test with candidates for the Brazilian offices), a take-home project that varies depending on the field or area, a additional interview to discuss about the take-home project and assess skills.
 - [Avocarrot](https://www.avocarrot.com/company) | Athens, Greece | on-site real world problem discussion and pair programming
 - [Axelerant](https://axelerant.com) | Remote | Take-home project, interviews with hr and engineering team.
 - [Axiacore](https://axiacore.com) | Bogota, Colombia | We talk about on how is your process when solving problems.
