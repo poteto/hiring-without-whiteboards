@@ -68,7 +68,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Avarteq GmbH](https://www.avarteq.com/career) | Berlin, Germany / Saarbrücken, Germany | Technical interview with our developers on-site or remote followed by a work sample in a pair programming session or a previous take-home project with a follow-up discussion and detailed feedback.
 - [Avocarrot](https://www.avocarrot.com/company) | Athens, Greece | on-site real world problem discussion and pair programming
-- [Axelerant](https://axelerant.com) | Remote | Take-home project, interviews with hr and engineering team.
+- [Axelerant](https://www.axelerant.com/careers) | Remote | Take-home project, interviews with hr and engineering team.
 - [Axiacore](https://axiacore.com) | Bogota, Colombia | We talk about on how is your process when solving problems.
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | New York, NY | Take-home exercises and pair-programming with the team.
 - [B2W Digital](http://somos.b2wdigital.com/bit) | Rio de Janeiro, Brazil; São Paulo, Brazil | Time-boxed coding exercise at home, on-site pair programming with engineers and live software architecture challenges based on real situations.
