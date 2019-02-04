@@ -68,7 +68,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Avarteq GmbH](https://www.avarteq.com/career) | Berlin, Germany / Saarbrücken, Germany | Technical interview with our developers on-site or remote followed by a work sample in a pair programming session or a previous take-home project with a follow-up discussion and detailed feedback.
 - [Avocarrot](https://www.avocarrot.com/company) | Athens, Greece | on-site real world problem discussion and pair programming
-- [Axelerant](https://axelerant.com) | Remote | Take-home project, interviews with hr and engineering team.
+- [Axelerant](https://www.axelerant.com/careers) | Remote | Take-home project, interviews with hr and engineering team.
 - [Axiacore](https://axiacore.com) | Bogota, Colombia | We talk about on how is your process when solving problems.
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | New York, NY | Take-home exercises and pair-programming with the team.
 - [B2W Digital](http://somos.b2wdigital.com/bit) | Rio de Janeiro, Brazil; São Paulo, Brazil | Time-boxed coding exercise at home, on-site pair programming with engineers and live software architecture challenges based on real situations.
@@ -113,7 +113,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Bustle](https://www.bustle.com/labs) | New York City, Ny / Remote | Half day pair programming on a task for production or one of our Open Source projects. We'll also buy you lunch with the team.
 - [busuu](https://www.busuu.com/jobs) | London, UK | Video call to show real code as first stage. In office pair programming, white board real world problem that we've encountered before, and history/experience discussion.
 - [ButterCMS](https://buttercms.com) | Chicago, IL; Remote | Take home exercise and half-day of pair programming
-- [ByBox](https://www.bybox.com/company/careers/software-developer) | Remote | Phone interview followed by interview with devs (ideally in person but sometimes Skype) covering technical experience and coding exercise with real code.
+- [ByBox](https://www.bybox.com/company/careers/) | Remote | Phone interview followed by interview with devs (ideally in person but sometimes Skype) covering technical experience and coding exercise with real code.
 - [CACI Rome](http://careers.caci.com/ListJobs/All/Search/location/rome/state/ny/country/us) | Rome, NY; Remote | Phone interview followed by in-person or Skype screen sharing interview with a coding exercise in either Java, web (Node.js + frontend), or both. Interview format is exclusive to the Rome, NY office and may not be shared by other regional CACI offices.
 - [Cake Solutions](http://www.cakesolutions.net/careers) | Manchester, UK; London, UK; New York, NY | Skype / Hangouts / phone call to explain the technical background, current position and set expectations about the salary, relocation, etc; if all good, what to expect next. Then take-home exercise for roughly 4 hours to demonstrate good thinking and ability to pick up new things, explain & document the solution, finishing with pair programming with senior developers (remote or in person); use the code as a talking point around the more difficult things after getting through the simple starter tasks.
 - [Canonical](https://boards.greenhouse.io/canonical) | London, UK; Isle of Man; Austin, TX; Boston,MA; Beijing, China; Shanghai, China; Taipei, Taiwan; Tokyo, Japan; Remote | Review your open source contributions at shortlist stage. 4x60m interviews over Hangouts, each of which is carried out blind (none of the interviewers talk to each other until the final review). The company is fully remote, so there is no on-site. 
@@ -157,6 +157,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [CrossBrowserTesting](https://crossbrowsertesting.com) | Memphis, TN | Take home project that resembles a problem support engineers deal with on a daily basis. On-Site interviews in a comfortable environement with a focus on hiring talented people vs exact skill-sets.
 - [Crowdstrike](https://jobs.jobvite.com/careers/crowdstrike/jobs) | Remote | Multiple interviews onsite or remote as appropriate followed by small take-home project.
 - [Crownstone](https://crownstone.rocks/jobs) | Rotterdam, Netherlands | Technical interaction using previously created Github projects, followed by in-person interview with a focus on someone's professional ambition in the short and long term.
+- [Cultivate](https://cultivatehq.com) | Edinburgh, UK | 30 minute pair-programming screening interview on a simple exercise (remote or in-person). Half day pair programming, with 3 or 4 different team members plus informal chat, typically on-site.
 - [Culture Foundry](https://www.culturefoundry.com) | Austin, TX | Paid take-home project
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
 
@@ -239,6 +240,7 @@ Additions to this document that are properly formatted will automatically be pus
 
 ## G - I
 - [Gamevy](https://www.gamevycareers.com) | London, UK; Bilbao, ES; Remote | Informal culture discussions, pair programming with our engineers
+- [Garner](https://www.garnercorp.com) | Toronto, Canada | step 1: online chat with hiring manager, step 2: at home assignment solving real-life problem, step 3: on-site pair programming with engineers, step 4: offer
 - [GatherContent](https://gathercontent.com/careers/designer) | Remote | Culture-first interviews, pair programming and remote, informal technical discussions
 - [GeneralUI](https://generalui.com) | Seattle, WA | A short phone screen with questions regarding general knowledge related to the open position, then a half day pair programming interview.
 - [Ginetta](http://jobs.ginetta.net) | Zurich, Switzerland; Braga, Portugal | Culture-first interviews, take home assignment that resembles a real-world problem we often solve, then discussion about the assignment in-person with pair-programming improvement sessions with our developers.
@@ -371,6 +373,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Native Instruments](https://www.native-instruments.com) | Berlin, Germany | Takehome programming assignment and personal interviews with part of the hiring team.
 - [Nearsoft Inc](https://nearsoft.com/join-us/) | Hermosillo, Mexico; Chihuahua, Mexico; Mexico City, Mexico | Takehome [logic test](https://nearsoft.com/blog/the-logic-behind-nearsofts-logic-test/), english interview to check communication skills, short technical interview about experience, long technical discussion about languages/tools/practices you will use on daily basis, pair programming session.
 - [Nedap](http://lifeatnedap.com/vacatures) | Groenlo, Netherlands / Remote | A simple conversation, human to human and a small on-site project
+- [Neoteric](https://neoteric.eu/career/) | Gdańsk, Warsaw Poland; Remote | Face2Face conversation, take home exercise & pair programming session
 - [Netflix](https://jobs.netflix.com/jobs/867042) | Los Gatos, CA | Takehome exercise, series of real-world interviews with engineers, HR, engineering managers and our director
 - [Netguru](https://www.netguru.co/career) | Warsaw, Poland; Remote | Takehome exercise & pair programming session
 - [Netlandish](https://www.netlandish.com) | Los Angeles, CA; Remote | Takehome exercise, chat interview, video interview
@@ -501,6 +504,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Sourcegraph](https://about.sourcegraph.com/jobs) | San Francisco, CA & Remote | Tailored to the candidate, often consists of take-home work, discussion of real-world eng challenges, and product familiarity.
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project [related to business](https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html)
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
+- [Springer Nature Digital](https://sndigital.springernature.com) | Berlin, Germany; London, UK | Phone chat; take-home project; then a pairing session based on the project, a technical chat, and a chat with non-technical team members
 - [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
 - [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
@@ -522,6 +526,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [Telus Digital](https://labs.telus.com) | Toronto, Canada; Vancouver, Canada | Discuss knowledge and interest, explore previous work, pair with developers when possible, alternatively take home project.
 - [Ten Thousand Coffees](https://tenthousandcoffees.com) | Toronto, Canada | Take home project, then explain how you solved the project
+- [Tes](https://engineering.tes.com/recruitment/) | Remote; London, UK | Remote pair programming session on React/Node kata with small takehome exercise as prep. Remote interview with senior engineers about previous experience, technical knowledge and interests.
 - [Tesco PLC](https://www.tesco.com) | London, United Kingdom | Pair programming and casual hypothetical system design discussion
 - [Textio](https://textio.com/careers/?utm_source=github&utm_medium=forum&utm_campaign=textio-careers-engineering&utm_content=poteto-hiring-without-whiteboards) | Seattle, WA | Initial screen to discuss experience and interest in a role at Textio; then a take-home programming task is discussed during a 1-hour tech screen (on-site or remote); finally a larger take-home project, simulating real work, is discussed during an on-site presentation plus 1-1s; [How we hire](https://textio.ai/how-we-hire-a74cdbadd1e8)
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
@@ -541,6 +546,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [TripStack](http://www.tripstack.com/company/careers/) | Toronto, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Trivago](https://www.trivago.com) | Düsseldorf, Germany | Case Study, Skype Interview, On site Interview with some code review excercises
 - [Trōv](https://boards.greenhouse.io/trov) | Remote | Take-home project with followup interview from actual prospective teammates
+- [Truefit](https://truefit.io/about/) | Pittsburgh, PA | Phone screen, Take-home project, In-person interview with the team that you would join
 - [Truss](https://truss.works/jobs) | San Francisco, CA; Remote | Phone screen/ Take-home project that resembles a problem Truss has seen many times before / Followup interview about the project / Closing Interview, all interviews done remotely
 - [Trustpilot](https://jobs.trustpilot.com) | Copenhagen, Denmark | Take-home project, code review and discussion on-site
 - [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome
