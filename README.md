@@ -303,6 +303,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
+- [K Health](https://www.khealth.ai/) | Tel Aviv, Israel | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Kahoot!](https://www.getkahoot.com/jobs) | London, UK / Oslo, Norway | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Kayako](https://www.kayako.com) | London, UK / Gurgaon, India | Take-home assignment, series of experience based interviews, cultural fit assessment
 - [Kentik](https://www.kentik.com/careers) | San Francisco, CA | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
