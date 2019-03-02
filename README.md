@@ -262,6 +262,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Happypie](http://www.happypie.com) | Uppsala, Sweden | Takehome excercise with code review after, in-person interview
 - [Hash](https://www.hash.com.br/index.html) | Sao Paulo, Brazil | Take-home project and/or discussion (on-site or remote)
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
+- [Headspring](https://headspring.com/about/careers) | Austin, TX; Houston, TX; Monterrey, Mexico | Take-home situational questionnaire and code exercise, with in-person follow up to discuss and pair for changes
 - [Healthify](https://healthify.us) | Remote & New York City, NY | Take-home project, discussion via Zoom, pair programming with us on our app for a day.
 - [Heetch](https://www.heetch.com) | Paris, France | Values-fit interview (via zoom.us), Take-home project with review, Team Discussions (via zoom.us), on-site day
 - [HE:labs](https://helabs.com) | Rio de Janeiro, Brazil & Remote | Take-home project and discussion via Skype.
@@ -296,6 +297,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Jamit Labs](https://jamitlabs.com/jobs) | Karlsruhe, Germany | Phone interview or on-site interview & take-home code challenge or on-site programming session
 - [Jiminny](https://www.jiminny.com) | Sofia, Bulgaria | Phone screen. Take-home exercise. Follow-up discussion.
 - [Jitbit](https://www.jitbit.com) | Remote; London, UK; Tel-Aviv, Israel | Take-home real-world task
+- [Jobtome](https://weare.jobtome.com/careers) | Stabio, Switzerland | Phone screen introduction with hiring manager. In site (or screen call) with Engineer Manager for a talk on skills and cultural fit.
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
@@ -520,6 +522,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Symphony Commerce](https://www.symphonycommerce.com/careers) | San Francisco, CA / Remote | Take-home project (phone), design discussion, review and critique *our* code, debugging questions
 - [Symplicity](https://www.symplicity.com/about/join-us) | Arlington, VA | Take-home project and code review in-person
 - [SysGarage](http://sysgarage.com) | Buenos Aires, Argentina | Take-home project and real world pair programming
+- [TableCheck](https://corp.tablecheck.com/en/jobs) | Tokyo, Japan | Show us your code! Brief Skype interview and take-home project or pairing for those without code.
 - [tails.com](https://tails.com/careers) | Richmond (London), UK | Live pair programming or take home project with review
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
@@ -530,6 +533,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Textio](https://textio.com/careers/?utm_source=github&utm_medium=forum&utm_campaign=textio-careers-engineering&utm_content=poteto-hiring-without-whiteboards) | Seattle, WA | Initial screen to discuss experience and interest in a role at Textio; then a take-home programming task is discussed during a 1-hour tech screen (on-site or remote); finally a larger take-home project, simulating real work, is discussed during an on-site presentation plus 1-1s; [How we hire](https://textio.ai/how-we-hire-a74cdbadd1e8)
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
 - [theScore](http://mobile.thescore.com/careers) | Toronto, Canada | Coding challenge & systems design challenge
+- [Thinkmill](https://www.thinkmill.com.au) | Sydney, Australia | Initial meet and greet interview with Thinkmillers from the relevant team, take home assignment followed by tech review on a followup interview.
 - [Thinslices](http://www.thinslices.com) | Iasi, Romania | Takehome exercise & in person pair programming on a simple Kata.
 - [thoughtbot](https://thoughtbot.com/jobs) | San Francisco, CA; London, UK | [Our interview process](https://thoughtbot.com/playbook/our-company/hiring#interviewing)
 - [ThoughtWorks](https://www.thoughtworks.com/careers) | San Francisco, CA | Interviews with ThoughtWorkers of diverse backgrounds and roles; take home assignment followed by in person pairing session.
