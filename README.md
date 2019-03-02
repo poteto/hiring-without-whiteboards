@@ -297,6 +297,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Jamit Labs](https://jamitlabs.com/jobs) | Karlsruhe, Germany | Phone interview or on-site interview & take-home code challenge or on-site programming session
 - [Jiminny](https://www.jiminny.com) | Sofia, Bulgaria | Phone screen. Take-home exercise. Follow-up discussion.
 - [Jitbit](https://www.jitbit.com) | Remote; London, UK; Tel-Aviv, Israel | Take-home real-world task
+- [Jobtome](https://weare.jobtome.com/careers) | Stabio, Switzerland | Phone screen introduction with hiring manager. In site (or screen call) with Engineer Manager for a talk on skills and cultural fit.
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
