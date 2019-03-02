@@ -202,6 +202,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Elements Interactive](https://www.elements.nl/careers) | Almere, The Netherlands & Barcelona, Spain | Take-home project & discussion via Skype or on-site
 - [Ellucian](https://www.ellucian.com/About-Us/Careers/) | Reston, VA, USA | Discussion of real world problems (from resume, if possible)
 - [elmah.io](https://elmah.io) | Aarhus, Denmark / Remote | Discussion about code and looking at hobby projects (if any)
+- [Elvie](https://www.elvie.com) | London, England | Discussing real code, pairing and a paid day to see how you work with the team. No coding for free or time-restricted take-home projects, code challenges or abstract algorithm tests
 - [eMarketer](https://goo.gl/N7SMKl) | New York, NY | Short phone interview, then come in and meet the team, check out our space, and have a discussion with team members about real-world problems
 - [Emarsys](https://www.emarsys.com) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
 - [Endava](http://www.endava.com/en/Careers) | Belgrade, Serbia; Bucharest, Romania; Chisinau, Moldova; Cluj-Napoca, Romania; Iasi, Romania; Pitesti, Romania; Skopje, Macedonia; Sofia, Bulgaria; Frankfurt, Germany; Glasgow, Scotland; Hilversum, Netherlands; London, UK; Oxford, UK; Bogota, Colombia; Atlanta, GA; New Jersey, NJ; New York, NY | On-site discussion about previous experience and technical questions about the target technologies.
