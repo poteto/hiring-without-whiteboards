@@ -220,7 +220,6 @@ Additions to this document that are properly formatted will automatically be pus
 - [FATMAP](https://www.fatmap.com) | London, UK; Berlin, Germany; Vilnius, Lithuania | Skype discussion, Take-home project, Face to face
 - [Fauna](https://fauna.com) | San Francisco, CA / Remote | Take home project, then follow up with interviews on-site or remote. Interviews are both technical and non-technical. Technical interviews comprehend the scope of the home project.
 - [Feather](https://feather-cfm.com) | Remote | Take-home challenge, portfolio discussion & team meeting
-- [Final](https://getfinal.com/jobs) | Oakland, CA | Phone screen, take-home challenge, code-review, on-site
 - [Findy](https://blog.findy.us/findy-saiyo) | Tokyo, Japan | Tech interview + On-site discussion
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
