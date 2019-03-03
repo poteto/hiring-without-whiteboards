@@ -460,6 +460,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Quizizz](https://quizizz.com) | Bengaluru, India | Phone chat, real world assignment, discussion w/ developers, pair programming, discussion on-site
 - [Ragnarson](https://ragnarson.com) | Lodz, Poland; Remote | Take-home exercise & pair programming session
 - [Raising IT](https://www.raisingit.com) | London, UK | Coffee with a team member, on-site pair programming and discussion
+- [Railslove](https://www.railslove.com/) | Cologne, Germany | Have a coffee in our office, casual chat with us, pair programming on a real project
 - [Rakuten](https://jobs.rakuten.careers/careersection/rakuten_ext_cs/jobdetail.ftl?job=00000751&tz=GMT%2B09%3A00) | Tokyo, Japan | Discuss about relevant experience
 - [Rapyuta Robotics](http://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
