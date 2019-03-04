@@ -424,7 +424,6 @@ Additions to this document that are properly formatted will automatically be pus
 - [Ontame.io](https://ontame.io) | Copenhagen, Denmark | Take home exercise and specific role discussion
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
-- [Orion Labs](https://orionlabs.io) | San Francisco, CA | Take-home exercise (or just send us a relevant github repo), then in-person/skype discussion and code review.
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
 - [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
 - [Outlandish](https://outlandish.com) | London, UK | Take-home exercise, real-world pair programming session, friendly chat with team
@@ -476,6 +475,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Rapyuta Robotics](http://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
 - [Razorpay](https://razorpay.com/jobs) | Bangalore, India | Phone screen, On-site pair programming, and ocassionally a take home project.
+- [ReactiveOps](https://reactiveops.com/careers) | Remote | Start with a brief talk with CTO or VP of Engineering, take home coding challenge, then remote interviews with several people on the engineering team
 - [Reaktor](https://reaktor.com/careers) | New York, NY; Amsterdam, Netherlands; Helsinki, Finland; Tokyo, Japan | Discussion, work samples from previous projects (work or hobby), take-home exercise if needed for further info
 - [Real HQ](https://realhq.com/jobs) | Austin, TX / Chicago, IL / Remote | Phone/video interviews, a take-home coding exercise, and a remote pair programming session.
 - [Realync](https://realync.com/careers) | Chicago, IL / Carmel, IN / Remote | Quick phone interview, then a take home project and finally in person interview (open discussions instead of quizzes - anything technical are real-world problems).
