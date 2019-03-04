@@ -244,8 +244,10 @@ Additions to this document that are properly formatted will automatically be pus
 - [GatherContent](https://gathercontent.com/careers/designer) | Remote | Culture-first interviews, pair programming and remote, informal technical discussions
 - [GeneralUI](https://generalui.com) | Seattle, WA | A short phone screen with questions regarding general knowledge related to the open position, then a half day pair programming interview.
 - [Ginetta](http://jobs.ginetta.net) | Zurich, Switzerland; Braga, Portugal | Culture-first interviews, take home assignment that resembles a real-world problem we often solve, then discussion about the assignment in-person with pair-programming improvement sessions with our developers.
+- [GitHub](https://github.com/about/careers) | Remote; San Francisco, CA; Boulder, CO| Take-home exercise, code review and technical discussions.
 - [GitLab](https://about.gitlab.com/jobs) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
 - [GitPrime](https://www.gitprime.com) | Denver, CO; Remote | small short term real-world project, paid project on production code
+- [Glints](https://glints.com/sg/inside/careers/) | Singapore, Singapore; Jakarta, Indonesia | Culture fit interview, take home assignment that resembles a real-world problem, walkthrough about the assignment
 - [GoCardless](https://gocardless.com/about/jobs) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [GoJek](https://www.gojek.io) | Bangalore, India; Jakarta, Indonesia; Singapore, SG; Bangkok, Thailand | Take-home exercise, Pair programming with senior engineer, Techinal problem solving and discussion, Cultural Fit
@@ -282,6 +284,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [ImmobilienScout24](https://boards.greenhouse.io/scout24) | Berlin, Germany | Take-home project, discussion on-site
 - [Impraise](http://jobs.impraise.com) | Amsterdam, The Netherlands | Take home test, real world pair programming
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
+- [InfluxData](https://www.influxdata.com/careers) | San Francisco, CA & Remote | Technical and non-technical interviews, pair programming, with prospective manager and multiple prospective teammates
 - [InfoSum](https://www.infosum.com) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Inmar](https://www.inmar.com/careers) | Winston-Salem, NC; Austin, TX & Remote | Take-home project and conversation-style interviews
@@ -427,7 +430,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 - [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
 - [Pager](https://pager.com) | New York, NY; Remote | Short phone interview, conversational interviews, take-home exercise & discussion
-- [PagerDuty](https://pagerduty.com/careers) | San Francisco, CA / Toronto, Canada | Google Hangout / on-site pair-programming sessions
+- [PagerDuty](https://pagerduty.com/careers) | San Francisco, CA / Toronto, Canada / Atlanta, GA | Zoom / on-site pair programming and tasks
 - [Palatinate Tech](https://tech.palatinategroup.com) | London, UK | Hangout/Skype/phone followed by (normally) on-site pairing task
 - [Parabol](http://parabol.co) | New York, NY; Los Angeles, CA; Remote | Culture check followed by compensated, [open-source contribution](https://github.com/ParabolInc/action/projects) skills evaluation
 - [Pariveda Solutions](http://parivedasolutions.com) | Dallas, TX / Houston, TX / Atlana, GA / Washington, DC / New York, NY / Chicago, IL / San Francisco, CA / Seattle, WA / Los Angeles, CA | Personality assessment (Predictive Index) and case study. Programming aptitude test (language independent) for college hires.
@@ -550,10 +553,12 @@ Additions to this document that are properly formatted will automatically be pus
 - [Touché](https://gotouche.com) | Singapore, Singapore; Barcelona, Spain | Skype / Phone / on-site interview, take-home project, technical interview to discuss the project, team interview.
 - [TrademarkVision](https://trademark.vision) | Brisbane, Australia | On site interview and quick take-home excercise
 - [TrainHeroic](http://trainheroic.com/careers/) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
+- [TrainingPeaks](http://www.trainingpeaks.com/careers.html) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
 - [TripStack](http://www.tripstack.com/company/careers/) | Toronto, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Trivago](https://www.trivago.com) | Düsseldorf, Germany | Case Study, Skype Interview, On site Interview with some code review excercises
 - [Trōv](https://boards.greenhouse.io/trov) | Remote | Take-home project with followup interview from actual prospective teammates
 - [Truefit](https://truefit.io/about/) | Pittsburgh, PA | Phone screen, Take-home project, In-person interview with the team that you would join
+- [Truora](https://truora.com)  | Bogotá, Colombia; Cali, Colombia; Remote | Take-home project, followed by phone interview with tech leads to discuss the project.
 - [Truss](https://truss.works/jobs) | San Francisco, CA; Remote | Phone screen/ Take-home project that resembles a problem Truss has seen many times before / Followup interview about the project / Closing Interview, all interviews done remotely
 - [Trustpilot](https://jobs.trustpilot.com) | Copenhagen, Denmark | Take-home project, code review and discussion on-site
 - [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome
