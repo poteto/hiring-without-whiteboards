@@ -1,7 +1,7 @@
 ---
 language: node_js
 node_js:
-  - "7"
+  - "11"
 
 sudo: false
 
@@ -17,3 +17,9 @@ install:
 
 script:
   - yarn test
+
+branches:
+  only:
+    - master
+    - staging # This is where pull requests from "bors r+" are built.
+    - trying # This is where pull requests from "bors try" are built.
