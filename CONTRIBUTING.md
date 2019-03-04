@@ -8,7 +8,7 @@ Thanks for contributing! Please adhere to the [Contributor Code of Conduct](/COD
 - [Company or team name within company](https://jobspage) | locations | description of interview process
 ```
 
-Locations **must** be city names that are separated by a `/`, `;` or `&`. Locations should be formatted like so:
+Locations **must** be city names that are separated by a `/`, `;`, or `&`. Locations should be formatted like so:
 
 ```
 San Francisco, CA; Tokyo, Japan; Moscow, Russia
