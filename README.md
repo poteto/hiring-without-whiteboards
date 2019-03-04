@@ -631,7 +631,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Zype](https://boards.greenhouse.io/zype) | New York, NY & Remote | Skype/Video call with VP of Product and a take-home challenge.
 
 ## Also see:
+- [interview-api](https://github.com/chase-adams/interview-api) | Remote | Simple API designed to challenge interviewees with creative thinking
 - [They Whiteboarded Me!](http://they.whiteboarded.me)
-- [interview-api](https://github.com/chase-adams/interview-api) - Simple API designed to challenge interviewees with creative thinking
 
 [![Build Status](https://travis-ci.org/poteto/hiring-without-whiteboards.svg?branch=master)](https://travis-ci.org/poteto/hiring-without-whiteboards)
