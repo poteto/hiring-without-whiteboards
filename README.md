@@ -232,6 +232,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [fournova](https://www.fournova.com/jobs) | Remote | Take-home project, discussion via video call
 - [FreeAgent](https://www.freeagent.com/company/careers) | Edinburgh, UK | Take-home project, pair programming, discussion and interviews
 - [Freeletics](https://www.freeletics.com/en/corporate/jobs) | Munich, Germany | Small real-world challenge, multiple interviews on-site/remote and social gathering with team.
+- [Freetrade](https://www.freetrade.io/careers) | London, England | Initial hangout with fizz buzz style question followed by an on-site real world coding question and systems design conversation.
 - [FRIDAY](https://friday-jobs.personio.de) | Berlin, Germany | Take-home real-world challenge, interview on-site or remote
 - [Frontside](https://frontside.io/careers) | Austin, Texas | Phone interview with remote pairing session. Followed by in person pairing (paid for the day) and lunch with the team.
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
@@ -561,6 +562,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [TrademarkVision](https://trademark.vision) | Brisbane, Australia | On site interview and quick take-home excercise
 - [TrainHeroic](http://trainheroic.com/careers/) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
 - [TrainingPeaks](http://www.trainingpeaks.com/careers.html) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
+- [TransferWise](https://transferwise.com/jobs/) | London, UK; New York, NY; Tallin, Estonia; Tokyo, Japan | Phone screen, take home project and interviews (remote or on-site, you can choose) for technical and cultural fit.
 - [TripStack](http://www.tripstack.com/company/careers/) | Toronto, Canada | Take-home assignment, followed up by a face to face code walk through
 - [Trivago](https://www.trivago.com) | Düsseldorf, Germany | Case Study, Skype Interview, On site Interview with some code review exercises
 - [Trōv](https://boards.greenhouse.io/trov) | Remote | Take-home project with followup interview from actual prospective teammates
