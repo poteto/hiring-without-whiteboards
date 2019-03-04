@@ -165,7 +165,6 @@ Additions to this document that are properly formatted will automatically be pus
 ## D - F
 - [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
 - [Data Theorem](http://www.datatheorem.com) | Palo Alto, CA; Paris, Fr; Bangladesh, India | Phone interview, then a take home project and finally in-person interview.
-- [DataCentred](http://www.datacentred.co.uk/careers) | Manchester, UK & Remote | Pair programming with team, project to work on at home
 - [Datalogue](https://datalogue.github.io/recruiting) | Montreal, Canada | We Ask candidates to contribute meaningfully to an Open source project that reflects the stack they will be working with and send us a link to the PR.
 - [DataMade](https://datamade.us) | Chicago, IL | After submitting an application, selected applicants are moved on to a round of interviews and will be asked to submit a piece of code for review. If you don’t have any code you can share, DataMade will provide a short exercise for you to complete. An in-person (or remote) interview will be scheduled to go over your background, what draws you to DataMade, and your code sample.
 - [Datascope](https://datascope.co/careers) | Chicago, IL | Take home exploratory data project with public data, discussion about the project via video chat, and in-person office visit.
@@ -352,6 +351,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Made Tech](https://www.madetech.com/careers) | London, UK | [Our hiring process](https://github.com/madetech/handbook/tree/master/guides/hiring#20-minute-phone-conversation)
 - [Magnetis](https://magnetis.workable.com) | São Paulo, Brazil & Remote | Phone interview + take home assignment, followed by pair programming and informal meeting with the team.
 - [Major League Soccer](https://careers-mlssoccer.icims.com/jobs/search?ss=1&searchCategory=20285) | New York, NY | Phone interview + short take home project, which is daily work focused. In person interview could involve discussing past projects or pair programming.
+- [MakeMusic](http://www.makemusic.com/careers/) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
 - [MakeTime](https://maketime.workable.com) | Lexington, KY | Practical exercise and/or a pairing session on site
 - [Mango Solutions](http://www.mango-solutions.com/wp/about-mango/team) | London (UK), Chippenham (UK) | Initial phone interview, followed by on-site interview with take-home assignment
 - [Mapbox](https://www.mapbox.com/jobs) | San Francisco, CA; Washington, DC; Ayacucho, Peru; Bangalore, India; Berlin, Germany; Remote | Conversational interviews, paid onsite project with team.
