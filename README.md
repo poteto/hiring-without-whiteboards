@@ -43,6 +43,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Affinity](https://affinity.recruiterbox.com/#content) | San Francisco, CA | Implementation of a children's game, then take-home project OR real-world design questions
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
 - [Agoda](https://careersatagoda.com/departments/technology) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
+- [Agrilyst](https://agrilyst.com) | New York, NY / Remote | Short takehome project & remote pairing
 - [Airbrake](https://airbrake.io) | San Francisco, CA / Remote | Take-home project & pair on a problem similar to daily work
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
 - [Ajira](http://ajira.tech) | Chennai, India / Austin, TX | Take home project, then pair programming, technical discussions, cultural fit
@@ -190,7 +191,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [drchrono](https://www.drchrono.com/careers) | Mountain View, CA | Hackerrank test (but not CS trivia, it's real product problems) & on-site/take-home project w/ presentation
 - [Drivy](https://www.drivy.com) | Paris, France | Phone screening followed by a take-home assignment, "Resume" interview, technical interview, product interview, interview with another team, finalizing the hire
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
-- [DroneSeed](https://www.droneseed.co/jobs/) | Seattle, WA | Group code reviews - some stuff we have written, some stuff you have written (we can send you something if you can't share anything) - then pair up on an open source bug.
+- [DroneSeed](https://www.droneseed.co/jobs/) | Seattle, WA | Take home assignment of a real problem we've worked on, group code review in subsequent interview.
 - [dubizzle](http://blog.dubizzle.com/uae/job-vacancies) | Dubai, UAE | Take home assignment, general technical questions, pair programming with engineers or tech leads
 - [E-accent](https://www.e-accent.com) | Hilversum, Netherlands; Remote | Skype conversation, take-home assignment
 - [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil | Take-home project, interview to evaluate the candidate's previous experience.
@@ -280,6 +281,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [HolidayPirates](https://holidaypirates.group/en/jobs) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [HoloBuilder](https://www.holobuilder.com) | Aachen, Germany | Take-home project, discussion via Skype or on-site
 - [Home Chef](https://www.homechef.com/careers) | Chicago, IL; Remote | Get-to-know-you meeting with the team, followed by a half-day collaborative coding session
+- [HomeLight](https://www.homelight.com/engineering) | San Francisco, CA; Scottsdale, AZ; Seattle, WA | Phone screen, take home that is close to production code, onsite with pair programming
 - [HoxHunt](https://jobs.hoxhunt.com) | Helsinki, Finland | Take-home project, pair programming on-site
 - [Human API](http://humanapi.co/company/careers) | Redwood City, CA | Technical phone interview, then on-site pair programming and design discussion
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
@@ -310,6 +312,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Journal Tech](https://journaltech.com/jobs) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
+- [K Health](https://www.khealth.ai) | Tel Aviv, Israel | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Kahoot!](https://www.getkahoot.com/jobs) | London, UK / Oslo, Norway | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Kata.ai](https://kata.ai) | Malang, Indonesia / Jakarta, Indonesia | Take-home assignment, then invited to discuss the assignment and interview.
 - [Kayako](https://www.kayako.com) | London, UK / Gurgaon, India | Take-home assignment, series of experience based interviews, cultural fit assessment
@@ -423,6 +426,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Onfido](https://onfido.com/jobs) | London, UK; Lisbon, Portugal | Take-home exercise and on-site interview/discussion with potential team
 - [Ontame.io](https://ontame.io) | Copenhagen, Denmark | Take home exercise and specific role discussion
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
+- [Openmind](https://www.openmindonline.it) | Monza, Italy | On-site interviews
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
 - [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
