@@ -2,6 +2,7 @@
 
 Have a suggestion? Please contribute to this doc!
 
+- Use a creative interview format similar to [interview-api](https://github.com/chase-adams/interview-api).
 - Instead of using questions that bear no resemblance to the role, adapt the question so that it does. A screening question can be easily adapted so that it applies a "real world" requirement
 - Take-home exercises can be good. Please try to:
   - time-box them (e.g. under 4 hours)
