@@ -567,6 +567,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [ThreatSpike Labs](https://www.threatspike.com) | London, UK | Take home computing and security related challenges to be completed over a week.
 - [Tilde](http://www.tilde.io) | Portland, OR | Pair programming sessions with each member of the team, working on problems similar to daily work.
 - [Timbuktu](https://www.timbuktutravel.com) | Cape Town, South Africa | On site interview and pair programming exercise
+- [Titanium](https://titanium.codes) | Moldova, Chisinau | High level review of public activity on GitHub/BitBucket/Gitlab (if applicable) and screening via phone, On-site technical & Team fit interview, Formal "Meet the Team" meeting
 - [Torii](https://jobs.jointorii.co) | Raanana, Israel | Take-home fun full-stack-app exercise followed by an on-site review
 - [Toucan Toco](http://toucantoco.com/fr/team#jobs) | Paris, France | Pair-programming and TDD
 - [Touché](https://gotouche.com) | Singapore, Singapore; Barcelona, Spain | Skype / Phone / on-site interview, take-home project, technical interview to discuss the project, team interview.
