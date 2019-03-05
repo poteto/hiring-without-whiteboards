@@ -509,7 +509,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Sensor Tower](https://sensortower.com/jobs) | San Francisco, CA | Phone call, on-site interview including discussion about projects/skills and a short real-world programming challenge
 - [Sensu](https://sensu.io) | Remote | Video call, choice of pairing session or take home programming assignment
 - [Séntisis](http://sentisis.com/trabaja-con-nosotros) | Madrid, Spain; Mexico City, Mexico; Bogotá, Colombia; Santiago de Chile, Chile; Remote | Phone call, on-site/remote interview including discussion about projects/skills and a short real-world pair-programming exercise
-- [SerpApi](https://serpapi.com) | Austin, TX / Remote / Remote First | Skype core value and culture interview, review of contributions on GitHub or other platforms, and take-home project if online contributions are not enough.
+- [SerpApi](https://serpapi.com) | Austin, TX / Remote | Skype core value and culture interview, review of contributions on GitHub or other platforms, and take-home project if online contributions are not enough.
 - [Setapp Sp. z o.o.](https://setapp.pl/career) | Poznan, Poland | Online/face-to-face discussion with developers about everyday programming dilemmas & reviewing your own code
 - [Sharoo](https://www.sharoo.com/jobs/) | Zurich, Switzerland; Remote | Soft skills interview, take home project, technical interview based on take home project.
 - [Shogun](https://getshogun.com) | Remote | Discussion about software development and past experience, code samples, paid trial period.
