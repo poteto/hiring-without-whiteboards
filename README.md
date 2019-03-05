@@ -515,7 +515,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Shopify](https://shopify.com) | Ottawa, ON; Toronto, ON; Montreal, QC; Kitchener-Waterloo, ON; San Francisco, CA; Berlin, Germany; Vilnius, Lithuania | Life story, tech deep dive, real-world problem solving and pair programming
 - [Showmax](https://blog.showmax.com/engineering-careers) | Beroun, Czechia; Prague, Czechia; Remote | Take home project, then a pair-programming and discussion onsite / Hangouts round.
 - [ShuttleCloud](https://shuttlecloud.com/jobs) | Chicago, IL / Madrid, Spain | Take-home project, then on-site code walk through and a real world problem discussion.
-- [Signal AI](https://www.signal-ai.com/about-us/careers) | London, UK | Phone sceen; take home code exercise; on-site code extension with pair programming and discussion
+- [Signal AI](https://www.signal-ai.com/about-us/careers) | London, UK | Phone screen; take home code exercise; on-site code extension with pair programming and discussion
 - [Simple](https://www.simple.com) | Portland, OR | Discussion about software development and architecture skills and experience.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers) | Fort Worth, TX, USA | Takehome code challenge and review
 - [SimpliField](http://www.welcometothejungle.co/companies/simplifield/jobs) | Lille, France | Interview with the CTO and the developer team
