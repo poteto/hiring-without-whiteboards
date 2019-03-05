@@ -9,4 +9,4 @@ Have a suggestion? Please contribute to this doc!
   - pay the candidate for their time
 - Give the candidate options:
   - Some candidates might not have the time necessary to complete a take-home exercise. In those scenarios, allow the candidate to take their laptop in to perform a shorter exercise (e.g. pair program on a small issue)
-  - Some candidates prefer the whiteboard when discussing a problem, let them
+  - Some candidates prefer the whiteboard when discussing a problem, let them ？？
