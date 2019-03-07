@@ -81,6 +81,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
 - [Bakken & Bæck](https://bakkenbaeck.com/jobs) | Oslo, Norway; Amsterdam, Netherlands; Bonn, Germany | Skype interview followed by take-home assignment and a visit to one of our offices
 - [Balabit](https://career.balabit.com) | Budapest, Hungary | Take-home project (medium size, with restrictions, e.g. only stdlib may be used), then discussion on-site
+- [Barracuda View Team](https://www.barracuda.com/company/careers) | Chelmsford, MA / Remote | Phone screen, remote pair programming session, technical discussion interview, culture fit interview
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago, IL / Remote
 - [Beam Dental](https://beam.dental/jobs) | Columbus, OH | Phone Screen, Take Home Project, In-Person Pairing and Cross-Functional Interview
 - [Belka](http://belka.us/lavora-con-no) | Trento, Italy; Munich, Germany | We give you a small task that you can do alone and then we evaluate your work with you
