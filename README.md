@@ -42,7 +42,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
 - [AeroFS](https://www.aerofs.com/company/careers) | San Francisco, CA | Short takehome project + phone interview
 - [Affinity](https://affinity.recruiterbox.com/#content) | San Francisco, CA | Implementation of a children's game, then take-home project OR real-world design questions
-- [Ageno](https://ageno.pl/) | Bielsko-Biala, Poland | Simple Magento Take-home project and discussion on the real world problems.
+- [Ageno](https://ageno.pl) | Bielsko-Biala, Poland | Simple Magento Take-home project and discussion on the real world problems.
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
 - [Agoda](https://careersatagoda.com/departments/technology) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
 - [Agrilyst](https://agrilyst.com) | New York, NY / Remote | Short takehome project & remote pairing
