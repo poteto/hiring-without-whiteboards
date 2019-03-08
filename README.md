@@ -293,7 +293,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 - [Icalia Labs](http://icalialabs.com) | Monterrey, Mexico | Pair programming, cultural fit session
 - [iConstituent](http://iconstituent.com/careers/) | Washington, DC | Take-home project and code review in-person
-- [IDEO](https://www.ideo.com/jobs) | San Francisco, CA; New York NY; Chicago, IL; Cambridge, MA | Take home project that resembles a problem IDEO solves for, then pairing session in person or over video chat.
+- [IDEO](https://www.ideo.com/jobs) | San Francisco, CA; New York, NY; Chicago, IL; Cambridge, MA | Take home project that resembles a problem IDEO solves for, then pairing session in person or over video chat.
 - [ImmobilienScout24](https://boards.greenhouse.io/scout24) | Berlin, Germany | Take-home project, discussion on-site
 - [Impraise](http://jobs.impraise.com) | Amsterdam, The Netherlands | Take home test, real world pair programming
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
