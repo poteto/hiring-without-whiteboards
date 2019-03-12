@@ -298,6 +298,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [IDEO](https://www.ideo.com/jobs) | San Francisco, CA; New York, NY; Chicago, IL; Cambridge, MA | Take home project that resembles a problem IDEO solves for, then pairing session in person or over video chat.
 - [ImmobilienScout24](https://boards.greenhouse.io/scout24) | Berlin, Germany | Take-home project, discussion on-site
 - [Impraise](http://jobs.impraise.com) | Amsterdam, The Netherlands | Take home test, real world pair programming
+- [Incloud](https://jobs.incloud.de) | Darmstadt, Germany | Technical interview with developers, followed by a full day on site with a practical project
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
 - [InfluxData](https://www.influxdata.com/careers) | San Francisco, CA & Remote | Technical and non-technical interviews, pair programming, with prospective manager and multiple prospective teammates
 - [InfoSum](https://www.infosum.com) | Basingstoke, UK | On-site unsupervised exercise & discussion.
