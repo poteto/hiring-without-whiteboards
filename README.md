@@ -298,6 +298,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [IDEO](https://www.ideo.com/jobs) | San Francisco, CA; New York, NY; Chicago, IL; Cambridge, MA | Take home project that resembles a problem IDEO solves for, then pairing session in person or over video chat.
 - [ImmobilienScout24](https://boards.greenhouse.io/scout24) | Berlin, Germany | Take-home project, discussion on-site
 - [Impraise](http://jobs.impraise.com) | Amsterdam, The Netherlands | Take home test, real world pair programming
+- [Incloud](https://jobs.incloud.de) | Darmstadt, Germany | Technical interview with developers, followed by a full day on site with a practical project
 - [Indellient](http://www.indellient.com/careers) | Oakville, Canada | Series of interviews both technical and non-technical
 - [InfluxData](https://www.influxdata.com/careers) | San Francisco, CA & Remote | Technical and non-technical interviews, pair programming, with prospective manager and multiple prospective teammates
 - [InfoSum](https://www.infosum.com) | Basingstoke, UK | On-site unsupervised exercise & discussion.
@@ -461,6 +462,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Paws](https://paws.com/careers) | London, UK | Phone screening, take-home project, on-site pairing/discussion on your solution and meet the team.
 - [Paybase](https://paybase.io) | London, UK | Phone screening, Take home project, On-site interview for technical and culture fit, Open Q&A session with team
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, Canada | Remote programming interview, on-site "meet the team"
+- [Peaksware Companies (TrainingPeaks, TrainHeroic, MakeMusic)](https://peaksware.com) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
 - [PeerStreet](https://info.peerstreet.com/careers) | Los Angeles, CA | Phone, take home project & on-site to meet the team
 - [Pento](https://angel.co/pento/jobs) | Remote | Quick personal interview, take home project
 - [Persgroep, de](https://www.persgroep.nl/werken-bij-it) | Amsterdam, Netherlands | Tech interview (technical background and experiences) and culture fit, both on-site
@@ -607,6 +609,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Unbounce](https://unbounce.com) | Vancouver, BC | Phone screen, take-home project, project discussion, technical interview
 - [Unboxed](https://unboxed.co) | London, UK | Take home feature requests, pairing with developers to extend solution, team-fit interviews, chat with a director
 - [Unearth](http://www.unearthlabs.com/careers) | Seattle, WA | Take home project, team-fit interviews, technical discussion
+- [Unito](https://unito.io/careers/) | Montreal, Canada | Team-fit interviews, technical discussion, take home project
 - [Untappd](https://www.untappd.com) | Wilmington, NC; New York, NY; Los Angeles, CA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [Updater](http://www.updater.com/jobs/openings) | New York, NY | Begin-at-home assignment highly relevant to role, presented and discussed during on-site.
 - [Uprise](http://uprise.se) | Uppsala, Sweden | Take-home assignment, code review and discussion on-site
