@@ -65,6 +65,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [ASOS](https://jobs.asos.com/epostings/index.cfm?fuseaction=app.jobsearch&company_id=30071&version=1&byBusinessUnit=5) | London, UK | Take home or in-person code refactoring exercise, in-person walk-though of solution including software crafstmanship principles and design decisions, in-person freestyle architecture walk-through
 - [Ataccama](https://jobs.ataccama.com) | Prague, Czech Republic | Face to face interview (skype or onsite), coding task for 30 min, meeting with team members
 - [aTech Media](https://atech.media) | London, UK | Face to face interview, review of existing open source contributions or, if none are available, asked to write a library for something that interests them
+- [Aura Frames](https://auraframes.com/jobs?gh_src=2ef5cfa32) | New York, NY / San Francisco, CA | Simplified real-world coding task on Coderpad.io, followed by a few hours onsite writing code in our actual codebase.
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers) | Bellevue, WA / Buenos Aires, Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
 - [Auto1](https://www.auto1-group.com/jobs) | Berlin, DE | Series of Skype interviews which covers general technical questions, followed by a take-home assignment
 - [Automattic](https://automattic.com/work-with-us) | Remote | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
