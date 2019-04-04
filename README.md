@@ -520,6 +520,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Resin.io](https://resin.io) | Remote | Take home real-world project and a couple of technical and non-technical discussions
 - [ReSpark](https://www.respark.co.uk) | London, UK | Phone conversation followed by on-site interview w/ task relevant to daily role.
 - [RestaurantOps](https://www.restaurantops.co) | Scottsdale, AZ | Take Home Project & pair programming session
+- [Rever](https://reverscore.com) | Guadalajara, Mexico | Take-home project, on-site discussion or via Hangouts.
 - [Revlv](https://revlv.net) | Manila, Philippines | Discussion about developer skills, previous projects and experiences.
 - [Rex Software](https://www.rexsoftware.com/careers) | Brisbane, Australia | Take home project, feedback + interview
 - [Rizk.com](https://rizk.com) | Ta' Xbiex, Malta | Take-home assignment, discussion w/ developers
