@@ -532,6 +532,7 @@ Additions to this document that are properly formatted will automatically be pus
 
 ## S - U
 - [Sahaj Software Solutions](https://www.sahajsoft.com) | Bangalore, India; Chennai, India; San Jose, CA | Take home code + Pairing + Discussion
+- [SaleCycle](https://www.salecycle.com/careers) | Durham, UK | Phone screen, face-to-face discussion with developers, optional pairing session and discussion
 - [Salesforce.org Tech & Products](http://www.salesforce.org) | Remote | Phone screen, hands-on programming test solving real-world problems, Google Hangouts video sessions with engineers
 - [Salesloft](https://salesloft.com) | Atlanta, GA | Phone interview, take-home project, cultural-fit interview, technical interview where candidate modifies take-home project
 - [Samsara](https://www.samsara.com/jobs) | San Francisco, CA; Atlanta, GA; London, UK | Phone interview, onsite interview (technical challenges based on real problems we've faced at Samsara)
@@ -572,6 +573,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [store2be](https://www.store2be.com/de/jobs/tech) | Berlin, Germany | Skype/on-site interview, take-home project
 - [Storm](https://www.stormx.io/about#jobs) | Seattle, WA; Remote | Phone/skype screen --> Take-home coding assignment --> on-site/skype interview loop to discuss assignment; meet-and-greet with other teams --> +1/-1 based on team consensus
 - [Storytel](https://jobs.storytel.com/departments/tech) | Stockholm, Sweden; Lund, Sweden; Karlstad, Sweden; Umeå, Sweden; Copenhagen, Denmark | Our process has few stages: a social interview with HR and 1-2 future teammates; a small take-home project followed by a technical discussion with 2-3 future colleagues. All stages can be in-person in one of our offices or via Google Meet
+- [Stripe](https://stripe.com) | San Francisco, CA / Seattle, WA / Dublin, Ireland / Singapore, SG / Remote | Programming/debugging phone screen + on site with your own laptop/setup and full access to internet, systems design discussion and talk with hiring manager about team alignment.
 - [STYLABS](http://www.stylabs.in) | Mumbai, India | Phone Screen, Take-home project and discussion on-site
 - [Subvertical (VerticalChange)](https://verticalchange.com/job_posts) | Remote | Phone screening, live pair programming & personal project code review
 - [Sulvo](https://sulvo.com/careers) | New York, NY / Remote | Interview over video call for cultural fit first, if you pass we proceed with technical interview that doesn't include coding games or challenges
