@@ -425,9 +425,9 @@ Additions to this document that are properly formatted will automatically be pus
 - [NewVoiceMedia](https://www.newvoicemedia.com/about-newvoicemedia/careers) | Basingstoke, England; Wroclaw, Poland | Telephone interview, takeaway coding exercise, on-site pair programming, code review & technical discussion (1/2 day)
 - [Nexcess.net](https://nexcess.net) | Southfield, MI | We mostly chat to get a feel on both ends if there's a good cultural fit. We ask questions to see what experience you have and how you think as a programmer. At some point we look at some of your code or have you work on some of ours (1 hour).
 - [Nimbl3](https://www.workhiro.com/companies/nimbl3) | Bangkok, Thailand | Takehome exercise and specific role discussion
+- [NIST](https://www.nist.de) | Berlin, Germany | Phone Interview with Head of Engineering, Take-home exercise & interview with a senior developer & CPO
 - [Niteoweb](http://www.niteoweb.com/careers) | Ljubljana, Slovenia | Join us for a week to see if we fit
 - [Nitro](https://www.gonitro.com/about/jobs) | Dublin, Ireland; San Francisco, CA | Phone Call, Take Home Test, Hiring Manager Phone Interview followed by an onsite discussion
-- [NIST](https://www.nist.de) | Berlin, Germany | Phone Interview with Head of Engineering, Take-home exercise & interview with a senior developer & CPO
 - [Noa](https://www.noa.one) | Berlin, Germany; San Francisco, CA | 1 technical chat, 2-3 cultural chats with colleagues from different departments in the team, if these work a pair programming exercise
 - [NodeSource](http://nodesource.com/careers) | Remote | A person-to–person walk through of a past project of yours
 - [Nomoko,camera](https://www.nomoko.world/jobs) | Zurich, Switzerland | Three interrogations
