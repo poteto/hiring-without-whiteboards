@@ -128,6 +128,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [ByBox](https://www.bybox.com/company/careers/) | Remote | Phone interview followed by interview with devs (ideally in person but sometimes Skype) covering technical experience and coding exercise with real code.
 - [CACI Rome](http://careers.caci.com/ListJobs/All/Search/location/rome/state/ny/country/us) | Rome, NY; Remote | Phone interview followed by in-person or Skype screen sharing interview with a coding exercise in either Java, web (Node.js + frontend), or both. Interview format is exclusive to the Rome, NY office and may not be shared by other regional CACI offices.
 - [Cake Solutions](http://www.cakesolutions.net/careers) | Manchester, UK; London, UK; New York, NY | Skype / Hangouts / phone call to explain the technical background, current position and set expectations about the salary, relocation, etc; if all good, what to expect next. Then take-home exercise for roughly 4 hours to demonstrate good thinking and ability to pick up new things, explain & document the solution, finishing with pair programming with senior developers (remote or in person); use the code as a talking point around the more difficult things after getting through the simple starter tasks.
+- [Canonical](https://boards.greenhouse.io/canonical) | London, UK; Austin, TX; Boston, MA; Beijing, China; Shanghai, China; Taipei, Taiwan; Tokyo, Japan; Remote | Review your open source contributions at shortlist stage. 4x60m interviews over Hangouts, each of which is carried out blind (none of the interviewers talk to each other until the final review). The company is fully remote, so there is no on-site.
 - [Capgemini UK Java Team](https://www.uk.capgemini.com) | London, UK; Woking, UK; Bristol, UK; Cardiff, Wales; Birmingham, UK; Manchester, UK; Leeds, UK; Rotherham, UK; Liverpool, UK; Newcastle, UK; Edinburgh, Scotland; Glasgow, Scotland | Technical telephone interview (30 minutes), take-home non-CompSci coding exercise (3-4 hours), face-to-face role-played consulting scenario involving a solution architecture and a delivery plan (two hours)
 - [Caravelo](https://caravelo.bamboohr.com/jobs/) | Barcelona, Spain | Take home project, then technical discussion about the code in-person or Skype and hang out with the team.
 - [Cartegraph](http://www.cartegraph.com/company/careers/) | Dubuque, IA / Remote | Phone screen, hiring manager interview, small take-home coding project, and team code review/interview
@@ -256,6 +257,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Gamevy](https://www.gamevycareers.com) | London, UK; Bilbao, ES; Remote | Informal culture discussions, pair programming with our engineers
 - [Garner](https://www.garnercorp.com) | Toronto, Canada | step 1: online chat with hiring manager, step 2: at home assignment solving real-life problem, step 3: on-site pair programming with engineers, step 4: offer
 - [GatherContent](https://gathercontent.com/careers/designer) | Remote | Culture-first interviews, pair programming and remote, informal technical discussions
+- [Gemini](https://gemini.com/careers) | New York, NY | Phone chat. Take-home project, discussion on-site. Questions on prior experiences and culture fit
 - [GeneralUI](https://generalui.com) | Seattle, WA | A short phone screen with questions regarding general knowledge related to the open position, then a half day pair programming interview.
 - [Ginetta](http://jobs.ginetta.net) | Zurich, Switzerland; Braga, Portugal | Culture-first interviews, take home assignment that resembles a real-world problem we often solve, then discussion about the assignment in-person with pair-programming improvement sessions with our developers.
 - [GitHub](https://github.com/about/careers) | Remote; San Francisco, CA; Boulder, CO| Take-home exercise, code review and technical discussions.
@@ -404,6 +406,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Mutual of Omaha](http://www.mutualofomaha.com/careers) | Omaha, NE, USA | Panel Style Interviews analyzing problem solving, ability to adapt well to change, and interpersonal communication skills.
 - [Mutually Human Software](https://www.mutuallyhuman.com) | MI, OH, WA | Collaborative problem analysis and design exercise, pairing exercise
 - [My Taxi](https://mytaxi.com) | Hamburg, Germany | Video chat with HR, Take Home Assignment, Review of Assignment with a technical member, Technical interview and onboarding.
+- [MyHeritage](https://www.myheritage.com) | Or Yehuda, Israel; Kyiv, Ukraine | Video call with HR, problem solving test on codility.com, video call with tech lead and solving problem from real project, system design onsite interview.
 - [Nanobox](https://nanobox.io) | Lehi, UT; Remote | A phone/video/person-to–person interview with a look at past projects (github, bitbucket, source code, etc.)
 - [Native Instruments](https://www.native-instruments.com) | Berlin, Germany | Takehome programming assignment and personal interviews with part of the hiring team.
 - [Nearsoft Inc](https://nearsoft.com/join-us/) | Hermosillo, Mexico; Chihuahua, Mexico; Mexico City, Mexico | Takehome [logic test](https://nearsoft.com/blog/the-logic-behind-nearsofts-logic-test/), english interview to check communication skills, short technical interview about experience, long technical discussion about languages/tools/practices you will use on daily basis, pair programming session.
@@ -488,10 +491,11 @@ Additions to this document that are properly formatted will automatically be pus
 - [PremiumBeat](https://www.premiumbeat.com/careers) | Montreal, Canada | Discussion and general, high level questions
 - [Primary](https://www.primary.com/jobs) | New York, NY / Remote |  Phone chat, take home exercise, pair program and discuss onsite.
 - [PromptWorks](https://www.promptworks.com/jobs) | Philadelphia, PA | Take-home project, pair programming, discussion on-site
-- [Pusher](https://pusher.com/careers) | London, UK | Solve a real-world problem through a design session with our engineers
-- [Pygmalios](https://pygmalios.com/careers/) | Bratislava, Slovakia | Take-home project related to business and discussion with our engineers.
-- [Quiet Light Communications](https://www.quietlightcom.com/join-our-team/) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
-- [Quintype](https://www.quintype.com/careers) | Bengaluru, India / San Mateo, USA | Take home project, pair programming, discussion on-site
+- [Proxy](https://www.proxy.com) | San Francisco, CA | Phone chat. In-depth discussion about experiences on-site. Occassionally a take home project.
+- [Pusher](https://pusher.com/jobs) | London, UK | Solve a real-world problem through a design session with our engineers
+- [Pygmalios](http://pygmalios.com/en) | Bratislava, Slovakia | Take-home project related to business and discussion with our engineers.
+- [Quiet Light Communications](https://quietlightcom.com/positions-web.php) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
+- [Quintype](http://www.workatquintype.com) | Bengaluru, India / San Mateo, USA | Take home project, pair programming, discussion on-site
 - [Quizizz](https://quizizz.com) | Bengaluru, India | Phone chat, real world assignment, discussion w/ developers, pair programming, discussion on-site
 - [Ragnarson](https://ragnarson.com) | Lodz, Poland; Remote | Take-home exercise & pair programming session
 - [Railslove](https://www.railslove.com) | Cologne, Germany | Have a coffee in our office, casual chat with us, pair programming on a real project
@@ -518,6 +522,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Rizk.com](https://rizk.com) | Ta' Xbiex, Malta | Take-home assignment, discussion w/ developers
 - [Rockode](http://www.rockode.com) | Bangalore, India | Real world assignment, group hack session, discussions
 - [Rose Digital](http://rosedigital.co) | New York, NY | Phone conversation followed by pair coding components that mirror day to day work, in person discussion about code, take home project if needed for more info
+- [RStudio](https://www.rstudio.com) | Remote | Video calls with recruiter then engineering management, take home project, video call for code review with engineering lead
 - [RubyGarage](https://rubygarage.org) | Dnipro, UA | Take-home project, code review and discussion on-site
 - [Runtastic](https://www.runtastic.com) | Linz, Austria; Vienna, Austria | Video call with recruiting staff, take home project, video call for code review, discussion, questions
 
