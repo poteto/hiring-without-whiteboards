@@ -62,7 +62,6 @@ Additions to this document that are properly formatted will automatically be pus
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
 - [Articulate](https://articulate.com/company/careers) | Remote | Take-home project & pair program on a problem similar to daily work
 - [Artsy](https://www.artsy.net/jobs#engineering) | New York, NY / London, UK / Berlin, Germany / Los Angeles, CA / Hong Kong, Hong Kong / Remote | Our process: 1) Informal chat 2) Application 3) Phone screen 4) In-person interview with 1 lead, 2 individual contributors and 1 non-engineer (30-45 mins each), focusing on your work habits and expertise as demonstrated in your previous work 5) ~4 in-depth professional reference calls (30-45 mins each).
-- [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [ASOS](https://jobs.asos.com/epostings/index.cfm?fuseaction=app.jobsearch&company_id=30071&version=1&byBusinessUnit=5) | London, UK | Take home or in-person code refactoring exercise, in-person walk-though of solution including software crafstmanship principles and design decisions, in-person freestyle architecture walk-through
 - [Ataccama](https://jobs.ataccama.com) | Prague, Czech Republic | Face to face interview (skype or onsite), coding task for 30 min, meeting with team members
 - [aTech Media](https://atech.media) | London, UK | Face to face interview, review of existing open source contributions or, if none are available, asked to write a library for something that interests them
@@ -235,6 +234,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Euro Payment Group](http://www.europaymentgroup.com) | Frankfurt, Germany | Take-home project followed by face to face interview
 - [Exoscale](https://exoscale.ch) | Bern, Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [F(x)](https://fdex.com.br) | São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
+- [Faculty](https://faculty.ai/about-us/join-the-team/) | London, UK | Project to work on at home, general technical questions, pair programming with engineers.
 - [Falcon.io](https://www.falcon.io/jobs/) | Copenhagen, Denmark | Initial call/Skype culture interview. Take-home tech assignment (game) and code review. On-site Interview about your experience and meeting the team.
 - [FATMAP](https://www.fatmap.com) | London, UK; Berlin, Germany; Vilnius, Lithuania | Skype discussion, Take-home project, Face to face
 - [Fauna](https://fauna.com) | San Francisco, CA / Remote | Take home project, then follow up with interviews on-site or remote. Interviews are both technical and non-technical. Technical interviews comprehend the scope of the home project.
