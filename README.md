@@ -686,7 +686,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
 - [8th Light](https://8thlight.com) | Chicago, IL; London, UK; Los Angeles, CA; New York, NY | Take home code challenge, discussion, pair programming session
 - [Yhat](https://www.yhat.com/jobs) | Brooklyn, NY | Demo something cool you built and walk us thru the code + design decisions
-- [YLD](https://yld.breezy.hr) | London, UK | Take home-code challenge, pair-programming session and discussion about past experience
+- [YLD](https://jobs.lever.co/yld) | London, UK; Lisbon, PT; Porto, PT & Remote | Take home-code challenge, pair-programming session and discussion about past experience
 - [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
 - [Yoyo Wallet](http://yoyowallet.com) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
 - [YunoJuno](http://www.yunojuno.com) | London, UK | Code challenge based on a realistic feature request on a real open-source package created and used at YunoJuno; phone/video interview with members of the Product team to explore technical background, experiences, interests, cultural fit; on-site interview, usually with Product Manager and CTO
