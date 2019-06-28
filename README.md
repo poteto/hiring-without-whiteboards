@@ -566,6 +566,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Skyrise Pro](https://www.skyrisepro.com) | Chicago, IL | Take-home coding project, on-site interview including coding enhancements to the take-home project, offsite group activity
 - [Slack](https://slack.com/jobs) | San Francisco, CA | Call with recruiter, 1 week take-home project, call with hiring manager, on-site interview covering high-level system design, best software development practices and culture-fit
 - [Small Improvements](https://www.small-improvements.com/careers) | Berlin, Germany
+- [Smartly.io](https://www.smartly.io/developer) | Helsinki, Finland | Discussion with recruiter and developers and a pair coding excersice
 - [Social Tables](http://www.socialtables.com) | Washington, DC | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
 - [SocialCops](http://www.socialcops.com) | New Delhi, India | A mini project (to be done within 8 days), followed by a discussion with the team you're applying to. Then as the final step, a call with one of the founders.
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
