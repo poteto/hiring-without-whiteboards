@@ -37,6 +37,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Acko](https://acko.com) | Mumbai, India | Phone interview, followed by a small take home problem. Finally a F2F or skype pair programming session
 - [Acumen](http://www.acumenci.com/joinourteam) | London, UK | Small take home test, and sit in on some sprint rituals on-site
 - [Addstones](https://www.addstones.com) | Paris, FR / Singapore, SG / Bucharest, RO / London, UK | Multiple interviews, discussion of technical background and experiences. Sometimes we do a on-site unsupervised small exercise.
+- [Adeva](https://adevait.com) | New York, USA | 4 steps interviewing process that includes online coding assignment + lead engineer call.
 - [AdEx Network](https://www.adex.network) | Sofia, Bulgaria / Remote | Email screening process, followed by a take-home assignment
 - [Adnymics](https://adnymics.com) | Munich, DE | Take home project, then work with the team for a day
 - [Adthena](http://adthena.com) | London, UK | Takehome  project and discussion on-site
@@ -72,6 +73,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Auto1](https://www.auto1-group.com/jobs) | Berlin, DE | Series of Skype interviews which covers general technical questions, followed by a take-home assignment
 - [Automattic](https://automattic.com/work-with-us) | Remote | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
 - [AutoScout24](https://github.com/AutoScout24/hiring) | Munich, Germany | Skype interview followed by home assignment from our day-to-day business and then on-site interview including lunch with a team
+- [Avalara](https://www.avalara.com/us/en/about/jobs/job-openings.html) | Seattle, WA | SRE Positions - Take-home project, on-site discussions about scalability, reliability, deployments, troubleshooting of your take-home.
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Avarteq GmbH](https://www.avarteq.com/career) | Berlin, Germany / Saarbrücken, Germany | Technical interview with our developers on-site or remote followed by a work sample in a pair programming session or a previous take-home project with a follow-up discussion and detailed feedback.
 - [Avocarrot](https://www.avocarrot.com/company) | Athens, Greece | on-site real world problem discussion and pair programming
@@ -291,7 +293,6 @@ Additions to this document that are properly formatted will automatically be pus
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
 - [Headspring](https://headspring.com/about/careers) | Austin, TX; Houston, TX; Monterrey, Mexico | Take-home situational questionnaire and code exercise, with in-person follow up to discuss and pair for changes
 - [Healthify](https://healthify.us) | Remote & New York City, NY | Take-home project, discussion via Zoom, pair programming with us on our app for a day.
-- [Heetch](https://www.heetch.com) | Paris, France | Values-fit interview (via zoom.us), Take-home project with review, Team Discussions (via zoom.us), on-site day
 - [HE:labs](https://helabs.com) | Rio de Janeiro, Brazil & Remote | Take-home project and discussion via Skype.
 - [HelloFresh](https://www.hellofresh.com/jobs) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [Heptio](https://www.heptio.com/jobs) | Seattle, WA; Remote | Take-home project, discussion on-site
@@ -605,6 +606,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [tails.com](https://tails.com/careers) | Richmond (London), UK | Live pair programming or take home project with review
 - [Tandem](https://www.madeintandem.com) | Chicago, IL; San Francisco, CA | Introductory phone screen, take-home project, take-home project phone review, a few hour-long pairing sessions on real projects.
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
+- [Tara AI](https://tara.ai/about/careers) | San Jose, CA | On-site interview with a deep dive into appropriate technology and our problem space. The same sort of problem solving you would do with peers after a standup
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [Telus Digital](https://labs.telus.com) | Toronto, Canada; Vancouver, Canada | Discuss knowledge and interest, explore previous work, pair with developers when possible, alternatively take home project.
 - [Ten Thousand Coffees](https://tenthousandcoffees.com) | Toronto, Canada | Take home project, then explain how you solved the project
