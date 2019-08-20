@@ -219,6 +219,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Edenspiekermann](https://jobs.edenspiekermann.com) | Amsterdam, Netherlands / Berlin, Germany / Los Angeles, CA / San Francisco, CA / Singapore, Singapore | On-site chat about skills and past experiences, review some code samples or a take-home assignment
 - [EF Education First](https://careers.ef.com) | London, UK; Boston, MA | Short phone interview, take-home project, discussion of project and real world engineering problems, meet the team.
 - [Eidu](http://eidu.com) | Berlin, Germany | Take-home project, discussion of results with team, and test days with pair programming
+- [El Niño](https://www.elnino.tech) | Enschede, The Netherlands; The Hague, The Netherlands | On-site chat about the candidate experience and the company followed by a trial day relevant for the role.
 - [El Passion](http://www.elpassion.com) | Warsaw, Poland | Take-home project, interview to 1) discuss delivered solution and 2) previous projects
 - [Electric Pulp](https://www.electricpulp.com) | Sioux Falls, SD, USA | Phone interviews with leadership team and technical team leads. We are a tight knit team, so emphasis on a great personal fit is as important as technical prowess.
 - [Elements Interactive](https://www.elements.nl/careers) | Almere, The Netherlands & Barcelona, Spain | Take-home project & discussion via Skype or on-site
