@@ -160,8 +160,8 @@ Additions to this document that are properly formatted will automatically be pus
 - [Cognitran](http://www.cognitran.com/employment-opportunities) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Collabora](https://www.collabora.com/careers.html) | Cambridge, UK / Montreal, Canada / Remote | On-site or video interview, discussion of technical experience and sometimes approach for tackling a hypothetical problem.
 - [COMPEON](https://www.compeon.de/karriere) | Duesseldorf, Germany | Phone interview, followed by onsite discussions and pair programming with our developers
-- [Condé Nast International](https://condenastinternational.com) | London, UK | Phone interview, 2 hour take-home project, and on-site with discussion of project, experience, and general technical questions.
 - [Concordia Publishing House](http://about.cph.org/careers.html) | St Louis, MO | Take-home project followed by discussion of it on-site with future teammates.
+- [Condé Nast International](https://condenastinternational.com) | London, UK | Phone interview, 2 hour take-home project, and on-site with discussion of project, experience, and general technical questions.
 - [Contactlab](http://contactlab.com/en/careers) | Milan, Italy | Recruiter interview, tech interview (technical background and experiences), both on-site.
 - [Contentful](https://www.contentful.com/careers) | Berlin, Germany & SF, USA | Multiple interviews, discussion of technical background & live coding challenge (you can use the internet).
 - [ContentSquare](https://www.contentsquare.com/careers) | Paris, France | Real-world challenges with open discussions.
