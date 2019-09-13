@@ -1,0 +1,25 @@
+---
+language: node_js
+node_js:
+  - "11"
+
+sudo: false
+
+cache:
+  yarn: true
+
+before_install:
+  - curl -o- -L https://yarnpkg.com/install.sh | bash
+  - export PATH=$HOME/.yarn/bin:$PATH
+
+install:
+  - yarn install
+
+script:
+  - yarn test
+
+branches:
+  only:
+    - master
+    - staging # This is where pull requests from "bors r+" are built.
+    - trying # This is where pull requests from "bors try" are built.
