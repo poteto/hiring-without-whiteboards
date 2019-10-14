@@ -477,7 +477,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
 - [Ori] (http://ori.co)| London, UK | Phone interview and a takehome project, followed by a two hour meeting with the team
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
-- [Outbrain](https://www.outbrain.com/jobs) | NYC, Israel | Take-home exercise & discussion
+- [Outbrain](https://careers.outbrain.com/?F1C=Netanya&F2C=&FTXT=) | Netanya, Israel | Take-home exercise & discussion
 - [Outlandish](https://outlandish.com) | London, UK | Take-home exercise, real-world pair programming session, friendly chat with team
 - [Outlook iOS & Android](https://github.com/outlook/jobs) | San Francisco, CA / New York, NY | Take-home project & online / onsite discussion
 - [The Nerdery](https://www.nerdery.com/careers) | Minneapolis, MN; Chicago, IL; Phoenix, AZ; Kansas City, KS | Take-home exercise
