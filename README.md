@@ -60,7 +60,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Alluvium](https://alluvium.io) | Brooklyn, NY | Take-home assignment, on-site review dovetailing into collaborative project planning for extension.
 - [AlphaSights](https://engineering.alphasights.com) | London, UK / New York, NY / Remote | Initial interview, pair programming then final round with general technical questions
 - [AMAGI](https://amagi.io) | Makati, Philippines | 1) Review of your resume, portfolio, and/or GitHub profile; 2) 1 hour discussion (in-person or Skype) about your goals, experience, personal culture, and how to apply technical solutions to real problems;
-- [Amino Payments](https://angel.co/company/amino-payments/jobs/) | Philadelphia, PA | Real-world technical design and problem discussion, pair programming on-site 
+- [Amino Payments](https://angel.co/company/amino-payments/jobs/) | Philadelphia, PA | Real-world technical design and problem discussion, pair programming on-site
 - [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
 - [Animech](https://animech.com/join-us) | Uppsala, Sweden | Multiple interviews with technical staff with real problem discussions.
 - [Apollo Agriculture](https://apolloagriculture.com) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
