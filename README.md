@@ -55,10 +55,10 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
 - [Ajira](http://ajira.tech) | Chennai, India / Austin, TX | Take home project, then pair programming, technical discussions, cultural fit
 - [Algolia](https://www.algolia.com/careers) | Paris, France / San Francisco, CA | Takehome project & Onsite discussions and presentation
-- [Alluxi](https://www.alluxi.mx) | Monterrey, Mexico | Initial skype interview, technical interview with Senior engineer and work sample review.
 - [all about apps GmbH](https://www.allaboutapps.at/jobs) | Vienna, Austria | 2-phase technical discussion & examination with department heads and management.
 - [Allegro](https://allegro.pl/praca) | Warsaw, Poland; Poznan, Poland; Torun, Poland; Wroclaw, Poland; Krakow, Poland | Take home, simple project. Series of 2 technical interviews (how to build things, how to solve specific, real world problem) and meeting with a team leader.
 - [Alluvium](https://alluvium.io) | Brooklyn, NY | Take-home assignment, on-site review dovetailing into collaborative project planning for extension.
+- [Alluxi](https://www.alluxi.mx) | Monterrey, Mexico | Initial skype interview, technical interview with Senior engineer and work sample review.
 - [AlphaSights](https://engineering.alphasights.com) | London, UK / New York, NY / Remote | Initial interview, pair programming then final round with general technical questions
 - [AMAGI](https://amagi.io) | Makati, Philippines | 1) Review of your resume, portfolio, and/or GitHub profile; 2) 1 hour discussion (in-person or Skype) about your goals, experience, personal culture, and how to apply technical solutions to real problems;
 - [Amino Payments](https://angel.co/company/amino-payments/jobs/) | Philadelphia, PA | Real-world technical design and problem discussion, pair programming on-site
