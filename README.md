@@ -594,7 +594,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Small Improvements](https://www.small-improvements.com/careers) | Berlin, Germany
 - [Smartly.io](https://www.smartly.io/developer) | Helsinki, Finland | Discussion with recruiter and developers and a pair coding exercises
 - [Social Tables](http://www.socialtables.com) | Washington, DC | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
-- [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
+- [Softwear](https://softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Sogilis](http://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
 - [Sourcegraph](https://about.sourcegraph.com/jobs) | San Francisco, CA & Remote | Tailored to the candidate, often consists of take-home work, discussion of real-world eng challenges, and product familiarity.
 - [Splice](https://jobs.splice.com) | New York, NY; Remote | Call with recruiter, 4 hr take-home project, video interview w two engs on take-home exercise, video call with hiring manager, video call w VPE & principal eng to talk about architecture.
