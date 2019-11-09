@@ -593,6 +593,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Slack](https://slack.com/jobs) | San Francisco, CA | Call with recruiter, 1 week take-home project, call with hiring manager, on-site interview covering high-level system design, best software development practices and culture-fit
 - [Small Improvements](https://www.small-improvements.com/careers) | Berlin, Germany
 - [Smartly.io](https://www.smartly.io/developer) | Helsinki, Finland | Discussion with recruiter and developers and a pair coding exercises
+- [Smile.io](https://smile.io/careers) | Kitchener, Canada / Remote | Take-home real world project, interviews with HR and engineering team
 - [Social Tables](http://www.socialtables.com) | Washington, DC | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Sogilis](http://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
