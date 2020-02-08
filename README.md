@@ -254,6 +254,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Euro Payment Group](http://www.europaymentgroup.com) | Frankfurt, Germany | Take-home project followed by face to face interview
 - [Exoscale](https://exoscale.ch) | Bern, Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [F(x)](https://fdex.com.br) | São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
+- [Fairwinds](https://fairwinds.com/careers) | Remote | Start with a brief talk with CTO or VP of Engineering, take home coding challenge, then remote interviews with several people on the engineering team
 - [Falcon.io](https://www.falcon.io/jobs/) | Copenhagen, Denmark | Initial call/Skype culture interview. Take-home tech assignment (game) and code review. On-site Interview about your experience and meeting the team.
 - [FATMAP](https://www.fatmap.com) | London, UK; Berlin, Germany; Vilnius, Lithuania | Skype discussion, Take-home project, Face to face
 - [Fauna](https://fauna.com) | San Francisco, CA / Remote | Take home project, then follow up with interviews on-site or remote. Interviews are both technical and non-technical. Technical interviews comprehend the scope of the home project.
@@ -545,7 +546,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Rapyuta Robotics](http://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
 - [Razorpay](https://razorpay.com/jobs) | Bangalore, India | Phone screen, On-site pair programming, and ocassionally a take home project.
-- [ReactiveOps](https://reactiveops.com/careers) | Remote | Start with a brief talk with CTO or VP of Engineering, take home coding challenge, then remote interviews with several people on the engineering team
 - [Reaktor](https://reaktor.com/careers) | New York, NY; Amsterdam, Netherlands; Helsinki, Finland; Tokyo, Japan | Discussion, work samples from previous projects (work or hobby), take-home exercise if needed for further info
 - [Real HQ](https://realhq.com/jobs) | Austin, TX / Chicago, IL / Remote | Phone/video interviews, a take-home coding exercise, and a remote pair programming session.
 - [Realync](https://realync.com/careers) | Chicago, IL / Carmel, IN / Remote | Quick phone interview, then a take home project and finally in person interview (open discussions instead of quizzes - anything technical are real-world problems).
