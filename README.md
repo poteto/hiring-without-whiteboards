@@ -285,7 +285,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Garmin](https://careers.garmin.com) | Tucson, AZ | Non-technical phone screen, technical phone screen (questions about projects on your resume), in-person interview: programming an arduino, given 3 hours and a laptop with internet access
 - [Garner](https://www.garnercorp.com) | Toronto, Canada | step 1: online chat with hiring manager, step 2: at home assignment solving real-life problem, step 3: on-site pair programming with engineers, step 4: offer
 - [Gasket Games](https://www.gasketgames.com/work-with-us) | Vancouver, Canada | Non-technical phone screen, technical phone screen (open-ended questions), in-person interview / culture fit interview
-- [GatherContent](https://gathercontent.com/careers/designer) | Remote | Culture-first interviews, pair programming and remote, informal technical discussions
+- [GatherContent](https://gathercontent.com/about-us) | Remote | Culture-first interviews, pair programming and remote, informal technical discussions
 - [Gemini](https://gemini.com/careers) | New York, NY | Phone chat. Take-home project, discussion on-site. Questions on prior experiences and culture fit
 - [GeneralUI](https://generalui.com) | Seattle, WA | A short phone screen with questions regarding general knowledge related to the open position, then a half day pair programming interview.
 - [Ginetta](http://jobs.ginetta.net) | Zurich, Switzerland; Braga, Portugal | Culture-first interviews, take home assignment that resembles a real-world problem we often solve, then discussion about the assignment in-person with pair-programming improvement sessions with our developers.
