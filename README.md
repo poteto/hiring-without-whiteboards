@@ -381,7 +381,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Lab.Coop](http://lab.coop) | Budapest, Hungary | Partnership-fit discussion, code-review and trial days.
 - [Landing.jobs](https://landing.jobs/at/landing-jobs) | Lisbon, Portugal | Interviews (in-person or remote), Take home coding project
 - [Lanetix](http://engineering.lanetix.com) | San Francisco, CA | [Our Hiring Process](https://engineering.lanetix.com/2015-10-20/hiring-process)
-- [LateRooms](http://careers.laterooms.com) | Manchester, UK | Telephone interview followed by coding problem at home. Suitable submissions proceed to an onsite interview.
 - [Launch Academy](https://launchacademy.com/careers) | Boston, Philadelphia | Nontechnical phone screen, pair programming with team member, and potentially a "guest lecture" for our students
 - [LaunchDarkly](https://launchdarkly.com/careers) | Oakland, CA | Informational phone screen with Eng leadership, take home project, onsite interviews
 - [Learningbank](https://learningbank.dk) | Copenhagen, DK | Take home assignment, followed by on-site code review.
@@ -467,7 +466,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [Nova Credit](https://www.novacredit.com/careers) | San Francisco, CA | Choose between a take home assignment or two interviews on CoderPad, CodePen, or your local dev env while screensharing. Final round is onsite working on a small project
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
-- [Novoda](https://novoda.com/hiring) | London, UK; Liverpool, UK; Berlin, Germany; Barcelona, Spain; Remote | 2 x Pairing sessions & conversational interviews [(public repo)](https://github.com/novoda/dojos)
+- [Novoda](https://novoda.com/joinus) | London, UK; Liverpool, UK; Berlin, Germany; Barcelona, Spain; Remote | 2 x Pairing sessions & conversational interviews [(public repo)](https://github.com/novoda/dojos)
 - [Novus Partners](https://www.novus.com/jobs) | New York, NY | Take-home exercise & on-site exercises (choice of laptop or whiteboard)
 - [Nozbe](https://nozbe.com/jobs) | Remote | Take-home exercise & interview with the team
 - [npm, Inc](https://npmjs.com/jobs) | Oakland, CA / Remote | No technical challenges. Just interview conversations.
