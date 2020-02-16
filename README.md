@@ -39,6 +39,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Acko](https://acko.com) | Mumbai, India | Phone interview, followed by a small take home problem. Finally a F2F or skype pair programming session
 - [Acumen](http://www.acumenci.com/joinourteam) | London, UK | Small take home test, and sit in on some sprint rituals on-site
 - [Ad Hoc](https://adhoc.team) | Remote / Washington, DC | Technical take-home assignment, followed by multiple video calls that are discussions of technical background and experience.
+- [AdCellerant](https://adcellerant.com/career) | Denver, CO | Technical phone screen, 5-day take home code challenge, then on-site interview comprised of cultural and technical discussions
 - [Addstones](https://www.addstones.com) | Paris, FR / Singapore, SG / Bucharest, RO / London, UK | Multiple interviews, discussion of technical background and experiences. Sometimes we do a on-site unsupervised small exercise.
 - [Adeva](https://adevait.com) | New York, USA | 4 steps interviewing process that includes online coding assignment + lead engineer call.
 - [AdEx Network](https://www.adex.network) | Sofia, Bulgaria / Remote | Email screening process, followed by a take-home assignment
@@ -622,6 +623,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Subvertical (VerticalChange)](https://verticalchange.com/job_posts) | Remote | Phone screening, live pair programming & personal project code review
 - [Sulvo](https://sulvo.com/careers) | New York, NY / Remote | Interview over video call for cultural fit first, if you pass we proceed with technical interview that doesn't include coding games or challenges
 - [Summitto](https://careers.summitto.com) | Amsterdam, Netherlands | take-home coding challenge and on-site interview
+- [SuperAwesome](https://www.superawesome.com) | London, UK | Short recruiter phone screen, take-home exercise, follow up system design and cultural interview focused on your past experience.
 - [Superplayer](https://superplayer.fm) | Porto Alegre, Brazil | Skype/On-site interview, take-home project and interview with CTO and CEO
 - [SurveySparrow](https://surveysparrow.com/careers) | Kochi, India | Skype interview, take home project and code review, interview with CTO and CEO
 - [SVTi (Sveriges Television)](http://svti.svt.se) | Stockholm, Sweden | On-site interview, take-home project, follow up interview where you walk through how you chose to solve the task.
