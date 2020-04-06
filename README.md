@@ -432,6 +432,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Mention](https://mention.workable.com) | Paris, FR | Take-home small exercise followed up by on site meetings with your future coworkers
 - [Mercado Livre](https://jobs.mercadolibre.com) | São Paulo, Brazil | Phone interview with HR department, Takehome project and discussion (on-site or remote) with an interview to evaluate the candidate's previous experience and Cultural Fit interview with a manager.
 - [Mercatus](https://www.mercatus.com/company/careers) | Toronto, Canada | Practical on-site project similar to daily work
+- [Metro Markets](https://www.metro-markets.de/careers/) | Düsseldorf, Germany | You can get to know us by joining fully remote interviews with us or you can come and visit us onsite
 - [mfind](https://www.mfind.pl/dolacz-do-nas/) | Warsaw, PL | Phone call about technical experience, Take-home project or technical test(depends on experience), Onsite interview with technical lead.
 - [miDrive](https://midrive.com/careers) | London, UK | Phone screen, Take-home project / technical test, Onsite interview with senior and peer.
 - [milch & zucker](https://www.milchundzucker.de) | Gießen, Germany | Interview with direct feedback, applicants providing working sample, code review (product code or personal code of applications)
