@@ -84,7 +84,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Auto1](https://www.auto1-group.com/jobs) | Berlin, DE | Series of Skype interviews which covers general technical questions, followed by a take-home assignment
 - [Automattic](https://automattic.com/work-with-us) | Remote | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
 - [AutoScout24](https://github.com/AutoScout24/hiring) | Munich, Germany | Skype interview followed by home assignment from our day-to-day business and then on-site interview including lunch with a team
-- [Avalara](https://www.avalara.com/us/en/about/jobs/job-openings.html) | Seattle, WA | SRE Positions - Take-home project, on-site discussions about scalability, reliability, deployments, troubleshooting of your take-home.
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Avarteq GmbH](https://www.avarteq.com/career) | Berlin, Germany / Saarbrücken, Germany | Technical interview with our developers on-site or remote followed by a work sample in a pair programming session or a previous take-home project with a follow-up discussion and detailed feedback.
 - [Avocarrot](https://www.avocarrot.com/company) | Athens, Greece | on-site real world problem discussion and pair programming
