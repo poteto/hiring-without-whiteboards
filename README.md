@@ -701,6 +701,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Valuemotive](https://valuemotive.com/en/career) | Helsinki, Finland | Code examples from previous projects (work or hobby)  or take-home exercise
 - [Varsity Tutors](https://www.varsitytutors.com) | Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
 - [Vayu Technology](http://vayu.com.au) | Sydney, Australia; Kathmandu, Nepal | Short interview, general programming questions and short take home challenge.
+- [Vena Solutions](https://careers.venasolutions.com) | Toronto, Canada | Phone screen, on-site pair-programming and code-review exercise on a real-world problem
 - [Venminder, Inc.](https://www.venminder.com) | Elizabethtown, KY; Louisville, KY | Initial phone screen to explain position. If candidate interested they get a take home assignment followed by a non-scripted in-person interview with team members to judge personality fit.
 - [Vernacular.ai](https://vernacular.ai) | Bangalore, India | Phone screen, Research Paper Discussion (ML Role), Code review/Open-source code navigation/on-screen Pair programming, and discussion with CTO/CEO.
 - [Verve](https://verve.co/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
