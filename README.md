@@ -733,6 +733,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [WyeWorks](https://wyeworks.com) | Montevideo, Uruguay | Take-home project and discussion on-site
 - [X-Team](http://x-team.com) | Remote | A short, fun Node.js challenge, followed by a series of culture-based interview questions, followed by a creative mock project with tons of freedom on how to approach, and follow-up questions about the approach they chose to discuss the tradeoffs. Usually a 10-30 day paid training is rewarded to top candidates to prep them for remote communication skills needed to join a team.
 - [Xplor](https://ourxplor.com) | Melborne, Australia; Brisbane, Australia, London, UK | Phone Cultural Fit interview, Take home-code challenge, pair-programming session and discussion about past experience
+- [XING](https://www.xing.com) | Hamburg, Germany | Take-home coding challenge, on-site review and short interviews with future team.
 
 ## Y - \#
 - [1000mercis group](http://www.1000mercis.com/#!/careers/?lang=en) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
