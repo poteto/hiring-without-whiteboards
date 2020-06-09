@@ -379,6 +379,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Kayako](https://www.kayako.com) | London, UK / Gurgaon, India | Take-home assignment, series of experience based interviews, cultural fit assessment
 - [Kentik](https://www.kentik.com/careers) | San Francisco, CA | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Keymetrics](https://keymetrics.io) | Paris, France | Phone Interview, Take-home project based on our [API](https://github.com/keymetrics/keymetrics-api), IRL meeting with the whole team
+- [Kiến Guru](https://www.kienguru.vn/) | Hồ Chí Minh, Vietnam | Phone screening with technical recruiter, live coding with an engineer, panel interview with related engineers (Test Engineers, Frontend Egineers, Backend engineers, etc), final interview with VP of Engineering
 - [Kindred Group, Native Apps Team](https://careers.kindredplc.com) | Stockholm SE, London UK | On-site/Skype programming task, Interview
 - [Kinnek](https://www.kinnek.com/jointeam) | New York, NY | Phone screen, on-site pairing session, take-home project
 - [Kiwi.com](https://code.kiwi.com) | Brno, Czech Republic | Phone Interview, Take-home projects, On-site code review & interview
@@ -575,6 +576,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Rockode](http://www.rockode.com) | Bangalore, India | Real world assignment, group hack session, discussions
 - [Rose Digital](http://rosedigital.co) | New York, NY | Phone conversation followed by pair coding components that mirror day to day work, in person discussion about code, take home project if needed for more info
 - [RStudio](https://www.rstudio.com) | Remote | Video calls with recruiter then engineering management, take home project, video call for code review with engineering lead
+- [Ruangguru](https://career.ruangguru.com/) | Jakarta, Indonesia; Yogyakarta, Indonesia; Malang, Indonesia; Bandung, Indonesia | Phone screening with technical recruiter, live coding with an engineer, panel interview with related engineers (Test Engineers, Frontend Egineers, Backend engineers, etc), final interview with VP of Engineering
 - [RubyGarage](https://rubygarage.org) | Dnipro, UA | Take-home project, code review and discussion on-site
 - [Runtastic](https://www.runtastic.com) | Linz, Austria; Vienna, Austria | Video call with recruiting staff, take home project, video call for code review, discussion, questions
 
@@ -621,6 +623,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
 - [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
+- [StartDee](http://startdee.com/) | Bangkok, Thailand | Phone screening with technical recruiter, live coding with an engineer, panel interview with related engineers (Test Engineers, Frontend Egineers, Backend engineers, etc), final interview with VP of Engineering
 - [Stardog Union](http://stardog.com) | Washington, DC; Remote | Technical discussion and general interest conversations
 - [Statflo](http://statflo.com) | Toronto, Canada | Phone screening, take home project, on-site interview discussing the take home project, high-level architectural brainstorm, and questions about career and team work.
 - [store2be](https://www.store2be.com/de/jobs/tech) | Berlin, Germany | Skype/on-site interview, take-home project
