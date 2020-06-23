@@ -39,6 +39,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Acko](https://acko.com) | Mumbai, India | Phone interview, followed by a small take home problem. Finally a F2F or skype pair programming session
 - [Acumen](http://www.acumenci.com/joinourteam) | London, UK | Small take home test, and sit in on some sprint rituals on-site
 - [Ad Hoc](https://adhoc.team) | Remote / Washington, DC | Technical take-home assignment, followed by multiple video calls that are discussions of technical background and experience.
+- [Adaface](https://www.adaface.com) | Remote/ Singapore, Singapore / Bangalore, India | Conversational on-the-job technical assessment, followed by video calls with technical lead and founders
 - [AdCellerant](https://adcellerant.com/career) | Denver, CO | Technical phone screen, 5-day take home code challenge, then on-site interview comprised of cultural and technical discussions
 - [Addstones](https://www.addstones.com) | Paris, FR / Singapore, SG / Bucharest, RO / London, UK | Multiple interviews, discussion of technical background and experiences. Sometimes we do a on-site unsupervised small exercise.
 - [Adeva](https://adevait.com) | New York, USA | 4 steps interviewing process that includes online coding assignment + lead engineer call.
@@ -122,7 +123,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Blue Bottle Coffee](https://www.bluebottlecoffee.com/careers) | Oakland, CA | Technical Phone Screen, Take Home Challenge, Technical in-persons.
 - [Bluesoft](http://www.bluesoft.com.br) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
 - [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
-- [Bolste](http://careers.bolste.com) | Phoenix, AZ | Conversational in-person interviews with team members and pair programming through real world problems
 - [BookingSync](https://www.bookingsync.com/en/jobs) | Remote | Small takehome project, interviews over skype with team members.
 - [BoomTown](http://boomtownroi.com) | Charleston, SC / Atlanta, GA / Remote | Conversational in-person interviews with potential team members and managers that revolve around past experience and how that could be applied to future work
 - [Bouvet](http://www.bouvet.no) | Bergen, Norway | Pair programming with senior engineers
