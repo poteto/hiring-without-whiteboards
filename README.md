@@ -157,6 +157,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Causeway](http://www.causeway.com/content/opportunity) | United Kingdom, India | Skype or Telephonic discussion on approaches and experience in regards to solve projects related work,  then face to face round to write small solutions to common problems in related field.
 - [Centroida](https://centroida.co/contact.html) | Sofia, Bulgaria | Series of interviews, pair programming and take-home projects
 - [Chain.Reaction](http://chainreaction.io) | Budapest, Hungary | Partnership-fit discussion, code-review and trial days.
+- [Chama The App](https://chamatheapp.bamboohr.com/jobs/) | Amsterdam, The Netherlands | Cultural fit interview, home test, technical interview with the team and then interview with the leadership
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
 - [Checkout 51](https://checkout51.com/jobs) | Toronto, Canada | Phone conversation (15-20 minutes) followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
 - [Cheerful](https://www.cheerfulgiving.com) | Denver, CO / Remote | Take home small project which tests the adaptability of the developer with the stack used by the company, followed by a feedback interview (15 min) then a tryout offer (2 weeks / 1 month) or a permanent offer is made depending on the project results.
