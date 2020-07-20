@@ -31,6 +31,9 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 
 ---
 
+## 0 - 9
+- [4Degrees](https://4degrees.ai/about/) | Chicago, Illinois | Collaborative pair-programming exercise done through video chat that's representative of the responsibilities of the job then a take-home programming task.
+
 ## A - C
 - [Ableton](https://www.ableton.com/en/about) | Berlin, Germany | Take-home programming task (discussed via Skype), then pair programming and debugging session on-site
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
