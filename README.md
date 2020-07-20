@@ -420,7 +420,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 
 ## M - O
 - [Made Tech](https://www.madetech.com/careers) | London, UK | [Our hiring process](https://github.com/madetech/handbook/tree/master/guides/hiring#20-minute-phone-conversation)
-- [Magnets](https://magnetis.workable.com) | São Paulo, Brazil & Remote | Phone interview + take home assignment, followed by pair programming and informal meeting with the team.
+- [Magnetis](https://magnetis.workable.com) | São Paulo, Brazil & Remote | Phone interview + take home assignment, followed by pair programming and informal meeting with the team.
 - [Major League Soccer](https://careers-mlssoccer.icims.com/jobs/search?ss=1&searchCategory=20285) | New York, NY | Phone interview + short take home project, which is daily work focused. In person interview could involve discussing past projects or pair programming.
 - [MakeMusic](http://www.makemusic.com/careers/) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
 - [MakeTime](https://maketime.workable.com) | Lexington, KY | Practical exercise and/or a pairing session on site
