@@ -23,6 +23,7 @@ Good example:
 Pull requests will be accepted if they follow the [format](#format) and:
 
 ## Additions or updates
+
 1. The pull request adheres to the repository's
     [Code of Conduct](/CODE_OF_CONDUCT.md)
 1. The company fits the [criteria](/CRITERIA.md)
@@ -32,6 +33,7 @@ Pull requests will be accepted if they follow the [format](#format) and:
 1. You submit the company with a brief description of the interview process
 
 ## Removals
+
 1. The pull request adheres to the repository's
     [Code of Conduct](/CODE_OF_CONDUCT.md)
 1. The company **DOES NOT** fit the [criteria](/CRITERIA.md)
