@@ -601,7 +601,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Schibsted Tech Polska](https://www.schibsted.pl) | Gdańsk, Poland | Phone screen, take-home exercise, code review and technical discussion
 - [Segment](https://segment.com) | San Francisco, CA; Vancouver, Canada | Phone interview, take-home assignment (small fun project), onsite interview (technical + core/culture) -> intended to set you up for success
 - [Sendyne](http://www.sendyne.com) | New York City | Phone screen, on-site with team members. Review of past experiences + questions regardnig real problems.
-- [Segment](https://segment.com) | San Francisco, CA; Vancouver, Canada | Phone interview, take-home assignment (small fun project), onsite interview (technical + core/culture) -> intended to set you up for successhone screen, on-site interview 
 - [Sensor Tower](https://sensortower.com/jobs) | San Francisco, CA | Phone call, on-site interview including discussion about projects/skills and a short real-world programming challenge
 - [Sensu](https://sensu.io) | Remote | Video call, choice of pairing session or take home programming assignment
 - [Séntisis](http://sentisis.com/trabaja-con-nosotros) | Madrid, Spain; Mexico City, Mexico; Bogotá, Colombia; Santiago de Chile, Chile; Remote | Phone call, on-site/remote interview including discussion about projects/skills and a short real-world pair-programming exercise
