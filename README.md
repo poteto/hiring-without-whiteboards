@@ -365,6 +365,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Intelipost](https://www.intelipost.com.br) | São Paulo, BR | Take-home project, on-site code review and presentation (skype available if needed), discussion involving real world problems and interviews with different teams
 - [Interset](https://interset.com/careers) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers
 - [itdesign](https://itdesign.de/karriere/) | Tübingen, Germany | Short phone or personal interview. A day at our company to give you and us the opportunity to get to know each other.
+- [IT Experts](https://itexperts.be) | Eeklo, Belgium | On site interview -> 1 or 1/2 day at the office to solve a real world problem with the team -> job offer.
 - [Ithaka](https://www.ithaka.travel) | Mumbai, India | Phone interview followed by a small development task. Finally a phone interview with CEO.
 - [iTrellis](http://itrellis.com) | Seattle, WA | Phone screen, then a take-home project, then pairing (remote or on-site) with 3 developers on the take-home project.
 - [iZettle](https://jobs.izettle.com/jobs) | Stockholm, Sweden | Remote pair programming exercise, propose an architecture for an application and discuss about it in an informal format.
