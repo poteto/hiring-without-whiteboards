@@ -335,6 +335,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [HE:labs](https://helabs.com) | Rio de Janeiro, Brazil & Remote | Take-home project and discussion via Skype.
 - [HelloFresh](https://www.hellofresh.com/jobs) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [Heptio](https://www.heptio.com/jobs) | Seattle, WA; Remote | Take-home project, discussion on-site
+- [Heroku](https://heroku.com/careers) | Remote | Timeboxed independent project on Github, discussion/debrief of project via Hangouts, productionization discussion via Hangouts, "meet the team" meeting
 - [Hill Holliday](http://www.hhcc.com/careers) | Boston, MA | Take-home project on GitHub, in-person interview / culture fit interview
 - [Hireology](http://www.hireology.com/careers) | Chicago, IL; Remote | Walk through personal/work projects and discuss experience
 - [Hiventive](https://www.hiventive.com) | Pessac, France | Phone interview, home coding challenge, on-site interview with general programming questions, discussion of proposed solutions and personal experience.
