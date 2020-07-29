@@ -587,6 +587,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Ruangguru](https://career.ruangguru.com) | Jakarta, Indonesia / Yogyakarta, Indonesia / Malang, Indonesia / Bandung, Indonesia | Phone screening with technical recruiter --> live coding with an engineer --> panel interview with related engineers (Test Engineers, Frontend Engineers, Backend Engineers, etc) --> final interview with VP of Engineering
 - [RubyGarage](https://rubygarage.org) | Dnipro, UA | Take-home project, code review and discussion on-site
 - [Runtastic](https://www.runtastic.com) | Linz, Austria; Vienna, Austria | Video call with recruiting staff, take home project, video call for code review, discussion, questions
+- [RVU](https://www.rvu.co.uk/careers) | London, UK | Also known as Uswitch / Money.co.uk / Bankrate, small take-home project related to our business area, followed by open book pairing with developers to extend it followed by Q&A session to discuss your experience.
 
 ## S - U
 - [Sahaj Software Solutions](https://www.sahajsoft.com) | Bangalore, India; Chennai, India; San Jose, CA | Take home code + Pairing + Discussion
@@ -706,7 +707,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Upstatement](https://www.upstatement.com/jobs/) | Boston, MA; New York, NY; Remote | Phone screen, take home project relevant to our work, first round interview to discuss background and take home implementation, second round interview to meet more employees and share some of your and our recent work.
 - [Urban Massage](https://www.urbanmassage.com/jobs) | London, UK | Project done at home, in-person walk through. Meeting the team is an integral part.
 - [UserTesting](https://www.usertesting.com/about-us/jobs) | Atlanta, GA; San Francisco, CA; Mountain View, CA | Initial interview, pair programming, and offer
-- [uSwitch](https://www.uswitch.com/vacancies) | London, UK | Take-home project related to our business area, followed by pairing with developers to extend it
 
 ## V - X
 - [Valassis Digital](http://www.valassis.com/digital-advertising) | Seattle, WA; San Francisco, CA; Lansing, MI; Hamburg, Germany | Phone screen, on-site interview with group, paired whiteboard problem solving and discussion, take-home project and follow-up review
