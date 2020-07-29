@@ -358,7 +358,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [InfoSum](https://www.infosum.com) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Inmar](https://www.inmar.com/careers) | Winston-Salem, NC; Austin, TX & Remote | Take-home project and conversation-style interviews
-- [Innoplexus](https://www.innoplexus.com/careers/) | Pune, India; Frankfurt, Germany | Take-home projects and On-site pair programming assignment.
+- [Innoplexus](https://jobs.innoplexus.com/) | Pune, India; Frankfurt, Germany | Take-home projects and On-site pair programming assignment.
 - [Instacart](https://careers.instacart.com) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [InstantPost](https://internshala.com/internships/internship-at-InstantPost) | Bangaluru, India | Remote assignment followed by Technical and Team round interview
 - [Integral.](https://www.integral.io) | Detroit, MI | Initial remote technical screen featuring test-driven development & pair programming, then on-site full day interview that involves pair programming on production code using test-driven development.
