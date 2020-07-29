@@ -48,6 +48,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Adeva](https://adevait.com) | New York, USA | 4 steps interviewing process that includes online coding assignment + lead engineer call.
 - [AdEx Network](https://www.adex.network) | Sofia, Bulgaria / Remote | Email screening process, followed by a take-home assignment
 - [AdHawk](https://tryadhawk.com/jobs) | New York, NY / Remote | Intro phone call with HR, second conversation with AdHawk engineer, and final pairing interview with AdHawk engineer over a screenshare
+- [Admiral](https://getadmiral.com) | Gainesville, FL / Remote | Intro phone call with hiring manager, take-home assignment, (mostly) non-technical on-site with team/leadership
 - [Adnymics](https://adnymics.com) | Munich, DE | Take home project, then work with the team for a day
 - [Adthena](http://adthena.com) | London, UK | Takehome  project and discussion on-site
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
