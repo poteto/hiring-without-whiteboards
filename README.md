@@ -32,7 +32,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 ---
 
 ## 0 - 9
-- [21st Real Estate](https://21re.de/) | Berlin, Germany | Phone call for quick personal introduction followed by Video call interview. Finally, a pair-programming session on-site.
+- [21st Real Estate](https://21re.de) | Berlin, Germany | Phone call for quick personal introduction followed by Video call interview. Finally, a pair-programming session on-site.
 - [4Degrees](https://4degrees.ai/about/) | Chicago, Illinois | Collaborative pair-programming exercise done through video chat that's representative of the responsibilities of the job then a take-home programming task.
 
 ## A - C
