@@ -71,6 +71,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Amino Payments](https://angel.co/company/amino-payments/jobs/) | Philadelphia, PA | Real-world technical design and problem discussion, pair programming on-site
 - [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
 - [Animech](https://animech.com/join-us) | Uppsala, Sweden | Multiple interviews with technical staff with real problem discussions.
+- [Angaza](https://www.angaza.com/careers/) | San Francisco, CA | Take-home assignment with guaranteed feedback, on-site interviews involving actual day-to-day work
 - [Apollo Agriculture](https://apolloagriculture.com) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
 - [Applied](https://www.beapplied.com) | London, UK | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
