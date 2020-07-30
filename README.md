@@ -498,6 +498,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Object Partners, Inc.](https://objectpartners.com/careers/) | Minneapolis, MN; Omaha, NE | Phone interview to gauge mutual interest, followed by a slightly more in-depth technical round-table interview
 - [Objective, Inc.](https://www.objectiveinc.com/careers) | Salt Lake City, UT | Take-home programming exercise, then onsite friendly chat with team
 - [OCTO Technology](http://rejoins.octo.com) | Paris, France | HR interview to go over your experiences and cultural knowledge. Then more or less informal discussion with two future team members about architecture design, agile practices, take-home project, pair programming...
+- [Octopus Energy](https://octopus.energy/careers/) | London, UK; Sydney, Australia; Remote | Take-home exercise and phone or on-site interview/discussion with potential team
 - [Olist](https://olist.com) | Curitiba, Brazil | Take-home project and remote or on-site interviews
 - [Omada Health](https://www.omadahealth.com/jobs) | San Francisco, CA | Take home exercise and/or pair programming session.
 - [OneMain Financial](https://jobs.onemainfinancial.com) | Chicago, IL; Remote | Take-home exercise and on-site interview/discussion with potential team
