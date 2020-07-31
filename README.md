@@ -125,6 +125,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
 - [BookingSync](https://www.bookingsync.com/en/jobs) | Remote | Small takehome project, interviews over skype with team members.
 - [BoomTown](http://boomtownroi.com) | Charleston, SC / Atlanta, GA / Remote | Conversational in-person interviews with potential team members and managers that revolve around past experience and how that could be applied to future work
+- [Botika](https://botika.ai) | San Marino, RSM | View code, projects, libraries or any other open source story that you have been a part of, take-home project followed by on-site face-to-face walkthru of your code focusing on decisions/reasoning/technology used.
 - [Bouvet](http://www.bouvet.no) | Bergen, Norway | Pair programming with senior engineers
 - [brainn.co](https://brainn.co) | São Paulo, BR | Zoom/On-site interview, take-home project and interview with a team leader.
 - [BrainStation-23](http://brainstation-23.com) | Dhaka, BD | A practical project followed by series of in-person interview sessions
@@ -185,6 +186,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Contactlab](http://contactlab.com/en/careers) | Milan, Italy | Recruiter interview, tech interview (technical background and experiences), both on-site.
 - [Contentful](https://www.contentful.com/careers) | Berlin, Germany & SF, USA | Multiple interviews, discussion of technical background & live coding challenge (you can use the internet).
 - [ContentSquare](https://www.contentsquare.com/careers) | Paris, France | Real-world challenges with open discussions.
+- [Convious](https://www.convious.com) | Vilnius, Lithuania | Intro interview (video call), followed by a homework assignment, followed by a bit more technical interview discussing homework, technical background, etc. Homework feedback is always provided.
 - [Cookpad](https://cookpad.com/us) | Tokyo, Japan; Bristol, UK | Interviews, discussion of technical background and experiences, remotely pair with devs.
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
 - [CoverHound, Inc.](https://www.coverhound.com) | San Francisco, CA | Open technical discussion, short on-site coding challenge.
@@ -258,6 +260,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Equal Experts](https://www.equalexperts.com) | London, UK; Manchester, UK; New York, NY; Pune, India; Lisbon, Portugal; Calgary, Canada | Fizzbuzz test done at home followed by Pair Programming session at office and finally face to face technical and attitude interview.
 - [Ericsson](https://www.ericsson.com) | Dublin, Ireland | Skype/phone interview followed by Face 2 Face interview, discussions and architecture questions followed by final small project on a problem similar to daily work.
 - [eShares, Inc](https://esharesinc.com/jobs) | San Francisco, CA; Palo Alto, CA; Seattle, WA; Rio de Janeiro, Brazil; London, UK; New York, NY | Phone call, practical technical screen, on site to meet the team & explore the company
+- [Espeo Software](https://espeo.eu/career) | Poznań, Poland | 30 min HR interview, 1 hour technical interview, 1 hour soft skills interview
 - [Etermax](https://etermax.com/en/careers/) | Buenos Aires, Argentina | Skype/phone screen with two engineers & HR, 30 min HR onsite interview, 2 hour onsite pair programming session (with focus on testing and design) with feedback
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers) | Luxembourg City, Luxembourg
 - [EURA NOVA](https://euranova.eu) | Mont-Saint-Guibert, Belgium; Marseille, France; Tunis, Tunisia | attitude interview, unpaid take-home project, technical discussion with 1 or 2 technical employees (remote or face 2 face), face 2 face discussion with HR, partner, and technical staff to have a foretaste of the collaboration
@@ -616,6 +619,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Simpli.fi](https://www.simpli.fi/about-us/careers) | Fort Worth, TX, USA | Takehome code challenge and review
 - [SimpliField](http://www.welcometothejungle.co/companies/simplifield/jobs) | Lille, France | Interview with the CTO and the developer team
 - [Simply Business](https://www.simplybusiness.co.uk/about-us/careers/tech) | London, UK / Remote | Three stage, one day interview with quick feedback. One of the stages is 1.5h pair-programming session, where interviewee is assigned a task and interviewing developer plays role of Product Owner.
+- [Sixt](https://www.sixt.jobs/en) | Munich, Germany | 4 stages: 1st HR, 2nd take-home project, 3rd follow-up discussion, 4th on-site interview with team plus HR
 - [Skylight Digital](https://skylight.digital/join/) | Remote | Screening call to determine general interest, 1.5 hour pair programming exercise based on realistic scenario, EQ interview.
 - [Skyrise Pro](https://www.skyrisepro.com) | Chicago, IL | Take-home coding project, on-site interview including coding enhancements to the take-home project, offsite group activity
 - [Slack](https://slack.com/jobs) | San Francisco, CA | Call with recruiter, 1 week take-home project, call with hiring manager, on-site interview covering high-level system design, best software development practices and culture-fit
