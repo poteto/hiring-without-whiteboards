@@ -32,7 +32,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 ---
 
 ## A - C
-- [Ableton](https://www.ableton.com/en/about) | Berlin, Germany | Take-home programming task (discussed via Skype), then pair programming and debugging session on-site
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
 - [Accenture](https://www.accenture.com/us-en/careers) | San Francisco, CA / Los Angeles, CA / New York, NY | Technical phone discussion with architecture manager, followed by behavioral interview focusing on soft skills
 - [Accredible](https://www.accredible.com/careers) | Cambridge, UK / San Francisco, CA / Remote | Take home project, then a pair-programming and discussion onsite / Skype round.
@@ -55,6 +54,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
 - [Agoda](https://careersatagoda.com/departments/technology) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
 - [Agrilyst](https://agrilyst.com) | New York, NY / Remote | Short takehome project & remote pairing
+- [AImotive](https://aimotive.com/career/) | Budapest, Hungary | Small take-home project, then in-person interview about technical background
 - [Airbrake](https://airbrake.io) | San Francisco, CA / Remote | Take-home project & pair on a problem similar to daily work
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
 - [Ajira](http://ajira.tech) | Chennai, India / Austin, TX | Take home project, then pair programming, technical discussions, cultural fit
@@ -68,6 +68,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [AMAGI](https://amagi.io) | Makati, Philippines | 1) Review of your resume, portfolio, and/or GitHub profile; 2) 1 hour discussion (in-person or Skype) about your goals, experience, personal culture, and how to apply technical solutions to real problems;
 - [Amino Payments](https://angel.co/company/amino-payments/jobs/) | Philadelphia, PA | Real-world technical design and problem discussion, pair programming on-site
 - [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
+- [Angaza](https://www.angaza.com/careers/) | San Francisco, CA | Take-home assignment with guaranteed feedback, on-site interviews involving actual day-to-day work
 - [Animech](https://animech.com/join-us) | Uppsala, Sweden | Multiple interviews with technical staff with real problem discussions.
 - [Anyfin](https://career.anyfin.com) | Stockholm, Sweden | Takehome project & Onsite discussions and presentation.
 - [Apollo Agriculture](https://apolloagriculture.com) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
@@ -674,6 +675,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [TableCheck](https://corp.tablecheck.com/en/jobs) | Tokyo, Japan | Show us your code! Brief Skype interview and take-home project or pairing for those without code.
 - [Tailor Brands](https://tailorbrands.com/jobs) | Tel Aviv-Yafo, Israel | Discuss knowledge and interests, explore previous work experience, during the technical interview we discuss real-life problems.
 - [tails.com](https://tails.com/careers) | Richmond (London), UK | Live pair programming or take home project with review
+- [takeaway.com](https://careers.takeaway.com) | Enschede, Netherlands & Berlin, Germany | Discussion and general, high level questions
 - [Tandem](https://www.madeintandem.com) | Chicago, IL; San Francisco, CA | Introductory phone screen, take-home project, take-home project phone review, a few hour-long pairing sessions on real projects.
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
 - [Tara AI](https://tara.ai/about/careers) | San Jose, CA | On-site interview with a deep dive into appropriate technology and our problem space. The same sort of problem solving you would do with peers after a standup
