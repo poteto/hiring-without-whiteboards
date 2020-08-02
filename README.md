@@ -275,6 +275,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Facebook (Front End Engineer)](https://www.facebook.com/careers/jobs) | Tel Aviv, Israel; London, UK; US: Menlo Park, CA; Seattle, WA; Washington, DC | Initial phone code interview, then on site interview (or remote when not possible) with code and design / architecture interviews. All questions are based on actual problems the company has solved in the past.
 - [Fairwinds](https://fairwinds.com/careers) | Remote | Start with a brief talk with CTO or VP of Engineering, take home coding challenge, then remote interviews with several people on the engineering team
 - [Falcon.io](https://www.falcon.io/jobs/) | Copenhagen, Denmark | Initial call/Skype culture interview. Take-home tech assignment (game) and code review. On-site Interview about your experience and meeting the team.
+- [FastBill](https://www.fastbill.com/jobs) | Frankfurt, Germany | Initial interview via Skype/Zoom. Small tech-home project based on the specific job. Afterwards code review and technical discussion.
 - [FATMAP](https://www.fatmap.com) | London, UK; Berlin, Germany; Vilnius, Lithuania | Skype discussion, Take-home project, Face to face
 - [Fauna](https://fauna.com) | San Francisco, CA / Remote | Take home project, then follow up with interviews on-site or remote. Interviews are both technical and non-technical. Technical interviews comprehend the scope of the home project.
 - [Feather](https://feather-cfm.com) | Remote | Take-home challenge, portfolio discussion & team meeting
