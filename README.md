@@ -401,8 +401,8 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Kong](https://www.konghq.com/careers) | San Francisco, CA | Phone interview. Pairing and technical interviews. Take home assigment.
 - [Kongregate](http://www.kongregate.com/jobs) | Portland, OR | Phone screening. Take home project. On-site pairing and conversational technical interviews.
 - [Korbit](https://www.korbit.co.kr/about/jobs) | Seoul, South Korea | Take home assignment followed by on-site code review and interview
-- [Lab49](https://www.lab49.com/careers/) | New York, NY, Washington, DC, London, Sydney | Phone interview. Pairing interview using Coderpad, onsite interviews that include a Coding challenge.
 - [Lab.Coop](http://lab.coop) | Budapest, Hungary | Partnership-fit discussion, code-review and trial days.
+- [Lab49](https://www.lab49.com/careers/) | New York, NY; Washington, DC; London; Sydney | Phone interview. Pairing interview using Coderpad, onsite interviews that include a Coding challenge.
 - [Landing.jobs](https://landing.jobs/at/landing-jobs) | Lisbon, Portugal | Interviews (in-person or remote), Take home coding project
 - [Lanetix](http://engineering.lanetix.com) | San Francisco, CA | [Our Hiring Process](https://engineering.lanetix.com/2015-10-20/hiring-process)
 - [Launch Academy](https://launchacademy.com/careers) | Boston, Philadelphia | Nontechnical phone screen, pair programming with team member, and potentially a "guest lecture" for our students
