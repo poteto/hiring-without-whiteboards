@@ -794,7 +794,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Yhat](https://www.yhat.com/jobs) | Brooklyn, NY | Demo something cool you built and walk us thru the code + design decisions
 - [YLD](https://jobs.lever.co/yld) | London, UK; Lisbon, PT; Porto, PT & Remote | Take home-code challenge, pair-programming session and discussion about past experience
 - [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
-- [YouGov](https://yougov.com) | Remote; San Francisco, CA; London, UK; Warsaw, Poland; Mumbai, India; Hong Kong | Coding exercise sometimes over github repository, at least 1 interview with a developer and a lead, no live coding.
+- [YouGov](https://yougov.com) | Remote; San Francisco, CA; London, UK; Warsaw, Poland; Mumbai, India; Hong Kong, Hong Kong | Coding exercise sometimes over github repository, at least 1 interview with a developer and a lead, no live coding.
 - [Yoyo Wallet](http://yoyowallet.com) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
 - [YunoJuno](http://www.yunojuno.com) | London, UK | Code challenge based on a realistic feature request on a real open-source package created and used at YunoJuno; phone/video interview with members of the Product team to explore technical background, experiences, interests, cultural fit; on-site interview, usually with Product Manager and CTO
 - [ZAP Group](https://jobs.kenoby.com/grupozap/) | São Paulo, Brazil | Takehome exercise, series of real-world interviews with engineers, HR, engineering managers and product managers on site.
