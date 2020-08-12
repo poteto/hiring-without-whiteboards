@@ -26,7 +26,9 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 
 ### Discussion and other reads
 
-- Discussion: See [HackerNews](https://news.ycombinator.com/item?id=13874026)
+- Discussion
+  - [HackerNews (2017)](https://news.ycombinator.com/item?id=13874026)
+  - [HackerNews (2020)](https://news.ycombinator.com/item?id=23981795)
 - [Finding a better alternative to the whiteboard interview](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
 
 ---
