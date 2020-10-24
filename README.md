@@ -675,6 +675,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Springer Nature Digital](https://sndigital.springernature.com) | Berlin, Germany; London, UK | Phone chat; take-home project; then a pairing session based on the project, a technical chat, and a chat with non-technical team members
 - [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
 - [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
+- [Square Sense](https://square-sense.com) | Paris, France | Short phone screen to confirm the interest, take-home project (similar to some of our existing software), a pair-programming interview where we will make some changes to the same project
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
 - [Stardog Union](http://stardog.com) | Washington, DC; Remote | Technical discussion and general interest conversations
 - [StartDee](http://startdee.com) | Bangkok, Thailand | Phone screening with technical recruiter --> live coding with an engineer --> panel interview with related engineers (Test Engineers, Frontend Engineers, Backend Engineers, etc) --> final interview with VP of Engineering
