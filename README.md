@@ -57,6 +57,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Agoda](https://careersatagoda.com/departments/technology) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
 - [AImotive](https://aimotive.com/career/) | Budapest, Hungary | Small take-home project, then in-person interview about technical background
 - [Airbrake](https://airbrake.io) | San Francisco, CA / Remote | Take-home project & pair on a problem similar to daily work
+- [Airtable](https://airtable.com/careers) | San Francisco, CA; Austin, TX; Mountain View, CA; New York, NY; Remote | Take home project that resembles a problem Airtable solves for. Five hour on-site which includes a discussion of the project, UI design, discussing architectural tradeoffs, and code debugging.
 - [Aiwip](http://aiwip.com) | London, UK | Skype/phone interview followed by takehome project or worksample (or whiteboard)
 - [Albert](https://jobs.lever.co/meetalbert/) | Los Angeles, CA | Discussion with senior engineer, and then practical pair programming related to my experience + the position
 - [Algolia](https://www.algolia.com/careers) | Paris, France / San Francisco, CA | Takehome project & Onsite discussions and presentation
