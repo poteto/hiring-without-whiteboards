@@ -223,6 +223,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [DealTap](https://dealtap.ca) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team, and optional pair programming.
 - [Def Method](https://www.defmethod.com) | NYC, NY | Take home test, pair programming with dev on test and client work, receive offer same day as pairing interview
 - [Deliveroo](https://deliveroo.co.uk/careers) | London, UK & Remote | Short take-home project and pair programming
+- [Delivery Much](https://carreiras.deliverymuch.com.br/) | Florianópolis (SC), Santa Maria (RS) - Brazil, and now Remote | On-site (and/or remote) interviews about the company and the opening, with a short take-home project for leveling.
 - [Dentolo](https://angel.co/dentolo) | Berlin, Germany | Phone interview with the HR department, take-home project and technical interview to discuss your skill set + general questions
 - [Deskbookers](https://www.deskbookers.com/en-gb/jobs) | Amsterdam, Netherlands | Phone screen, take-home project, on-site interview
 - [DeSmart](https://www.desmart.com) | Gdynia, Poland | Technical interview, take-home project and talk about your experience
