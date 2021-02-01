@@ -519,6 +519,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Norbsoft](https://www.norbsoft.com/careers) | Kraków, Poland; Warszawa, Poland; Sosnowiec, Poland; Remote | Take-home exercise or code sample submission, technical discussion by video conference
 - [Nord Software](https://www.nordsoftware.com/en/jobs) | Helsinki, Finland; Tampere, Finland; Stockholm, Sweden | Take-home exercise & interview with CEO and senior developer
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
+- [Nova Care](https://www.novacare.no) | Oslo, Norway | Casual interview, take-home exercise & presentation
 - [Nova Credit](https://www.novacredit.com/careers) | San Francisco, CA | Choose between a take home assignment or two interviews on CoderPad, CodePen, or your local dev env while screensharing. Final round is onsite working on a small project
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Novoda](https://novoda.com/joinus) | London, UK; Liverpool, UK; Berlin, Germany; Barcelona, Spain; Remote | 2 x Pairing sessions & conversational interviews [(public repo)](https://github.com/novoda/dojos)
