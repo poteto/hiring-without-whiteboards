@@ -453,6 +453,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Lovion GmbH](https://jobs.lovion.de) | Dortmund, Germany | On-site or remote interview for technical and culture fit
 - [Luna](https://oiluna.com) | Sao Paulo, Brazil | Take-home project and/or discussion (on-site or remote)
 - [Lydia](https://lydia-app.com/en/company/jobs) | Paris, FR | Mini take-home project, phone interview, discussion on-site
+- [Lyft's Mobile Team](http://www.lyft.com/jobs) | San Francisco, CA; Seattle, WA; New York, NY; Minsk, Belarus; Mexico City, Mexico | On-site project, discussion of candidate's completed project afterwards
 - [Lykon](https://lykon.de) | Berlin, Germany | Phone interview followed by home assignment that reflect our daily work and then on-site interview
 - [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote) | Graz, Austria | Take-Home project, discussion on-site
 
