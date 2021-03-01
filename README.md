@@ -432,6 +432,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Lab49](https://www.lab49.com/careers/) | New York, NY; Washington, DC; London, UK; Sydney, AU | First interview - Pairing interview using Codility. Final interviews that include a coding challenge.
 - [Landing.jobs](https://landing.jobs/at/landing-jobs) | Lisbon, Portugal | Interviews (in-person or remote), Take home coding project
 - [Lanetix](http://engineering.lanetix.com) | San Francisco, CA | [Our Hiring Process](https://engineering.lanetix.com/2015-10-20/hiring-process)
+- [Lattice](https://lattice.com/careers) | San Francisco, CA; New York, NY; Remote | Technical exercises based on work we do at Lattice, discussion of a new architecture to solve a real world problem
 - [Launch Academy](https://launchacademy.com/careers) | Boston, Philadelphia | Nontechnical phone screen, pair programming with team member, and potentially a "guest lecture" for our students
 - [LaunchDarkly](https://launchdarkly.com/careers) | Oakland, CA | Informational phone screen with Eng leadership, take home project, onsite interviews
 - [Leapsome](https://leapsome.com) | Berlin, Germany | Phone screen with technical co-founder, take home case study, onsite culture-fit interview
