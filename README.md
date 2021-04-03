@@ -503,7 +503,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [My Taxi](https://mytaxi.com) | Hamburg, Germany | Video chat with HR, Take Home Assignment, Review of Assignment with a technical member, Technical interview and onboarding.
 - [MyHeritage](https://www.myheritage.com) | Or Yehuda, Israel; Kyiv, Ukraine | Video call with HR, problem solving test on codility.com, video call with tech lead and solving problem from real project, system design onsite interview.
 - [MyTutor](https://apply.workable.com/mytutor/) | London, UK | Take home test, followed by pair programming, system design discussion, and cross functional interview on site
-- [Nanobox](https://nanobox.io) | Lehi, UT; Remote | A phone/video/person-to–person interview with a look at past projects (github, bitbucket, source code, etc.)
 - [Native Instruments](https://www.native-instruments.com) | Berlin, Germany | Takehome programming assignment and personal interviews with part of the hiring team.
 - [Nearsoft Inc](https://nearsoft.com/join-us/) | Hermosillo, Mexico; Chihuahua, Mexico; Mexico City, Mexico | Takehome [logic test](https://nearsoft.com/blog/the-logic-behind-nearsofts-logic-test/), english interview to check communication skills, short technical interview about experience, long technical discussion about languages/tools/practices you will use on daily basis, pair programming session.
 - [Nedap](http://lifeatnedap.com/vacatures) | Groenlo, Netherlands / Remote | A simple conversation, human to human and a small on-site project
