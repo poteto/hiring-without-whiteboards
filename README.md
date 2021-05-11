@@ -130,6 +130,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Blue Bottle Coffee](https://www.bluebottlecoffee.com/careers) | Oakland, CA | Technical Phone Screen, Take Home Challenge, Technical in-persons.
 - [Bluesoft](http://www.bluesoft.com.br) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
 - [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
+- [Bonusly](https://bonus.ly/careers) | Boulder, CO | Values & Tech focused interview - Process: 30 minute with HR, 45 minute Google Meet interview with 2 team members, ~2-4 hour take-home project, on-site interview involving 2 values-alignment interviews and 1 technical interview going over your take home project
 - [BookingSync](https://www.bookingsync.com/en/jobs) | Remote | Small takehome project, interviews over skype with team members.
 - [BoomTown](http://boomtownroi.com) | Charleston, SC / Atlanta, GA / Remote | Conversational in-person interviews with potential team members and managers that revolve around past experience and how that could be applied to future work
 - [Botika](https://botika.ai) | San Marino, RSM | View code, projects, libraries or any other open source story that you have been a part of, take-home project followed by on-site face-to-face walkthru of your code focusing on decisions/reasoning/technology used.
@@ -170,7 +171,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Chargify](https://chargify.com/jobs) | San Antonio, TX / Remote | Take-home project & pair on a problem similar to daily work
 - [Checkout 51](https://checkout51.com/jobs) | Toronto, Canada | Phone conversation (15-20 minutes) followed by on-site pair programming and discussion focused on understanding decisions made during on-site work
 - [Cheerful](https://www.cheerfulgiving.com) | Denver, CO / Remote | Take home small project which tests the adaptability of the developer with the stack used by the company, followed by a feedback interview (15 min) then a tryout offer (2 weeks / 1 month) or a permanent offer is made depending on the project results.
-- [Chef](https://www.chef.io/careers) | Seattle, WA / Remote | Take home small project testing the avility to implement real world problems. Phone/Zoom interviews discussing the said project. Checking if the candidate would be a good cultural fit.
+- [Chef](https://www.chef.io/careers) | Seattle, WA / Remote | Take home small project testing the ability to implement real world problems. Phone/Zoom interviews discussing the said project. Checking if the candidate would be a good cultural fit.
 - [Chesapeake Technology](http://ctic-inc.com/careers/) | Denver, CO / Santa Barbara, CA / Camarillo, CA / Dulles, VA / California, MD / Remote | Phone screen (30 minutes), take home at leisure question based on real development followed by in person review of solution and general technical questions with actual team and opportunity for you to ask questions and provide feedback ( 2-3 hours)
 - [CircleCI](https://circleci.com) | San Francisco, CA / Remote | Take-home project and discussion, followed by on-site interview that includes pair programming on actual CircleCI bugs/feature requests.
 - [City of Boston's Analytics Team](https://boston.gov/analytics) | Boston, MA | Take-home project and in-person or phone/Skype interviews
@@ -807,6 +808,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [VSX](https://https://vsx.net/jobs) | Dresden, Germany | On-site interview, home coding challenge, presentation/discussion of proposed solutions
 - [VTEX](http://lab.vtex.com/careers) | Rio de Janeiro, Brazil | Take-home project, Skype interview and then in-person talk.
 - [VTS](https://buildingvts.com) | New York City, New York | Technical Phone Screen, Pair programming on-site & in-person talks with multiple engineers
+- [Wallapop](https://apply.workable.com/wallapop/) | Barcelona, Spain | Intro call, technical take-home project OR tech repository you feel proud that highlights your skills for the job, practical interview and finally a competency interview
 - [Waymark](https://waymark.com/jobs) | Detroit, MI | Technical phone screen, take-home project, going over the project in person, follow up day in the office
 - [Wealthsimple](https://www.wealthsimple.com/work-with-us) | Toronto, Canada | Pair programming on a problem similar to daily work, discussion of system design
 - [WeAreHive](http://www.wearehive.co.uk) | London, UK | Just walk us through your best code or we give you a small real-world exercise to do at home.
