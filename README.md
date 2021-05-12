@@ -427,6 +427,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Kindred Group, Native Apps Team](https://careers.kindredplc.com) | Stockholm SE, London UK | On-site/Skype programming task, Interview
 - [Kinnek](https://www.kinnek.com/jointeam) | New York, NY | Phone screen, on-site pairing session, take-home project
 - [Kiwi.com](https://code.kiwi.com) | Brno, Czech Republic | Phone Interview, Take-home projects, On-site code review & interview
+- [Knock.com](https://www.knock.com/careers) | San Francisco, CA / New York, NY / Remote | Phone Interview, Take-home project, On-site technical conversation relating to the tech stack you would be hired to build with
 - [KNPLabs](https://knplabs.com) | Nantes, France | First step: screening call directly with the CEO, to discuss company vision, assess cultural fit and experience. Second step: call or IRL interview with a developer and a project facilitator , technical discussions with focus on soft skills. The goal of the interview is for the 2 KNPeers to be able to answer: “Do I want to work with this person ?” If both say yes, the person is hired. If even at least one says no, the person is not hired.
 - [Kong](https://www.konghq.com/careers) | San Francisco, CA | Phone interview. Pairing and technical interviews. Take home assigment.
 - [Kongregate](http://www.kongregate.com/jobs) | Portland, OR | Phone screening. Take home project. On-site pairing and conversational technical interviews.
@@ -536,6 +537,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Novoda](https://novoda.com/joinus) | London, UK; Liverpool, UK; Berlin, Germany; Barcelona, Spain; Remote | 2 x Pairing sessions & conversational interviews [(public repo)](https://github.com/novoda/dojos)
 - [Novus Partners](https://www.novus.com/jobs) | New York, NY | Take-home exercise & on-site exercises (choice of laptop or whiteboard)
+- [Noyo](https://www.noyo.com/careers/) | San Francisco, CA / Durham, NC / Remote | Phone interview, take-home assignment, on-site code review, and walk through a past project you're proud of
 - [Nozbe](https://nozbe.com/careers) | Remote | Take-home exercise & interview with the team
 - [npm, Inc](https://npmjs.com/jobs) | Oakland, CA / Remote | No technical challenges. Just interview conversations.
 - [Nubank](https://nubank.workable.com) | São Paulo, BR | Phone conversation, take-home exercise, code walkthrough, on-site code pairing.
