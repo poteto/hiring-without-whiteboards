@@ -448,6 +448,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Lightning Jar](http://lightningjar.agency) | San Antonio, Tx | Remote pairing session, Initial interview,discussion on-site
 - [Lightricks](http://www.lightricks.com) | Jerusalem, Israel | Initial interview, Take home project, discussion on-site
 - [LinkResearchTools](http://jobs.linkresearchtools.com/job-offers) | Vienna, Austria | Skype interview, mini take-home exercise, discussion on-site / personal interview
+- [Linx Systems](https://www.linxsystems.com) | Bloomington, IL / Remote | 5-10 minute take home project; followed by a non-technical interview; finish up with a second take home project or paired with a developer for a 30-60 minute session.
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [Litmus](https://litmus.com/careers#openings) | Remote | General technical questions, take-home code challenge, discussion, on-site programming session, meet & greet with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
