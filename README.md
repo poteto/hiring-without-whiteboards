@@ -572,6 +572,8 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Outlook iOS & Android](https://github.com/outlook/jobs) | San Francisco, CA / New York, NY | Take-home project & online / onsite discussion
 - [The Nerdery](https://www.nerdery.com/careers) | Minneapolis, MN; Chicago, IL; Phoenix, AZ; Kansas City, KS | Take-home exercise
 - [The Outline](https://boards.greenhouse.io/theoutline) | New York, NY | Take-home exercise
+- [Oracle (None OCI)](https://www.oracle.com/uk/corporate/careers/) | Worldwide Remote Opportunities | Initial Screen Interview (Internal Recruiter), Interview with one or two team members, Core Competency questions and experience based questions then Final Interview likely to be with line manager. 
+- [Oracle Cloud (OCI)](https://www.oracle.com/corporate/careers/opportunities/cloud-infrastructure-regions/) | Worldwide Remote Opportunities | Initial Screen Interview (Internal Recruiter), Interview with one or two team members, Core Competency questions and experience based questions then Final Interview likely to be with line manager. 
 
 ## P - R
 - [PACE Telematics](https://www.pace.car/jobs) | Karlsruhe, Germany | Culture and mindset check, on-site meet and great, small code challenge to see development style and strategy
