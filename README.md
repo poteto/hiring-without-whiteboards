@@ -566,6 +566,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Openmind](https://www.openmindonline.it) | Monza, Italy | On-site interviews
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
 - [Oracle (None OCI)](https://www.oracle.com/uk/corporate/careers/) | Worldwide Remote Opportunities | Initial Screen Interview (Internal Recruiter), Interview with one or two team members, Core Competency questions and experience based questions then Final Interview likely to be with line manager. 
+- [Oracle Cloud (OCI)](https://www.oracle.com/corporate/careers/opportunities/cloud-infrastructure-regions/) | Worldwide Remote Opportunities | Initial Screen Interview (Internal Recruiter), Interview with one or two team members, Core Competency questions and experience based questions then Final Interview likely to be with line manager. 
 - [Ori](http://ori.co)| London, UK | Phone interview and a takehome project, followed by a two hour meeting with the team
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
 - [Outbrain](https://careers.outbrain.com/?F1C=Netanya&F2C=&FTXT=) | Netanya, Israel | Take-home exercise & discussion
