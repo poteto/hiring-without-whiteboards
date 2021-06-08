@@ -565,6 +565,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Openbase](https://angel.co/company/openbasecom) | San Francisco, CA | Take-home exercise on real-world problem & discussion with engineers about exercise
 - [Openmind](https://www.openmindonline.it) | Monza, Italy | On-site interviews
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
+- [Oracle (None OCI)](https://www.oracle.com/uk/corporate/careers/) | Worldwide Remote Opportunities | Initial Screen Interview (Internal Recruiter), Interview with one or two team members, Core Competency questions and experience based questions then Final Interview likely to be with line manager. 
 - [Ori](http://ori.co)| London, UK | Phone interview and a takehome project, followed by a two hour meeting with the team
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
 - [Outbrain](https://careers.outbrain.com/?F1C=Netanya&F2C=&FTXT=) | Netanya, Israel | Take-home exercise & discussion
@@ -572,8 +573,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Outlook iOS & Android](https://github.com/outlook/jobs) | San Francisco, CA / New York, NY | Take-home project & online / onsite discussion
 - [The Nerdery](https://www.nerdery.com/careers) | Minneapolis, MN; Chicago, IL; Phoenix, AZ; Kansas City, KS | Take-home exercise
 - [The Outline](https://boards.greenhouse.io/theoutline) | New York, NY | Take-home exercise
-- [Oracle (None OCI)](https://www.oracle.com/uk/corporate/careers/) | Worldwide Remote Opportunities | Initial Screen Interview (Internal Recruiter), Interview with one or two team members, Core Competency questions and experience based questions then Final Interview likely to be with line manager. 
-- [Oracle Cloud (OCI)](https://www.oracle.com/corporate/careers/opportunities/cloud-infrastructure-regions/) | Worldwide Remote Opportunities | Initial Screen Interview (Internal Recruiter), Interview with one or two team members, Core Competency questions and experience based questions then Final Interview likely to be with line manager. 
+
 
 ## P - R
 - [PACE Telematics](https://www.pace.car/jobs) | Karlsruhe, Germany | Culture and mindset check, on-site meet and great, small code challenge to see development style and strategy
