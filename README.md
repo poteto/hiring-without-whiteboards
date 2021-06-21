@@ -688,7 +688,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Showmax](https://blog.showmax.com/engineering-careers) | Beroun, Czechia; Prague, Czechia; Remote | Take home project, then a pair-programming and discussion onsite / Hangouts round.
 - [ShuttleCloud](https://shuttlecloud.com/jobs) | Chicago, IL / Madrid, Spain | Take-home project, then on-site code walk through and a real world problem discussion.
 - [Signal AI](https://www.signal-ai.com/about-us/careers) | London, UK | Phone screen; take home code exercise; on-site code extension with pair programming and discussion
-- [Simple](https://www.simple.com) | Portland, OR | Discussion about software development and architecture skills and experience.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers) | Fort Worth, TX, USA | Takehome code challenge and review
 - [SimpliField](http://www.welcometothejungle.co/companies/simplifield/jobs) | Lille, France | Interview with the CTO and the developer team
 - [Simply Business](https://www.simplybusiness.co.uk/about-us/careers/tech) | London, UK / Remote | Three stage, one day interview with quick feedback. One of the stages is 1.5h pair-programming session, where interviewee is assigned a task and interviewing developer plays role of Product Owner.
