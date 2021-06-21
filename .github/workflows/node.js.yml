@@ -7,23 +7,18 @@ on:
   push:
     branches: [ master, staging, trying ]
   pull_request:
-    branches: [ master, staging, trying ]
+    branches: [ master ]
 
 jobs:
   test:
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [12.x, 14.x, 16.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
     - uses: actions/checkout@v2
-    - name: Test on Node.js ${{ matrix.node-version }}
+    - name: Test on Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: 12.x
     - run: yarn install --frozen-lockfile
     - run: yarn test

@@ -2,6 +2,4 @@ status = [
   "test"
 ]
 delete_merged_branches = true
-# Uncomment this to use a two hour timeout.
-# The default is one hour.
-#timeout_sec = 7200
+timeout_sec = 300
