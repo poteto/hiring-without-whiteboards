@@ -128,7 +128,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Bleacher Report](http://bleacherreport.com) | San Francisco, CA, USA | Take-home project; on-site discussion about the project and meeting with different teams
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [blogfoster](https://github.com/blogfoster/join-the-engineering-team) | Berlin, Germany | Take-home project, discussion on-site
-- [Bloom Works](https://bloomworks.digital/software-engineer/) | Remote | Discussion, pair-programming exercise
+- [Bloom Works](https://bloomworks.digital/team) | Remote | Discussion, pair-programming exercise
 - [Blue Bottle Coffee](https://www.bluebottlecoffee.com/careers) | Oakland, CA | Technical Phone Screen, Take Home Challenge, Technical in-persons.
 - [Bluesoft](http://www.bluesoft.com.br) | São Paulo, Brazil | Takehome project and an interview to evaluate the candidate's previous experience.
 - [Bocoup](https://bocoup.com/careers) | Boston, MA / Remote | Pair programming with personal laptop on typical problem seen at work
@@ -151,7 +151,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Buffer](https://buffer.com/journey) | Remote | Interviews over video call, code walkthrough of real code focussing on decisions and reasoning, then a 45 day full time, fully paid contract project working on production code.
 - [Bugcrowd](https://www.bugcrowd.com/about/careers/) | San Francisco, CA / Sydney, NSW | Take home exercise, half-day onsite walking through code, and pair programming.
 - [Buhler Group](http://www.buhlergroup.com) | Prague, CZ | Interview with a couple of technical questions. No task needed. Depending on the team there is another round with the guys in the HQ via skype.
-- [Buildkite](https://buildkite.com/home) | Remote | No CV required. Anonymized writing assessments. Video chat with founder and future team member about you, the job, and the company. Last video chat is a pair programming for technical roles or more in-depth chat for non-technical roles. Offer.
+- [Buildkite](https://buildkite.com/careers) | Remote | No CV required. Anonymized writing assessments. Video chat with founder and future team member about you, the job, and the company. Last video chat is a pair programming for technical roles or more in-depth chat for non-technical roles. Offer.
 - [Bulb](https://www.bulb.co.uk) | London, UK | Phone screening, followed by a 2-4 hours take home task. If successful, an interview designing a real-world system with two engineers. Following that, two spoken interview stages: the first more behavioural, then leadership & culture.
 - [Busbud](https://www.busbud.com/en/careers) | Montreal, Canada | Phone screening, followed by a 2-4 hours take home assignment. If the challenge is a success, on-site or remote interview with team members, including someone who reviewed it, to talk about it and potential next steps if the challenge was a real life task.
 - [Bustle](https://www.bustle.com/labs) | New York City, Ny / Remote | Half day pair programming on a task for production or one of our Open Source projects. We'll also buy you lunch with the team.
@@ -192,11 +192,11 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Clubhouse](https://www.clubhouse.io/hiring) | New York, NY & Remote | Phone interview, followed by onsite discussions and pair programming
 - [Code Orange](https://code-orange.nl) | Amsterdam, Netherlands | Phone conversation followed by take-home project
 - [Cogent Labs](https://www.cogent.co.jp) | Tokyo, Japan | On-site or video call conversation around technical background and experience, followed by take-home project that resembles a problem Cogent Labs solves for. This project will serve as the base of discussion with the developers for the second interview.
-- [Cognitect, Inc.](https://www.cognitect.com/jobs) | Remote | Phone interview followed by pair programming.
+- [Cognitect, Inc.](https://www.cognitect.com/careers.html) | Remote | Phone interview followed by pair programming.
 - [Cognitran](http://www.cognitran.com/employment-opportunities) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Collabora](https://www.collabora.com/careers.html) | Cambridge, UK / Montreal, Canada / Remote | On-site or video interview, discussion of technical experience and sometimes approach for tackling a hypothetical problem.
 - [Colonist](https://colonist.io/contribute.html) | Remote | Call->Solve real product coding assignment
-- [combyne](https://combyne.com) | Remote / Munich, Germany | Short online technical test, 4-hour take-home project, and culture fit interview with members of the team.
+- [combyne](https://careers.combyne.com/) | Remote / Munich, Germany | Short online technical test, 4-hour take-home project, and culture fit interview with members of the team.
 - [COMPEON](https://www.compeon.de/karriere) | Duesseldorf, Germany | Phone interview, followed by onsite discussions and pair programming with our developers
 - [Concordia Publishing House](http://about.cph.org/careers.html) | St Louis, MO | Take-home project followed by discussion of it on-site with future teammates.
 - [Condé Nast International](https://condenastinternational.com) | London, UK | Phone interview, 2 hour take-home project, and on-site with discussion of project, experience, and general technical questions.
@@ -217,7 +217,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [cube19](https://www.cube19.com/work-with-us/) | London, UK | Take-home project, then an on-site discussion about the code and previous experience.
 - [Cultivate](https://cultivatehq.com) | Edinburgh, UK | 30 minute pair-programming screening interview on a simple exercise (remote or in-person). Half day pair programming, with 3 or 4 different team members plus informal chat, typically on-site.
 - [Culture Foundry](https://www.culturefoundry.com) | Austin, TX | Paid take-home project
-- [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
+- [CurrencyTransfer](https://www.currencytransfer.com/careers) | London, UK & Remote | Take-home project
 
 ## D - F
 - [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
