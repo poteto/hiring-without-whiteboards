@@ -250,7 +250,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Doist](https://doist.com) | Remote | Personal interviews with part of the team and a takehome programming assignment.
 - [Dollar Shave Club](https://www.dollarshaveclub.com) | Venice, California | Phone interview, take-home projects, on-site interview
 - [door2door](http://door2door.io) | Berlin, Germany | Take home challenge + on-site interview + trial day
-- [DoorDash :runner::dash:](https://doordash.com/careers) | San Francisco, CA | Take home project + an on-site interview building off the project!
 - [Draft Fantasy](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) | Tel Aviv, Israel | Talk about past experience and what the developer has actually built as well as pair programming or a programming exercise.
 - [Draftbit](https://draftbit.com) | Remote | Phone screening, take-home assignment based on an old project; pair programming and interview with team members
 - [Drawbotics](https://www.drawbotics.com/en/join-us) | Brussels, Belgium | Take-home project, bootcamp on-site
