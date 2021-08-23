@@ -302,6 +302,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Facile.it](https://jobs.facile.it) | Milan, Italy; Cagliari, Italy; Remote | Initial call/Skype interview with HR. Tech interview about OOP concepts, HTTP and REST API design questions with 2 engineers. Brief talk with VP of Engineering or CTO.
 - [Fairwinds](https://fairwinds.com/careers) | Remote | Start with a brief talk with CTO or VP of Engineering, take home coding challenge, then remote interviews with several people on the engineering team
 - [Falcon.io](https://www.falcon.io/jobs/) | Copenhagen, Denmark | Initial call/Skype culture interview. Take-home tech assignment (game) and code review. On-site Interview about your experience and meeting the team.
+- [farmako.in](https://farmako.in/) | Noida,India |An intro call with the founders. A small task. Another call to present your work,which may or may not include a technical interview.
 - [FastBill](https://www.fastbill.com/jobs) | Frankfurt, Germany | Initial interview via Skype/Zoom. Small tech-home project based on the specific job. Afterwards code review and technical discussion.
 - [FATMAP](https://www.fatmap.com) | London, UK; Berlin, Germany; Vilnius, Lithuania | Skype discussion, Take-home project, Face to face
 - [Fauna](https://fauna.com) | San Francisco, CA / Remote | Take home project, then follow up with interviews on-site or remote. Interviews are both technical and non-technical. Technical interviews comprehend the scope of the home project.
