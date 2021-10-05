@@ -444,6 +444,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Koho by Expeditors](https://www.gokoho.com) | Portland, OR | Phone screening. Take home assignment. Conversational technical and cultural interview.
 - [Kong](https://www.konghq.com/careers) | San Francisco, CA | Phone interview. Pairing and technical interviews. Take home assigment.
 - [Kongregate](http://www.kongregate.com/jobs) | Portland, OR | Phone screening. Take home project. On-site pairing and conversational technical interviews.
+- [Kontainer](https://kontainer.com/vacant-positions-in-kontainer-job-and-career) | Copenhagen, Denmark | Phone screening. Practical questions on how past experience matches the job position. On-site technical interviews with lead engineers.
 - [Korbit](https://www.korbit.co.kr/about/jobs) | Seoul, South Korea | Take home assignment followed by on-site code review and interview
 - [Kulkul Tech](https://kulkul.tech/careers) | Jakarta, Indonesia | Take home and an in-person system design interview, then soft skills and culture assessment via interviews with the senior leadership team.
 - [Lab.Coop](http://lab.coop) | Budapest, Hungary | Partnership-fit discussion, code-review and trial days.
