@@ -796,7 +796,6 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Twistlock](https://www.twistlock.com) | Tel Aviv, Israel | Takehome
 - [Typito](https://typito.com/go) | Bangalore , India | Take home assignment project with options for focus in frontend or backend work. First interview round based on the project submitted, may require to do some edits or add further feature based on discussion , live during interview. Second round mostly specific to overall system enegineering and discussion regarding solutions to common backend/frontend engineering problems.
 - [uberall](https://uberall.com/en/careers) | Berlin, Germany | 30-min coding on-site, then a trial day
-- [uBiome](https://ubiome.com/careers) | San Francisco, CA / Santiago, Chile | High level screening over the phone or on-site, take home project, code review and discussion
 - [Ubots](http://ubots.com.br) | Porto Alegre, Brazil | Skype/On-site interview, take-home project, technical interview
 - [Unbounce](https://unbounce.com) | Vancouver, BC | Phone screen, take-home project, project discussion, technical interview
 - [Unboxed](https://unboxed.co) | London, UK | Take home feature requests, pairing with developers to extend solution, team-fit interviews, chat with a director
