@@ -91,7 +91,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Aurora Solar](https://www.aurorasolar.com/careers) | San Francisco, CA | Our process: 1) Initial phone call 2) 1 hour take home project in CoderPad along with a few essay questions relating to JavaScript, testing, etc. 3) Remote pairing session solving a problem similar to day to day work. 4) In-person interview with additional pairing exercise done on a laptop as well as culture interviews.
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers) | Bellevue, WA / Buenos Aires, Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
 - [Auto1](https://www.auto1-group.com/jobs) | Berlin, DE | Series of Skype interviews which covers general technical questions, followed by a take-home assignment
-- [Automattic](https://automattic.com/work-with-us) | Remote | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
+- [Automattic](https://automattic.com/work-with-us/) | Remote | short take-home code test, then a part-time, paid project.
 - [AutoScout24](https://github.com/AutoScout24/hiring) | Munich, Germany | Skype interview followed by home assignment from our day-to-day business and then on-site interview including lunch with a team
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
 - [Avarteq GmbH](https://www.avarteq.com/career) | Berlin, Germany / Saarbrücken, Germany | Technical interview with our developers on-site or remote followed by a work sample in a pair programming session or a previous take-home project with a follow-up discussion and detailed feedback.
@@ -444,6 +444,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Koho by Expeditors](https://www.gokoho.com) | Portland, OR | Phone screening. Take home assignment. Conversational technical and cultural interview.
 - [Kong](https://www.konghq.com/careers) | San Francisco, CA | Phone interview. Pairing and technical interviews. Take home assigment.
 - [Kongregate](http://www.kongregate.com/jobs) | Portland, OR | Phone screening. Take home project. On-site pairing and conversational technical interviews.
+- [Kontainer](https://kontainer.com/vacant-positions-in-kontainer-job-and-career) | Copenhagen, Denmark | Phone screening. Practical questions on how past experience matches the job position. On-site technical interviews with lead engineers.
 - [Korbit](https://www.korbit.co.kr/about/jobs) | Seoul, South Korea | Take home assignment followed by on-site code review and interview
 - [Kulkul Tech](https://kulkul.tech/careers) | Jakarta, Indonesia | Take home and an in-person system design interview, then soft skills and culture assessment via interviews with the senior leadership team.
 - [Lab.Coop](http://lab.coop) | Budapest, Hungary | Partnership-fit discussion, code-review and trial days.
@@ -847,6 +848,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Wildbit](https://wildbit.com) | Philadelphia, PA & Remote | Take-home project followed by interviews.
 - [Windy.com](https://windy.com) | Prague, Czechia | Talk and write small programm on a computer
 - [Wirecard Brasil](https://wirecardbrasil.workable.com) | São Paulo, Brazil | Phone or on-site Cultural Fit interview, take-home coding challenge, code review and discussing in-person.
+- [Wiredcraft](https://wiredcraft.com) | Shanghai, China | Phone or on-site interview, take-home coding challenge, code review and discussing in-person.
 - [WorldGaming](https://worldgaming.com) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team
 - [woumedia](https://woumedia.com) | Remote | Getting to know each other and aligning expectations. Talking about past experiences, projects you are proud of and latest challenges you faced. It’s followed by a use case study from one of our current projects.
 - [WyeWorks](https://wyeworks.com) | Montevideo, Uruguay | Take-home project and discussion on-site
