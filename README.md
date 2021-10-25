@@ -230,7 +230,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Datlinq](http://www.datlinq.com/en/vacancies) | Rotterdam, Netherlands | Take-home project based on actual work on data done by the team and in-person or Skype interviews
 - [DealTap](https://dealtap.ca) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team, and optional pair programming.
 - [Def Method](https://www.defmethod.com) | NYC, NY | Take home test, pair programming with dev on test and client work, receive offer same day as pairing interview
-- [DeepSource](https://deepsource.io/) | San Francisco, CA; Bangalore, India | Technical interview, take home task, chat with founders, culture fit round, offer within 2 working days since the Culture fit round.
+- [DeepSource](https://careers.deepsource.io/) | San Francisco, CA; Bangalore, India | Technical interview, take home task, chat with founders, culture fit round, offer within 2 working days since the Culture fit round.
 - [Deliveroo](https://deliveroo.co.uk/careers) | London, UK & Remote | Short take-home project and pair programming
 - [Delivery Center](https://deliverycenter.gupy.io) | Rio de Janeiro, Brazil & Remote | Interviews with the team about the company and the opening, with a short take-home project using their main stack.
 - [Delivery Much](https://carreiras.deliverymuch.com.br) | Florianópolis, Brazil & Remote | On-site (and/or remote) interviews about the company and the opening, with a short take-home project for leveling.
