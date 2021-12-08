@@ -564,7 +564,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Nubank](https://nubank.workable.com) | São Paulo, BR | Phone conversation, take-home exercise, code walkthrough, on-site code pairing.
 - [numberly](https://www.numberly.com) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
 - [numer.ai](https://angel.co/numerai/jobs) | San Francisco, CA
-- [Nurx](https://www.nurx.com/careers#roles) | San Francisco, CA; Remote | Phone screen with recruiter and/or hiring manager, tech assessment with multiple options (full take home, partial take home, no take home), and then virtual on-site with a pair coding session, peer review of a technical document, architecture design, and exec loop
+- [Nurx](https://www.nurx.com/technology/) | San Francisco, CA; Remote | Phone screen with recruiter and/or hiring manager, tech assessment with multiple options (full take home, partial take home, no take home), and then virtual on-site with a pair coding session, peer review of a technical document, architecture design, and exec loop
 - [Nutshell](https://www.nutshell.com/jobs) | Ann Arbor, MI, US | Email screen / take-home programming exercise ([public repo](https://github.com/nutshellcrm/join-the-team))
 - [Nyon](https://www.nyon.nl/jobs) | Amsterdam, The Netherlands | 1. Skype (or real life) interview 2. Take home exercise (3-4 hours) 3. Meet entire team and pair programming sessions
 - [O'Reilly Media](https://oreilly.com/jobs) | Sebastopol, CA; Boston, MA; Remote | Phone conversation, take-home exercise or pair programming session, team interview, all via Google Hangout
