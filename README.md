@@ -426,7 +426,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 ## J - L
 - [Jamasoftware](http://www.jamasoftware.com) | Portland, OR | Initial phone screen with hiring manager. In person pairing on project similar to day-to-day work with a separate cultural interview
 - [Jamit Labs](https://jamitlabs.com/jobs) | Karlsruhe, Germany | Phone interview or on-site interview & take-home code challenge or on-site programming session
-- [Jane Technologies (iheartjane.com)](https://iheartjane.com) | Santa Cruz, CA / Remote | Short take-home challenge, followed by practical interviews based on position the applicant is seeking
+- [Jane Technologies (iheartjane.com)](https://iheartjane.com) | Santa Cruz, CA; Remote | Short take-home challenge, followed by practical interviews based on position the applicant is seeking
 - [Jetstack](https://www.jetstack.io/careers) | London, UK | Phone screen; shared terminal session on Linux & Programming; Take home task
 - [Jiminny](https://www.jiminny.com) | Sofia, Bulgaria | Phone screen. Take-home exercise. Follow-up discussion.
 - [Jitbit](https://www.jitbit.com) | Remote; London, UK; Tel-Aviv, Israel | Take-home real-world task
