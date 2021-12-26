@@ -222,6 +222,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Cultivate](https://cultivatehq.com) | Edinburgh, UK | 30 minute pair-programming screening interview on a simple exercise (remote or in-person). Half day pair programming, with 3 or 4 different team members plus informal chat, typically on-site.
 - [Culture Foundry](https://www.culturefoundry.com) | Austin, TX | Paid take-home project
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
+- [Community Fibre](https://communityfibre.co.uk) | London, UK & Remote | One Interview with Team and decision same day or next, Technical and Soft Skills questions
 
 ## D - F
 - [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
