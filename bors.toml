@@ -1,6 +1,5 @@
 status = [
-  "continuous-integration/travis-ci/push"
+  "test"
 ]
-# Uncomment this to use a two hour timeout.
-# The default is one hour.
-#timeout_sec = 7200
+delete_merged_branches = true
+timeout_sec = 300
