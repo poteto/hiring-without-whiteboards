@@ -658,6 +658,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Redgate](https://www.red-gate.com/our-company/careers/current-opportunities/) | Cambridge, UK | Simple couple of questions during screening phase (up to 30 min) followed by a second phase with up to two coding exercises (non-CS).
 - [Reducer](https://reducer.co.uk) | London, UK | Introductions by phone, pair programming on site, then meeting the team.
 - [Reflektive](https://www.reflektive.com/careers/) | San Francisco, CA; Bengaluru, India | A short take home project/assignment, followed by a couple of technical and non-technical discussions online and offline.
+- [Refty](https://refty.co) | Paris, France | Introductory video call, soft skills assessment process powered by our own product, on-site discussion, lunch with everyone.
 - [Relabe](https://relabe.com) | San Juan, PR | First we screen for cultural fit then check for technical proficiency. 2-3 Interviews max in SJ
 - [Render](https://jobs.lever.co/render) | San Francisco, CA; Remote | Phone screen followed by an onsite project based on our day-to-day, real world challenges.
 - [Rentify](https://www.rentify.com/jobs) | London, UK | Phone call, take home real-world project, on-site pair programming, product discussion
