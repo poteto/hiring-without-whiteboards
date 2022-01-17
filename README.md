@@ -348,6 +348,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [GatherContent](https://gathercontent.com/about-us) | Remote | Culture-first interviews, pair programming and remote, informal technical discussions
 - [Gemini](https://gemini.com/careers) | New York, NY | Phone chat. Take-home project, discussion on-site. Questions on prior experiences and culture fit
 - [GenUI](https://www.genui.com) | Seattle, WA | A short phone screen with questions regarding general knowledge related to the open position, then a half day pair programming interview.
+- [Geosite](https://www.geosite.io) | Remote | Phone chat -> Take home project resembling the team focus -> Discussion about takehome & culture fit.
 - [Ghost Inspector](https://ghostinspector.com/jobs) | Remote | Video interview, short (under 2 hour) take-home project, and team video interview
 - [Ginetta](http://jobs.ginetta.net) | Zurich, Switzerland; Braga, Portugal | Culture-first interviews, take home assignment that resembles a real-world problem we often solve, then discussion about the assignment in-person with pair-programming improvement sessions with our developers.
 - [Ginger](https://www.ginger.com/careers) | Remote; San Francisco, CA | Realistic coding exercise, take-home project, virtual onsite (system design, experience, and culture)
