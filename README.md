@@ -413,6 +413,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [inKind Capital](https://inkindcapital.com) | Boulder, CO | Discussing real-world problems, pair programming, dinner & drinks with the team
 - [Inmar](https://www.inmar.com/careers) | Winston-Salem, NC; Austin, TX & Remote | Take-home project and conversation-style interviews
 - [Innoplexus](https://jobs.innoplexus.com) | Pune, India; Frankfurt, Germany | Take-home projects and On-site pair programming assignment.
+- [Innovia CoLabs](https://www.innoviacolabs.com) | Rochester, NY / Remote | Zoom interview with two to three engineers and you share projects/code you're proud of; only reviewing code you wrote yourself. Most of the interview is about culture fit and who you are as a person. There is a blog on the website that outlines the interview and will contact you prior to tell you exactly what the interview will be like.
 - [Instacart](https://careers.instacart.com) | San Francisco, CA | Take-home real world project, pair programming on-site
 - [InstantPost](https://internshala.com/internships/internship-at-InstantPost) | Bangaluru, India | Remote assignment followed by Technical and Team round interview
 - [Integral.](https://www.integral.io) | Detroit, MI | Initial remote technical screen featuring test-driven development & pair programming, then on-site full day interview that involves pair programming on production code using test-driven development.
