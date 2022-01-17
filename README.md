@@ -540,6 +540,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Netguru](https://www.netguru.co/career) | Warsaw, Poland; Remote | Takehome exercise & pair programming session
 - [Netlandish](https://www.netlandish.com) | Los Angeles, CA; Remote | Takehome exercise, chat interview, video interview
 - [Netlify](https://www.netlify.com/careers) | San Francisco, CA / Remote | Takehome project and online/onsite discussion
+- [Neulabs](https://neulabs.com/careers) | Milan, Italy | Initial phone screen with HR. Brief talk with VP of Engineering or CTO. Small take-home project followed by a technical review with 1 or more engineers & a culture-fit discussion.
 - [New Relic](https://newrelic.com/about/careers) | San Francisco, CA | Takehome exercise &/ or pair programming session depending on the team
 - [NewStore](https://www.newstore.com/careers/) | Berlin, Germany; Hannover, Germany; Erfurt, Germany; Boston, MA | Telephone technical interview, code sample submission or takeaway coding exercise, on-site pair programming, design session (1/2 day)
 - [NewVoiceMedia](https://www.newvoicemedia.com/about-newvoicemedia/careers) | Basingstoke, England; Wroclaw, Poland | Telephone interview, takeaway coding exercise, on-site pair programming, code review & technical discussion (1/2 day)
@@ -737,6 +738,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
 - [Stardog Union](http://stardog.com) | Washington, DC; Remote | Technical discussion and general interest conversations
 - [StartDee](http://startdee.com) | Bangkok, Thailand | Phone screening with technical recruiter --> live coding with an engineer --> panel interview with related engineers (Test Engineers, Frontend Engineers, Backend Engineers, etc) --> final interview with VP of Engineering
+- [StashAway](https://www.stashaway.sg/careers) | Singapore, Malaysia & Remote | Take Home Technical Task (broken down to frontend or backend focused), Database Architecture Case Design round, Peer-to-Peer (P2P) team round, and Management Interview
 - [Statflo](http://statflo.com) | Toronto, Canada | Phone screening, take home project, on-site interview discussing the take home project, high-level architectural brainstorm, and questions about career and team work.
 - [store2be](https://www.store2be.com/de/jobs/tech) | Berlin, Germany | Skype/on-site interview, take-home project
 - [Storm](https://www.stormx.io/about#jobs) | Seattle, WA; Remote | Phone/skype screen --> Take-home coding assignment --> on-site/skype interview loop to discuss assignment; meet-and-greet with other teams --> +1/-1 based on team consensus
