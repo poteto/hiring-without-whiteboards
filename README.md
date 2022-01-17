@@ -433,6 +433,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 ## J - L
 - [Jamasoftware](http://www.jamasoftware.com) | Portland, OR | Initial phone screen with hiring manager. In person pairing on project similar to day-to-day work with a separate cultural interview
 - [Jamit Labs](https://jamitlabs.com/jobs) | Karlsruhe, Germany | Phone interview or on-site interview & take-home code challenge or on-site programming session
+- [Jane Technologies (iheartjane.com)](https://iheartjane.com) | Santa Cruz, CA; Remote | Short take-home challenge, followed by practical interviews based on position the applicant is seeking
 - [Jetstack](https://www.jetstack.io/careers) | London, UK | Phone screen; shared terminal session on Linux & Programming; Take home task
 - [Jiminny](https://www.jiminny.com) | Sofia, Bulgaria | Phone screen. Take-home exercise. Follow-up discussion.
 - [Jitbit](https://www.jitbit.com) | Remote; London, UK; Tel-Aviv, Israel | Take-home real-world task
@@ -529,6 +530,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
 - [Monzo](https://monzo.com) | London, UK & Remote | Phone interview with another engineer. Take-home assignment. Call to debrief on take-home assignment. Half-day interview (on-site or Hangouts) with three conversational sessions: (1) building on take-home test & real-world system design (verbal and collaborative); (2) digging into knowledge & understanding in 1-2 other relevant technical areas; (3) general background, teams and ways of working.
 - [Moteefe](https://www.moteefe.com/jobs) | London, UK & Remote | Interview with CTO. Take home project/challenge.
+- [Mozilla](https://careers.mozilla.org/listings) | San Francisco, US; Portland, US; Toronta, CA; Vancouver, CA; Berlin, DE; Remote | Deep-dive discussions on technical and mentorship problems solved in the past. No live coding. Total of 3 rounds.
 - [Mutual Mobile](https://mutualmobile.com/careers) | Austin, TX; Hyderabad, India | Technical discussion, code test based on actual work you'll be doing, panel style discussions for cross-functional and culture-fit.
 - [Mutual of Omaha](http://www.mutualofomaha.com/careers) | Omaha, NE, USA | Panel Style Interviews analyzing problem solving, ability to adapt well to change, and interpersonal communication skills.
 - [Mutually Human Software](https://www.mutuallyhuman.com) | MI, OH, WA | Collaborative problem analysis and design exercise, pairing exercise
