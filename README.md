@@ -378,6 +378,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Happy Team](https://happyteam.io) | Warsaw, Poland; Remote | General technical questions, takehome paid exercise with feedback/discussion during implementation
 - [Happypie](http://www.happypie.com) | Uppsala, Sweden | Takehome exercise with code review after, in-person interview
 - [Hash](https://www.hash.com.br/index.html) | Sao Paulo, Brazil | Take-home project and/or discussion (on-site or remote)
+- [Hashnode](https://hashnode.com/careers) | Remote | Phone/video call interview for quick personal introduction -> a take-home coding exercise based on real world example -> take-home task discussion -> culture fit session.
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
 - [Headspring](https://headspring.com/about/careers) | Austin, TX; Houston, TX; Monterrey, Mexico | Take-home situational questionnaire and code exercise, with in-person follow up to discuss and pair for changes
 - [Healthify](https://healthify.us) | Remote & New York City, NY | Take-home project, discussion via Zoom, pair programming with us on our app for a day.
@@ -620,6 +621,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Persgroep, de](https://www.persgroep.nl/werken-bij-it) | Amsterdam, Netherlands | Tech interview (technical background and experiences) and culture fit, both on-site
 - [Persona](https://www.withpersona.com/about) | San Francisco, CA | Tech interview (technical background and experiences), pair programming, and culture fit
 - [Pex](https://angel.co/pexeso/jobs) | Los Angeles, CA; Remote | 3 sessions: brief phone conversation (30 min); take home assignment (2 hours); on-site or video discussion without any coding (2 hours)
+- [pfs](https://empleo.pfsgroup.es) | Madrid, Spain; Valencia, Spain; Lisbon, Portugal; CDMX, Mexico; Remote | We adapt each interview according to the candidate and the position. The interviews are open discussions (no quizzes) about real-world problems. 2-3 interviews max, all of them can be done remotely.
 - [Philo](https://philo.com/jobs) | San Francisco, CA; Cambridge, MA | Initial screen with deep-dive into one of your recent projects (30 mins) ; take-home coding exercise tailored your skills (4 hours); on-site with take-home code review, architecture interview, design interview and "soft skills" interview (4 hours)
 - [Phoodster](https://www.phoodster.com) | Stockholm, Sweden | Take-home exercise + on-site discussion
 - [Pillar Technology](http://pillartechnology.com/careers) | Ann Arbor, MI; Columbus, OH; Des Moines, IA | Phone, take home exercise, in-person pairing session and site visit.
