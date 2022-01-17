@@ -655,6 +655,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Ragnarson](https://ragnarson.com) | Lodz, Poland; Remote | Take-home exercise & pair programming session
 - [Railslove](https://www.railslove.com) | Cologne, Germany | Have a coffee in our office, casual chat with us, pair programming on a real project
 - [Raising IT](https://www.raisingit.com) | London, UK | Coffee with a team member, on-site pair programming and discussion
+- [Ramp](https://ramp.com) | New York, NY | Phone interview on a basic applied problem, followed by 2-3 onsite programming interviews that test practical day-to-day software skills.
 - [Rapptr Labs](http://careers.rapptrlabs.com) | Jersey City, NJ | Take-home exercise followed by a video interview with 2-3 engineers about domain-specific knowledge and open-ended questions.
 - [Rapyuta Robotics](http://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
@@ -672,6 +673,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Reflektive](https://www.reflektive.com/careers/) | San Francisco, CA; Bengaluru, India | A short take home project/assignment, followed by a couple of technical and non-technical discussions online and offline.
 - [Refty](https://refty.co) | Paris, France | Introductory video call, soft skills assessment process powered by our own product, on-site discussion, lunch with everyone.
 - [Relabe](https://relabe.com) | San Juan, PR | First we screen for cultural fit then check for technical proficiency. 2-3 Interviews max in SJ
+- [Remote](https://remote.com) | Remote | Call with a recruiter (if needed), call with manager, code exercise, call with team.
 - [Render](https://jobs.lever.co/render) | San Francisco, CA; Remote | Phone screen followed by an onsite project based on our day-to-day, real world challenges.
 - [Rentify](https://www.rentify.com/jobs) | London, UK | Phone call, take home real-world project, on-site pair programming, product discussion
 - [RentoMojo](https://www.rentomojo.com/about/careers) | Bangalore, India | Short takehome project + phone interview
