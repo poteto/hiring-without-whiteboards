@@ -361,6 +361,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [GoJek](https://www.gojek.io) | Bangalore, India; Jakarta, Indonesia; Singapore, SG; Bangkok, Thailand | Take-home exercise, Pair programming with senior engineer, Techinal problem solving and discussion, Cultural Fit
 - [Gower Street Analytics](http://gower.st) | Remote; London, UK | Initial telephone chat, then either a) work with us, fully paid, for a day on real code with the team; or b) pair-programming on a code kata with the team members for four pomodoros. Your choice.
+- [GoZayaan](https://www.gozayaan.com/talent) | Dhaka, Bangladesh | Initial telephone chat, Role specific take-home project, In-Person interview with senior engineers discussing coding approach and technical discussions. 
 - [Graffino](https://www.graffino.com) | Sibiu, Romania | Take-home project, discussion on-site
 - [Grafton Studio](https://graftonstudio.com) | Boston, MA | Take-home project, discussion on-site
 - [Gram Games](http://gram.gs) | London, UK / Istanbul, Turkey | Initial interview -> Take home -> Take home discussion call -> On site code review and technical discussions
