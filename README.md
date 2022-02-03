@@ -77,7 +77,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Anyfin](https://career.anyfin.com) | Stockholm, Sweden | Takehome project & Onsite discussions and presentation.
 - [Apollo Agriculture](https://apolloagriculture.com) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
 - [Applied](https://www.beapplied.com) | London, UK | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
-- [Appwrite](https://appwrite.io) | Remote | Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
+- [Appwrite](https://appwrite.io/company/careers) | Remote | Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
 - [Aragon One](https://aragon.one/#jobs) | Remote | Culture-first interview, take home technical challenge, technical interviews, and finally a compensated onsite trial week working on a real project that will be shipped
 - [Artemis](http://artemisag.com) | Remote | An initial non-technical half-hour screening call, followed by 3 one-hour pairing sessions on a take-home project that you build yourself using either Ruby or JavaScript (or any Ruby or JavaScript framework). Senior candidates may also be required to review an example pull request as the final round.
