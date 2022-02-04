@@ -386,7 +386,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [HE:labs](https://helabs.com) | Rio de Janeiro, Brazil & Remote | Take-home project and discussion via Skype.
 - [HelloFresh](https://www.hellofresh.com/jobs) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [Heptio](https://www.heptio.com/jobs) | Seattle, WA; Remote | Take-home project, discussion on-site
-- [Hero Digital](https://herodigital.com) | San Francisco, CA; Remote | Take-home project with code review, multiple (non-technical) interviews with different areas of the company about past projects and experience
+- [Hero Digital](https://herodigital.com) | San Francisco, CA; Remote | Take-home project with code review, multiple (non-technical) interviews with different areas of the company about past projects and experience
 - [Heroku](https://heroku.com/careers) | Remote | Timeboxed independent project on Github, discussion/debrief of project via Hangouts, productionization discussion via Hangouts, "meet the team" meeting
 - [Hill Holliday](http://www.hhcc.com/careers) | Boston, MA | Take-home project on GitHub, in-person interview / culture fit interview
 - [Hireology](http://www.hireology.com/careers) | Chicago, IL; Remote | Walk through personal/work projects and discuss experience
@@ -653,6 +653,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Railslove](https://www.railslove.com) | Cologne, Germany | Have a coffee in our office, casual chat with us, pair programming on a real project
 - [Raising IT](https://www.raisingit.com) | London, UK | Coffee with a team member, on-site pair programming and discussion
 - [Ramp](https://ramp.com) | New York, NY | Phone interview on a basic applied problem, followed by 2-3 onsite programming interviews that test practical day-to-day software skills.
+- [RapidAPI](https://rapidapi.com/careers) | San Francisco, CA; Berlin, Germany; Tallinn, Estonia | Take home assignment and discussion before/afterwards
 - [Rapptr Labs](http://careers.rapptrlabs.com) | Jersey City, NJ | Take-home exercise followed by a video interview with 2-3 engineers about domain-specific knowledge and open-ended questions.
 - [Rapyuta Robotics](http://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
 - [Rayfeed](https://rayfeed.com) | Vancouver, Warsaw | Video-call interview followed by a take-home exercise
@@ -723,7 +724,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Simpli.fi](https://www.simpli.fi/about-us/careers) | Fort Worth, TX, USA | Takehome code challenge and review
 - [SimpliField](http://www.welcometothejungle.co/companies/simplifield/jobs) | Lille, France | Interview with the CTO and the developer team
 - [Simply Business](https://www.simplybusiness.co.uk/about-us/careers/tech) | London, UK / Remote | Three stage, one day interview with quick feedback. One of the stages is 1.5h pair-programming session, where interviewee is assigned a task and interviewing developer plays role of Product Owner.
-- [Sixfold](https://sixfold.com/careers) | Tallinn, Estonia; Tartu, Estonia; Vienna, Austria | 3-4 stages: 1st interview with HR and an engineering lead, 2nd a test-task to solve at home, 3rd technical discussion & feedback on the test-task, 4th optional meeting with further engineering leads to find best fitting team.
+- [Sixfold](https://sixfold.com/careers) | Tallinn, Estonia; Tartu, Estonia; Vienna, Austria | 3-4 stages: 1st interview with HR and an engineering lead, 2nd a test-task to solve at home, 3rd technical discussion & feedback on the test-task, 4th optional meeting with further engineering leads to find best fitting team.
 - [Sixt](https://www.sixt.jobs/en) | Munich, Germany | 4 stages: 1st HR, 2nd take-home project, 3rd follow-up discussion, 4th on-site interview with team plus HR
 - [Skylight Digital](https://skylight.digital/join/) | Remote | Screening call to determine general interest, 1.5 hour pair programming exercise based on realistic scenario, EQ interview.
 - [Skyrise Pro](https://www.skyrisepro.com) | Chicago, IL | Take-home coding project, on-site interview including coding enhancements to the take-home project, offsite group activity
