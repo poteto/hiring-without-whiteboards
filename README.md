@@ -8,8 +8,6 @@ The companies and teams listed here use interview techniques and questions that 
 - Discussing a real world problem (with or without whiteboard) is 👍
 - Solving CS trivia, technical puzzles, riddles, brainteasers (with or without whiteboard) is 👎
 
-<a href="https://twitter.com/dhh/status/834146806594433025?lang=en"><img src="https://i.imgur.com/xJV6cF4.png" width="500" /></a>
-
 Please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to be added.
 
 ### Duds
