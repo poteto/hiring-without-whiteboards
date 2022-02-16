@@ -399,6 +399,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Housemarque](https://housemarque.com) | Helsinki, Finland | Interview, take-home project, then interview and code review on-site
 - [HoxHunt](https://www.hoxhunt.com/careers/) | Helsinki, Finland | Take-home project, pair programming on-site
 - [Human API](http://humanapi.co/company/careers) | Redwood City, CA | Technical phone interview, then on-site pair programming and design discussion
+- [Humi Inc](https://humi.applytojob.com/apply) | Toronto, Canada | Interview, take-home project, then interview and code review on-site
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 - [Icalia Labs](http://icalialabs.com) | Monterrey, Mexico | Pair programming, cultural fit session
 - [iConstituent](http://iconstituent.com/careers/) | Washington, DC | Take-home project and code review in-person
