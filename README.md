@@ -339,7 +339,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
 
 ## G - I
-- [Gamevy](https://www.gamevycareers.com) | London, UK; Bilbao, ES; Remote | Informal culture discussions, pair programming with our engineers
 - [Garmin](https://careers.garmin.com) | Tucson, AZ | Non-technical phone screen, technical phone screen (questions about projects on your resume), in-person interview: programming an arduino, given 3 hours and a laptop with internet access
 - [Garner](https://www.garnercorp.com) | Toronto, Canada | step 1: online chat with hiring manager, step 2: at home assignment solving real-life problem, step 3: on-site pair programming with engineers, step 4: offer
 - [Gasket Games](https://www.gasketgames.com/work-with-us) | Vancouver, Canada | Non-technical phone screen, technical phone screen (open-ended questions), in-person interview / culture fit interview
