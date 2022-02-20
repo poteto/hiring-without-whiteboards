@@ -5,7 +5,7 @@ Thanks for contributing! Please adhere to the [Contributor Code of Conduct](/COD
 ## Format
 
 ```
-- [Company or team name within company](https://jobspage) | locations | description of interview process
+- [Organization](https://organization.com) | _category_ | locations | **Remote friendly**? ? |[Current openings](https://jobs.organization.com) | mission
 ```
 
 Locations **must** be city names that are separated by a `/`, `;`, or `&`. Locations should be formatted like so:
@@ -17,7 +17,7 @@ San Francisco, CA; Tokyo, Japan; Moscow, Russia
 Good example:
 
 ```
-- [MyCompany](https://example.com/jobs) | San Francisco, CA; Tokyo, Japan; Moscow, Russia | Take home project that resembles a problem MyCompany solves for, then discussion about the code in-person
+- **[edX](https://www.edx.org/)**  | _Education_ | Cambridge, MA, US | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/2uedx) | **Nonprofit**? ❌ | Increase access to high-quality education for everyone, everywhere; Enhance teaching and learning on campus and online; Advance teaching and learning through research
 ```
 
 Pull requests will be accepted if they follow the [format](#format) and:
