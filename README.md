@@ -524,7 +524,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Mixmax](https://mixmax.com/careers) | San Francisco, CA | Takehome assignment purely based on their platform, followed by phone interview
 - [MobileCashout](https://www.mobilecashout.com) | Barcelona, Spain; Valencia, Spain | Quick introduction video call with a tech (less than 10-15 minutes). On-site open source contribution to a project of candidates choosing, paired with a tech from the team. Interview and a short questionaire about software design and relevant technologies. Interview and presentation of the company with a HR rep.
 - [Mobilethinking](https://mobilethinking.ch) | Geneva, Switzerland | 1 hour discussion about technical background and past experiences, preferably in-person
-- [Modanisa](https://www.modanisa.com/careers) | İstanbul, Turkey; Remote | Phone screen, Coding Challenges, Take-home Assignment, Assignment Solution Code Review, Pair Programming adding a new feature, CS Interview
+- [Modanisa](https://www.modanisa.com/careers) | İstanbul, Turkey; Remote | phone screen, coding challenges, take-home assignment, assignment solution code review, pair programming adding a new feature, discussion of past experience and general technical questions
 - [Mode](https://about.modeanalytics.com/careers) | San Francisco, CA | Phone interview followed by onsite pair-architecting and discussion
 - [MokaHR](http://mokahr.com) | Beijing, China | Take home project/challenge, then on-site programming session taken from problems we encounter at work
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
