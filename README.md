@@ -723,10 +723,10 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Showmax](https://blog.showmax.com/engineering-careers) | Beroun, Czechia; Prague, Czechia; Remote | Take home project, then a pair-programming and discussion onsite / Hangouts round.
 - [ShuttleCloud](https://shuttlecloud.com/jobs) | Chicago, IL / Madrid, Spain | Take-home project, then on-site code walk through and a real world problem discussion.
 - [Signal AI](https://www.signal-ai.com/about-us/careers) | London, UK | Phone screen; take home code exercise; on-site code extension with pair programming and discussion
+- [SigNoz](https://signoz.io) | Bangalore, India; Remote | Intro round to explore interests, 1-2 Technical interviews that resembles a problem SigNoz solves for, then product round to discuss on industry and problems which SigNoz is solving.
 - [Simpli.fi](https://www.simpli.fi/about-us/careers) | Fort Worth, TX, USA | Takehome code challenge and review
 - [SimpliField](http://www.welcometothejungle.co/companies/simplifield/jobs) | Lille, France | Interview with the CTO and the developer team
 - [Simply Business](https://www.simplybusiness.co.uk/about-us/careers/tech) | London, UK / Remote | Three stage, one day interview with quick feedback. One of the stages is 1.5h pair-programming session, where interviewee is assigned a task and interviewing developer plays role of Product Owner.
-- [SigNoz](https://signoz.io) | Bangalore, India; Remote | Intro round to explore interests, 1-2 Technical interviews that resembles a problem SigNoz solves for, then product round to discuss on industry and problems which SigNoz is solving.
 - [Sixfold](https://sixfold.com/careers) | Tallinn, Estonia; Tartu, Estonia; Vienna, Austria | 3-4 stages: 1st interview with HR and an engineering lead, 2nd a test-task to solve at home, 3rd technical discussion & feedback on the test-task, 4th optional meeting with further engineering leads to find best fitting team.
 - [Sixt](https://www.sixt.jobs/en) | Munich, Germany | 4 stages: 1st HR, 2nd take-home project, 3rd follow-up discussion, 4th on-site interview with team plus HR
 - [Skylight Digital](https://skylight.digital/join/) | Remote | Screening call to determine general interest, 1.5 hour pair programming exercise based on realistic scenario, EQ interview.
