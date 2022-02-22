@@ -312,7 +312,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Feather](https://feather-cfm.com) | Remote | Take-home challenge, portfolio discussion & team meeting
 - [Fetch Rewards](https://boards.greenhouse.io/fetchrewards) | Remote | Short take-home project. 50 min screening interview that includes discussion of project. 5.5 hr (w/ breaks) final interview that involves speaking with your future manager and a non-technical product manager, a real-world coding problem, and high-level and low-level system design problems.
 - [Field 33](https://field33.com/jobs) | Berlin, Germany | Video call interview followed by a take home project over a 3 day duration chosen by the candidate with hours spent up to the candidate. The project is tailored to the position and skill level of the candidate and resembles a past real-life problem encountered at our company. Solution is discussed in a ~30min call.
-- [Findy](https://blog.findy.us/findy-saiyo) | Tokyo, Japan | Tech interview + On-site discussion
+- [Findy](https://careers.findy.co.jp) | Tokyo, Japan | Tech interview + On-site discussion
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
 - [Firemind](https://www.firemind.io) | Maidstone, UK; London, UK; Remote | Small pre-interview challenge on github + discussion face to face in person or via video
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
