@@ -466,6 +466,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Lattice](https://lattice.com/careers) | San Francisco, CA; New York, NY; Remote | Technical exercises based on work we do at Lattice, discussion of a new architecture to solve a real world problem
 - [Launch Academy](https://launchacademy.com/careers) | Boston, Philadelphia | Nontechnical phone screen, pair programming with team member, and potentially a "guest lecture" for our students
 - [LaunchDarkly](https://launchdarkly.com/careers) | Oakland, CA | Informational phone screen with Eng leadership, take home project, onsite interviews
+- [League](https://league.com/ca/careers) | Toronto, Canada | Initial interview with talent team, take home coding challenge & technical interview to discuss, take home architecture challenge & interview to discuss, cross-functional interview, executive interview.
 - [Leapsome](https://leapsome.com) | Berlin, Germany | Phone screen with technical co-founder, take home case study, onsite culture-fit interview
 - [Learningbank](https://learningbank.dk) | Copenhagen, DK | Take home assignment, followed by on-site code review.
 - [Legalstart.fr](https://www.legalstart.fr) | Paris, France | Telephone interview followed by take-home challenges. Suitable applicants are asked to do further on-pair interviews on site.
