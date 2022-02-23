@@ -206,6 +206,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Container Solutions](https://container-solutions.com) | Remote; Berlin, Germany; Amsterdam, Netherlands; London, UK | Unbiased process in a nutshell: chat with one of our recruiters, skills assessment and tech assessment, personality assessment which is followed by an interview with one of our occupational psychologists to discuss results. At the end a panel interview.
 - [Contentful](https://www.contentful.com/careers) | Berlin, Germany & SF, USA | Multiple interviews, discussion of technical background & live coding challenge (you can use the internet).
 - [ContentSquare](https://www.contentsquare.com/careers) | Paris, France | Real-world challenges with open discussions.
+- [Contino](https://www.contino.io/join-us) London, UK; New York ,USA; Sydney, Australia | Intro call, remote pair programming interview (Your IDE, your language, no code challenges), An open discussion on experience and technical backgroud
 - [Convious](https://www.convious.com) | Vilnius, Lithuania | Intro interview (video call), followed by a homework assignment, followed by a bit more technical interview discussing homework, technical background, etc. Homework feedback is always provided.
 - [Cookpad](https://cookpad.com/us) | Tokyo, Japan; Bristol, UK | Interviews, discussion of technical background and experiences, remotely pair with devs.
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
