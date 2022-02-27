@@ -857,6 +857,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Vingle](https://careers.vingle.net) | Seoul, Korea | Written interview, takehome project, in-person, conversational code review and interviews with engineers and engineering managers
 - [Vinta Software](https://www.vinta.com.br/careers/) | Recife, Brazil | Culture fit interview, architectural challenge, take home project, and pairing over work sample
 - [virtual7](http://virtual7.de/de/karriere) | Kalrsruhe, Germany | Phone interview and on-site interview based on personal experience.
+- [Virtually Human](https://www.vhslab.com) | Remote | Take home assignment, Short interview around the assignment and past experience.
 - [Visma e-conomic](https://www.e-conomic.dk/om/job) | Copenhagen, Denmark | Take home assignment, assignment presentation and discussion
 - [Voltra Co.](https://voltra.co) | Amsterdam, Netherlands / New York, NY / Remote | Show us your github account, tell us what you know. Let's pair on an OSS PR!
 - [VSX](https://https://vsx.net/jobs) | Dresden, Germany | On-site interview, home coding challenge, presentation/discussion of proposed solutions
