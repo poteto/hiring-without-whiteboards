@@ -921,7 +921,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Zenefits (UI Team)](https://www.zenefits.com/careers) | San Francisco, CA | One technical phone screen focused on JS fundamentals and/or one timeboxed take-home challenge. The onsite is a series of interviews designed to test your understanding of JS, HTML/CSS, design, etc.
 - [Zerodha](https://zerodha.com/careers) | Bengaluru, India | Technical call at the beginning and one take home programming task.
 - [Zweitag](https://www.zweitag.de/karriere) | Münster, Germany & Remote | Get-to-know call, take-home task representative to our problems, mentoring throughout the process, on-site pairing and discussion, talks for aligning expectations
-- [Zype](https://boards.greenhouse.io/zype) | New York, NY & Remote | Skype/Video call with VP of Product and a take-home challenge.
+- [Zype](https://www.zype.com/careers#open-positions) | New York, NY & Remote | Skype/Video call with VP of Product and a take-home challenge.
 
 ## Also see:
 
