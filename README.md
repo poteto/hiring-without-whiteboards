@@ -5,6 +5,7 @@ A list of companies (or teams) that don't do "whiteboard" interviews. "Whiteboar
 The companies and teams listed here use interview techniques and questions that resemble day-to-day work. For example, pairing on a real world problem or a paid/unpaid take home exercise. Read (and contribute to) [our recommendations](RECOMMENDATIONS.md) for ways to conduct better interviews.
 
 ### tl;dr
+
 - Discussing a real world problem (with or without whiteboard) is 👍
 - Solving CS trivia, technical puzzles, riddles, brainteasers (with or without whiteboard) is 👎
 
@@ -32,6 +33,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 ---
 
 ## A - C
+
 - [Able](https://able.co/careers) | Lima, PE / Remote | Coding interview, Technical interview (Backlog Refinement + System Design), Leadership interview (Behavioural)
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
 - [Accenture](https://www.accenture.com/us-en/careers) | San Francisco, CA / Los Angeles, CA / New York, NY / Kuala Lumpur, Malaysia | Technical phone discussion with architecture manager, followed by behavioral interview focusing on soft skills
@@ -225,6 +227,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
 
 ## D - F
+
 - [Dare](https://www.dare.global/careers/) | London, UK | Phone screen, On-site (or remote) pair programming and architecture discussions
 - [Dark Sky](https://darksky.net/jobs) | Cambridge, MA | Phone interviews and a very short, real paid project
 - [Data Theorem](http://www.datatheorem.com) | Palo Alto, CA; Paris, Fr; Bangladesh, India | Phone interview, then a take home project and finally in-person interview.
@@ -342,6 +345,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
 
 ## G - I
+
 - [Garmin](https://careers.garmin.com) | Tucson, AZ | Non-technical phone screen, technical phone screen (questions about projects on your resume), in-person interview: programming an arduino, given 3 hours and a laptop with internet access
 - [Garner](https://www.garnercorp.com) | Toronto, Canada | step 1: online chat with hiring manager, step 2: at home assignment solving real-life problem, step 3: on-site pair programming with engineers, step 4: offer
 - [Gasket Games](https://www.gasketgames.com/work-with-us) | Vancouver, Canada | Non-technical phone screen, technical phone screen (open-ended questions), in-person interview / culture fit interview
@@ -433,6 +437,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [iZettle](https://jobs.izettle.com/jobs) | Stockholm, Sweden | Remote pair programming exercise, propose an architecture for an application and discuss about it in an informal format.
 
 ## J - L
+
 - [Jamasoftware](http://www.jamasoftware.com) | Portland, OR | Initial phone screen with hiring manager. In person pairing on project similar to day-to-day work with a separate cultural interview
 - [Jamit Labs](https://jamitlabs.com/jobs) | Karlsruhe, Germany | Phone interview or on-site interview & take-home code challenge or on-site programming session
 - [Jane Technologies (iheartjane.com)](https://iheartjane.com) | Santa Cruz, CA; Remote | Short take-home challenge, followed by practical interviews based on position the applicant is seeking
@@ -500,6 +505,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote) | Graz, Austria | Take-Home project, discussion on-site
 
 ## M - O
+
 - [Made Tech](https://www.madetech.com/careers) | London, UK | [Our hiring process](https://github.com/madetech/handbook/tree/master/guides/hiring#20-minute-phone-conversation)
 - [Magical](https://magical.team/work) | Tel Aviv, Israel; Remote | Culture fit interview + take home assignment, followed by a technical interview, and a CTO interview.
 - [Magnetis](https://magnetis.workable.com) | São Paulo, Brazil & Remote | Phone interview + take home assignment, followed by pair programming and informal meeting with the team.
@@ -610,6 +616,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [The Outline](https://boards.greenhouse.io/theoutline) | New York, NY | Take-home exercise
 
 ## P - R
+
 - [PACE Telematics](https://www.pace.car/jobs) | Karlsruhe, Germany | Culture and mindset check, on-site meet and great, small code challenge to see development style and strategy
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
 - [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
@@ -703,6 +710,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [RVU](https://www.rvu.co.uk/careers) | London, UK | Also known as Uswitch / Money.co.uk / Bankrate, small take-home project related to our business area, followed by open book pairing with developers to extend it followed by Q&A session to discuss your experience.
 
 ## S - U
+
 - [SafeButler](https://www.safebutler.com) | San Francisco, CA | Take-home project, then an on-site or remote interview with a review, pair programming, and culture fit discussions
 - [Sahaj Software Solutions](https://www.sahajsoft.com) | Bangalore, India; Chennai, India; San Jose, CA | Take home code + Pairing + Discussion
 - [SaleCycle](https://www.salecycle.com/careers) | Durham, UK; Brighton, UK | Phone screen, face-to-face discussion with developers, optional pairing session and discussion
@@ -845,6 +853,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [UserTesting](https://www.usertesting.com/about-us/jobs) | Atlanta, GA; San Francisco, CA; Mountain View, CA | Initial interview, pair programming, and offer
 
 ## V - X
+
 - [Valassis Digital](http://www.valassis.com/digital-advertising) | Seattle, WA; San Francisco, CA; Lansing, MI; Hamburg, Germany | Phone screen, on-site interview with group, paired whiteboard problem solving and discussion, take-home project and follow-up review
 - [Valuemotive](https://www.valuemotive.com/careers) | Helsinki, Finland | Code examples from previous projects (work or hobby) or take-home exercise
 - [Varsity Tutors](https://www.varsitytutors.com) | Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
@@ -890,6 +899,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Xplor](https://ourxplor.com) | Melborne, Australia; London, UK | Phone Cultural Fit interview, Take home-code challenge, pair-programming session and discussion about past experience
 
 ## Y - \#
+
 - [18F](https://18f.gsa.gov/join/) | Remote; Washington, DC; New York, NY; Chicago, IL; San Francisco, CA | take-home coding exercise (2-4 hours), technical and values-match interviews over video chat
 - [21st Real Estate](https://21re.de) | Berlin, Germany | Phone call for quick personal introduction followed by Video call interview. Finally, a pair-programming session on-site.
 - [3BoxLabs](https://3boxlabs.com) | Remote | Intro call, resume walk-through, and finally live work exercise with ~2 hours indepdendent work followed by ~1.5 hour debrief discussing the work with the rest of the team.
@@ -900,7 +910,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
 - [5Minds](https://5minds.de) | Remote; Gelsenkirchen-Buer, DE | Coding exercise via GitHub, you are interviewed by a developer and a team lead, there is no live coding
 - [8th Light](https://8thlight.com) | Chicago, IL; London, UK; Los Angeles, CA; New York, NY | Take home code challenge, discussion, pair programming session
-- [Yhat](https://www.yhat.com/jobs) | Brooklyn, NY | Demo something cool you built and walk us thru the code + design decisions
 - [YLD](https://jobs.lever.co/yld) | London, UK; Lisbon, PT; Porto, PT & Remote | Take home-code challenge, pair-programming session and discussion about past experience
 - [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
 - [YouGov](https://yougov.com) | Remote; San Francisco, CA; London, UK; Warsaw, Poland; Mumbai, India; Hong Kong, Hong Kong | Coding exercise sometimes over github repository, at least 1 interview with a developer and a lead, no live coding.
@@ -912,9 +921,10 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Zenefits (UI Team)](https://www.zenefits.com/careers) | San Francisco, CA | One technical phone screen focused on JS fundamentals and/or one timeboxed take-home challenge. The onsite is a series of interviews designed to test your understanding of JS, HTML/CSS, design, etc.
 - [Zerodha](https://zerodha.com/careers) | Bengaluru, India | Technical call at the beginning and one take home programming task.
 - [Zweitag](https://www.zweitag.de/karriere) | Münster, Germany & Remote | Get-to-know call, take-home task representative to our problems, mentoring throughout the process, on-site pairing and discussion, talks for aligning expectations
-- [Zype](https://boards.greenhouse.io/zype) | New York, NY & Remote | Skype/Video call with VP of Product and a take-home challenge.
+- [Zype](https://www.zype.com/careers#open-positions) | New York, NY & Remote | Skype/Video call with VP of Product and a take-home challenge.
 
 ## Also see:
+
 - [They Whiteboarded Me!](http://they.whiteboarded.me)
 
 [![Node.js CI](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml)
