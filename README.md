@@ -214,6 +214,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
 - [Cossack Labs](https://www.cossacklabs.com/job/) | London, UK / Kyiv, UA / Remote | Initial screening video call, technical take-home challenge, technical interview with the team about real-world tasks and candidates' day-to-day work (programming, networking, OS, SSDLC, security).
 - [CoverHound, Inc.](https://www.coverhound.com) | San Francisco, CA | Open technical discussion, short on-site coding challenge.
+- [Cox Enterprises](https://jobs.coxenterprises.com/home-technology/) | Atlanta, GA; Remote | First-round behavioral interview with Engineering Lead, second-round technical discussion with the dev team
 - [COYO](https://www.coyoapp.com) | Hamburg, Germany | Exemplary take home project in different front- and backend flavors, followed by tech interview & meet the team
 - [Cquence](https://angel.co/company/cquence-app/jobs) | Remote | Phone screen, take-home coding challenge, collaborative technical interview, and behavioral interview.
 - [Credit Kudos](https://creditkudos.com/jobs) | London, UK | Take-home project and pair programming via Skype or on-site.
