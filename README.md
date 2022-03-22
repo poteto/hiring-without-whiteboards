@@ -447,6 +447,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Jobtome](https://weare.jobtome.com/careers) | Stabio, Switzerland | Phone screen introduction with hiring manager. In site (or screen call) with Engineer Manager for a talk on skills and cultural fit.
 - [Journal Tech](https://journaltech.com/careers) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
+- [JOURNEE](https://jobs.lever.co/JOURNEE) | Berlin, Germany / Remote | Cultural fit assessment, Interview, Take-home assignment.
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [K Health](https://www.khealth.ai) | Tel Aviv, Israel | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Kahoot!](https://www.getkahoot.com/jobs) | London, UK / Oslo, Norway | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
