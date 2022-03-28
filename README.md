@@ -595,6 +595,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Objective, Inc.](https://www.objectiveinc.com/careers) | Salt Lake City, UT | Take-home programming exercise, then onsite friendly chat with team
 - [OCTO Technology](http://rejoins.octo.com) | Paris, France | HR interview to go over your experiences and cultural knowledge. Then more or less informal discussion with two future team members about architecture design, agile practices, take-home project, pair programming...
 - [Octopus Energy](https://octopus.energy/careers/) | London, UK; Sydney, Australia; Remote | Take-home exercise and phone or on-site interview/discussion with potential team
+- [Oda](https://careers.oda.com/jobs) | Oslo, Norway; Helsinki, Finland; Berlin, Germany | Phone screening to discuss technical background and past experience. Take-home assignment followed by virtual project discussion and interview. Cultural fit assessment.
 - [Olist](https://olist.com) | Curitiba, Brazil | Take-home project and remote or on-site interviews
 - [Omada Health](https://www.omadahealth.com/jobs) | San Francisco, CA | Take home exercise and/or pair programming session.
 - [Oncue](http://oncue.co) | San Francisco, CA; Remote | Online coding test on real-world problems (2 hours). Technical discussion with developer team.
