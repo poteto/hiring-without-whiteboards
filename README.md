@@ -695,7 +695,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Rever](https://reverscore.com) | Guadalajara, Mexico | Take-home project, on-site discussion or via Hangouts.
 - [ReviewTrackers](https://www.reviewtrackers.com/careers/) | Remote; Chicago, IL | Phone conversation, take home project, virtual interview with project review and live coding, discussion with engineers and product, interview with VP of Engineering
 - [Revlv](https://revlv.net) | Manila, Philippines | Discussion about developer skills, previous projects and experiences.
-- [Revolut](https://www.revolut.com) | London, UK / Berlin, Germany / Krakow, Poland / Moscow, Russia / St Petersburg, Russia | Take-home exercise reflecting day-to-day work, technical interview via hangouts or on-site.
 - [Rex Software](https://www.rexsoftware.com/careers) | Brisbane, Australia | Take home project, feedback + interview
 - [Rizk.com](https://rizk.com) | Ta' Xbiex, Malta | Take-home assignment, discussion w/ developers
 - [Rockerbox](https://www.rockerbox.com/careers) | Remote | Phone screen with pair programming. 2 hours of pre-interview prep. 4-hour final interview with situational questions, another pair programming, and presentation and discussion of pre-interview prep outputs.
