@@ -209,7 +209,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Contentful](https://www.contentful.com/careers) | Berlin, Germany & SF, USA | Multiple interviews, discussion of technical background & live coding challenge (you can use the internet).
 - [ContentSquare](https://www.contentsquare.com/careers) | Paris, France | Real-world challenges with open discussions.
 - [Contino](https://www.contino.io/join-us) London, UK; New York ,USA; Sydney, Australia | Intro call, remote pair programming interview (Your IDE, your language, no code challenges), An open discussion on experience and technical backgroud
-- [ConvertKit](https://convertkit.com/careers) | Remote / Boise, Idaho / USA / EMEA | Fully remote job and interview process starting with written application, a phone screen, short 2-hour coding and writing assignment, technical interview about assignment, culture contribution interview.
+- [ConvertKit](https://convertkit.com/careers) | Remote / USA & EMEA timezones | Fully remote job and interview process starting with written application, a phone screen, short 2-hour coding and writing assignment, technical interview about assignment, culture contribution interview.
 - [Convious](https://www.convious.com) | Vilnius, Lithuania | Intro interview (video call), followed by a homework assignment, followed by a bit more technical interview discussing homework, technical background, etc. Homework feedback is always provided.
 - [Cookpad](https://cookpad.com/us) | Tokyo, Japan; Bristol, UK | Interviews, discussion of technical background and experiences, remotely pair with devs.
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
