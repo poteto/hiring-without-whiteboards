@@ -712,6 +712,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 - [SafeButler](https://www.safebutler.com) | San Francisco, CA | Take-home project, then an on-site or remote interview with a review, pair programming, and culture fit discussions
 - [Sahaj Software Solutions](https://www.sahajsoft.com) | Bangalore, India; Chennai, India; San Jose, CA | Take home code + Pairing + Discussion
+- [Sakari](https://sakari.io) | San Francisco, CA | Phone screen, programming assignment related to Sakari business (communications) with pair programming element, team and culture fit
 - [SaleCycle](https://www.salecycle.com/careers) | Durham, UK; Brighton, UK | Phone screen, face-to-face discussion with developers, optional pairing session and discussion
 - [Salesfive](https://www.salesfive.com/jobs) | Munich, Germany; Berlin, Germany | Phone screen, Phone Interview with developer to discuss code and challenges, Take home challenge if necessary. Onsite visit
 - [Salesloft](https://salesloft.com) | Atlanta, GA | Phone interview, take-home project, cultural-fit interview, technical interview where candidate modifies take-home project
