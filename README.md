@@ -325,6 +325,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Flowdash](https://flowdash.com/careers) | San Francisco, CA | Technical phone interview, pair programming on-site
 - [Fluidly](https://fluidly.com) | London, UK | Casual 30min phone call. ~1hr take home tech exercise (not pass or fail). 1 stage onsite interview - discussion about experience, 1 hour pair programming on the real code base, then your turn to interview us!
 - [Fold](https://fold.money) | Bangalore, India; Remote | Phone call, followed by a small take home problem. Finally a F2F or Zoom pair programming session
+- [Fonoa](https://www.fonoa.com/careers) | Remote | Phone call, async behavioral questions, interview regarding communication and principles, async work sample, interview and AMA with CTO, interview with one of the founders
 - [Food52](https://food52.com/jobs) | New York, NY; Remote | Take-home project, discussion on-site or remote, interviews with both technical and non-technical staff
 - [Fooji](https://fooji.com) | Lexington, KY; Remote | Take-home project
 - [Formidable Labs](https://www.formidable.com/careers) | Seattle, WA; London, UK; Remote | Take-home project, remote pair programming, discussion on-site or remote
