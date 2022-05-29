@@ -316,11 +316,11 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Feather](https://feather-cfm.com) | Remote | Take-home challenge, portfolio discussion & team meeting
 - [Fetch Rewards](https://boards.greenhouse.io/fetchrewards) | Remote | Short take-home project. 50 min screening interview that includes discussion of project. 5.5 hr (w/ breaks) final interview that involves speaking with your future manager and a non-technical product manager, a real-world coding problem, and high-level and low-level system design problems.
 - [Field 33](https://field33.com/jobs) | Berlin, Germany | Video call interview followed by a take home project over a 3 day duration chosen by the candidate with hours spent up to the candidate. The project is tailored to the position and skill level of the candidate and resembles a past real-life problem encountered at our company. Solution is discussed in a ~30min call.
+- [Filestage.io](https://careers.filestage.io) | Stuttgart, Germany; Remote | Intro call, Take home technical assessment, Tech discussion on assessment and interview with Head of Development and an Engineer, Meeting with founders
 - [Findy](https://careers.findy.co.jp) | Tokyo, Japan | Tech interview + On-site discussion
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
 - [Firemind](https://www.firemind.io) | Maidstone, UK; London, UK; Remote | Small pre-interview challenge on github + discussion face to face in person or via video
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
-- [Filestage.io](https://careers.filestage.io) | Stuttgart, Germany; Remote | Intro call, Take home technical assessment, Tech discussion on assessment and interview with Head of Development and an Engineer, Meeting with founders
 - [Flatfox](https://flatfox.ch) | Zurich, Switzerland | Informal conversation to check mutual fit, small (4h) take-home assignment, discussion in team
 - [FloorForce](https://jobs.lever.co/adhawk?location=Sarasota%20Florida) | Sarasota, FL / Remote | Intro phone call with HR, second conversation with FloorForce engineer, and final pairing interview with FloorForce engineer over a screenshare
 - [Flowdash](https://flowdash.com/careers) | San Francisco, CA | Technical phone interview, pair programming on-site
