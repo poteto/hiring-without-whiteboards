@@ -320,6 +320,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
 - [Firemind](https://www.firemind.io) | Maidstone, UK; London, UK; Remote | Small pre-interview challenge on github + discussion face to face in person or via video
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
+- [Filestage.io](https://careers.filestage.io) | Stuttgart, Germany; Remote | Intro call, Take home technical assessment, Tech discussion on assessment and interview with Head of Development and an Engineer, Meeting with founders
 - [Flatfox](https://flatfox.ch) | Zurich, Switzerland | Informal conversation to check mutual fit, small (4h) take-home assignment, discussion in team
 - [FloorForce](https://jobs.lever.co/adhawk?location=Sarasota%20Florida) | Sarasota, FL / Remote | Intro phone call with HR, second conversation with FloorForce engineer, and final pairing interview with FloorForce engineer over a screenshare
 - [Flowdash](https://flowdash.com/careers) | San Francisco, CA | Technical phone interview, pair programming on-site
