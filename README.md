@@ -215,6 +215,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
 - [Cossack Labs](https://www.cossacklabs.com/job/) | London, UK / Kyiv, UA / Remote | Initial screening video call, technical take-home challenge, technical interview with the team about real-world tasks and candidates' day-to-day work (programming, networking, OS, SSDLC, security).
 - [CoverHound, Inc.](https://www.coverhound.com) | San Francisco, CA | Open technical discussion, short on-site coding challenge.
+- [Cox Enterprises](https://jobs.coxenterprises.com/home-technology/) | Atlanta, GA; Remote | First-round behavioral interview with Engineering Lead, second-round technical discussion with the dev team
 - [COYO](https://www.coyoapp.com) | Hamburg, Germany | Exemplary take home project in different front- and backend flavors, followed by tech interview & meet the team
 - [Cquence](https://angel.co/company/cquence-app/jobs) | Remote | Phone screen, take-home coding challenge, collaborative technical interview, and behavioral interview.
 - [Credit Kudos](https://creditkudos.com/jobs) | London, UK | Take-home project and pair programming via Skype or on-site.
@@ -363,7 +364,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Glints](https://glints.com/sg/inside/careers/) | Singapore, Singapore; Jakarta, Indonesia | Culture fit interview, take home assignment that resembles a real-world problem, walkthrough about the assignment
 - [GM Financial](https://gmfinancial.com/en-us/company/careers.html) | Irving, TX; Remote | Roles under [Marketing Technology team](https://globalcareers-gmfinancial.icims.com/jobs/search?ss=1&searchKeyword=Software+Development+Engineer&searchCategory=8741) are 100% remote and only have HR Screening + 2 rounds: 1st round: Technical conversation with an architect and a senior engineer regarding candidate's experience and how that matches up to the role. Final round: cultural/behavioral interview with hiring manager.
 - [GoCardless](https://gocardless.com/about/jobs) | London, UK | Project to work at home, general technical questions, pair programming with engineers
-- [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [GoJek](https://www.gojek.io) | Bangalore, India; Jakarta, Indonesia; Singapore, SG; Bangkok, Thailand | Take-home exercise, Pair programming with senior engineer, Techinal problem solving and discussion, Cultural Fit
 - [Gower Street Analytics](http://gower.st) | Remote; London, UK | Initial telephone chat, then either a) work with us, fully paid, for a day on real code with the team; or b) pair-programming on a code kata with the team members for four pomodoros. Your choice.
 - [Graffino](https://www.graffino.com) | Sibiu, Romania | Take-home project, discussion on-site
@@ -628,6 +628,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Pariveda Solutions](http://parivedasolutions.com) | Dallas, TX / Houston, TX / Atlana, GA / Washington, DC / New York, NY / Chicago, IL / San Francisco, CA / Seattle, WA / Los Angeles, CA | Personality assessment (Predictive Index) and case study. Programming aptitude test (language independent) for college hires.
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
 - [Passiv](https://passiv.com) | Fredericton, Canada | Zoom interview, take-home coding assignment, standalone bite-size project that delivers some value, small feature development involving team collaboration.
+- [Pathos Ethos](https://pathosethos.com/careers/) | Durham, NC / Raleigh, NC / Chapel Hill, NC / Remote | 3 conversational interviews (Manager, Team, Founder).  No homework.  We look for a cadidate to be "culture add" instead of "culture fit"
 - [Paws](https://paws.com/careers) | London, UK | Phone screening, take-home project, on-site pairing/discussion on your solution and meet the team.
 - [Paybase](https://paybase.io) | London, UK | Phone screening, Take home project, On-site interview for technical and culture fit, Open Q&A session with team
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, Canada | Remote programming interview, on-site "meet the team"
@@ -845,7 +846,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Unbounce](https://unbounce.com) | Vancouver, BC | Phone screen, take-home project, project discussion, technical interview
 - [Unboxed](https://unboxed.co) | London, UK | Take home feature requests, pairing with developers to extend solution, team-fit interviews, chat with a director
 - [Unearth](http://www.unearthlabs.com/careers) | Seattle, WA | Take home project, team-fit interviews, technical discussion
-- [Unito](https://unito.io/careers/) | Montreal, Canada | Team-fit interviews, technical discussion, take home project
+- [Unito](https://unito.io/careers/) | Montreal, Canada | Team-fit interviews, technical discussion, paid take home project paired with developers.
 - [Untappd](https://www.untappd.com) | Wilmington, NC; New York, NY; Los Angeles, CA | Review portfolio - What projects have you worked on? + personality assessment, + interview
 - [Updater](http://www.updater.com/jobs/openings) | New York, NY | Begin-at-home assignment highly relevant to role, presented and discussed during on-site.
 - [Uprise](http://uprise.se) | Uppsala, Sweden | Take-home assignment, code review and discussion on-site
