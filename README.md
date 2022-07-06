@@ -383,6 +383,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Graphicacy](http://www.graphicacy.com) | Washington, DC | Phone interview; in-person or virtual interview depending on location and availability; two brief technical assignments focused on flexibility, creativity, and general competency
 - [Graphistry](https://www.graphistry.com) | San Francisco, CA; Remote | Discuss product/market, engineering, and culture, review past code/project, and for junior developers, choice of take home or code review.
 - [Great Minds, PBC](https://greatminds.recruitee.com) | Washington, DC | Zoom interview, technical interview discussing past real world experiences as well as knowledge of tools that will be used for position
+- [Gridscale](https://gridscale.io) | Cologne, Germany / Remote | Intro video call for open Q&A, followed by intro with hiring manager, team fit with the whole team plus a small real-world problem to solve, followed by final round with hiring manager and/or c-level/founder.
 - [Grok Interactive](https://www.grok-interactive.com) | San Antonio, TX | Take-home project with code review and a follow-up in-person interview.
 - [Gruntwork](http://www.gruntwork.io) | Remote | Paid, take-home project with pair coding
 - [GTM Sportswear](https://gtmsportswear.com/careers) | Manhattan, KS / Remote | Remote pairing session, then a take-home test.
@@ -494,6 +495,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Lightricks](http://www.lightricks.com) | Jerusalem, Israel | Initial interview, Take home project, discussion on-site
 - [LinkResearchTools](http://jobs.linkresearchtools.com/job-offers) | Vienna, Austria | Skype interview, mini take-home exercise, discussion on-site / personal interview
 - [Linx Systems](https://www.linxsystems.com) | Bloomington, IL / Remote | 5-10 minute take home project; followed by a non-technical interview; finish up with a second take home project or paired with a developer for a 30-60 minute session.
+- [Listen Lively](https://www.listenlively.com/about#careers) | Remote | 1 hour pair programming exercise on codesandbox; a second 1 hour pair programming exercise on codesandbox; followed by non-technical interview(s) with team members.
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [Litmus](https://litmus.com/careers#openings) | Remote | General technical questions, take-home code challenge, discussion, on-site programming session, meet & greet with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
