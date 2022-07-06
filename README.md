@@ -430,6 +430,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Intelipost](https://www.intelipost.com.br) | São Paulo, BR | Take-home project, on-site code review and presentation (skype available if needed), discussion involving real world problems and interviews with different teams
 - [Interfrog Produktion GmbH](https://interfrog.de/jobs) | Mannheim, Germany | Phone interview with developer and CEO to get to know each other and to understand skills and background. Follow-up interview to discuss technical realization of sample work which is handed over after the first interview.
 - [Interset](https://jobs.microfocus.com) | Ottawa, Canada | Discussion of technical background and past experience. Relevant take-home project for junior developers
+- [IONOS SE](https://jobs.ionos.de/career/about-us) | Karlsruhe, Germany; Berlin, Germany | Our process has two stages for developers: An interview with your potential team lead followed by an interview with 1-2 future colleagues. All stages can be in-person in one of our offices or via Google Meet.
 - [IT Experts](https://itexperts.be) | Eeklo, Belgium | On site interview -> 1 or 1/2 day at the office to solve a real world problem with the team -> job offer.
 - [itdesign](https://itdesign.de/karriere/) | Tübingen, Germany | Short phone or personal interview. A day at our company to give you and us the opportunity to get to know each other.
 - [Ithaka](https://www.ithaka.travel) | Mumbai, India | Phone interview followed by a small development task. Finally a phone interview with CEO.
@@ -665,6 +666,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Quiet Light Communications](https://quietlightcom.com/positions-web.php) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
 - [Quintype](http://www.workatquintype.com) | Bengaluru, India / San Mateo, USA | Take home project, pair programming, discussion on-site
 - [Quizizz](https://quizizz.com) | Bengaluru, India | Phone chat, real world assignment, discussion w/ developers, pair programming, discussion on-site
+- [Quizlet](https://quizlet.com/careers) | Remote; San Francisco, CA; New York, NY; London, UK | Preliminary screen followed by role-specific applied exercises where candidates create new projects/apps or make improvements to pre-existing code.
 - [Ragnarson](https://ragnarson.com) | Lodz, Poland; Remote | Take-home exercise & pair programming session
 - [Railscarma](https://www.railscarma.com) | Bengaluru, India | Take-home project, code review and discussion on-site
 - [Railslove](https://www.railslove.com) | Cologne, Germany | Have a coffee in our office, casual chat with us, pair programming on a real project
