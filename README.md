@@ -210,6 +210,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Contentful](https://www.contentful.com/careers) | Berlin, Germany & SF, USA | Multiple interviews, discussion of technical background & live coding challenge (you can use the internet).
 - [ContentSquare](https://www.contentsquare.com/careers) | Paris, France | Real-world challenges with open discussions.
 - [Contino](https://www.contino.io/join-us) London, UK; New York ,USA; Sydney, Australia | Intro call, remote pair programming interview (Your IDE, your language, no code challenges), An open discussion on experience and technical backgroud
+- [ConvertKit](https://convertkit.com/careers) | Remote | Fully remote job in USA and EMEA timezones with interview process starting with a written application, phone screen, short 2-hour coding and writing assignment, technical interview about assignment and culture contribution interview.
 - [Convious](https://www.convious.com) | Vilnius, Lithuania | Intro interview (video call), followed by a homework assignment, followed by a bit more technical interview discussing homework, technical background, etc. Homework feedback is always provided.
 - [Cookpad](https://cookpad.com/us) | Tokyo, Japan; Bristol, UK | Interviews, discussion of technical background and experiences, remotely pair with devs.
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
@@ -307,7 +308,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [EWORX](https://eworx.gr/jobs) | Athens, Greece | Take-home project and discussion.
 - [Exoscale](https://exoscale.ch) | Bern, Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [Extend](https://www.extend.com/careers) | San Francisco, CA; Dallas, TX; Remote | Phone call, a take home project similar to making a PR at work, then a meet & greet with the team.
-- [ezgress](https://www.ezgress.com) | Idaho Falls, ID | Our policy is for the technical interview to be tailored to the given candidate and role. Questions delve into real-world experience and how that can be used to tackle current company challenges.
 - [F(x)](https://fdex.com.br) | São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
 - [Facebook (Front End Engineer)](https://www.facebook.com/careers/jobs) | Tel Aviv, Israel; London, UK; US: Menlo Park, CA; Seattle, WA; Washington, DC | Initial phone code interview, then on site interview (or remote when not possible) with code and design / architecture interviews. All questions are based on actual problems the company has solved in the past.
 - [Facile.it](https://jobs.facile.it) | Milan, Italy; Cagliari, Italy; Remote | Initial call/Skype interview with HR. Tech interview about OOP concepts, HTTP and REST API design questions with 2 engineers. Brief talk with VP of Engineering or CTO.
@@ -700,7 +700,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Rever](https://reverscore.com) | Guadalajara, Mexico | Take-home project, on-site discussion or via Hangouts.
 - [ReviewTrackers](https://www.reviewtrackers.com/careers/) | Remote; Chicago, IL | Phone conversation, take home project, virtual interview with project review and live coding, discussion with engineers and product, interview with VP of Engineering
 - [Revlv](https://revlv.net) | Manila, Philippines | Discussion about developer skills, previous projects and experiences.
-- [Revolut](https://www.revolut.com) | London, UK / Berlin, Germany / Krakow, Poland / Moscow, Russia / St Petersburg, Russia | Take-home exercise reflecting day-to-day work, technical interview via hangouts or on-site.
 - [Rex Software](https://www.rexsoftware.com/careers) | Brisbane, Australia | Take home project, feedback + interview
 - [Rizk.com](https://rizk.com) | Ta' Xbiex, Malta | Take-home assignment, discussion w/ developers
 - [Rockerbox](https://www.rockerbox.com/careers) | Remote | Phone screen with pair programming. 2 hours of pre-interview prep. 4-hour final interview with situational questions, another pair programming, and presentation and discussion of pre-interview prep outputs.
