@@ -304,6 +304,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers) | Luxembourg City, Luxembourg
 - [EURA NOVA](https://euranova.eu) | Mont-Saint-Guibert, Belgium; Marseille, France; Tunis, Tunisia | attitude interview, unpaid take-home project, technical discussion with 1 or 2 technical employees (remote or face 2 face), face 2 face discussion with HR, partner, and technical staff to have a foretaste of the collaboration
 - [Euro Payment Group](http://www.europaymentgroup.com) | Frankfurt, Germany | Take-home project followed by face to face interview
+- [EWORX](https://eworx.gr/jobs) | Athens, Greece | Take-home project and discussion.
 - [Exoscale](https://exoscale.ch) | Bern, Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [Extend](https://www.extend.com/careers) | San Francisco, CA; Dallas, TX; Remote | Phone call, a take home project similar to making a PR at work, then a meet & greet with the team.
 - [ezgress](https://www.ezgress.com) | Idaho Falls, ID | Our policy is for the technical interview to be tailored to the given candidate and role. Questions delve into real-world experience and how that can be used to tackle current company challenges.
@@ -448,6 +449,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Jobtome](https://weare.jobtome.com/careers) | Stabio, Switzerland | Phone screen introduction with hiring manager. In site (or screen call) with Engineer Manager for a talk on skills and cultural fit.
 - [Journal Tech](https://journaltech.com/careers) | Los Angeles, CA | Mini take-home project, phone interview, discussion on-site
 - [Journalism++](http://www.jplusplus.org) | Berlin, Germany | Apply through a [relevant online challenge](http://internship.jplusplus.org) to show your technical skills and your capacity to investigate
+- [JOURNEE](https://jobs.lever.co/JOURNEE) | Berlin, Germany / Remote | Cultural fit assessment, Interview, Take-home assignment.
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [K Health](https://www.khealth.ai) | Tel Aviv, Israel | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Kahoot!](https://www.getkahoot.com/jobs) | London, UK / Oslo, Norway | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
