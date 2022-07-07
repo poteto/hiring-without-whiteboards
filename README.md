@@ -337,6 +337,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Fooji](https://fooji.com) | Lexington, KY; Remote | Take-home project
 - [Formidable Labs](https://www.formidable.com/careers) | Seattle, WA; London, UK; Remote | Take-home project, remote pair programming, discussion on-site or remote
 - [Fortumo](https://fortumo.com/careers) | Tallinn, Estonia; Tartu, Estonia | After a 30-min call you get a simplified version of a task that has recently been a challenge for the engineering team
+- [Foschini Group[Labs]](https://tfglimited.co.za/careers/) | Cape Town, South Africa & Remote | Resume deepdive; Technical interview; Take-home excercise; in-person or (virtual) Take Home test Discussion (1hr)
 - [Founders](https://founders.as/joinus) | Copenhagen, Denmark | Take Home project + Interviews
 - [Foundry Interactive](http://www.foundryinteractive.com/contact) | Seattle, WA | On-site or remote discussion, paid trial project with pairing and code reviews
 - [fournova](https://www.fournova.com/jobs) | Remote | Take-home project, discussion via video call
