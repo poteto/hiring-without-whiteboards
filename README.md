@@ -121,7 +121,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Betterment](https://www.betterment.com/careers) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
 - [BetterPT](https://www.betterpt.com) | New York, NY | Initial phone interview, project using our tech stack, on-site code review/pair programming and "meet the team".
 - [bevelop](https://bevelop.de) | Aschaffenburg, BY / Remote | Initial introductory call, on-sight or remote trial day with project
-- [Big Nerd Ranch](https://www.bignerdranch.com/about-us/careers) | Atlanta, GA & Remote | Interviews and pair programming on an internal project or problem.
+- [Big Nerd Ranch](https://bignerdranch.com/careers/) | Atlanta, GA & Remote | Interviews and pair programming on an internal project or problem.
 - [BigaBid](https://www.bigabid.com/careers) | Tel Aviv, Israel | Design a real time solution to a problem relevant to the business, followed by a take home project implementing a lean version of the solution
 - [BigBinary](https://www.bigbinary.com/jobs) | Remote | Phone discussion with a developer and the CEO
 - [BioConnect](https://www.bioconnect.com/company/careers) | Toronto, Canada | Take-home assignment & discussion
@@ -642,7 +642,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Pariveda Solutions](http://parivedasolutions.com) | Dallas, TX / Houston, TX / Atlana, GA / Washington, DC / New York, NY / Chicago, IL / San Francisco, CA / Seattle, WA / Los Angeles, CA | Personality assessment (Predictive Index) and case study. Programming aptitude test (language independent) for college hires.
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
 - [Passiv](https://passiv.com) | Fredericton, Canada | Zoom interview, take-home coding assignment, standalone bite-size project that delivers some value, small feature development involving team collaboration.
-- [Pathos Ethos](https://pathosethos.com/careers/) | Durham, NC / Raleigh, NC / Chapel Hill, NC / Remote | 3 conversational interviews (Manager, Team, Founder).  No homework.  We look for a cadidate to be "culture add" instead of "culture fit"
+- [Pathos Ethos](https://pathosethos.com/careers/) | Durham, NC / Raleigh, NC / Chapel Hill, NC / Remote | 3 conversational interviews (Manager, Team, Founder). No homework. We look for a cadidate to be "culture add" instead of "culture fit"
 - [Paws](https://paws.com/careers) | London, UK | Phone screening, take-home project, on-site pairing/discussion on your solution and meet the team.
 - [Paybase](https://paybase.io) | London, UK | Phone screening, Take home project, On-site interview for technical and culture fit, Open Q&A session with team
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, Canada | Remote programming interview, on-site "meet the team"
