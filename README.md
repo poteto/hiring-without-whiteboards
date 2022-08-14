@@ -623,6 +623,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [optilyz](https://optilyz.com/careers) | Remote | Either take-home or pair programming on open-source code, then pair programming on our actual production code.
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
 - [Ori](http://ori.co)| London, UK | Phone interview and a takehome project, followed by a two hour meeting with the team
+- [OSISM](https://osism.tech) | Remote | Three video calls: general introduction, team introduction, contract
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
 - [Outbrain](https://careers.outbrain.com/?F1C=Netanya&F2C=&FTXT=) | Netanya, Israel | Take-home exercise & discussion
 - [Outlandish](https://outlandish.com) | London, UK | Take-home exercise, real-world pair programming session, friendly chat with team
@@ -922,6 +923,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 - [18F](https://18f.gsa.gov/join/) | Remote; Washington, DC; New York, NY; Chicago, IL; San Francisco, CA | take-home coding exercise (2-4 hours), technical and values-match interviews over video chat
 - [21st Real Estate](https://21re.de) | Berlin, Germany | Phone call for quick personal introduction followed by Video call interview. Finally, a pair-programming session on-site.
+- [23 Technologies](https://23technologies.cloud) | Remote | Three video calls: general introduction, team introduction, contract
 - [3BoxLabs](https://3boxlabs.com) | Remote | Intro call, resume walk-through, and finally live work exercise with ~2 hours indepdendent work followed by ~1.5 hour debrief discussing the work with the rest of the team.
 - [3D Hubs](https://3dhubs.com/jobs) | Amsterdam, The Netherlands | Take-home code challenge from our product's domain followed by discussion remote/on-site, sometimes do an additional on-site pair programming session.
 - [47 Degrees](https://47-degrees.breezy.hr) | Remote; Seattle, WA; Madrid, ESP; Cadiz, ESP; London, UK | Questions related to implementation of specific projects using popular functional programming libraries and techniques and a discussion about the tradeoffs. Discussion of past open-source projects/contributions and future open-source goals. **Note:** This company looks for people who have modern functional programming experience in Haskell, Scala, Swift, or Kotlin and it looks for people who have existing open-source contributions in those fields so the roles can be a bit self-selecting.
