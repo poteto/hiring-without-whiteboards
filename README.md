@@ -350,7 +350,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Full Facing](https://www.fullfacing.com/vacancies) | Cape Town, South Africa | Take-home real-world challenge, interview on-site or remote
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
 - [FundApps](https://www.fundapps.co/about-us/join-our-team) | London, UK | Coffee with an Engineer; take-home kata; code review + on-site pair programming exercise.
-- [Funnel](https://jobs.funnel.io/jobs) | Boston, MA / Hybrid | Series of interviews, review of your technical background, possibly take-home project or pair programming.
+- [Funnel](https://jobs.funnel.io/jobs) | Boston, MA/ Hybrid | Series of interviews, review of your technical background, possibly take-home project or pair programming.
 
 ## G - I
 
