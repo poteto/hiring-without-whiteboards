@@ -42,7 +42,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Acumen](https://www.acumenci.com/people) | London, UK | Small take home test, and sit in on some sprint rituals on-site
 - [Ad Hoc](https://adhoc.team) | Remote / Washington, DC | Technical take-home assignment, followed by multiple video calls that are discussions of technical background and experience.
 - [Adaface](https://www.adaface.com) | Remote/ Singapore, Singapore / Bangalore, India | Conversational on-the-job technical assessment, followed by video calls with technical lead and founders
-- [AdCellerant](https://adcellerant.com/career) | Denver, CO | Technical phone screen, 5-day take home code challenge, then on-site interview comprised of cultural and technical discussions
+- [AdCellerant](https://adcellerant.com/career-job-listing/) | Denver, CO | Technical phone screen, 5-day take home code challenge, then on-site interview comprised of cultural and technical discussions
 - [Addstones](https://www.addstones.com) | Paris, FR / Singapore, SG / Bucharest, RO / London, UK | Multiple interviews, discussion of technical background and experiences. Sometimes we do a on-site unsupervised small exercise.
 - [Adeva](https://adevait.com) | New York, USA | 4 steps interviewing process that includes online coding assignment + lead engineer call.
 - [AdEx Network](https://www.adex.network) | Sofia, Bulgaria / Remote | Email screening process, followed by a take-home assignment
