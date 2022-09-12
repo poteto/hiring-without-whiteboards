@@ -631,7 +631,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Outlook iOS & Android](https://github.com/outlook/jobs) | San Francisco, CA / New York, NY | Take-home project & online / onsite discussion
 - [The Nerdery](https://www.nerdery.com/careers) | Minneapolis, MN; Chicago, IL; Phoenix, AZ; Kansas City, KS | Take-home exercise
 - [The Outline](https://boards.greenhouse.io/theoutline) | New York, NY | Take-home exercise
-- [Output, Inc](https://boards.greenhouse.io/output) | Remote | Pairing on a real-world problem, Technical discussion with developer team.
+- [Output Inc](https://boards.greenhouse.io/output) | Remote | Pairing on a real-world problem, Technical discussion with developer team.
 
 ## P - R
 
