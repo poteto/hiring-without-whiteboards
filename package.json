@@ -4,7 +4,7 @@
   "description": "Companies that don't have a broken hiring process",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/remark-cli/cli.js README.md -f"
+    "test": "node ./node_modules/remark-cli/cli.js README.md -f -q"
   },
   "repository": {
     "type": "git",
