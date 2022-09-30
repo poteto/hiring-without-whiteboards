@@ -220,6 +220,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Cookpad](https://cookpad.com/us) | Tokyo, Japan; Bristol, UK | Interviews, discussion of technical background and experiences, remotely pair with devs.
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
 - [Cortlex](https://careers.cortlex.com) | Vilnius, Lithuania | Non-technical screening call with recruiter, then online interview with experience based technical questions
+- [Cosium](https://www.cosium.com) | Versailles, France | Phone screen, take-home coding challenge, remote or on-site technical interview starting with a quiz about tech fundamentals that often leads to an open discussion.
 - [Cossack Labs](https://www.cossacklabs.com/job/) | London, UK / Kyiv, UA / Remote | Initial screening video call, technical take-home challenge, technical interview with the team about real-world tasks and candidates' day-to-day work (programming, networking, OS, SSDLC, security).
 - [CoverHound, Inc.](https://www.coverhound.com) | San Francisco, CA | Open technical discussion, short on-site coding challenge.
 - [Cox Enterprises](https://jobs.coxenterprises.com/home-technology/) | Atlanta, GA; Remote | First-round behavioral interview with Engineering Lead, second-round technical discussion with the dev team
