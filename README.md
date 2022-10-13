@@ -810,7 +810,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Summitto](https://careers.summitto.com) | Amsterdam, Netherlands | take-home coding challenge and on-site interview
 - [SuperAwesome](https://www.superawesome.com) | London, UK | Short recruiter phone screen, take-home exercise, follow up system design and cultural interview focused on your past experience.
 - [Superplayer](https://superplayer.fm) | Porto Alegre, Brazil | Skype/On-site interview, take-home project and interview with CTO and CEO
-- [Surglogs](https://surglogs.com/careers/slovakia/) | Remote (Europe timezone) | Phone screen, take-home assignment with a follow-up call, or live coding focused on building simple real-world scenarios (based on your preference), culture-fit call with team and CTO.
+- [Surglogs](https://surglogs.com/careers/slovakia/) | Remote | (Europe timezone) Phone screen, take-home assignment with a follow-up call, or live coding focused on building simple real-world scenarios (based on your preference), culture-fit call with team and CTO.
 - [SurveySparrow](https://surveysparrow.com/careers) | Kochi, India | Skype interview, take home project and code review, interview with CTO and CEO
 - [SVTi (Sveriges Television)](http://svti.svt.se) | Stockholm, Sweden | On-site interview, take-home project, follow up interview where you walk through how you chose to solve the task.
 - [SweetIQ](https://sweetiq.com/about/careers) | Montreal, Canada | Discussion and general, high level questions
