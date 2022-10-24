@@ -262,6 +262,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [DG-i](https://www.dg-i.net) | Cologne, Germany | Take-home project and/or discussion on-site about past experiences
 - [DICE](http://www.dice.se) | Stockholm, Sweden | Take-home project and code review at the on-site
 - [Digitally Imported](http://www.di.fm/jobs) | Denver, Colorado & Remote | Video meetings on past experience and high level tech questions, take-home project
+- [DigitalService](https://digitalservice.bund.de/en/career) | Berlin, Germany | Initial phone screening with HR and Engineering Manager, take-home challenge or bring your own project, discussion about solution/project and past experience with two engineers, culture fit interview.
 - [Dixa](https://dixa.com/careers) | Copenhagen, Denmark | Initial phone call. Take-home programming task, then on-site discussion followed by online personality test
 - [Doctolib](https://about.doctolib.fr/jobs) | Paris, France; Berlin, Germany | Take-home project, on-site interview and work half a day with one of our feature team
 - [Doist](https://doist.com) | Remote | Personal interviews with part of the team and a takehome programming assignment.
