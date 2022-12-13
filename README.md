@@ -688,6 +688,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Proxy](https://www.proxy.com) | San Francisco, CA | Phone chat. In-depth discussion about experiences on-site. Occasionally a take home project.
 - [Pusher](https://pusher.com/jobs) | London, UK | Solve a real-world problem through a design session with our engineers
 - [Pygmalios](http://pygmalios.com/en) | Bratislava, Slovakia | Take-home project related to business and discussion with our engineers.
+- [Qonto](https://qonto.com/en/careers) | Paris, France / Berlin, Germany / Milan, Italy / Barcelona, Spain / Belgrade, Serbia / Remote | Take-home project, code review and discussions with our engineers.
 - [Quiet Light Communications](https://quietlightcom.com/positions-web.php) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
 - [Quintype](http://www.workatquintype.com) | Bengaluru, India / San Mateo, USA | Take home project, pair programming, discussion on-site
 - [Quizizz](https://quizizz.com) | Bengaluru, India | Phone chat, real world assignment, discussion w/ developers, pair programming, discussion on-site
