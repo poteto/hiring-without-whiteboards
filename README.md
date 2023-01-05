@@ -54,7 +54,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Agency Enterprise Studio](https://ae.studio) | Remote / Los Angeles, CA / Florianópolis, Brazil | Live coding of a task you'd do daily
 - [Ageno](https://ageno.pl) | Bielsko-Biala, Poland | Simple Magento Take-home project and discussion on the real world problems.
 - [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
-- [Agoda](https://careersatagoda.com/departments/technology) | Bangkok, Thailand | Take-home project, then a discussion onsite round.
 - [AImotive](https://aimotive.com/career/) | Budapest, Hungary | Small take-home project, then in-person interview about technical background
 - [Airbase](https://www.airbase.com/careers) | San Francisco, CA; Bangalore, India; Remote | Intro Call with HR or EMs, small take-home project, two tech rounds with Airbase Engineers (based on real world engineering problems), followed by a final values round with the Founder or Director of Engg.
 - [Airbrake](https://airbrake.io) | San Francisco, CA / Remote | Take-home project & pair on a problem similar to daily work
