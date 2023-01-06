@@ -907,6 +907,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [virtual7](http://virtual7.de/de/karriere) | Kalrsruhe, Germany | Phone interview and on-site interview based on personal experience.
 - [Virtually Human](https://www.vhslab.com) | Remote | Take home assignment, Short interview around the assignment and past experience.
 - [Visma e-conomic](https://www.e-conomic.dk/om/job) | Copenhagen, Denmark | Take home assignment, assignment presentation and discussion
+- [Vitality South](https://vitalitysouth.com) | Tupelo, MS | Take home project, code review, and in-person discussion
 - [Voltra Co.](https://voltra.co) | Amsterdam, Netherlands / New York, NY / Remote | Show us your github account, tell us what you know. Let's pair on an OSS PR!
 - [VSX](https://https://vsx.net/jobs) | Dresden, Germany | On-site interview, home coding challenge, presentation/discussion of proposed solutions
 - [VTEX](http://lab.vtex.com/careers) | Rio de Janeiro, Brazil | Take-home project, Skype interview and then in-person talk.
