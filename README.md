@@ -386,7 +386,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [grandcentrix](https://www.grandcentrix.net/jobs) | Cologne, Germany | Take-home project, discussion on-site
 - [Grape](https://www.chatgrape.com/jobs/) | Vienna, Austria / Remote | Github or code samples -> Pair programming -> Skype/phone interview
 - [Graph Digital](https://graph.digital) | London, UK | Initial screening call with Engineering Manager, take-home challenge or bring your own project, discussion about solution/project and past experience with two engineers, culture fit interview.
-- [Graphcool](https://www.graph.cool) | Berlin, Germany | On-site pair programming of a small, isolated real world task
 - [Graphicacy](http://www.graphicacy.com) | Washington, DC | Phone interview; in-person or virtual interview depending on location and availability; two brief technical assignments focused on flexibility, creativity, and general competency
 - [Graphistry](https://www.graphistry.com) | San Francisco, CA; Remote | Discuss product/market, engineering, and culture, review past code/project, and for junior developers, choice of take home or code review.
 - [Great Minds, PBC](https://greatminds.recruitee.com) | Washington, DC | Zoom interview, technical interview discussing past real world experiences as well as knowledge of tools that will be used for position
