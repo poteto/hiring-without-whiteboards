@@ -110,7 +110,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Balabit](https://career.balabit.com) | Budapest, Hungary | Take-home project (medium size, with restrictions, e.g. only stdlib may be used), then discussion on-site
 - [Barracuda View Team](https://www.barracuda.com/company/careers) | Chelmsford, MA / Remote | Phone screen, remote pair programming session, technical discussion interview, culture fit interview
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago, IL / Remote
-- [Bcredi](https://bcredi.gupy.io) | Curitiba, Brazil | Phone conversations about the company and the opening; remote and on-site team interviews (tech-focused); take-home programming exercise
+- [Creditas](https://boards.greenhouse.io/creditas) | Curitiba, Brazil | Phone conversations about the company and the opening; remote and on-site team interviews (tech-focused); take-home programming exercise
 - [BCW Group](https://www.bcw.group) | Remote | Behavioral interview with the technical lead and hiring manager, followed by a take-home project, and finally a brief discussion about how the exercise went.
 - [Beam Dental](https://jobs.lever.co/beam) | Columbus, OH / Remote | Phone Screen, Take Home Project, In-Person or remote Pairing and Cross-Functional Interview
 - [Belka](http://belka.us/lavora-con-no) | Trento, Italy; Munich, Germany | We give you a small task that you can do alone and then we evaluate your work with you
