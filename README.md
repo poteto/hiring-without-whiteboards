@@ -108,7 +108,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago, IL / Remote
 - [BCW Group](https://www.bcw.group) | Remote | Behavioral interview with the technical lead and hiring manager, followed by a take-home project, and finally a brief discussion about how the exercise went.
 - [Beam Dental](https://jobs.lever.co/beam) | Columbus, OH / Remote | Phone Screen, Take Home Project, In-Person or remote Pairing and Cross-Functional Interview
-- [Belka](http://belka.us/lavora-con-no) | Trento, Italy; Munich, Germany | We give you a small task that you can do alone and then we evaluate your work with you
+- [Belka](https://www.belkadigital.com) | Trento, Italy; Munich, Germany | We give you a small task that you can do alone and then we evaluate your work with you
 - [Bemind](https://www.bemind.me) | Biella, Italy / Latina, Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
 - [Benshi.ai](https://www.benshi.ai) | Barcelona, Spain | Initial 15-30 mins interview with HR, followed by 15-30 mins chat with hiring manager to clear out basic concepts, then followed by take-home task for 5 days
