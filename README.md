@@ -657,7 +657,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [PeerStreet](https://info.peerstreet.com/careers) | Los Angeles, CA | Phone, take home project & on-site to meet the team
 - [Pento](https://angel.co/pento/jobs) | Remote | Quick personal interview, take home project
 - [Permutive](https://permutive.com/careers/) | London, UK | Phone call; short, relevant take-home coding assignment; on-site pairing, general technical discussion, values & ways of working interview.
-- [Persado](https://www.persado.com/company/life-at-persado/) | New York, NY | Phone screen, take home project, remote meeting with team member to discuss the project, remote meeting with team manager to discuss role and go over statistical concepts relevant to the 
+- [Persado](https://www.persado.com/company/life-at-persado) | New York, NY | Phone screen, take home project, remote meeting with team member to discuss the project, remote meeting with team manager to discuss role and go over statistical concepts relevant to the role
 - [Persgroep, de](https://www.persgroep.nl/werken-bij-it) | Amsterdam, Netherlands | Tech interview (technical background and experiences) and culture fit, both on-site
 - [Persona](https://www.withpersona.com/about) | San Francisco, CA | Tech interview (technical background and experiences), pair programming, and culture fit
 - [Pex](https://angel.co/pexeso/jobs) | Los Angeles, CA; Remote | 3 sessions: brief phone conversation (30 min); take home assignment (2 hours); on-site or video discussion without any coding (2 hours)
