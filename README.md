@@ -185,7 +185,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Civis Analytics](https://www.civisanalytics.com/careers) | Chicago, IL | Take-home project and discussion via Skype, followed by pair programming exercise
 - [CJ Affiliate](http://jobs.cj.com/jobs/category/engineering/) | Los Angeles, CA & Westlake Village, CA | Phone coding design exercise (no algorithms), followed by an on-site final interview that includes pair programming on a realistic object-oriented design problem
 - [Clara Lending](https://clara.com/careers) | San Francisco, CA | Phone conversation around technical background and experience, followed by take-home project, pair programming and discussion
-- [Clause](https://blog.clause.io/tag/careers/) | Remote | Non-technical interview with Director of Engineering and a member of the engineering team, followed by a technical interview with a cross-section of the team focusing on solution design / architecture and pairing, and an optional chat with the CTO.
 - [Clerkie](https://angel.co/clerkie/jobs) | San Francisco, CA | Phone conversation followed by take-home project
 - [ClickMagick](https://www.clickmagick.com) | Austin, TX / Remote | Phone conversations and examples of Free Software/Open Source work
 - [Clippings](https://clippings.com) | Sofia, Bulgaria | Video screening first, then send us code they've recently wrote, then technical interview. We could ask questions about the code they wrote at home.
