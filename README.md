@@ -305,6 +305,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Euro Payment Group](http://www.europaymentgroup.com) | Frankfurt, Germany | Take-home project followed by face to face interview
 - [EWORX](https://eworx.gr/jobs) | Athens, Greece | Take-home project and discussion.
 - [Exoscale](https://exoscale.ch) | Bern, Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
+- [Exmox](https://exmox.com/career) | Hamburg, Germany; Remote | Video call with our CTO, then a technical discussion around a project of your choice or a take-home project.
 - [Extend](https://www.extend.com/careers) | San Francisco, CA; Dallas, TX; Remote | Phone call, a take home project similar to making a PR at work, then a meet & greet with the team.
 - [Eyevinn Technology](https://www.eyevinntechnology.se) | Stockholm, Sweden | Remote or face 2 face interview followed by take-home project. Then a discussion on-site where we go through the technical aspects of the project.
 - [F(x)](https://fdex.com.br) | São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
