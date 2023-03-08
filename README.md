@@ -29,6 +29,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
   - [HackerNews (2017)](https://news.ycombinator.com/item?id=13874026)
   - [HackerNews (2020)](https://news.ycombinator.com/item?id=23981795)
 - [Finding a better alternative to the whiteboard interview](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
+- [How to hire engineering talent without the BS](https://jes.al//2023/03/how-to-hire-engineering-talent-without-the-bs/)
 
 ---
 
