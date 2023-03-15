@@ -303,6 +303,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [EURA NOVA](https://euranova.eu) | Mont-Saint-Guibert, Belgium; Marseille, France; Tunis, Tunisia | attitude interview, unpaid take-home project, technical discussion with 1 or 2 technical employees (remote or face 2 face), face 2 face discussion with HR, partner, and technical staff to have a foretaste of the collaboration
 - [Euro Payment Group](http://www.europaymentgroup.com) | Frankfurt, Germany | Take-home project followed by face to face interview
 - [EWORX](https://eworx.gr/jobs) | Athens, Greece | Take-home project and discussion.
+- [Exmox](https://exmox.com/career) | Hamburg, Germany; Remote | Video call with our CTO, then a technical discussion around a project of your choice or a take-home project.
 - [Exoscale](https://exoscale.ch) | Bern, Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [Extend](https://www.extend.com/careers) | San Francisco, CA; Dallas, TX; Remote | Phone call, a take home project similar to making a PR at work, then a meet & greet with the team.
 - [Eyevinn Technology](https://www.eyevinntechnology.se) | Stockholm, Sweden | Remote or face 2 face interview followed by take-home project. Then a discussion on-site where we go through the technical aspects of the project.
