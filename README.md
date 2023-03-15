@@ -651,6 +651,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [PeerStreet](https://info.peerstreet.com/careers) | Los Angeles, CA | Phone, take home project & on-site to meet the team
 - [Pento](https://angel.co/pento/jobs) | Remote | Quick personal interview, take home project
 - [Permutive](https://permutive.com/careers/) | London, UK | Phone call; short, relevant take-home coding assignment; on-site pairing, general technical discussion, values & ways of working interview.
+- [Persado](https://www.persado.com/company/life-at-persado) | New York, NY | Phone screen, take home project, remote meeting with team member to discuss the project, remote meeting with team manager to discuss role and go over statistical concepts relevant to the role
 - [Persgroep, de](https://www.persgroep.nl/werken-bij-it) | Amsterdam, Netherlands | Tech interview (technical background and experiences) and culture fit, both on-site
 - [Persona](https://www.withpersona.com/about) | San Francisco, CA | Tech interview (technical background and experiences), pair programming, and culture fit
 - [Pex](https://angel.co/pexeso/jobs) | Los Angeles, CA; Remote | 3 sessions: brief phone conversation (30 min); take home assignment (2 hours); on-site or video discussion without any coding (2 hours)
@@ -923,6 +924,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [woumedia](https://woumedia.com) | Remote | Getting to know each other and aligning expectations. Talking about past experiences, projects you are proud of and latest challenges you faced. It’s followed by a use case study from one of our current projects.
 - [WyeWorks](https://wyeworks.com) | Montevideo, Uruguay | Take-home project and discussion on-site
 - [X-Team](http://x-team.com) | Remote | A short, fun Node.js challenge, followed by a series of culture-based interview questions, followed by a creative mock project with tons of freedom on how to approach, and follow-up questions about the approach they chose to discuss the tradeoffs. Usually a 10-30 day paid training is rewarded to top candidates to prep them for remote communication skills needed to join a team.
+- [Xebia Security](https://xebia.com/careers/security/) | Hilversum, Netherlands | Culture fit, Technical interview, followed by take-home security project, on-site brainstorm session to discuss the solutions and approach.
 - [XING](https://www.xing.com) | Hamburg, Germany | Take-home coding challenge, on-site review and short interviews with future team.
 - [Xplor](https://ourxplor.com) | Melborne, Australia; London, UK | Phone Cultural Fit interview, Take home-code challenge, pair-programming session and discussion about past experience
 
