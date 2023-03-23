@@ -410,6 +410,8 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Hologram](https://www.hologram.io/careers) | Chicago, IL; Remote | Intro call, take-home project taken from production work, pair programming exercise
 - [Home Chef](https://www.homechef.com/careers) | Chicago, IL; Remote | Get-to-know-you meeting with the team, followed by a half-day collaborative coding session
 - [HomeLight](https://www.homelight.com/engineering) | San Francisco, CA; Scottsdale, AZ; Seattle, WA | Phone screen, take home that is close to production code, onsite with pair programming
+- [Hotjar](https://www.hotjar.com/careers/) | EMEA - Remote | Short introduction call -> Technical interview with engineers on real-world problems/system design ->  Paid short take-home task -> Team fit interview
+
 - [Housemarque](https://housemarque.com) | Helsinki, Finland | Interview, take-home project, then interview and code review on-site
 - [HoxHunt](https://www.hoxhunt.com/careers/) | Helsinki, Finland | Take-home project, pair programming on-site
 - [Human API](http://humanapi.co/company/careers) | Redwood City, CA | Technical phone interview, then on-site pair programming and design discussion
