@@ -34,6 +34,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 ## A - C
 
+- [Aalyria](https://www.aalyria.com/jobs) | Remote | Timeboxed design exercise and related coding exercise, followed by a technical/behavioral discussion with the team, and behavioral interview with leadership
 - [Able](https://able.co/careers) | Lima, PE / Remote | Coding interview, Technical interview (Backlog Refinement + System Design), Leadership interview (Behavioural)
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
 - [Accenture](https://www.accenture.com/us-en/careers) | San Francisco, CA / Los Angeles, CA / New York, NY / Kuala Lumpur, Malaysia | Technical phone discussion with architecture manager, followed by behavioral interview focusing on soft skills
