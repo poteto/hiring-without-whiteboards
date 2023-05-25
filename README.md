@@ -741,7 +741,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 - [SafeButler](https://www.safebutler.com) | San Francisco, CA | Take-home project, then an on-site or remote interview with a review, pair programming, and culture fit discussions
 - [Sahaj Software](https://www.sahaj.ai) | Bangalore, India; Chennai, India; Pune, India; Melbourne, Australia; London, UK; San Jose, CA | Take home code + Pairing + Discussion
-- [Sailing Byte](https://sailingbyte.com) | Gdynia & Rumia, Poland | Technical interview, Take-home Task
+- [Sailing Byte](https://sailingbyte.com) | Rumia, Poland | Technical interview, Take-home Task
 - [Sakari](https://sakari.io) | San Francisco, CA | Phone screen, programming assignment related to Sakari business (communications) with pair programming element, team and culture fit
 - [SaleCycle](https://www.salecycle.com/careers) | Durham, UK; Brighton, UK | Phone screen, face-to-face discussion with developers, optional pairing session and discussion
 - [Salesfive](https://www.salesfive.com/jobs) | Munich, Germany; Berlin, Germany | Phone screen, Phone Interview with developer to discuss code and challenges, Take home challenge if necessary. Onsite visit
