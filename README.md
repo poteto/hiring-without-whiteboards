@@ -50,7 +50,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Adnymics](https://adnymics.com) | Munich, DE | Take home project, then work with the team for a day
 - [Adthena](http://adthena.com) | London, UK | Takehome project and discussion on-site
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
-- [Adyen](https://www.adyen.com/) | Amsterdam, NL | Take-home assignment, design discussion based on take home, culture fit etc. Provides visa sponsorship to the Netherlands.
+- [Adyen](https://www.adyen.com) | Amsterdam, NL | Take-home assignment, design discussion based on take home, culture fit etc. Provides visa sponsorship to the Netherlands.
 - [Affinipay](https://www.affinipay.com) | Austin, TX | Short takehome project + video interview about coding with engineering manager
 - [Agency Enterprise Studio](https://ae.studio) | Remote / Los Angeles, CA / Florianópolis, Brazil | Live coding of a task you'd do daily
 - [Ageno](https://ageno.pl) | Bielsko-Biala, Poland | Simple Magento Take-home project and discussion on the real world problems.
