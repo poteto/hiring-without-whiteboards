@@ -70,7 +70,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Amino Payments](https://angel.co/company/amino-payments/jobs/) | Philadelphia, PA | Real-world technical design and problem discussion, pair programming on-site
 - [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
 - [Angaza](https://www.angaza.com/careers/) | San Francisco, CA | Take-home assignment with guaranteed feedback, on-site interviews involving actual day-to-day work
-- [Animech](https://animech.com/join-us) | Uppsala, Sweden | Multiple interviews with technical staff with real problem discussions.
+- [Animech](https://careers.animech.com/) | Uppsala, Sweden | Multiple interviews with technical staff with real problem discussions.
 - [Anyfin](https://career.anyfin.com) | Stockholm, Sweden | Takehome project & Onsite discussions and presentation.
 - [Aparkado](https://aparkado.de) | Cologne, Germany / Remote | Intro with Co-Founder, team fit with the team plus a small real-world problem to solve, followed by final round with CEO / Co-Founder.
 - [Apollo Agriculture](https://apolloagriculture.com) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
