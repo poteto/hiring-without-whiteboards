@@ -291,6 +291,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [eMarketer](https://goo.gl/N7SMKl) | New York, NY | Short phone interview, then come in and meet the team, check out our space, and have a discussion with team members about real-world problems
 - [Emarsys](https://www.emarsys.com) | Budapest, Hungary | Take-home project (small, 1-2 days to solve), then discussion on-site
 - [Emergent Software](https://www.emergentsoftware.net) | Minneapolis, MN | Phone intro, discuss recent project, short take home project (4h max) with code review, real world open ended questions
+- [End Point Dev](https://www.endpointdev.com) | New York, NY; Johnson City, TN; Remote | Video interview with senior technical management followed by 2-hour scheduled take-home project similar to work done for our clients.
 - [Endava](http://www.endava.com/en/Careers) | Belgrade, Serbia; Bucharest, Romania; Chisinau, Moldova; Cluj-Napoca, Romania; Iasi, Romania; Pitesti, Romania; Skopje, Macedonia; Sofia, Bulgaria; Frankfurt, Germany; Glasgow, Scotland; Hilversum, Netherlands; London, UK; Oxford, UK; Bogota, Colombia; Atlanta, GA; New Jersey, NJ; New York, NY | On-site discussion about previous experience and technical questions about the target technologies.
 - [Engel & Völkers Technology](https://www.engelvoelkers.com/en/tech/) | Hamburg, Germany | Remote technical interview with an Engineering Manager, followed by a practical coding challenge implemented in 5 hours, ending with a technical discussion with the team on the produced code either remotely or on-site based on geographical practicality.
 - [Enhancv](https://enhancv.com/about.html) | Sofia, Bulgaria | Talk is cheap, show us your code: github profile or other project examples. Explain them in person / remotely. Discuss habits and interests to see if we have a culture fit.
@@ -818,7 +819,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Svix](https://www.svix.com) | Remote | Take home project, an interview to discuss the project, and a cultural fit interview.
 - [SVTi (Sveriges Television)](http://svti.svt.se) | Stockholm, Sweden | On-site interview, take-home project, follow up interview where you walk through how you chose to solve the task.
 - [SweetIQ](https://sweetiq.com/about/careers) | Montreal, Canada | Discussion and general, high level questions
-- [Swiftly Systems](https://useswiftly.com/jobs) | Seattle, WA; San Francisco, CA | Take-home coding project, design principles discussions, collaborative problem solving
+- [Swiftly](https://www.swiftly.com/about/careers) | Seattle, WA; San Francisco, CA | Take-home coding project, design principles discussions, collaborative problem solving
 - [Swisscom](https://www.swisscom.ch/en/about/career.html) | Rotterdam, The Netherlands | A mix of behavioural, technical and cultural interview, take-home project, project review with engineers from different teams and cultural interview with staff members.
 - [Symphony Commerce](https://www.symphonycommerce.com/careers) | San Francisco, CA / Remote | Take-home project (phone), design discussion, review and critique _our_ code, debugging questions
 - [Symplicity](https://www.symplicity.com/about/join-us) | Arlington, VA | Take-home project and code review in-person
