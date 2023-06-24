@@ -757,6 +757,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [SC5 Online](https://sc5.io/careers) | Helsinki, Finland; Jyväskylä, Finland | Take-home assignment (intentionally short, takes at most an hour to complete), discussion and review assignments
 - [Scapic](https://scapic.com/careers/) | Bangalore, India | Short takehome project + phone interview
 - [Schibsted Tech Polska](https://www.schibsted.pl) | Gdańsk, Poland | Phone screen, take-home exercise, code review and technical discussion
+- [Seesaw](https://web.seesaw.me/about) | Remote | Technical challenges based on real world problems
 - [Segment](https://segment.com) | San Francisco, CA; Vancouver, Canada | Phone interview, take-home assignment (small fun project), onsite interview (technical + core/culture) -> intended to set you up for success
 - [SEITENBAU](https://www.seitenbau.com/karriere/aktuelle-jobangebote) | Konstanz, Germany | Peer recruiting; conversational interviews (video call or face-to-face) with other developers and HR focussing on motivation, attitude, skills; possibly 2nd face-to-face interview meeting with additional team members
 - [Sendyne](http://www.sendyne.com) | New York City, USA | Phone screen, on-site with team members. Review of past experiences + questions regardnig real problems.
