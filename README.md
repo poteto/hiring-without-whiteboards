@@ -680,6 +680,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Platform45](https://platform45.com) | Johannesburg, South Africa; Cape Town, South Africa | On-site interview, take-home project and culture fit day
 - [Platogo Interactive Entertainment GmbH](https://platogo.com/hiring/) | Vienna, Austria | Simple online questionnaire, First Interview to get to know each other, Remote developer challenge (take home task), Code review together, Meet the team
 - [Playlyfe](https://getcatalyst.in/careers) | Bangalore, India | Short personal interview, on-site demonstration of programming in browser devtools followed by discussion about the problem
+- [Pleo](https://www.pleo.io/en/careers) | Remote; Copenhagen, Denmark; London, UK; Berlin, Germany; Stockholm, Sweden; Madrid, Spain| Intro interview (30m-45m), take home assignment, interview with discussion on the assignment + technical questions with the team (90m) and interview with managers (60m).
 - [Poki](http://jobs.poki.com) | Amsterdam, The Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Polar](http://polar.me/company/careers) | Toronto, Canada | Phone interview, followed by 1-2 onsite pair-programming interviews based on their platform
 - [Poll Everywhere](https://www.polleverywhere.com/jobs) | Remote | Introduction call, 1 hour take home technical assessment, pairing session with Designer and Engineer to enhance technical challenge submission, Meeting with CTO and hiring manager.
