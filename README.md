@@ -192,6 +192,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [ClickMagick](https://www.clickmagick.com) | Austin, TX / Remote | Phone conversations and examples of Free Software/Open Source work
 - [Clippings](https://clippings.com) | Sofia, Bulgaria | Video screening first, then send us code they've recently wrote, then technical interview. We could ask questions about the code they wrote at home.
 - [Clockwork Consulting](https://www.cwconsult.dk) | Copenhagen, Denmark | Interviews, discussion of technical background and experiences.
+- [Close](https://www.close.com/careers) | Remote | Interviews and take home project.
 - [CloudBees](http://cloudbees.com/careers) | Remote | Multiple interviews, discussion of technical background and experiences.
 - [ClusterDev](https://clusterdev.com/#careers) | Kochi, India; Remote | Phone interview, Take home project and discussion later on about past experiences and/or personal projects.
 - [Code Orange](https://code-orange.nl) | Amsterdam, Netherlands | Phone conversation followed by take-home project
