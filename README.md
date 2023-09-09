@@ -838,6 +838,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [TableCheck](https://www.tablecheck.com/en/company/jobs/) | Tokyo, Japan | Show us your code! Brief call then take-home project or pairing for those without code.
 - [Tailor Brands](https://tailorbrands.com/jobs) | Tel Aviv-Yafo, Israel | Discuss knowledge and interests, explore previous work experience, during the technical interview we discuss real-life problems.
 - [tails.com](https://tails.com/careers) | Richmond (London), UK | Live pair programming or take home project with review
+- [Take-Two Interactive](https://careers.take2games.com) | Bengaluru, India; Vancouver, Canada; London, UK; Singapore, Singapore; CA, NY, WA: United States | Data Engineering | Recruiter screening,followed by 1 round of fitment discussion, followed by a take home assignment(similar to actual work), followed by 1 round involving assignment solution discussion, programming language specific questions, and other role specific technical questions, followed by hiring manager discussion.
 - [takeaway.com](https://careers.takeaway.com) | Enschede, Netherlands & Berlin, Germany | Discussion and general, high level questions
 - [Tandem](https://www.madeintandem.com) | Chicago, IL; San Francisco, CA | Introductory phone screen, take-home project, take-home project phone review, a few hour-long pairing sessions on real projects.
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
