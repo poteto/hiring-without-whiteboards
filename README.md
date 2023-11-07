@@ -67,7 +67,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Allegro](https://allegro.pl/praca) | Warsaw, Poland; Poznan, Poland; Torun, Poland; Wroclaw, Poland; Krakow, Poland | Take home, simple project. Series of 2 technical interviews (how to build things, how to solve specific, real world problem) and meeting with a team leader.
 - [Alluxi](https://www.alluxi.mx) | Monterrey, Mexico | Initial skype interview, technical interview with Senior engineer and work sample review.
 - [Almabase](https://www.almabase.com/careers#believe) | Bengaluru, India | Take-home assignment, design discussion based on take home, low level and high level design rounds based on real life problems, culture fit etc. during onsite.
-- [AlphaSights](https://engineering.alphasights.com) | London, UK / New York, NY / Remote | Initial interview, pair programming then final round with general technical questions
+- [AlphaSights](https://www.alphasights.com/careers/open-roles/) | London, UK / New York, NY / Remote | Initial interview, pair programming then final round with general technical questions
 - [AMAGI](https://amagi.io) | Makati, Philippines | 1) Review of your resume, portfolio, and/or GitHub profile; 2) 1 hour discussion (in-person or Skype) about your goals, experience, personal culture, and how to apply technical solutions to real problems;
 - [Amino Payments](https://angel.co/company/amino-payments/jobs/) | Philadelphia, PA | Real-world technical design and problem discussion, pair programming on-site
 - [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
