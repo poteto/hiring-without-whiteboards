@@ -97,7 +97,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | New York, NY | Take-home exercises and pair-programming with the team.
 - [Babylon Health iOS Team](https://github.com/Babylonpartners/iOS-Interview-Demo) | London, UK | Take-home project, on-site presentation and discussion, design and product interview.
 - [Backbase](https://workatbackbase.com) | Amsterdam, Netherlands; Cardiff, Wales; London, UK; Atlanta, GA | Takehome project, interviews
-- [Backbone](https://angel.co/backbone-plm/jobs) | Boulder, CO | Initial phone screening to determine general fit, take-home project, finally an on-site where we discuss your take-home project and you meet the team.
 - [Badi](https://jobs.badi.com) | Barcelona, Spain | Phone Screen, Take-home project, then a discussion onsite round.
 - [Badoo](https://team.badoo.com/jobs) | London, UK | Take-home project, then a discussion onsite round.
 - [BAE Systems Applied Intelligence](https://career012.successfactors.eu/sfcareer/jobreqcareer?jobId=46145&company=BAE) | London, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
