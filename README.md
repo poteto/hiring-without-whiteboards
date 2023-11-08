@@ -639,6 +639,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
 - [Optum](https://www.optum.in/about/careers.html) | India, Hyderabad | Online assesment, followed by technical interview and behavioural check
 - [Ori](http://ori.co)| London, UK | Phone interview and a takehome project, followed by a two hour meeting with the team
+- [Orient](https://orient.gg)| Remote | Three phases: phone screen, takehome project, final video call
 - [OSISM](https://osism.tech) | Remote | Three video calls: general introduction, team introduction, contract
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
 - [Outbrain](https://careers.outbrain.com/?F1C=Netanya&F2C=&FTXT=) | Netanya, Israel | Take-home exercise & discussion
