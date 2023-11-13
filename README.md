@@ -828,6 +828,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Tailor Brands](https://tailorbrands.com/jobs) | Tel Aviv-Yafo, Israel | Discuss knowledge and interests, explore previous work experience, during the technical interview we discuss real-life problems.
 - [tails.com](https://tails.com/careers) | Richmond (London), UK | Live pair programming or take home project with review
 - [takeaway.com](https://careers.takeaway.com) | Enschede, Netherlands & Berlin, Germany | Discussion and general, high level questions
+- [Take Homes](https://takehomes.com) | San Francisco, CA & New York, NY | Take-home project based on a real-world problem, administered on their own platform, followed by a pair programming session, also on their platform, which builds on the initial project
 - [Tandem](https://www.madeintandem.com) | Chicago, IL; San Francisco, CA | Introductory phone screen, take-home project, take-home project phone review, a few hour-long pairing sessions on real projects.
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
 - [Tara AI](https://tara.ai/about/careers) | San Jose, CA | On-site interview with a deep dive into appropriate technology and our problem space. The same sort of problem solving you would do with peers after a standup
