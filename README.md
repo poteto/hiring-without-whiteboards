@@ -674,6 +674,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Poll Everywhere](https://www.polleverywhere.com/jobs) | Remote | Introduction call, 1 hour take home technical assessment, pairing session with Designer and Engineer to enhance technical challenge submission, Meeting with CTO and hiring manager.
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
 - [Popular Pays](http://www.popularpays.com) | Chicago, IL | Phone chat/coffee to determine what will be worked on during a day of pair-programming on a real problem that the candidate thinks best demonstrates their skills.
+- [Posit](https://posit.co/) | Remote | Video calls with recruiter then engineering management, take home project, video call for code review with engineering lead
 - [Pragmateam](https://pragma.team/talent) | Sydney, Australia | Engineering Consultancy And Delivery - Takehome exercise & discussion
 - [PremiumBeat](https://www.premiumbeat.com/careers) | Montreal, Canada | Discussion and general, high level questions
 - [Primary](https://www.primary.com/jobs) | New York, NY / Remote | Phone chat, take home exercise, pair program and discuss onsite.
@@ -729,7 +730,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Rocket Travel](https://about.rocketmiles.com) | Remote; Chicago, IL; New York, NY | Pair programming, take home project (2-4 hours), 3-4 hour final interview with mix of high level technical, product, and cultural/behavioral sessions.
 - [Rockode](http://www.rockode.com) | Bangalore, India | Real world assignment, group hack session, discussions
 - [Rose Digital](http://rosedigital.co) | New York, NY | Phone conversation followed by pair coding components that mirror day to day work, in person discussion about code, take home project if needed for more info
-- [RStudio](https://www.rstudio.com) | Remote | Video calls with recruiter then engineering management, take home project, video call for code review with engineering lead
 - [Ruangguru](https://career.ruangguru.com) | Jakarta, Indonesia / Yogyakarta, Indonesia / Malang, Indonesia / Bandung, Indonesia | Phone screening with technical recruiter --> live coding with an engineer --> panel interview with related engineers (Test Engineers, Frontend Engineers, Backend Engineers, etc) --> final interview with VP of Engineering
 - [RubyGarage](https://rubygarage.org) | Dnipro, UA | Take-home project, code review and discussion on-site
 - [Runtastic](https://www.runtastic.com) | Linz, Austria; Vienna, Austria | Video call with recruiting staff, take home project, video call for code review, discussion, questions
