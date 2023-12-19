@@ -651,7 +651,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, Canada | Remote programming interview, on-site "meet the team"
 - [Peaksware Companies (TrainingPeaks, TrainHeroic, MakeMusic)](https://peaksware.com) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
 - [PeerStreet](https://info.peerstreet.com/careers) | Los Angeles, CA | Phone, take home project & on-site to meet the team
-- [Pento](https://angel.co/pento/jobs) | Remote | Quick personal interview, take home project
+- [Pento](https://www.pento.io/) | Remote | Quick personal interview, take home project
 - [Permutive](https://permutive.com/careers/) | London, UK | Phone call; short, relevant take-home coding assignment; on-site pairing, general technical discussion, values & ways of working interview.
 - [Persado](https://www.persado.com/company/life-at-persado) | New York, NY | Phone screen, take home project, remote meeting with team member to discuss the project, remote meeting with team manager to discuss role and go over statistical concepts relevant to the role
 - [Persgroep, de](https://www.persgroep.nl/werken-bij-it) | Amsterdam, Netherlands | Tech interview (technical background and experiences) and culture fit, both on-site
