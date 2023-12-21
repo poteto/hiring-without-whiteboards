@@ -191,7 +191,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [ClusterDev](https://clusterdev.com/#careers) | Kochi, India; Remote | Phone interview, Take home project and discussion later on about past experiences and/or personal projects.
 - [Code Orange](https://code-orange.nl) | Amsterdam, Netherlands | Phone conversation followed by take-home project
 - [Cogent Labs](https://www.cogent.co.jp) | Tokyo, Japan | On-site or video call conversation around technical background and experience, followed by take-home project that resembles a problem Cogent Labs solves for. This project will serve as the base of discussion with the developers for the second interview.
-- [Cognitect, Inc.](https://www.cognitect.com/jobs) | Remote | Phone interview followed by pair programming.
 - [Cognitran](http://www.cognitran.com/employment-opportunities) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Colearn](https://kelas.colearn.id/career) | Remote; Bengaluru, India; Jakarta, Indonesia; Abu Dhabi, UAE; Central, Singapore | Alignment call with HR or CTO, small take home assignment, remote pair programming session about the assignment with senior engineer & tech lead.
 - [Collabora](https://www.collabora.com/careers.html) | Cambridge, UK / Montreal, Canada / Remote | On-site or video interview, discussion of technical experience and sometimes approach for tackling a hypothetical problem.
@@ -661,9 +660,9 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Philo](https://philo.com/jobs) | San Francisco, CA; Cambridge, MA | Initial screen with deep-dive into one of your recent projects (30 mins) ; take-home coding exercise tailored your skills (4 hours); on-site with take-home code review, architecture interview, design interview and "soft skills" interview (4 hours)
 - [Phoodster](https://www.phoodster.com) | Stockholm, Sweden | Take-home exercise + on-site discussion
 - [Pie Insurance](https://pieinsurance.com/careers) | Denver, CO; Washington, D.C. | Phone; remote technical screen paired with another engineer; remote multi-round interview to demonstrate basic backend/frontend skills (no bizarre Leetcode questions), behavioral/culture fit, design skills
-- [Pilot](https://pilot.co/become-a-partner) | Remote | Two calls. Introduction one (30m) + verification of communication skills and remote work experience (15m)
 - [Pismo](https://pismo.io/pt/) | Remote; Bristol, UK; Austin, TX; Singapore, Singapore | Initial and quick screening with recruiters from hr department, remote general technical discussion with tech lead and team members, take home assessment (choose between Java and/or Golang), remote pair programming.
 - [Pixium Digital](https://pixiumdigital.com) | Singapore, Singapore | Remote or on-site interview with few generic / technical questions as well as portfolio review + discussion.
+- [Plane](https://pilot.notion.site/Plane-Careers-Page-0f9a2b64ddd8470f968335b769de0909) | Remote | Two calls. Introduction one (30m) + verification of communication skills and remote work experience (15m)
 - [Platform.sh](https://platform.sh) | Remote | Remote Interview, Wide-Ranging discussions on many diverse subjects. Remote interviews with team members.
 - [Platform45](https://platform45.com) | Johannesburg, South Africa; Cape Town, South Africa | On-site interview, take-home project and culture fit day
 - [Platogo Interactive Entertainment GmbH](https://platogo.com/hiring/) | Vienna, Austria | Simple online questionnaire, First Interview to get to know each other, Remote developer challenge (take home task), Code review together, Meet the team
