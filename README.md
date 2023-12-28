@@ -76,7 +76,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Apollo Agriculture](https://apolloagriculture.com) | Nairobi, Kenya / Remote | Takehome project or Worksample (or whiteboard)
 - [Applied](https://www.beapplied.com) | London, UK | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
 - [Arachnys](https://angel.co/arachnys/jobs/220465-software-engineer) | London, UK | Take home test, real world pair programming
-- [Aragon One](https://aragon.one/#jobs) | Remote | Culture-first interview, take home technical challenge, technical interviews, and finally a compensated onsite trial week working on a real project that will be shipped
 - [Articulate](https://articulate.com/company/careers) | Remote | Take-home project & pair program on a problem similar to daily work
 - [Artsy](https://www.artsy.net/jobs#engineering) | New York, NY / London, UK / Berlin, Germany / Los Angeles, CA / Hong Kong, Hong Kong / Remote | Our process: 1) Informal chat 2) Application 3) Phone screen 4) In-person interview with 1 lead, 2 individual contributors and 1 non-engineer (30-45 mins each), focusing on your work habits and expertise as demonstrated in your previous work 5) ~4 in-depth professional reference calls (30-45 mins each).
 - [ASI Data Science](https://www.asidatascience.com/careers) | London, UK | Project to work at home, general technical questions, pair programming with engineers
