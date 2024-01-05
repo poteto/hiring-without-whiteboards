@@ -318,6 +318,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Filestage.io](https://careers.filestage.io) | Stuttgart, Germany; Remote | Intro call, Take home technical assessment, Tech discussion on assessment and interview with Head of Development and an Engineer, Meeting with founders
 - [Findy](https://careers.findy.co.jp) | Tokyo, Japan | Tech interview + On-site discussion
 - [FINE](https://www.wearefine.com/careers) | Portland, OR | Small take-home challenge + follow-up discussion
+- [FireHire](https://firehire.ai) | Wilmington, USA / Remote | Soft Skills Check + Hard Skills Check with lead engineer.
 - [Firemind](https://www.firemind.io) | Maidstone, UK; London, UK; Remote | Small pre-interview challenge on github + discussion face to face in person or via video
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 - [Flatfox](https://flatfox.ch) | Zurich, Switzerland | Informal conversation to check mutual fit, small (4h) take-home assignment, discussion in team
