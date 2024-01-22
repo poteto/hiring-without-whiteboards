@@ -925,7 +925,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [WeTransfer](https://wetransfer.com/jobs) | Amsterdam, Netherlands | Culture fit and fundamentals chat, skills interview - no whiteboarding! - and take-home project, communication and collaboration interview, meet with the VP of Engineering
 - [Wheely](https://wheely.com/en/careers) | Moscow, Russia | Get to know each other in under 30 minutes on-site or via Skype, take-home challenge, on-site review and interview with the team.
 - [Wikimedia Foundation](https://wikimediafoundation.org/about/jobs/) | Remote | Cultural fit interview, about one hour of discussing possible solutions for real problems the team you are applyig to could face. Not right or wrong answers, more of a brainstorming with two engineers who will evaluate how your problem solving workflow works.
-- [Windy.com](https://windy.com) | Prague, Czechia | Talk and write small programm on a computer
+- [Windy.com](https://windy.com) | Prague, Czechia | Talk and write small program on a computer
 - [Wirecard Brasil](https://wirecardbrasil.workable.com) | São Paulo, Brazil | Phone or on-site Cultural Fit interview, take-home coding challenge, code review and discussing in-person.
 - [Wiredcraft](https://wiredcraft.com) | Shanghai, China | Phone or on-site interview, take-home coding challenge, code review and discussing in-person.
 - [WorldGaming](https://worldgaming.com) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team
