@@ -292,7 +292,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Enhancv](https://enhancv.com/about.html) | Sofia, Bulgaria | Talk is cheap, show us your code: github profile or other project examples. Explain them in person / remotely. Discuss habits and interests to see if we have a culture fit.
 - [Enigma](https://www.enigma.com) | New York, NY | 2-part takehome project, followed by a pair programming exercise
 - [Enki](https://enki.com) | London, UK | Skype/phone interview followed by takehome project
-- [Ento.com](https://ento.com/blog/ento-interview-process-101) | Melbourne, Australia | On-site interview to talk about your experiences and what you're looking for in your next role, followed by a take-home practical test relevant to the work you'll be undertaking at Ento.
 - [Equal Experts](https://www.equalexperts.com) | London, UK; Manchester, UK; New York, NY; Pune, India; Lisbon, Portugal; Calgary, Canada | Fizzbuzz test done at home followed by Pair Programming session at office and finally face to face technical and attitude interview.
 - [Ericsson](https://www.ericsson.com) | Dublin, Ireland | Skype/phone interview followed by Face 2 Face interview, discussions and architecture questions followed by final small project on a problem similar to daily work.
 - [eShares, Inc](https://esharesinc.com/jobs) | San Francisco, CA; Palo Alto, CA; Seattle, WA; Rio de Janeiro, Brazil; London, UK; New York, NY | Phone call, practical technical screen, on site to meet the team & explore the company
