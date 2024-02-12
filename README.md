@@ -121,6 +121,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Bits of Love](https://www.bitsoflove.be/careers) | Bruges, Belgium | In-person interview to evaluate experience and motivation, potentially followed by take-home project.
 - [Bitso](https://bitso.com/jobs) | Mexico City, Mexico / Remote | Intro phone or hangouts/skype call with People team, take home project followed by walkthrough of your code and some tech questions focused on your experience, founders video call with one of the founders
 - [Blackdot Solutions](http://blackdotsolutions.com) | Cambridge, UK | Take-home project followed by on-site face-to-face walkthru of your code focusing on decisions/reasoning/technology used.
+- [BlackTech](https://blacktech.com.np) | Pokhara, NP | Take-home project followed by on-site face to face or remote video conference interview.
 - [Bleacher Report](http://bleacherreport.com) | San Francisco, CA, USA | Take-home project; on-site discussion about the project and meeting with different teams
 - [Blendle](https://blendle.homerun.co/?lang=en) | Utrecht, The Netherlands | Take-home project & pair program on a problem similar to daily work
 - [blogfoster](https://github.com/blogfoster/join-the-engineering-team) | Berlin, Germany | Take-home project, discussion on-site
