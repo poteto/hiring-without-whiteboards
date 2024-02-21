@@ -548,6 +548,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Mobilethinking](https://mobilethinking.ch) | Geneva, Switzerland | 1 hour discussion about technical background and past experiences, preferably in-person
 - [Mode](https://about.modeanalytics.com/careers) | San Francisco, CA | Phone interview followed by onsite pair-architecting and discussion
 - [MokaHR](http://mokahr.com) | Beijing, China | Take home project/challenge, then on-site programming session taken from problems we encounter at work
+- [Molten Cloud](https://www.moltencloud.com) |  Cambridge, MA; Remote | Technical Interview, behavioural interview with CEO, take-home challenge designed to mirror problems the company encounters
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
 - [Monite](https://monite.com) | Berlin, Germany | Screening interview with HR (salary expectations, career plans), take-home architectural design project (no code) and technical interview to discuss your skill set + general questions
 - [Monzo](https://monzo.com) | London, UK & Remote | Phone interview with another engineer. Take-home assignment. Call to debrief on take-home assignment. Half-day interview (on-site or Hangouts) with three conversational sessions: (1) building on take-home test & real-world system design (verbal and collaborative); (2) digging into knowledge & understanding in 1-2 other relevant technical areas; (3) general background, teams and ways of working.
