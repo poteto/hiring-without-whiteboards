@@ -894,7 +894,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 - [V7](https://www.v7labs.com/careers) | London, UK; Remote | Initial screen by Talent team, first technical screen (application / system design), take-home assignment and follow-up review with extra application / system design conversation
 - [Valassis Digital](http://www.valassis.com/digital-advertising) | Seattle, WA; San Francisco, CA; Lansing, MI; Hamburg, Germany | Phone screen, on-site interview with group, paired whiteboard problem solving and discussion, take-home project and follow-up review
-- [Valuemotive](https://www.valuemotive.com/careers) | Helsinki, Finland | Code examples from previous projects (work or hobby) or take-home exercise
+- [Valuemotive](https://www.valuemotive.com/career) | Helsinki, Finland | Code examples from previous projects (work or hobby) or take-home exercise
 - [Varsity Tutors](https://www.varsitytutors.com) | Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
 - [Vayu Technology](http://vayu.com.au) | Sydney, Australia; Kathmandu, Nepal | Short interview, general programming questions and short take home challenge.
 - [Vena Solutions](https://careers.venasolutions.com) | Toronto, Canada | Phone screen, on-site pair-programming and code-review exercise on a real-world problem
