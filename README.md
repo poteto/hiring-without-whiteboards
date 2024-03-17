@@ -365,7 +365,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [GM Financial](https://gmfinancial.com/en-us/company/careers.html) | Irving, TX; Remote | Roles under [Marketing Technology team](https://globalcareers-gmfinancial.icims.com/jobs/search?ss=1&searchKeyword=Software+Development+Engineer&searchCategory=8741) are 100% remote and only have HR Screening + 2 rounds: 1st round: Technical conversation with an architect and a senior engineer regarding candidate's experience and how that matches up to the role. Final round: cultural/behavioral interview with hiring manager.
 - [Goalbook](https://goalbookapp.com/careers/) | Remote | Virtual interviews with recruiter, sr engineer, and hiring manager. Short real-world take-home project w/ follow-up conversation. Final interviews w/ CEO/Founder and Product team lead.
 - [GoCardless](https://gocardless.com/about/jobs) | London, UK | Project to work at home, general technical questions, pair programming with engineers
-- [GoJek](https://www.gojek.io) | Bangalore, India; Jakarta, Indonesia; Singapore, SG; Bangkok, Thailand | Take-home exercise, Pair programming with senior engineer, Techinal problem solving and discussion, Cultural Fit
+- [GoJek](https://www.gojek.io) | Bangalore, India; Jakarta, Indonesia; Singapore, SG; Bangkok, Thailand | Take-home exercise, Pair programming with senior engineer, Technical problem solving and discussion, Cultural Fit
 - [Gower Street Analytics](http://gower.st) | Remote; London, UK | Initial telephone chat, then either a) work with us, fully paid, for a day on real code with the team; or b) pair-programming on a code kata with the team members for four pomodoros. Your choice.
 - [Graffino](https://www.graffino.com) | Sibiu, Romania | Take-home project, discussion on-site
 - [Grafton Studio](https://graftonstudio.com) | Boston, MA | Take-home project, discussion on-site
@@ -893,7 +893,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 - [V7](https://www.v7labs.com/careers) | London, UK; Remote | Initial screen by Talent team, first technical screen (application / system design), take-home assignment and follow-up review with extra application / system design conversation
 - [Valassis Digital](http://www.valassis.com/digital-advertising) | Seattle, WA; San Francisco, CA; Lansing, MI; Hamburg, Germany | Phone screen, on-site interview with group, paired whiteboard problem solving and discussion, take-home project and follow-up review
-- [Valuemotive](https://www.valuemotive.com/careers) | Helsinki, Finland | Code examples from previous projects (work or hobby) or take-home exercise
+- [Valuemotive](https://www.valuemotive.com/career) | Helsinki, Finland | Code examples from previous projects (work or hobby) or take-home exercise
 - [Varsity Tutors](https://www.varsitytutors.com) | Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
 - [Vayu Technology](http://vayu.com.au) | Sydney, Australia; Kathmandu, Nepal | Short interview, general programming questions and short take home challenge.
 - [Vena Solutions](https://careers.venasolutions.com) | Toronto, Canada | Phone screen, on-site pair-programming and code-review exercise on a real-world problem
