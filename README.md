@@ -402,7 +402,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Hologram](https://www.hologram.io/careers) | Chicago, IL; Remote | Intro call, take-home project taken from production work, pair programming exercise
 - [Home Chef](https://www.homechef.com/careers) | Chicago, IL; Remote | Get-to-know-you meeting with the team, followed by a half-day collaborative coding session
 - [HomeLight](https://www.homelight.com/engineering) | San Francisco, CA; Scottsdale, AZ; Seattle, WA | Phone screen, take home that is close to production code, onsite with pair programming
-- [Hotjar](https://www.hotjar.com/careers/) | Remote | Short introduction call -> Technical interview with engineers on real-world problems/system design ->  Paid short take-home task -> Team fit interview, EMEA timezones preferred
+- [Hotjar](https://www.hotjar.com/careers/) | Remote | Short introduction call -> Technical interview with engineers on real-world problems/system design -> Paid short take-home task -> Team fit interview, EMEA timezones preferred
 
 - [Housemarque](https://housemarque.com) | Helsinki, Finland | Interview, take-home project, then interview and code review on-site
 - [HoxHunt](https://www.hoxhunt.com/careers/) | Helsinki, Finland | Take-home project, pair programming on-site
@@ -548,7 +548,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Mobilethinking](https://mobilethinking.ch) | Geneva, Switzerland | 1 hour discussion about technical background and past experiences, preferably in-person
 - [Mode](https://about.modeanalytics.com/careers) | San Francisco, CA | Phone interview followed by onsite pair-architecting and discussion
 - [MokaHR](http://mokahr.com) | Beijing, China | Take home project/challenge, then on-site programming session taken from problems we encounter at work
-- [Molten Cloud](https://www.moltencloud.com) |  Cambridge, MA; Remote | Technical Interview, behavioural interview with CEO, take-home challenge designed to mirror problems the company encounters
+- [Molten Cloud](https://www.moltencloud.com) | Cambridge, MA; Remote | Technical Interview, behavioural interview with CEO, take-home challenge designed to mirror problems the company encounters
 - [Moneytree Front-end Web Team](https://moneytree.jp) | Tokyo, Japan | Pair programming exercise and social gathering with team
 - [Monite](https://monite.com) | Berlin, Germany | Screening interview with HR (salary expectations, career plans), take-home architectural design project (no code) and technical interview to discuss your skill set + general questions
 - [Monzo](https://monzo.com) | London, UK & Remote | Phone interview with another engineer. Take-home assignment. Call to debrief on take-home assignment. Half-day interview (on-site or Hangouts) with three conversational sessions: (1) building on take-home test & real-world system design (verbal and collaborative); (2) digging into knowledge & understanding in 1-2 other relevant technical areas; (3) general background, teams and ways of working.
@@ -832,7 +832,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Tara AI](https://tara.ai/about/careers) | San Jose, CA | On-site interview with a deep dive into appropriate technology and our problem space. The same sort of problem solving you would do with peers after a standup
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [Taxdoo](https://www.taxdoo.com/#/jobs/) | Hamburg, Germany | On-site interview, little takehome exercise, followup review/interview
-- [Teamwork.com](https://www.teamwork.com/) | Remote; Cork, Ireland; Belfast, UK; Wilmington, USA  | Initial conversation, remote values interview, takehome exercise, followup review/interview
+- [Teamwork.com](https://www.teamwork.com/) | Remote; Cork, Ireland; Belfast, UK; Wilmington, USA | Initial conversation, remote values interview, takehome exercise, followup review/interview
 - [Ten Thousand Coffees](https://tenthousandcoffees.com) | Toronto, Canada | Take home project, then explain how you solved the project
 - [Teraki](https://www.teraki.com) | Berlin, Germany | Pair programming exercise, 45min to 3h according to seniority and role.
 - [Tes](https://engineering.tes.com/recruitment/) | Remote; London, UK | Remote pair programming session on React/Node kata with small takehome exercise as prep. Remote interview with senior engineers about previous experience, technical knowledge and interests.
@@ -950,20 +950,20 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [4Degrees](https://4degrees.ai/about/) | Chicago, Illinois | Collaborative pair-programming exercise done through video chat that's representative of the responsibilities of the job then a take-home programming task.
 - [500friends](http://500friends.com/who-we-are/careers) | San Francisco, CA; Remote | Take home challenge followed by onsite expansion of the submission and high level discussions (design exercise or overview of past projects)
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
-- [5Minds](https://5minds.de) | Remote; Gelsenkirchen-Buer, DE | Coding exercise via GitHub, you are interviewed by a developer and a team lead, there is no live coding
+- [5Minds](https://5minds.de) | Remote; Gelsenkirchen-Buer, DE | Coding exercise via GitHub, you are interviewed by a developer and a team lead, there is no live coding.
 - [8th Light](https://8thlight.com) | Chicago, IL; London, UK; Los Angeles, CA; New York, NY | Take home code challenge, discussion, pair programming session
 - [YLD](https://jobs.lever.co/yld) | London, UK; Lisbon, PT; Porto, PT & Remote | Take home-code challenge, pair-programming session and discussion about past experience
 - [Yodas](https://yodas.com) | Binyamina, Israel | Coding tasks over github repository
-- [YouGov](https://yougov.com) | Remote; San Francisco, CA; London, UK; Warsaw, Poland; Mumbai, India; Hong Kong, Hong Kong | Coding exercise sometimes over github repository, at least 1 interview with a developer and a lead, no live coding.
+- [YouGov](https://yougov.com) | Remote; San Francisco, CA; London, UK; Warsaw, Poland; Mumbai, India; Hong Kong, China | Coding exercise sometimes over github repository, at least 1 interview with a developer and a lead, no live coding.
 - [Yoyo Wallet](http://yoyowallet.com) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
-- [YunoJuno](http://www.yunojuno.com) | London, UK | Code challenge based on a realistic feature request on a real open-source package created and used at YunoJuno; phone/video interview with members of the Product team to explore technical background, experiences, interests, cultural fit; on-site interview, usually with Product Manager and CTO
-- [ZAP Group](https://jobs.kenoby.com/grupozap/) | São Paulo, Brazil | Takehome exercise, series of real-world interviews with engineers, HR, engineering managers and product managers on site.
-- [Zapier](https://zapier.com/jobs/) | Remote | Recruiter interview, take-home project, code review of the take-home project, technical discussions with hiring manager and engineers from the team, values interview.
-- [Zencargo](https://www.zencargo.com/careers) | London, UK | Initial interview with CTO, covering professional experience interests and expectations, followed by one technical interview focused on fundamentals and familiarity with best practices. A further short chat with co-founders to get to know each other - - either onsite or remote.
+- [YunoJuno](http://www.yunojuno.com) | London, UK | Code challenge based on a realistic feature request on a real open-source package created and used at YunoJuno; phone/video interview with members of the Product team to explore technical background, experiences, interests, cultural fit; on-site interview, usually with Product Manager and CTO.
+- [ZAP Group](https://jobs.kenoby.com/grupozap/) | São Paulo, Brazil | Takehome exercise; a series of real-world interviews with engineers, HR, engineering managers and product managers on site.
+- [Zapier](https://zapier.com/jobs/) | Remote | Recruiter interview, take-home project, code review of the take-home project, technical discussions with hiring manager and engineers from the team, and a values interview.
+- [Zencargo](https://www.zencargo.com/careers) | London, UK | Initial interview with CTO, covering professional experience interests and expectations, followed by one technical interview focused on fundamentals and familiarity with best practices. A further short chat with co-founders to get to know each other - either onsite or remote.
 - [Zenefits (UI Team)](https://www.zenefits.com/careers) | San Francisco, CA | One technical phone screen focused on JS fundamentals and/or one timeboxed take-home challenge. The onsite is a series of interviews designed to test your understanding of JS, HTML/CSS, design, etc.
 - [Zensurance](https://www.zensurance.com/careers) | Toronto, Canada; Remote | Timeboxed take-home challenge representatitive of the types of challenges faced day-to-day, and zoom chats with recruiter / hiring managers.
 - [Zerodha](https://zerodha.com/careers) | Bengaluru, India | Technical call at the beginning and one take home programming task.
-- [Zweitag](https://www.zweitag.de/karriere) | Münster, Germany & Remote | Get-to-know call, take-home task representative to our problems, mentoring throughout the process, on-site pairing and discussion, talks for aligning expectations
+- [Zweitag](https://www.zweitag.de/karriere) | Münster, Germany & Remote | Get-to-know call, take-home task representative to our problems, on-site pairing and discussion, and mentoring throughout the process with talks for aligning expectations.
 - [Zype](https://www.zype.com/careers#open-positions) | New York, NY & Remote | Skype/Video call with VP of Product and a take-home challenge.
 
 ## Also see:
