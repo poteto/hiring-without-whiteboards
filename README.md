@@ -33,6 +33,10 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 ---
 
+## 0 - 9
+
+- [1000.software](https://www.1000.software/careers) | Krakow, Poland and Remote | Series of 2 interviews first on soft skills, second on technical skills (how to build things, how to solve specific, real world problem, best practice) and meeting with a team leader. Sometimes a take home, simple project.
+
 ## A - C
 
 - [Aalyria](https://www.aalyria.com/jobs) | Remote | Timeboxed design exercise and related coding exercise, followed by a technical/behavioral discussion with the team, and behavioral interview with leadership
