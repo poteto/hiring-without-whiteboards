@@ -799,6 +799,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Square Sense](https://square-sense.com) | Paris, France | Short phone screen to confirm the interest, take-home project (similar to some of our existing software), a pair-programming interview where we will make some changes to the same project
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
+- [Stacc](https://stacc.com/) | Norway, Bergen | Open-Ended Take Home Assignment (UX and/or Coding in your prefered language) followed by a high-level discussion and reflection upon the process with senior engineers. 
 - [Stardog Union](http://stardog.com) | Washington, DC; Remote | Technical discussion and general interest conversations
 - [StartDee](http://startdee.com) | Bangkok, Thailand | Phone screening with technical recruiter --> live coding with an engineer --> panel interview with related engineers (Test Engineers, Frontend Engineers, Backend Engineers, etc) --> final interview with VP of Engineering
 - [StashAway](https://www.stashaway.sg/careers) | Singapore, Malaysia & Remote | Take Home Technical Task (broken down to frontend or backend focused), Database Architecture Case Design round, Peer-to-Peer (P2P) team round, and Management Interview
