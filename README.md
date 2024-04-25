@@ -111,6 +111,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Beam Dental](https://jobs.lever.co/beam) | Columbus, OH / Remote | Phone Screen, Take Home Project, In-Person or remote Pairing and Cross-Functional Interview
 - [Belka](https://www.belkadigital.com) | Trento, Italy; Munich, Germany | We give you a small task that you can do alone and then we evaluate your work with you
 - [Bemind](https://www.bemind.me) | Biella, Italy / Latina, Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
+- [Benefex](https://hellobenefex.com/about-us/careers) | Southampton, UK / Remote | A short, 3-stages interview process. The first stage is with HR. The second stage is a take-home assignment. The third stage is discussing the take-home assignment solution with two engineers.
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
 - [Benshi.ai](https://www.benshi.ai) | Barcelona, Spain | Initial 15-30 mins interview with HR, followed by 15-30 mins chat with hiring manager to clear out basic concepts, then followed by take-home task for 5 days
 - [Betterment](https://www.betterment.com/careers) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
