@@ -54,7 +54,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Admiral](https://getadmiral.com) | Gainesville, FL / Remote | Intro phone call with hiring manager, take-home assignment, (mostly) non-technical on-site with team/leadership
 - [Adnymics](https://adnymics.com) | Munich, DE | Take home project, then work with the team for a day
 - [Adthena](http://adthena.com) | London, UK | Takehome project and discussion on-site
-- [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
 - [Adyen](https://www.adyen.com) | Amsterdam, NL | Take-home assignment, design discussion based on take home, culture fit etc. Provides visa sponsorship to the Netherlands.
 - [Affinipay](https://www.affinipay.com) | Austin, TX | Short takehome project + video interview about coding with engineering manager
 - [Agency Enterprise Studio](https://ae.studio) | Remote / Los Angeles, CA / Florianópolis, Brazil | Live coding of a task you'd do daily
@@ -188,6 +187,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Civis Analytics](https://www.civisanalytics.com/careers) | Chicago, IL | Take-home project and discussion via Skype, followed by pair programming exercise
 - [CJ Affiliate](https://www.cj.com/careers) | Los Angeles, CA & Westlake Village, CA | Phone coding design exercise (no algorithms), followed by an on-site final interview that includes pair programming on a realistic object-oriented design problem
 - [Clara Lending](https://clara.com/careers) | San Francisco, CA | Phone conversation around technical background and experience, followed by take-home project, pair programming and discussion
+- [Clarisights](https://careers.clarisights.com/) | Bangalore, India / Remote | Culture fit Interview, Basic Tech Round, Design Interview
 - [Clerkie](https://angel.co/clerkie/jobs) | San Francisco, CA | Phone conversation followed by take-home project
 - [ClickMagick](https://www.clickmagick.com) | Austin, TX / Remote | Phone conversations and examples of Free Software/Open Source work
 - [Clippings](https://clippings.com) | Sofia, Bulgaria | Video screening first, then send us code they've recently wrote, then technical interview. We could ask questions about the code they wrote at home.
