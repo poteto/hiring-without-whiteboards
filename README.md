@@ -456,6 +456,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Kahoot!](https://www.getkahoot.com/jobs) | London, UK / Oslo, Norway | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Kata.ai](https://kata.ai) | Malang, Indonesia / Jakarta, Indonesia | Take-home assignment, then invited to discuss the assignment and interview.
 - [Kayako](https://www.kayako.com) | London, UK / Gurgaon, India | Take-home assignment, series of experience based interviews, cultural fit assessment
+- [KEF Robotics](https://www.kefrobotics.com) | Pittsburgh PA USA | Presentation on a technical topic of your choice, cultural fit assessment
 - [Kentik](https://www.kentik.com/careers) | San Francisco, CA | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
 - [Keymetrics](https://keymetrics.io) | Paris, France | Phone Interview, Take-home project based on our [API](https://github.com/keymetrics/keymetrics-api), IRL meeting with the whole team
 - [Kiến Guru](https://www.kienguru.vn) | Hồ Chí Minh, Vietnam | Phone screening with technical recruiter --> live coding with an engineer --> panel interview with related engineers (Test Engineers, Frontend Engineers, Backend Engineers, etc) --> final interview with VP of Engineering
