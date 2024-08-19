@@ -735,6 +735,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Rex Software](https://www.rexsoftware.com/careers) | Brisbane, Australia | Take home project, feedback + interview
 - [Rizk.com](https://rizk.com) | Ta' Xbiex, Malta | Take-home assignment, discussion w/ developers
 - [Rockerbox](https://www.rockerbox.com/careers) | Remote | Phone screen with pair programming. 2 hours of pre-interview prep. 4-hour final interview with situational questions, another pair programming, and presentation and discussion of pre-interview prep outputs.
+- [Rocket Alumni Solutions](https://rocketalumnisolutions.com) | Remote; Boston, MA | One pair programming session, total 2-3 hours of interviews with leadership.
 - [Rocket Travel](https://about.rocketmiles.com) | Remote; Chicago, IL; New York, NY | Pair programming, take home project (2-4 hours), 3-4 hour final interview with mix of high level technical, product, and cultural/behavioral sessions.
 - [Rockode](http://www.rockode.com) | Bangalore, India | Real world assignment, group hack session, discussions
 - [Rose Digital](http://rosedigital.co) | New York, NY | Phone conversation followed by pair coding components that mirror day to day work, in person discussion about code, take home project if needed for more info
