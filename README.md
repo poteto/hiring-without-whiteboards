@@ -233,7 +233,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 ## D - F
 
 - [Dare](https://www.dare.global/careers/) | London, UK | Phone screen, On-site (or remote) pair programming and architecture discussions
-- [Data Theorem](http://www.datatheorem.com) | Palo Alto, CA; Paris, Fr; Bangladesh, India | Phone interview, then a take home project and finally in-person interview.
+- [Data Theorem](http://www.datatheorem.com) | Palo Alto, CA; Paris, Fr; London, United Kingdom; Remote | Phone interview, then a take home project and finally in-person interview.
 - [DataChef](https://DataChef.co) | Amsterdam, Netherlands | Video call (technical questions about candidate's achievements), take home assignment, cultural fit zoom or face to face with rest of the team.
 - [DataMade](https://datamade.us) | Chicago, IL | After submitting an application, selected applicants are moved on to a round of interviews and will be asked to submit a piece of code for review. If you don’t have any code you can share, DataMade will provide a short exercise for you to complete. An in-person (or remote) interview will be scheduled to go over your background, what draws you to DataMade, and your code sample.
 - [Datascope](https://datascopeanalytics.com/careers/) | Chicago, IL | Take home exploratory data project with public data, discussion about the project via video chat, and in-person office visit.
@@ -269,7 +269,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Drizly](https://www.drizly.com) | Remote | Phone screen, Blind take-home assignment, hiring manager interview, technical code pair interview, panel interview with sales, product, engineering and other stake holders.
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [DroneSeed](https://www.droneseed.co/jobs/) | Seattle, WA | Take home assignment of a real problem we've worked on, group code review in subsequent interview.
-- [dubizzle](https://apply.workable.com/bayutdubizzle/) | Dubai, UAE | Take home assignment, general technical questions, pair programming with engineers or tech leads
+- [dubizzle](https://apply.workable.com/bayutdubizzle/#jobs) | Dubai, UAE; Sindh, Pakistan; Cluj County, Romania | Take home assignment, general technical questions, pair programming with engineers or tech leads
 - [DuckDuckGo](https://duckduckgo.com/hiring) | Remote | Up to two paid projects and video call interviews.
 - [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil | Take-home project, interview to evaluate the candidate's previous experience.
 - [EatSleepRIDE](https://www.eatsleepride.com) | Toronto, Canada | Interview with CTO to discuss current experience/projects. Take home assignment. Behavioral interview with rest of the team.
