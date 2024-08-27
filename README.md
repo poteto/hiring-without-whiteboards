@@ -194,6 +194,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Clockwork Consulting](https://www.cwconsult.dk) | Copenhagen, Denmark | Interviews, discussion of technical background and experiences.
 - [Close](https://www.close.com/careers) | Remote | Interviews and take home project.
 - [CloudBees](http://cloudbees.com/careers) | Remote | Multiple interviews, discussion of technical background and experiences.
+- [Cloud Consultants](https://cloudconsultants.ch) | Zurich, Switzerland; Remote | Phone interview, followed by the submission of a use case resolution to evalute the problem solving skills.
 - [ClusterDev](https://clusterdev.com/#careers) | Kochi, India; Remote | Phone interview, Take home project and discussion later on about past experiences and/or personal projects.
 - [Code Orange](https://code-orange.nl) | Amsterdam, Netherlands | Phone conversation followed by take-home project
 - [Cogent Labs](https://www.cogent.co.jp) | Tokyo, Japan | On-site or video call conversation around technical background and experience, followed by take-home project that resembles a problem Cogent Labs solves for. This project will serve as the base of discussion with the developers for the second interview.
