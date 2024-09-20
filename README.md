@@ -72,6 +72,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [AlphaSights](https://www.alphasights.com/careers/open-roles/) | London, UK / New York, NY / Remote | Initial interview, pair programming then final round with general technical questions
 - [AMAGI](https://amagi.io) | Makati, Philippines | 1) Review of your resume, portfolio, and/or GitHub profile; 2) 1 hour discussion (in-person or Skype) about your goals, experience, personal culture, and how to apply technical solutions to real problems;
 - [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
+- [Anderson Merchandisers](https://amerch.com) | Remote / Dallas, TX | Technical discussion about the technologies they are currently using. Going over background and resume.
 - [Angaza](https://www.angaza.com/careers/) | San Francisco, CA | Take-home assignment with guaranteed feedback, on-site interviews involving actual day-to-day work
 - [Animech](https://careers.animech.com) | Uppsala, Sweden | Multiple interviews with technical staff with real problem discussions.
 - [Anyfin](https://career.anyfin.com) | Stockholm, Sweden | Takehome project & Onsite discussions and presentation.
