@@ -232,6 +232,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Cultivate](https://cultivatehq.com) | Edinburgh, UK | 30 minute pair-programming screening interview on a simple exercise (remote or in-person). Half day pair programming, with 3 or 4 different team members plus informal chat, typically on-site.
 - [Culture Foundry](https://www.culturefoundry.com) | Austin, TX | Paid take-home project
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
+- Efftronics Systems Pvt. Ltd. | Mangalagiri, Andhra Pradesh, India | Walk-in interviews for Computer Science, Business, and Electronics & Communication Engineering (ECE) roles every Monday.
 
 ## D - F
 
