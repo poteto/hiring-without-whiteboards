@@ -2,39 +2,34 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   remark:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Test on Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20.x'
-        cache: yarn
-    - run: yarn install --frozen-lockfile
-    - run: yarn test
+      - uses: actions/checkout@v4
+      - name: Test on Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
+          cache: yarn
+      - run: yarn install --frozen-lockfile
+      - run: yarn test
 
   links:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
-    - uses: lycheeverse/lychee-action@v2
-      with:
-        args: >-
-          --verbose
-          --no-progress
-          --require-https
-          --max-concurrency 2
-          --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
-          'README.md'
-        output: ${{ runner.temp }}/lychee/out.md
-        fail: true
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --require-https
+            --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
+            'README.md'
+          output: ${{ runner.temp }}/lychee/out.md
+          fail: true
