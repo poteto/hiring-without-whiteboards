@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  remark:
 
     runs-on: ubuntu-latest
 
@@ -20,3 +20,21 @@ jobs:
         cache: yarn
     - run: yarn install --frozen-lockfile
     - run: yarn test
+
+  links:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: lycheeverse/lychee-action@v2
+      with:
+        args: >-
+          --verbose
+          --no-progress
+          --require-https
+          --max-concurrency 2
+          --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
+          'README.md'
+        output: ${{ runner.temp }}/lychee/out.md
+        fail: true
