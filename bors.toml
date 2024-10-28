@@ -1,5 +1,0 @@
-status = [
-  "test"
-]
-delete_merged_branches = true
-timeout_sec = 300

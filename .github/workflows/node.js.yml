@@ -1,24 +1,40 @@
-# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
 name: Node.js CI
 
 on:
   push:
-    branches: [ master, staging, trying ]
+    branches: [main]
   pull_request:
-    branches: [ master ]
+    branches: [main]
 
 jobs:
-  test:
-
+  remark:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Test on Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: 12.x
-    - run: yarn install --frozen-lockfile
-    - run: yarn test
+      - uses: actions/checkout@v4
+      - name: Test on Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
+          cache: yarn
+      - run: yarn install --frozen-lockfile
+      - run: yarn test
+
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --require-https
+            --cache
+            --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
+            'README.md'
+          output: ${{ runner.temp }}/lychee/out.md
+          fail: true
+      - uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: ${{ runner.os }}-lycheecache
