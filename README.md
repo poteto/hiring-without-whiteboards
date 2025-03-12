@@ -270,7 +270,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Drawbotics](https://www.drawbotics.com/en/join-us) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [drchrono](https://www.drchrono.com/careers) | Mountain View, CA | Hackerrank test (but not CS trivia, it's real product problems) & on-site/take-home project w/ presentation
 - [Drivy](https://www.drivy.com) | Paris, France | Phone screening followed by a take-home assignment, "Resume" interview, technical interview, product interview, interview with another team, finalizing the hire
-- [Drizly](https://www.drizly.com) | Remote | Phone screen, Blind take-home assignment, hiring manager interview, technical code pair interview, panel interview with sales, product, engineering and other stake holders.
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [dubizzle](https://apply.workable.com/bayutdubizzle/#jobs) | Dubai, UAE; Sindh, Pakistan; Cluj County, Romania | Take home assignment, general technical questions, pair programming with engineers or tech leads
 - [DuckDuckGo](https://duckduckgo.com/hiring) | Remote | Up to two paid projects and video call interviews.
