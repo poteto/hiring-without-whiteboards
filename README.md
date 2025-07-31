@@ -896,6 +896,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Vance](https://www.vance.tech/careers) | Bangalore, India | A take-home exercise followed by two rounds of interviews: the first with a team member focusing on technical skills and practical problem-solving, and the second with the Head of Engineering, also centered on technical expertise and real-world challenges.
 - [Varsity Tutors](https://www.varsitytutors.com) | Remote | Take home assignment, presentation of assignment, live code review with team. Advanced / high-level chat with team based on skillset and role.
 - [Vayu Technology](https://vayu.com.au) | Sydney, Australia; Kathmandu, Nepal | Short interview, general programming questions and short take home challenge.
+- [Vector Informatik GmbH](https://jobs.vector.com/de) | Karlruhe, Germany | Short online interview, a case study and a presentation of given solution.
 - [Vena Solutions](https://careers.venasolutions.com) | Toronto, Canada | Phone screen, on-site pair-programming and code-review exercise on a real-world problem
 - [Venminder, Inc.](https://www.venminder.com) | Elizabethtown, KY; Louisville, KY | Initial phone screen to explain position. If candidate interested they get a take home assignment followed by a non-scripted in-person interview with team members to judge personality fit.
 - [Verloop](https://verloop.io) | Bengaluru, India | A take home programming exercise and technical discussion
