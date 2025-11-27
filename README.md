@@ -930,6 +930,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Wirecard Brasil](https://wirecardbrasil.workable.com) | São Paulo, Brazil | Phone or on-site Cultural Fit interview, take-home coding challenge, code review and discussing in-person.
 - [Wiredcraft](https://wiredcraft.com) | Shanghai, China | Phone or on-site interview, take-home coding challenge, code review and discussing in-person.
 - [WorldGaming](https://worldgaming.com) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team
+- [Wurkplace](https://wurkplace.co.uk/) | Chester, United Kingdom | Web call or on-site interview, secondary meeting and meet the team.
 - [WyeWorks](https://wyeworks.com) | Montevideo, Uruguay | Take-home project and discussion on-site
 - [X-Team](https://x-team.com) | Remote | A short, fun Node.js challenge, followed by a series of culture-based interview questions, followed by a creative mock project with tons of freedom on how to approach, and follow-up questions about the approach they chose to discuss the tradeoffs. Usually a 10-30 day paid training is rewarded to top candidates to prep them for remote communication skills needed to join a team.
 - [Xebia Security](https://xebia.com/careers/security/) | Hilversum, Netherlands | Culture fit, Technical interview, followed by take-home security project, on-site brainstorm session to discuss the solutions and approach.
