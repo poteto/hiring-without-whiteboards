@@ -465,7 +465,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Keymetrics](https://keymetrics.io) | Paris, France | Phone Interview, Take-home project based on our [API](https://github.com/keymetrics/keymetrics-api), IRL meeting with the whole team
 - [Kiến Guru](https://www.kienguru.vn) | Hồ Chí Minh, Vietnam | Phone screening with technical recruiter --> live coding with an engineer --> panel interview with related engineers (Test Engineers, Frontend Engineers, Backend Engineers, etc) --> final interview with VP of Engineering
 - [Kindred Group, Native Apps Team](https://careers.kindredplc.com) | Stockholm SE, London UK | On-site/Skype programming task, Interview
-- [Kinnek](https://www.kinnek.com/jointeam) | New York, NY | Phone screen, on-site pairing session, take-home project
 - [Kinsta](https://kinsta.com/careers/) | Remote | Culture fit interview, take home assignmentv, discussion on-site, technical interview discussing past real world experiences as well as knowledge of tools that will be used for position
 - [Kiwi.com](https://code.kiwi.com) | Brno, Czech Republic | Phone Interview, Take-home projects, On-site code review & interview
 - [Knock.com](https://www.knock.com/careers) | San Francisco, CA / New York, NY / Remote | Phone Interview, Take-home project, On-site technical conversation relating to the tech stack you would be hired to build with
