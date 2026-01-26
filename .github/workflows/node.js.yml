@@ -10,9 +10,9 @@ jobs:
   remark:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Test on Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: "20.x"
           cache: yarn
@@ -22,7 +22,7 @@ jobs:
   links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
@@ -34,7 +34,7 @@ jobs:
             'README.md'
           output: ${{ runner.temp }}/lychee/out.md
           fail: true
-      - uses: actions/cache@v4
+      - uses: actions/cache@v5
         with:
           path: .lycheecache
           key: ${{ runner.os }}-lycheecache
