@@ -15,14 +15,6 @@ Please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new
 
 If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to remove them from this list.
 
-### I want to search/sort/filter/group by X!
-
-Check out our [Airtable](https://airtable.com/shr3eGPDm3wGjT2gA)!
-
-Additions to this document that are properly formatted will automatically be pushed and added to Airtable. Keywords from the description will also be extracted. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
-
-Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs at these companies.
-
 ### Discussion and other reads
 
 <!--lint disable-->
@@ -409,7 +401,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Home Chef](https://www.homechef.com/careers) | Chicago, IL; Remote | Get-to-know-you meeting with the team, followed by a half-day collaborative coding session
 - [HomeLight](https://www.homelight.com/engineering) | San Francisco, CA; Scottsdale, AZ; Seattle, WA | Phone screen, take home that is close to production code, onsite with pair programming
 - [Hotjar](https://www.hotjar.com/careers/) | Remote | Short introduction call -> Technical interview with engineers on real-world problems/system design -> Paid short take-home task -> Team fit interview, EMEA timezones preferred
-
 - [Housemarque](https://housemarque.com) | Helsinki, Finland | Interview, take-home project, then interview and code review on-site
 - [HoxHunt](https://www.hoxhunt.com/careers/) | Helsinki, Finland | Take-home project, pair programming on-site
 - [Human API](https://humanapi.co/company/careers) | Redwood City, CA | Technical phone interview, then on-site pair programming and design discussion
