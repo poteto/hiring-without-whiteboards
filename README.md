@@ -373,6 +373,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [GoCardless](https://gocardless.com/about/jobs) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoJek](https://www.gojek.io) | Bangalore, India; Jakarta, Indonesia; Singapore, SG; Bangkok, Thailand | Take-home exercise, Pair programming with senior engineer, Technical problem solving and discussion, Cultural Fit
 - [Gower Street Analytics](https://gower.st) | Remote; London, UK | Initial telephone chat, then either a) work with us, fully paid, for a day on real code with the team; or b) pair-programming on a code kata with the team members for four pomodoros. Your choice.
+- [Grace Hill](https://gracehill.com/careers/) | Chicago, IL / Carmel, IN / Remote | Quick phone interview, then a take home project and finally in person interview (open discussions instead of quizzes - anything technical are real-world problems).
 - [Graffino](https://www.graffino.com) | Sibiu, Romania | Take-home project, discussion on-site
 - [Grafton Studio](https://graftonstudio.com) | Boston, MA | Take-home project, discussion on-site
 - [Gram Games](https://gram.gs) | London, UK / Istanbul, Turkey | Initial interview -> Take home -> Take home discussion call -> On site code review and technical discussions
@@ -700,7 +701,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Rapyuta Robotics](https://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
 - [Razorpay](https://razorpay.com/jobs) | Bangalore, India | Phone screen, On-site pair programming, and occasionally a take home project.
 - [Reaktor](https://reaktor.com/careers) | New York, NY; Amsterdam, Netherlands; Helsinki, Finland; Tokyo, Japan | Discussion, work samples from previous projects (work or hobby), take-home exercise if needed for further info
-- [Realync](https://realync.com/careers) | Chicago, IL / Carmel, IN / Remote | Quick phone interview, then a take home project and finally in person interview (open discussions instead of quizzes - anything technical are real-world problems).
 - [Rebase Consulting](https://rebase.fi) | Helsinki, Finland / Remote | First round general discussion/introductions, second round technical interview built around a take-home exercise, 2x2 skill/interest matrix go-through and general technical topics based on the candidate's profile.
 - [Red Badger](https://red-badger.com/about-us/join-us) | London, UK | Phone & Skype interview, take home exercise, On-site interview
 - [Red Balloon Security](https://redballoonsecurity.com) | New York City, USA | A rather educational week long hacking challenge with a monetary reward upon finding solution. On-site with team members, real job related problems, a few open-ended questions.
