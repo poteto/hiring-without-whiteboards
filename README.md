@@ -393,7 +393,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Hireology](https://www.hireology.com/careers) | Chicago, IL; Remote | Walk through personal/work projects and discuss experience
 - [Hiventive](https://www.hiventive.com) | Pessac, France | Phone interview, home coding challenge, on-site interview with general programming questions, discussion of proposed solutions and personal experience.
 - [Holaluz - Platform Team](https://www.holaluz.com/en/work-with-us/) | Barcelona, Spain | Intro call with HHRR, Small tech test with Terraform and some technical and non-technical questions, Interview with manager, Interview with the Platform Team, Small chat interview with the CEO.
-- [HolidayPirates](https://holidaypirates.group/en/jobs) | Berlin, Germany | Take-home project, discussion via Skype or on-site
+- [HolidayPirates](https://holidaypirates.group/832-2/) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [HoloBuilder](https://www.holobuilder.com) | Aachen, Germany | Take-home project, discussion via Skype or on-site
 - [Hologram](https://www.hologram.io/careers) | Chicago, IL; Remote | Intro call, take-home project taken from production work, pair programming exercise
 - [Home Chef](https://www.homechef.com/careers) | Chicago, IL; Remote | Get-to-know-you meeting with the team, followed by a half-day collaborative coding session
