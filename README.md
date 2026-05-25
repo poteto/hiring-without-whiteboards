@@ -492,6 +492,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Librato](https://www.librato.com/jobs) | San Francisco, CA; Boston, MA; Austin, TX; Vancouver, Canada; Krakow, Poland | Take home coding project, conversational technical interviews on-site
 - [Lightning Jar](https://lightningjar.agency) | San Antonio, Tx | Remote pairing session, Initial interview,discussion on-site
 - [Lightricks](https://www.lightricks.com) | Jerusalem, Israel | Initial interview, Take home project, discussion on-site
+- [Linear](https://linear.app/careers) | San Francisco, CA; Remote | Practical take-home assignment and technical discussion
 - [LinkAja](https://www.linkaja.id) | Jakarta, Indonesia | Quick introductory chat, followed by take home project for 7 days
 - [LinkResearchTools](https://jobs.linkresearchtools.com/job-offers) | Vienna, Austria | Skype interview, mini take-home exercise, discussion on-site / personal interview
 - [Linx Systems](https://www.linxsystems.com) | Bloomington, IL / Remote | 5-10 minute take home project; followed by a non-technical interview; finish up with a second take home project or paired with a developer for a 30-60 minute session.
