@@ -963,6 +963,5 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 - [They Whiteboarded Me!](https://they.whiteboarded.me)
 
-[![Node.js CI](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml/badge.svg)](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml)
-#   C o n t r i b u t i o n   f r o m   s e c o n d   G i t H u b   i d e n t i t y  
+[![Node.js CI](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml/badge.svg)](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml) 
  
