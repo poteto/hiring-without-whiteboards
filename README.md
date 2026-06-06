@@ -868,5 +868,4 @@ If you've been through an interview with one of these companies recently, and yo
 
 - [They Whiteboarded Me!](https://they.whiteboarded.me)
 
-[![Node.js CI](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml/badge.svg)](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml) 
- 
+[![Node.js CI](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml/badge.svg)](https://github.com/poteto/hiring-without-whiteboards/actions/workflows/node.js.yml)
