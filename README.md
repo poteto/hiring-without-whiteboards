@@ -101,7 +101,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
 - [Benefex](https://hellobenefex.com/about-us/careers) | Southampton, UK / Remote | A short, 3-stages interview process. The first stage is with HR. The second stage is a take-home assignment. The third stage is discussing the take-home assignment solution with two engineers.
 - [Benshi.ai](https://www.benshi.ai) | Barcelona, Spain | Initial 15-30 mins interview with HR, followed by 15-30 mins chat with hiring manager to clear out basic concepts, then followed by take-home task for 5 days
-- [Betterment](https://www.betterment.com/careers) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
+- [Betterment](https://www.betterment.com/careers) | New York, NY | Long process of a series of interviews: 15mins Recruiter Chat, 1hr Hiring Manager, 1hr Technical Interview Code, 1hr Technical Interview System Design, 15mins Recruiter Chat, 1hr Direct Manager Connect, 30mins Team Connect (2 people), 30mins Executive Interview, 30mins Product Connect, 15mins Recruiter Chat Wrap Up.
 - [BetterPT](https://www.betterhealthcare.co/careers) | New York, NY | Initial phone interview, project using our tech stack, on-site code review/pair programming and "meet the team".
 - [bevelop](https://bevelop.de) | Aschaffenburg, BY / Remote | Initial introductory call, on-sight or remote trial day with project
 - [BigaBid](https://www.bigabid.com/careers) | Tel Aviv, Israel | Design a real time solution to a problem relevant to the business, followed by a take home project implementing a lean version of the solution
