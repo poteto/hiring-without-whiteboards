@@ -571,6 +571,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Platform45](https://platform45.com) | Johannesburg, South Africa; Cape Town, South Africa | On-site interview, take-home project and culture fit day
 - [Platogo Interactive Entertainment GmbH](https://platogo.com/hiring/) | Vienna, Austria | Simple online questionnaire, First Interview to get to know each other, Remote developer challenge (take home task), Code review together, Meet the team
 - [Pleo](https://www.pleo.io/en/careers) | Remote; Copenhagen, Denmark; London, UK; Berlin, Germany; Stockholm, Sweden; Madrid, Spain| Intro interview (30m-45m), take home assignment, interview with discussion on the assignment + technical questions with the team (90m) and interview with managers (60m).
+- [Plivo](https://www.plivo.com/jobs) | Remote; Bengaluru, India | 1-2 technical rounds and 1 HR round - questions around basic foundations, system design, projects and real world problems
 - [Poki](https://jobs.poki.com) | Amsterdam, The Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Poll Everywhere](https://www.polleverywhere.com/jobs) | Remote | Introduction call, 1 hour take home technical assessment, pairing session with Designer and Engineer to enhance technical challenge submission, Meeting with CTO and hiring manager.
 - [Popstand](https://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
