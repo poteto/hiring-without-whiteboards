@@ -89,13 +89,13 @@ If you've been through an interview with one of these companies recently, and yo
 - [B12](https://boards.greenhouse.io/b12#.WMlLfRIrJTa) | New York, NY | Take-home exercises and pair-programming with the team.
 - [Babylon Health iOS Team](https://github.com/Babylonpartners/iOS-Interview-Demo) | London, UK | Take-home project, on-site presentation and discussion, design and product interview.
 - [Backbase](https://workatbackbase.com) | Amsterdam, Netherlands; Cardiff, Wales; London, UK; Atlanta, GA | Takehome project, interviews
-- [Badoo](https://team.badoo.com/jobs) | London, UK | Take-home project, then a discussion onsite round.
+- [Badoo](https://team.bumble.com/jobs) | London, UK | Take-home project, then a discussion onsite round.
 - [BAE Systems Digital Intelligence](https://cybercareers.baesystems.com) | London, UK / Manchester, UK / Guildford, UK / Gloucester, UK | Initial interview with experience based technical questions, second interview pair programming on problem similar to daily work
 - [Bakken & Bæck](https://bakkenbaeck.com/jobs) | Oslo, Norway; Amsterdam, Netherlands; Bonn, Germany | Skype interview followed by take-home assignment and a visit to one of our offices
 - [Barracuda View Team](https://www.barracuda.com/company/careers) | Chelmsford, MA / Remote | Phone screen, remote pair programming session, technical discussion interview, culture fit interview
 - [Basecamp](https://basecamp.com/about/jobs) | Chicago, IL / Remote
 - [BCW Group](https://www.bcw.group) | Remote | Behavioral interview with the technical lead and hiring manager, followed by a take-home project, and finally a brief discussion about how the exercise went.
-- [Beam Dental](https://jobs.lever.co/beam) | Columbus, OH / Remote | Phone Screen, Take Home Project, In-Person or remote Pairing and Cross-Functional Interview
+- [Beam Benefits](https://www.beambenefits.com/careers) | Columbus, OH / Remote | Phone Screen, Take Home Project, In-Person or remote Pairing and Cross-Functional Interview
 - [Belka](https://www.belkadigital.com) | Trento, Italy; Munich, Germany | We give you a small task that you can do alone and then we evaluate your work with you
 - [Bemind](https://www.bemind.me) | Biella, Italy / Latina, Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
@@ -339,7 +339,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Gridscale](https://gridscale.io) | Cologne, Germany / Remote | Intro video call for open Q&A, followed by intro with hiring manager, team fit with the whole team plus a small real-world problem to solve, followed by final round with hiring manager and/or c-level/founder.
 - [Gruntwork](https://www.gruntwork.io) | Remote | Paid, take-home project with pair coding
 - [Hacktiv8](https://hacktiv8.com) | Jakarta, Indonesia | Phone call for quick project & personal introduction followed by Video call interview with project owner for discussion about the project and general question on how the project should be solved.
-- [Harvard Library Innovation Lab](https://lil.law.harvard.edu) | Cambridge, MA | Take home project that mirrors work we might do on a [Sketch](https://lil.law.harvard.edu/sketches/) and follow up discussion after.
+- [Harvard Library Innovation Lab](https://lil.law.harvard.edu) | Cambridge, MA | Take home project that mirrors work we might do on a [Sketch](https://lil.law.harvard.edu/our-work/) and follow up discussion after.
 - [Hashnode](https://hashnode.com/careers) | Remote | Phone/video call interview for quick personal introduction -> a take-home coding exercise based on real world example -> take-home task discussion -> culture fit session.
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
 - [HeavenHR](https://heavenhr.com) | Berlin, Germany | Take home project based on the candidate's experience and future responsibilities. Then discussion about the solution
@@ -448,7 +448,7 @@ If you've been through an interview with one of these companies recently, and yo
 ## M - O
 
 - [Made Tech](https://www.madetech.com/careers) | London, UK | [Our hiring process](https://github.com/madetech/handbook/tree/master/guides/hiring#20-minute-phone-conversation)
-- [Magical](https://magical.team/work) | Tel Aviv, Israel; Remote | Culture fit interview + take home assignment, followed by a technical interview, and a CTO interview.
+- [Timeless](https://www.timeless.day/) | Tel Aviv, Israel; Remote | Culture fit interview + take home assignment, followed by a technical interview, and a CTO interview.
 - [Magnetis](https://magnetis.workable.com) | São Paulo, Brazil & Remote | Phone interview + take home assignment, followed by pair programming and informal meeting with the team.
 - [Major League Soccer](https://jobs.mlssoccer.com) | New York, NY | Phone interview + short take home project, which is daily work focused. In person interview could involve discussing past projects or pair programming.
 - [MakeMusic](https://www.makemusic.com/careers/) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
@@ -490,7 +490,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [MyTutor](https://apply.workable.com/mytutor/) | London, UK | Take home test, followed by pair programming, system design discussion, and cross functional interview on site
 - [Naologic](https://naologic.com) | San Francisco, US | Takehome programming assignment and personal interviews with part of the founding team.
 - [Native Instruments](https://www.native-instruments.com) | Berlin, Germany | Takehome programming assignment and personal interviews with part of the hiring team.
-- [Neoteric](https://neoteric.eu/career/) | Gdańsk, Warsaw Poland; Remote | Face2Face conversation, take home exercise & pair programming session
+- [Neoteric](https://neoteric.eu/) | Gdańsk, Warsaw Poland; Remote | Face2Face conversation, take home exercise & pair programming session
 - [NerdWallet](https://www.nerdwallet.com/careers) | San Francisco, CA; Remote | Code review phone screen, on-site project to build a functioning app with interviewee's platform of choice
 - [Netguru](https://www.netguru.co/career) | Warsaw, Poland; Remote | Takehome exercise & pair programming session
 - [Netlandish](https://www.netlandish.com) | Los Angeles, CA; Remote | Takehome exercise, chat interview, video interview
@@ -665,7 +665,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Smile.io](https://smile.io/careers) | Kitchener, Canada / Remote | Take-home real world project, interviews with HR and engineering team
 - [Snyk](https://snyk.io/jobs) | London, UK; Tel Aviv, Israel | Take home task, then a pair coding on it
 - [Social Tables](https://www.socialtables.com) | Washington, DC | Chat about skills and past experiences + bring in a code sample from previous work or side project to discuss
-- [Softwear](https://softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
+- [Softwear](https://softwear.nl/) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [Sogilis](https://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
 - [Sourcegraph](https://about.sourcegraph.com/jobs) | San Francisco, CA & Remote | Tailored to the candidate, often consists of take-home work, discussion of real-world eng challenges, and product familiarity.
 - [Splice](https://jobs.splice.com) | New York, NY; Remote | Call with recruiter, 4 hr take-home project, video interview w two engs on take-home exercise, video call with hiring manager, video call w VPE & principal eng to talk about architecture.
@@ -806,7 +806,6 @@ If you've been through an interview with one of these companies recently, and yo
 ## Y - \#
 
 - [23 Technologies](https://23technologies.cloud) | Remote | Three video calls: general introduction, team introduction, contract
-- [3BoxLabs](https://3boxlabs.com) | Remote | Intro call, resume walk-through, and finally live work exercise with ~2 hours independent work followed by ~1.5 hour debrief discussing the work with the rest of the team.
 - [3D Hubs](https://3dhubs.com/jobs) | Amsterdam, The Netherlands | Take-home code challenge from our product's domain followed by discussion remote/on-site, sometimes do an additional on-site pair programming session.
 - [47 Degrees](https://47-degrees.breezy.hr) | Remote; Seattle, WA; Madrid, ESP; Cadiz, ESP; London, UK | Questions related to implementation of specific projects using popular functional programming libraries and techniques and a discussion about the tradeoffs. Discussion of past open-source projects/contributions and future open-source goals. **Note:** This company looks for people who have modern functional programming experience in Haskell, Scala, Swift, or Kotlin and it looks for people who have existing open-source contributions in those fields so the roles can be a bit self-selecting.
 - [4Degrees](https://4degrees.ai/about/) | Chicago, Illinois | Collaborative pair-programming exercise done through video chat that's representative of the responsibilities of the job then a take-home programming task.
