@@ -179,6 +179,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Code Orange](https://code-orange.nl) | Amsterdam, Netherlands | Phone conversation followed by take-home project
 - [Cogent Labs](https://www.cogent.co.jp) | Tokyo, Japan | On-site or video call conversation around technical background and experience, followed by take-home project that resembles a problem Cogent Labs solves for. This project will serve as the base of discussion with the developers for the second interview.
 - [Cognitran](https://www.cognitran.com) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
+- [Cogram](https://cogram.com/careers) | New York, NY; London, UK; Berlin, Germany; Remote | Intro call with a founder, one to two technical rounds (30-45 minutes), in-person meeting, offer.
 - [Colearn](https://colearn.bamboohr.com/careers) | Remote; Bengaluru, India; Jakarta, Indonesia; Abu Dhabi, UAE; Central, Singapore | Alignment call with HR or CTO, small take home assignment, remote pair programming session about the assignment with senior engineer & tech lead.
 - [Collabora](https://www.collabora.com/careers.html) | Cambridge, UK / Montreal, Canada / Remote | On-site or video interview, discussion of technical experience and sometimes approach for tackling a hypothetical problem.
 - [Colonist](https://colonist.io/contribute.html) | Remote | Call->Solve real product coding assignment
